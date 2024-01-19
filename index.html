@@ -1,7 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display JSON</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+    <h1>JSON Display</h1>
+    
+    <pre id="json-display"></pre>
+
+    <script>
+        // Fetch JSON data
+        fetch('events.json')
+            .then(response => response.json())
+            .then(data => {
+                // Display formatted JSON
+                document.getElementById('json-display').textContent = JSON.stringify(data, null, 2);
+            })
+            .catch(error => {
+                console.error('Error fetching JSON:', error);
+            });
+    </script>
+
 </body>
 </html>
