@@ -18,7 +18,7 @@
         }
 
         .video-container {
-            width: calc(33.33% - 20px); /* Adjust the width of the video containers and the gap as needed */
+            width: 30%; /* Adjust the width of the video containers as needed */
         }
     </style>
 </head>
@@ -52,4 +52,17 @@
                 // Create an iframe for each video
                 const iframe = document.createElement('iframe');
                 iframe.src = `https://www.youtube.com/embed/${videoId}`;
-              
+                iframe.title = videoTitle;
+
+                // Append the iframe to the container
+                videoContainer.appendChild(iframe);
+                
+                // Append the video container to the videos container
+                videosContainer.appendChild(videoContainer);
+            });
+        })
+        .catch(error => console.error('Error fetching videos:', error));
+</script>
+
+</body>
+</html>
