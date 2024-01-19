@@ -6,12 +6,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
-            // Function to generate a timestamp for cache-busting
-            function generateTimestamp() {
-                return new Date().getTime();
-            }
-
-            // Make the request with the timestamp
             $.getJSON('https://joelthebrave.github.io/events.json?rand=' + Math.random(), function(data) {
                 let tableContent = '';
                 $.each(data, function(i, item) {
@@ -19,6 +13,12 @@
                     tableContent += '<td>' + item.startDate + '</td>';
                     tableContent += '<td>' + item.title + '</td>';
                     tableContent += '<td>' + item.headline + '</td>';
+                    // Check if "webLink" exists before creating the link
+                    if (item.webLink) {
+                        tableContent += '<td><a href="' + item.webLink + '" target="_blank">Visit Event</a></td>';
+                    } else {
+                        tableContent += '<td>No link available</td>';
+                    }
                     tableContent += '</tr>';
                 });
                 $('#dataTable tbody').append(tableContent);
@@ -33,6 +33,7 @@
                 <th>Start Date</th>
                 <th>Title</th>
                 <th>Headline</th>
+                <th>Web Link</th>
             </tr>
         </thead>
         <tbody>
