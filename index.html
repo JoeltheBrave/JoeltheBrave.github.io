@@ -14,11 +14,18 @@
 
             $.getJSON('https://joelthebrave.github.io/events.json?rand=' + Math.random(), function(data) {
                 let tableContent = '';
+                // Counter to limit the table to the next 10 events
+                let counter = 0;
+
                 $.each(data, function(i, item) {
+                    // Check if the counter has reached 10, then break out of the loop
+                    if (counter >= 10) {
+                        return false;
+                    }
+
                     tableContent += '<tr>';
                     // Format the date using the formatDate function
                     tableContent += '<td>' + formatDate(item.startDate) + '</td>';
-                    tableContent += '<td>' + item.title + '</td>';
                     tableContent += '<td>' + item.headline + '</td>';
                     // Check if "webLink" exists before creating the link
                     if (item.webLink) {
@@ -27,6 +34,9 @@
                         tableContent += '<td>No link available</td>';
                     }
                     tableContent += '</tr>';
+
+                    // Increment the counter
+                    counter++;
                 });
                 $('#dataTable tbody').append(tableContent);
             });
@@ -38,7 +48,6 @@
         <thead>
             <tr>
                 <th>Start Date</th>
-                <th>Title</th>
                 <th>Headline</th>
                 <th>Web Link</th>
             </tr>
