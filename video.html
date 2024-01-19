@@ -19,11 +19,6 @@
 </head>
 <body>
 
-<!-- Header to indicate that the webpage has loaded -->
-<header>
-    <h1>Welcome to Your Website!</h1>
-</header>
-
 <!-- The container where you want to display the videos -->
 <div id="videos-container"></div>
 
@@ -35,7 +30,7 @@
     const channelID = 'UC9TMbYWS99tDKjE_M6yIq6w';
     
     // Fetch the latest videos from the YouTube Data API
-    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&type=video&maxResults=5`)
+    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&type=video&maxResults=30`)
         .then(response => response.json())
         .then(data => {
             const videosContainer = document.getElementById('videos-container');
