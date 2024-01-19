@@ -6,11 +6,18 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
+            // Function to format the date as "DD Month"
+            function formatDate(inputDate) {
+                const options = { day: 'numeric', month: 'long' };
+                return new Date(inputDate).toLocaleDateString('en-GB', options);
+            }
+
             $.getJSON('https://joelthebrave.github.io/events.json?rand=' + Math.random(), function(data) {
                 let tableContent = '';
                 $.each(data, function(i, item) {
                     tableContent += '<tr>';
-                    tableContent += '<td>' + item.startDate + '</td>';
+                    // Format the date using the formatDate function
+                    tableContent += '<td>' + formatDate(item.startDate) + '</td>';
                     tableContent += '<td>' + item.title + '</td>';
                     tableContent += '<td>' + item.headline + '</td>';
                     // Check if "webLink" exists before creating the link
