@@ -1,1 +1,2064 @@
-
+[
+  {
+    "id": "1WQLRz",
+    "headline": "The Small Fakers",
+    "title": "Global Promotions Live",
+    "startDate": "2024-01-20",
+    "endDate": "2024-01-20",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/350/044/189b1cff8e602a8db996c51f1c549e5e5423da92.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "yWLA",
+        "name": "The Small Fakers"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-01-20T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£19.00",
+        "totalPrice": "£19.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-09T13:00:00+00:00",
+        "onSaleUntil": "2024-01-21T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXNtYWxsLWZha2Vycy90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjgyNzgxNT9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MjgyNzgxNQ/ticketid/6896188/checksum/8b2734c124ecfe5f6746b4d7951736a9/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-small-fakers/6908672",
+    "fansOnEnts24": 5,
+    "lastUpdate": "2024-01-10T14:16:52+00:00",
+    "created": "2023-12-14T13:09:08+00:00"
+  },
+  {
+    "id": "Go2Kym",
+    "headline": "The Bluesters",
+    "title": "Saturday Night Live",
+    "startDate": "2024-01-20",
+    "endDate": "2024-01-20",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Bluesters at The Earl Haig Club.\n\nAbout us: We are usually a five piece band,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/489/794/e34144c1245ac0406a5d895a8b24324c903af50e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Bluesters"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-bluesters/6947546",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:36+00:00",
+    "created": "2023-12-14T13:09:24+00:00"
+  },
+  {
+    "id": "dDBvdw",
+    "headline": "Outback",
+    "title": "Sunday Sessions",
+    "startDate": "2024-01-21",
+    "endDate": "2024-01-21",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3",
+    "description": "Outback at The Earl Haig Club Concert Room.\n\nOutback - Classic Rock Three-piece\nDoors open 5pm\nBand is...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/836/5f0eb14ed5b42626a5ca32abcd35a11befd3c555.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Outback"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/outback/6951550",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:37+00:00",
+    "created": "2023-12-19T16:57:36+00:00"
+  },
+  {
+    "id": "DwvA0e",
+    "headline": "Sun Dogs",
+    "title": "Monday Open Mic/Jam Session",
+    "startDate": "2024-01-22",
+    "endDate": "2024-01-22",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Come and join us for our Monday Night Open Mic/Jam Session! Any musician can participate...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/490/348/5c9b3b708e860743bf67a5782865962a6277c37a.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Sun Dogs"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sun-dogs/6951540",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:37+00:00",
+    "created": "2023-12-19T16:47:23+00:00"
+  },
+  {
+    "id": "Go22Gy",
+    "headline": "Ken Woods & Ol' Blue Gang",
+    "title": "Monday Open Mic / Jam Session",
+    "startDate": "2024-01-26",
+    "endDate": "2024-01-26",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/856/7e2c3a2e72ad42fe2941c06d01468de81619e949.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Ken Woods & Ol' Blue Gang"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ken-woods-and-ol-blue-gang/6973146",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-11T09:34:35+00:00",
+    "created": "2024-01-11T09:28:42+00:00"
+  },
+  {
+    "id": "nKPemA",
+    "headline": "The Sand Boys",
+    "title": "Friday Night Live In The Bar",
+    "startDate": "2024-01-26",
+    "endDate": "2024-01-26",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Sandyboys are an incredible live band from Port Talbot that always give it their...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/490/264/8e6018052aabb73e953b4a667852089192aa2c33.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Sand Boys"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sand-boys/6951560",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:37+00:00",
+    "created": "2023-12-19T17:05:08+00:00"
+  },
+  {
+    "id": "2KWEmL",
+    "headline": "The Big Bash",
+    "title": "The Big Bash",
+    "startDate": "2024-01-27",
+    "endDate": "2024-01-27",
+    "startTimeString": "3:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Charity Event:\nFree afternoon session\nThe Big Bash Little Bash will be held in the front bar....",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/490/270/51aafa128a3e7349448e0fd71b6dff6f162cf628.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Semantics"
+      },
+      {
+        "id": "Rjm72",
+        "name": "CVC"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie",
+      "alternative",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-bash/6951564",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:37+00:00",
+    "created": "2023-12-21T10:24:25+00:00"
+  },
+  {
+    "id": "LzrqaX",
+    "headline": "Stonehouse",
+    "title": "Sunday Sessions",
+    "startDate": "2024-01-28",
+    "endDate": "2024-01-28",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "Stonehouse at The Earl Haig Club Concert Room.\nEarl Haig Club favorites Stonehouse are back to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/824/730d79413501337b05c943cb1a49dc9493787ce7.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stonehouse/6947552",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:37+00:00",
+    "created": "2023-12-14T13:11:05+00:00"
+  },
+  {
+    "id": "74KEaE",
+    "headline": "deadedz",
+    "title": "Monday Open Mic/Jam Session",
+    "startDate": "2024-01-29",
+    "endDate": "2024-01-29",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Join us for our Monday Night Open Mic and Jam Session! Any musician can participate...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/447/848/6a27f626bb96585622def51c8ec2ec0193f83e15.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Rj9E2",
+        "name": "deadedz"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic",
+      "experimental",
+      "rocknroll",
+      "folk",
+      "americana",
+      "blues",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/deadedz/6951542",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-01-10T14:16:54+00:00",
+    "created": "2023-12-19T16:48:25+00:00"
+  },
+  {
+    "id": "NL5l9g",
+    "headline": "Leighton Jones",
+    "title": "Friday Night Live In The Bar",
+    "startDate": "2024-02-02",
+    "endDate": "2024-02-02",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Leighton Jones Band, featuring Leighton Jones, a talented musician and a contestant of The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/005/283/ca29faca37e4d7d03a9ca785aa43cfd57172b215.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "BGdE",
+        "name": "Leighton Jones"
+      }
+    ],
+    "genre": [
+      "music",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/leighton-jones/6951554",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:54+00:00",
+    "created": "2023-12-19T16:59:49+00:00"
+  },
+  {
+    "id": "XXmYL2",
+    "headline": "Dansette",
+    "title": "Saturday Night Live",
+    "startDate": "2024-02-03",
+    "endDate": "2024-02-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Dansette are a horn-driven seven piece band who play an authentic mix of 60's Soul...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Dansette"
+      }
+    ],
+    "genre": [
+      "music",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dansette/6951562",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "created": "2023-12-19T17:16:00+00:00"
+  },
+  {
+    "id": "dDBqv4",
+    "headline": "Bluesfire",
+    "title": "Sunday Sessions",
+    "startDate": "2024-02-04",
+    "endDate": "2024-02-04",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "Bluesfire at The Earl Haig Club Concert Room.\nDoors open 5pm\nBand on at 6pm\n£3 on the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/489/802/eef3880cdd04bf0d655cb5e067f493d4c6fdec60.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Bluesfire"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bluesfire/6947550",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "created": "2023-12-14T13:09:23+00:00"
+  },
+  {
+    "id": "bkNNLA",
+    "headline": "Monday Open Mic/Jam Session",
+    "title": "Monday Open Mic/Jam Session",
+    "startDate": "2024-02-05",
+    "endDate": "2024-02-05",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/844/5973c1db0062791a09721ff76ef4cd2bdd546cd1.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-open-micjam-session/6973076",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "created": "2024-01-10T12:27:11+00:00"
+  },
+  {
+    "id": "Go222R",
+    "headline": "Just Friends Jazz",
+    "title": "Jazz Club",
+    "startDate": "2024-02-06",
+    "endDate": "2024-02-06",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Come enjoy an acoustic jazz session at the Just Friends Jazz Club located at The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/864/2c768300dc60da4485c92cdb3b40cf51f8f5abd0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends Jazz"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/6973202",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "created": "2024-01-10T12:40:18+00:00"
+  },
+  {
+    "id": "Lzrrw0",
+    "headline": "The Jedis",
+    "title": "Friday Night Live In The Bar",
+    "startDate": "2024-02-09",
+    "endDate": "2024-02-09",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Classic Rock from The Jedis",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/868/03187c415d92dd7f1fa0c6be8f8c2dfecd3e4bd0.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Jedis"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/6973208",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "created": "2024-01-10T12:42:40+00:00"
+  },
+  {
+    "id": "NL55gY",
+    "headline": "Rock n Roll Revival",
+    "title": "Saturday Night Live",
+    "startDate": "2024-02-10",
+    "endDate": "2024-02-10",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Rock n Roll Revival at The Earl Haig Club Bar.\nA great night of live vintage...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/870/69633710544cc878420c401228a1734db853d60a.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rock n Roll Revival"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "1950s",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rock-n-roll-revival/6973210",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-10T12:46:15+00:00"
+  },
+  {
+    "id": "Go22nk",
+    "headline": "Mark Pontin",
+    "title": "Monday Open Mic/Jam Session",
+    "startDate": "2024-02-12",
+    "endDate": "2024-02-12",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/846/020f22d955c657d28e5021d6ad5cca27fce94958.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Mark Pontin"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mark-pontin/6973090",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-10T12:29:22+00:00"
+  },
+  {
+    "id": "Bv44aO",
+    "headline": "Parcel Of Rogues",
+    "title": "Saturday Night Live",
+    "startDate": "2024-02-17",
+    "endDate": "2024-02-17",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The following is an announcement for an upcoming event:\n? Band Name: Parcel Of Rogues ?\n?...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/872/14f2f62a824f1321762aa35e44ab40868be32880.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OqoZz",
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parcel-of-rogues/6973212",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-10T12:48:12+00:00"
+  },
+  {
+    "id": "kDaa50",
+    "headline": "James Oliver Band",
+    "title": "Monday Open Mic/Jam Session",
+    "startDate": "2024-02-19",
+    "endDate": "2024-02-19",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/850/2441bf6eaf591c74e385dac2d9f5fd8ea924d446.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/6973138",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-10T12:31:31+00:00"
+  },
+  {
+    "id": "Go2DDy",
+    "headline": "The Big Motown 'N' Soul Nite",
+    "title": "The Big Motown 'N' Soul Nite",
+    "startDate": "2024-02-23",
+    "endDate": "2024-02-23",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. The Big Motown 'N' Soul Nite with Dave Bowen!",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/490/942/8e1f86c683fe299d5d6fb2f60df314e50cdecb91.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-02-23T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-01-03T00:00:00+00:00",
+        "onSaleUntil": "2024-02-23T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjA5MzU4/ticketid/7005280/checksum/fe586a51453fcee5cc2a3d1ef751aede/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "disco",
+      "blues",
+      "easy",
+      "tribute",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/6963290",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-03T15:12:27+00:00"
+  },
+  {
+    "id": "ymEEWy",
+    "headline": "The Fugitives - Cardiff",
+    "title": "Friday Night Live In The Bar",
+    "startDate": "2024-02-23",
+    "endDate": "2024-02-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there, music lover! You're in for a treat as South Wales' number one Rhythm...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/874/06e72e0bc6f18ef488c855cf06b5219ff80922c2.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/6973214",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:39+00:00",
+    "created": "2024-01-10T13:37:44+00:00"
+  },
+  {
+    "id": "mDlllX",
+    "headline": "Tony Morley And The Little Giants",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-01",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Little Giants the human jukebox & his band at The Earl Haig Club Bar.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/858/26ea0f87bd227770f799c8eb37a12a2372274fb4.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "0GvKQ",
+        "name": "Tony Morley And The Little Giants"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tony-morley-and-the-little-giants/6973188",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:40+00:00",
+    "created": "2024-01-10T12:48:59+00:00"
+  },
+  {
+    "id": "WgWvl4",
+    "headline": "The Rollin' Stoned",
+    "title": "Global Promotions Live",
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-01",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/352/065/392c40f55a74cfd63c59b012e6f2773f3d97faa4.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zKbW",
+        "name": "The Rollin' Stoned"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-01T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£22.75",
+        "totalPrice": "£22.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-09T13:15:00+00:00",
+        "onSaleUntil": "2024-03-02T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXJvbGxpbi1zdG9uZWQvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mjc4NDg_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgyNzg0OA/ticketid/6896198/checksum/a3d8a995709f2a42d42ada45219ede13/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "blues",
+      "tribute",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-rollin-stoned/6908680",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-01-10T14:16:56+00:00",
+    "created": "2023-11-09T13:44:53+00:00"
+  },
+  {
+    "id": "oB7dD5",
+    "headline": "The Vintage Explosion",
+    "title": "Global Promotions Live",
+    "startDate": "2024-03-08",
+    "endDate": "2024-03-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/449/514/bdcf392435a8c656a88e2e3d37de19afb801dd7f.jpg?auto=format&fp-x=0.455&fp-y=0.609&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "0dYZb",
+        "name": "The Vintage Explosion"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-08T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£33.75",
+        "totalPrice": "£33.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-10-26T00:00:00+01:00",
+        "onSaleUntil": "2024-03-09T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXZpbnRhZ2UtZXhwbG9zaW9uL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODE0NTIzP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgxNDUyMw/ticketid/6874880/checksum/ed8bfdc01b7f2c0f37f1c3adcdebfd60/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rocknroll",
+      "swing",
+      "covers",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-vintage-explosion/6896226",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-01-10T14:16:56+00:00",
+    "created": "2023-10-26T06:47:52+00:00"
+  },
+  {
+    "id": "bkNPzA",
+    "headline": "StereoIronics, Maniac Street Preachers",
+    "title": "Global Promotions Live",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-09",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "waDwg",
+        "name": "StereoIronics"
+      },
+      {
+        "id": "0dr58",
+        "name": "Maniac Street Preachers"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-09T20:00:00+00:00",
+        "supplier": "Ents24",
+        "price": "£19.00",
+        "totalPrice": "£19.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-23T21:45:00+00:00",
+        "onSaleUntil": "2024-03-10T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXN0cmVvaXJvbmljcy10aGUtbWFuaWFjLXN0cmVldC1wcmVhY2hlcnMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mzg4MTA_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgzODgxMA/ticketid/6920554/checksum/69d5f6b68e58d40072ad34f470665495/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "indie",
+      "tribute",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stereoironics-maniac-street-preachers/6921376",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-01-10T14:16:40+00:00",
+    "created": "2023-11-24T06:55:19+00:00"
+  },
+  {
+    "id": "NL5rRk",
+    "headline": "The Specials Ltd",
+    "title": "Global Promotions Live",
+    "startDate": "2024-03-22",
+    "endDate": "2024-03-22",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/344/072/7ef717d91ef0009dff921fde5aabf16e8e9734ff.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "10dZz",
+        "name": "The Specials Ltd"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-22T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-12-11T00:00:00+00:00",
+        "onSaleUntil": "2024-03-23T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXNwZWNpYWxzLWx0ZC90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjg1NDg5Mz9hZmY9ZW50czI0/supplier/Ents24/suppliedid/Mjg1NDg5Mw/ticketid/6963960/checksum/ef6d9a0eb6027208cada618286840b6f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "ska",
+      "tribute",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-specials-ltd/6943698",
+    "fansOnEnts24": 5,
+    "lastUpdate": "2024-01-10T14:16:56+00:00",
+    "created": "2023-12-11T08:24:25+00:00"
+  },
+  {
+    "id": "pgRNdB",
+    "headline": "The Doors Rising",
+    "title": "Global Promotions Live",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "e68A9",
+        "name": "The Doors Rising"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-23T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-23T12:00:00+00:00",
+        "onSaleUntil": "2024-03-24T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLWRvb3JzLXJpc2luZy1kai1saWFtLWN1cnRpbi90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjgzODgxMj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MjgzODgxMg/ticketid/6920556/checksum/33746d2f73b6a145c2e17c45e8b4a9ba/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "tribute",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-doors-rising/6921378",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-01-10T14:16:40+00:00",
+    "created": "2023-11-24T06:55:19+00:00"
+  },
+  {
+    "id": "kDa72R",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": null,
+    "startDate": "2024-03-29",
+    "endDate": "2024-03-29",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. Big Macs Wholly Soul Band!\n\nWhen this event sells out please email info@thebigniteout.co.uk to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-03-29T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£18.00",
+        "totalPrice": "£18.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-01-18T00:00:00+00:00",
+        "onSaleUntil": "2024-03-29T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjExODQw/ticketid/7044674/checksum/6ae935ad0e76ad69a9780605251fe164/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6983882",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-18T11:32:38+00:00",
+    "created": "2024-01-18T11:32:24+00:00"
+  },
+  {
+    "id": "LzrjgK",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": null,
+    "startDate": "2024-03-30",
+    "endDate": "2024-03-30",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": true,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. Big Macs Wholly Soul Band!\n\nWhen this event sells out please email info@thebigniteout.co.uk to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6960908",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2024-01-18T11:31:10+00:00",
+    "created": "2023-12-31T16:52:00+00:00"
+  },
+  {
+    "id": "WgXlyX",
+    "headline": "Treacherous Cretins ft Robert Martin",
+    "title": "Celebrate Zappa: Treacherous Cretins Feat Frank Zappa Alumni Bobby Martin",
+    "startDate": "2024-04-11",
+    "endDate": "2024-04-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/483/410/19424a01934145ac3091984c51cf764fa28d5b24.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "71Xp1",
+        "name": "Treacherous Cretins ft Robert Martin"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-04-11T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-09-11T00:00:00+01:00",
+        "onSaleUntil": "2024-04-12T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvY2VsZWJyYXRlLXphcHBhLWZlYXR1cmluZy10aGUtdHJlYWNoZXJvdXMtY3JldGlucy90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjc2OTU4Nj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/Mjc2OTU4Ng/ticketid/6804304/checksum/2eb8c663d55e32b6f90d16669ba89032/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "jazz",
+      "tribute",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/treacherous-cretins-ft-robert-martin/6859680",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-09-11T08:09:19+00:00"
+  },
+  {
+    "id": "PawwdR",
+    "headline": "The Fugitives - Cardiff",
+    "title": "Rhythm & Blues Nights",
+    "startDate": "2024-04-12",
+    "endDate": "2024-04-12",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Get ready for an electrifying performance by South Wales' top Rhythm & Blues band, The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/6973266",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:59+00:00",
+    "created": "2024-01-10T13:42:36+00:00"
+  },
+  {
+    "id": "DwvkGD",
+    "headline": "Dirty DC",
+    "title": "Global Promotions Live",
+    "startDate": "2024-04-20",
+    "endDate": "2024-04-20",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/033/256/963b50e1af0699b928eba748466e561578965fbf.jpg?auto=format&fp-x=0.527&fp-y=0.186&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Lkx",
+        "name": "Dirty DC"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-04-20T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-12-11T00:00:00+00:00",
+        "onSaleUntil": "2024-04-21T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZGlydHktZGMtMjAyNC90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjgzODgxND9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MjgzODgxNA/ticketid/6963770/checksum/c64fda06d2914801539e671e5cc172b0/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dirty-dc/6943540",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:59+00:00",
+    "created": "2023-12-11T08:24:23+00:00"
+  },
+  {
+    "id": "WgWzvv",
+    "headline": "Focus",
+    "title": "Global Promotions Live",
+    "startDate": "2024-04-26",
+    "endDate": "2024-04-26",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rYGE",
+        "name": "Focus"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-04-26T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£25.75",
+        "totalPrice": "£25.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-23T22:30:00+00:00",
+        "onSaleUntil": "2024-04-27T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZm9jdXMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mzg4MTc_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgzODgxNw/ticketid/6920558/checksum/c32a56d0f4b30296994ef9d5f8e94868/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/6921380",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-11-24T06:55:19+00:00"
+  },
+  {
+    "id": "Go2pxR",
+    "headline": "Letz Zep",
+    "title": "Zeppelins Resurrection",
+    "startDate": "2024-04-27",
+    "endDate": "2024-04-27",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Official #1 Tribute to Led Zeppelin",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/444/618/a2060fcd643f52d9debc13144a98aa2d16ae4cfb.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rzKv",
+        "name": "Letz Zep"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-04-27T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-27T12:00:00+00:00",
+        "onSaleUntil": "2024-04-28T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGV0ei16ZXAvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mzk0NDU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgzOTQ0NQ/ticketid/6924050/checksum/2cd1e98edc28787cb68c84d60634d99a/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/letz-zep/6916002",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-11-17T14:03:46+00:00"
+  },
+  {
+    "id": "dDBPQj",
+    "headline": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001",
+    "title": "Global Promotions Live",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/387/740/74b3246feebb84d9820e9c283e08fafb17d40c0f.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "k9KG",
+        "name": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-03T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£22.75",
+        "totalPrice": "£22.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-27T00:00:00+00:00",
+        "onSaleUntil": "2024-05-04T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYm9vdGxlZy1ibG9uZGllL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODM4ODIwP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgzODgyMA/ticketid/6922372/checksum/526d14b1cca64406ce9a511206bd06c8/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "alternative",
+      "punk",
+      "reggae",
+      "rocknroll",
+      "tribute",
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bootleg-blondie-the-worlds-no1-official-blondie-and-debbie-harry-tribute-est-2001/6922650",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-11-27T07:21:52+00:00"
+  },
+  {
+    "id": "XXmyx2",
+    "headline": "The Dirt Road Band, James Oliver Band",
+    "title": null,
+    "startDate": "2024-05-09",
+    "endDate": "2024-05-09",
+    "startTimeString": "7:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "A fabulous double bill of Rock and Blues \nSteve Walwyn from Dr Feelgood \nHorace Panter...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "6wkw4",
+        "name": "The Dirt Road Band"
+      },
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-09T19:30:00+01:00",
+        "supplier": "WeGotTickets",
+        "price": "£13.20",
+        "totalPrice": "£13.20",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-01-15T00:00:00+00:00",
+        "onSaleUntil": "2024-05-10T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly93d3cud2Vnb3R0aWNrZXRzLmNvbS9hZi82Ny9ldmVudC82MDYyNjI/supplier/WeGotTickets/suppliedid/MjQxMTk3NjY2/ticketid/7032218/checksum/dbdd0d78f5696311470d910f4c77734f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "jazz",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-19T06:29:54+00:00",
+    "created": "2024-01-15T12:12:40+00:00"
+  },
+  {
+    "id": "XXmbR4",
+    "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi",
+    "title": "Global Promotions Live",
+    "startDate": "2024-05-17",
+    "endDate": "2024-05-17",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/282/809/a71db2cf1b8d340f6ec5971ece621fefbde146d3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "A9W",
+        "name": "The World's Premier Bon Jovi Tribute: Bon Giovi"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-17T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£21.25",
+        "totalPrice": "£21.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-27T00:00:00+00:00",
+        "onSaleUntil": "2024-05-18T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYm9uLWdpb3ZpL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODM5MDk4P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgzOTA5OA/ticketid/6922388/checksum/20d8534ef9b91ce55fd01fb396b9bd52/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute",
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worlds-premier-bon-jovi-tribute-bon-giovi/6922662",
+    "fansOnEnts24": 5,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-11-27T07:21:52+00:00"
+  },
+  {
+    "id": "Go2DZy",
+    "headline": "Absolute Bowie",
+    "title": null,
+    "startDate": "2024-05-24",
+    "endDate": "2024-05-24",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/435/652/e0980b920e4337c3d7ee27ce52789c6aca13c355.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Lz4XX",
+        "name": "Absolute Bowie"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-24T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£24.75",
+        "totalPrice": "£24.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-12-31T14:00:00+00:00",
+        "onSaleUntil": "2024-05-25T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYWJzb2x1dGUtYm93aWUvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4OTkxMjE_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjg5OTEyMQ/ticketid/7003414/checksum/eaeb0c7832909ce56160ba109346d169/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie",
+      "tribute",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/absolute-bowie/6962190",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-10T14:16:59+00:00",
+    "created": "2024-01-02T08:54:19+00:00"
+  },
+  {
+    "id": "2KWPap",
+    "headline": "Legend - The Music Of Bob Marley",
+    "title": "Global Promotions Live",
+    "startDate": "2024-06-14",
+    "endDate": "2024-06-14",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/360/777/d8ef06ecd59a776a97e03788e8d59ee9f8744128.jpg?auto=format&fp-x=0.525&fp-y=0.4&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "dDDE6",
+        "name": "Legend - The Music Of Bob Marley"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-06-14T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£24.75",
+        "totalPrice": "£24.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-24T15:00:00+00:00",
+        "onSaleUntil": "2024-06-15T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGVnZW5kL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODM5MTA5P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgzOTEwOQ/ticketid/6922394/checksum/9b226140c3dd88f0750a8a8be22045f3/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "reggae",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/legend-the-music-of-bob-marley/6922664",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-11-27T07:21:53+00:00"
+  },
+  {
+    "id": "oB65qW",
+    "headline": "The Love Band featuring Johnny Echols",
+    "title": "Global Promotions Live",
+    "startDate": "2024-08-02",
+    "endDate": "2024-08-02",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/466/090/c818f318d1dd4f93048b31adf84d26f01ffb2984.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "DzyyO",
+        "name": "The Love Band featuring Johnny Echols"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-02T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-12-01T12:00:00+00:00",
+        "onSaleUntil": "2024-08-03T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbG92ZS13aXRoLWpvaG5ueS1lY2hvbHMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4NDU4NDU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjg0NTg0NQ/ticketid/6948340/checksum/452aaf60fb5bbdd134066989bc517981/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-love-band-featuring-johnny-echols/6935270",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "created": "2023-12-01T07:08:11+00:00"
+  }
+]
