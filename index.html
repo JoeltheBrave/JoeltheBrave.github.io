@@ -2,27 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Display JSON</title>
+    <title>JSON Data Table</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            // Function to generate a timestamp for cache-busting
+            function generateTimestamp() {
+                return new Date().getTime();
+            }
+
+            // Make the request with the timestamp
+            $.getJSON('https://joelthebrave.github.io/events.json?rand=' + Math.random(), function(data) {
+                let tableContent = '';
+                $.each(data, function(i, item) {
+                    tableContent += '<tr>';
+                    tableContent += '<td>' + item.startDate + '</td>';
+                    tableContent += '<td>' + item.title + '</td>';
+                    tableContent += '<td>' + item.headline + '</td>';
+                    tableContent += '</tr>';
+                });
+                $('#dataTable tbody').append(tableContent);
+            });
+        });
+    </script>
 </head>
 <body>
-
-    <h1>JSON Display</h1>
-    
-    <pre id="json-display"></pre>
-
-    <script>
-        // Fetch JSON data
-        fetch('events.json')
-            .then(response => response.json())
-            .then(data => {
-                // Display formatted JSON
-                document.getElementById('json-display').textContent = JSON.stringify(data, null, 2);
-            })
-            .catch(error => {
-                console.error('Error fetching JSON:', error);
-            });
-    </script>
-
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>Start Date</th>
+                <th>Title</th>
+                <th>Headline</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be inserted here -->
+        </tbody>
+    </table>
 </body>
 </html>
