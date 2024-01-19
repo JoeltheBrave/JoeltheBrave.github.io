@@ -7,6 +7,19 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        #videos-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .video-thumbnail {
+            width: 300px; /* Adjust the width of the thumbnails as needed */
+            height: 200px; /* Adjust the height of the thumbnails as needed */
         }
     </style>
 </head>
@@ -22,24 +35,38 @@
     // Replace 'CHANNEL_ID' with your actual YouTube channel ID
     const channelID = 'UC9TMbYWS99tDKjE_M6yIq6w';
     
-    // Fetch the latest videos from the YouTube Data API using playlistItems endpoint
-    fetch(`https://www.googleapis.com/youtube/v3/playlistItems?key=${apiKey}&playlistId=${channelID}&part=snippet&maxResults=30`)
+    // Fetch the latest videos from the YouTube Data API using search endpoint
+    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&type=video&maxResults=30`)
         .then(response => response.json())
         .then(data => {
             const videosContainer = document.getElementById('videos-container');
             
             // Iterate through the videos and display them
             data.items.forEach(item => {
-                const videoId = item.snippet.resourceId.videoId;
+                const videoId = item.id.videoId;
                 const videoTitle = item.snippet.title;
+                const thumbnailUrl = item.snippet.thumbnails.medium.url; // Use 'medium' for a larger thumbnail
+                
+                // Create a container for each video
+                const videoContainer = document.createElement('div');
+                videoContainer.className = 'video-thumbnail';
+
+                // Create an image element for each video thumbnail
+                const thumbnailImg = document.createElement('img');
+                thumbnailImg.src = thumbnailUrl;
+                thumbnailImg.alt = videoTitle;
                 
                 // Create an iframe for each video
                 const iframe = document.createElement('iframe');
                 iframe.src = `https://www.youtube.com/embed/${videoId}`;
                 iframe.title = videoTitle;
+
+                // Append the thumbnail image and iframe to the container
+                videoContainer.appendChild(thumbnailImg);
+                videoContainer.appendChild(iframe);
                 
-                // Append the iframe to the container
-                videosContainer.appendChild(iframe);
+                // Append the video container to the videos container
+                videosContainer.appendChild(videoContainer);
             });
         })
         .catch(error => console.error('Error fetching videos:', error));
