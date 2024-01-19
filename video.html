@@ -11,12 +11,14 @@
 <div id="videos-container"></div>
 
 <script>
-    // Replace 'YOUR_API_KEY' and 'CHANNEL_ID' with your actual API key and channel ID
+    // Replace 'YOUR_API_KEY' with your actual API key
     const apiKey = 'AIzaSyDvMGT38EoSRZx36WnXbSJ63d3xbj7Ob68';
+    
+    // Replace 'CHANNEL_ID' with your actual YouTube channel ID
     const channelID = 'bazmo2401';
     
     // Fetch the latest videos from the YouTube Data API
-    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&maxResults=5`)
+    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&type=video&maxResults=5`)
         .then(response => response.json())
         .then(data => {
             const videosContainer = document.getElementById('videos-container');
