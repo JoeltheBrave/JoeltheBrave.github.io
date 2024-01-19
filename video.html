@@ -17,9 +17,8 @@
             gap: 20px;
         }
 
-        .video-thumbnail {
-            width: 300px; /* Adjust the width of the thumbnails as needed */
-            height: 200px; /* Adjust the height of the thumbnails as needed */
+        .video-container {
+            width: 300px; /* Adjust the width of the video containers as needed */
         }
     </style>
 </head>
@@ -45,24 +44,17 @@
             data.items.forEach(item => {
                 const videoId = item.id.videoId;
                 const videoTitle = item.snippet.title;
-                const thumbnailUrl = item.snippet.thumbnails.medium.url; // Use 'medium' for a larger thumbnail
                 
                 // Create a container for each video
                 const videoContainer = document.createElement('div');
-                videoContainer.className = 'video-thumbnail';
+                videoContainer.className = 'video-container';
 
-                // Create an image element for each video thumbnail
-                const thumbnailImg = document.createElement('img');
-                thumbnailImg.src = thumbnailUrl;
-                thumbnailImg.alt = videoTitle;
-                
                 // Create an iframe for each video
                 const iframe = document.createElement('iframe');
                 iframe.src = `https://www.youtube.com/embed/${videoId}`;
                 iframe.title = videoTitle;
 
-                // Append the thumbnail image and iframe to the container
-                videoContainer.appendChild(thumbnailImg);
+                // Append the iframe to the container
                 videoContainer.appendChild(iframe);
                 
                 // Append the video container to the videos container
