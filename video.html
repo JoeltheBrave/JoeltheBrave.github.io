@@ -60,7 +60,7 @@
                 const videoTitle = item.snippet.title;
                 const videoDescription = item.snippet.description;
 
-                // Check if the video description contains 'Earl Haig Club'
+                // Check if the video description contains 'Earl Haig Club' (case-insensitive)
                 if (videoDescription.toLowerCase().includes('earl haig club')) {
                     // Create a container for each video
                     const videoContainer = document.createElement('div');
