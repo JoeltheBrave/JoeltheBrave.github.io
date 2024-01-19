@@ -8,21 +8,9 @@
         body {
             font-family: Arial, sans-serif;
         }
-
-        header {
-            background-color: #3498db;
-            color: white;
-            padding: 10px;
-            text-align: center;
-        }
     </style>
 </head>
 <body>
-
-<!-- Header to indicate that the webpage has loaded -->
-<header>
-    <h1>Welcome to Your Website!</h1>
-</header>
 
 <!-- The container where you want to display the videos -->
 <div id="videos-container"></div>
@@ -34,15 +22,15 @@
     // Replace 'CHANNEL_ID' with your actual YouTube channel ID
     const channelID = 'UC9TMbYWS99tDKjE_M6yIq6w';
     
-    // Fetch the latest videos from the YouTube Data API
-    fetch(`https://www.googleapis.com/youtube/v3/search?key=${apiKey}&channelId=${channelID}&part=snippet,id&order=date&type=video&maxResults=5`)
+    // Fetch the last 30 videos from the YouTube Data API using playlistItems endpoint
+    fetch(`https://www.googleapis.com/youtube/v3/playlistItems?key=${apiKey}&playlistId=${channelID}&part=snippet&maxResults=30`)
         .then(response => response.json())
         .then(data => {
             const videosContainer = document.getElementById('videos-container');
             
             // Iterate through the videos and display them
             data.items.forEach(item => {
-                const videoId = item.id.videoId;
+                const videoId = item.snippet.resourceId.videoId;
                 const videoTitle = item.snippet.title;
                 
                 // Create an iframe for each video
