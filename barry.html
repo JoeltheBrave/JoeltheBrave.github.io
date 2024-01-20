@@ -38,6 +38,7 @@
 <input type="text" id="searchInput" placeholder="Search by description" oninput="searchVideos()">
 <button onclick="sortByDate()">Sort by Date</button>
 <button onclick="sortByViews()">Sort by Views</button>
+<button onclick="resetSorting()">Reset Sorting</button>
 
 <table>
   <thead>
@@ -61,7 +62,7 @@
     try {
       const response = await fetch('https://joelthebrave.github.io/video_details.json');
       const data = await response.json();
-      return data;
+      return data.items; // Assuming 'items' is the array in the JSON data containing video details
     } catch (error) {
       console.error('Error fetching JSON data:', error);
       return [];
@@ -102,6 +103,11 @@
   // Function to sort by views
   const sortByViews = () => {
     videoDetailsData.sort((a, b) => b.views - a.views);
+    populateTable();
+  };
+
+  // Function to reset sorting and revert to the original order
+  const resetSorting = () => {
     populateTable();
   };
 
