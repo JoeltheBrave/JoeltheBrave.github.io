@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>YouTube Videos</title>
+  <title>YouTube Video Details</title>
   <style>
     table {
       width: 100%;
@@ -13,82 +12,72 @@
     }
 
     th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
+      border: 1px solid #dddddd;
       text-align: left;
+      padding: 8px;
     }
 
     th {
       background-color: #f2f2f2;
     }
-
-    input[type="text"] {
-      padding: 5px;
-    }
   </style>
 </head>
-
 <body>
-  <h1>YouTube Videos</h1>
 
-  <input type="text" id="searchInput" placeholder="Search by description" oninput="searchVideos()">
+<h2>YouTube Video Details</h2>
 
-  <table id="videosTable">
-    <thead>
-      <tr>
-        <th>Video Title</th>
-        <th>Video Description</th>
-        <th>Video URL</th>
-        <th>Views</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Video data will be inserted here dynamically using JavaScript -->
-    </tbody>
-  </table>
+<table>
+  <thead>
+    <tr>
+      <th>Video ID</th>
+      <th>Video Title</th>
+      <th>Video Description</th>
+      <th>Video URL</th>
+      <th>Views</th>
+      <th>Date Uploaded</th>
+    </tr>
+  </thead>
+  <tbody id="videoTableBody"></tbody>
+</table>
 
-  <script>
-    // Fetch video data from GitHub
-    fetch('https://joelthebrave.github.io/video_details.json')
-      .then(response => response.json())
-      .then(data => displayVideos(data.items));
-
-    // Function to display videos in the table
-    function displayVideos(videos) {
-      const tableBody = document.querySelector('#videosTable tbody');
-
-      videos.forEach(video => {
-        const row = tableBody.insertRow();
-        const titleCell = row.insertCell(0);
-        const descriptionCell = row.insertCell(1);
-        const urlCell = row.insertCell(2);
-        const viewsCell = row.insertCell(3);
-
-        titleCell.textContent = video.snippet.title;
-        descriptionCell.textContent = video.snippet.description;
-        urlCell.innerHTML = `<a href="https://www.youtube.com/watch?v=${video.id.videoId}" target="_blank">Watch</a>`;
-        // You need to fetch views data from YouTube API
-        viewsCell.textContent = 'Views'; // You need to fetch views data from YouTube API
-      });
+<script>
+  // Function to fetch JSON data from the provided URL
+  const fetchVideoDetails = async () => {
+    try {
+      const response = await fetch('https://joelthebrave.github.io/video_details.json');
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Error fetching JSON data:', error);
+      return [];
     }
+  };
 
-    // Function to filter videos based on description
-    function searchVideos() {
-      const searchInput = document.getElementById('searchInput').value.toLowerCase();
-      const tableRows = document.querySelectorAll('#videosTable tbody tr');
+  // Function to create a table row for each video
+  const createTableRow = (video) => {
+    const row = document.createElement('tr');
+    row.innerHTML = `
+      <td>${video.videoId}</td>
+      <td>${video.videoTitle}</td>
+      <td>${video.videoDescription}</td>
+      <td><a href="${video.videoUrl}" target="_blank">Watch Video</a></td>
+      <td>${video.views}</td>
+      <td>${video.dateUploaded}</td>
+    `;
+    return row;
+  };
 
-      tableRows.forEach(row => {
-        const descriptionCell = row.cells[1];
-        const descriptionText = descriptionCell.textContent.toLowerCase();
+  // Get the tbody element
+  const tbody = document.getElementById('videoTableBody');
 
-        if (descriptionText.includes(searchInput)) {
-          row.style.display = '';
-        } else {
-          row.style.display = 'none';
-        }
-      });
-    }
-  </script>
+  // Fetch video details and populate the table
+  fetchVideoDetails().then(videoDetails => {
+    videoDetails.forEach(video => {
+      const row = createTableRow(video);
+      tbody.appendChild(row);
+    });
+  });
+</script>
+
 </body>
-
 </html>
