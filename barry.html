@@ -62,7 +62,7 @@
     try {
       const response = await fetch('https://joelthebrave.github.io/video_details.json');
       const data = await response.json();
-      return data.items; // Assuming 'items' is the array in the JSON data containing video details
+      return data; // Assuming the JSON data directly contains an array of video details
     } catch (error) {
       console.error('Error fetching JSON data:', error);
       return [];
@@ -108,7 +108,10 @@
 
   // Function to reset sorting and revert to the original order
   const resetSorting = () => {
-    populateTable();
+    fetchVideoDetails().then(data => {
+      videoDetailsData = data;
+      populateTable();
+    });
   };
 
   // Function to filter videos based on description
@@ -129,8 +132,8 @@
   };
 
   // Fetch video details and populate the table
-  fetchVideoDetails().then(videoDetails => {
-    videoDetailsData = videoDetails;
+  fetchVideoDetails().then(data => {
+    videoDetailsData = data;
     populateTable();
   });
 </script>
