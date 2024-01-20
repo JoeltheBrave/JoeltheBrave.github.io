@@ -78,9 +78,15 @@
       <td>${video.description}</td>
       <td><a href="${video.url}" target="_blank">Watch Video</a></td>
       <td>${video.views}</td>
-      <td>${video.publishedAt}</td>
+      <td>${formatDate(video.publishedAt)}</td>
     `;
     return row;
+  };
+
+  // Function to format the date in a nicer way
+  const formatDate = (dateString) => {
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    return new Date(dateString).toLocaleDateString(undefined, options);
   };
 
   // Function to populate the table with sorted data
