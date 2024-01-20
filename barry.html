@@ -25,6 +25,10 @@
       margin-top: 10px;
       padding: 5px;
     }
+
+    button {
+      margin: 5px;
+    }
   </style>
 </head>
 <body>
@@ -32,6 +36,8 @@
 <h2>YouTube Video Details</h2>
 
 <input type="text" id="searchInput" placeholder="Search by description" oninput="searchVideos()">
+<button onclick="sortByDate()">Sort by Date</button>
+<button onclick="sortByViews()">Sort by Views</button>
 
 <table>
   <thead>
@@ -48,6 +54,8 @@
 </table>
 
 <script>
+  let videoDetailsData = []; // To store the original data
+
   // Function to fetch JSON data from the provided URL
   const fetchVideoDetails = async () => {
     try {
@@ -74,6 +82,29 @@
     return row;
   };
 
+  // Function to populate the table with sorted data
+  const populateTable = () => {
+    const tbody = document.getElementById('videoTableBody');
+    tbody.innerHTML = '';
+
+    videoDetailsData.forEach(video => {
+      const row = createTableRow(video);
+      tbody.appendChild(row);
+    });
+  };
+
+  // Function to sort by date
+  const sortByDate = () => {
+    videoDetailsData.sort((a, b) => new Date(b.dateUploaded) - new Date(a.dateUploaded));
+    populateTable();
+  };
+
+  // Function to sort by views
+  const sortByViews = () => {
+    videoDetailsData.sort((a, b) => b.views - a.views);
+    populateTable();
+  };
+
   // Function to filter videos based on description
   const searchVideos = () => {
     const searchInput = document.getElementById('searchInput').value.toLowerCase();
@@ -83,7 +114,7 @@
       const descriptionCell = row.cells[2];
       const descriptionText = descriptionCell.textContent.toLowerCase();
 
-      if (descriptionText.includes(searchInput)) {
+      if (searchInput === '' || descriptionText.includes(searchInput)) {
         row.style.display = '';
       } else {
         row.style.display = 'none';
@@ -91,15 +122,10 @@
     });
   };
 
-  // Get the tbody element
-  const tbody = document.getElementById('videoTableBody');
-
   // Fetch video details and populate the table
   fetchVideoDetails().then(videoDetails => {
-    videoDetails.forEach(video => {
-      const row = createTableRow(video);
-      tbody.appendChild(row);
-    });
+    videoDetailsData = videoDetails;
+    populateTable();
   });
 </script>
 
