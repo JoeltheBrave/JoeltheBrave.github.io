@@ -20,11 +20,18 @@
     th {
       background-color: #f2f2f2;
     }
+
+    input[type="text"] {
+      margin-top: 10px;
+      padding: 5px;
+    }
   </style>
 </head>
 <body>
 
 <h2>YouTube Video Details</h2>
+
+<input type="text" id="searchInput" placeholder="Search by description" oninput="searchVideos()">
 
 <table>
   <thead>
@@ -65,6 +72,23 @@
       <td>${video.dateUploaded}</td>
     `;
     return row;
+  };
+
+  // Function to filter videos based on description
+  const searchVideos = () => {
+    const searchInput = document.getElementById('searchInput').value.toLowerCase();
+    const tableRows = document.querySelectorAll('#videoTableBody tr');
+
+    tableRows.forEach(row => {
+      const descriptionCell = row.cells[2];
+      const descriptionText = descriptionCell.textContent.toLowerCase();
+
+      if (descriptionText.includes(searchInput)) {
+        row.style.display = '';
+      } else {
+        row.style.display = 'none';
+      }
+    });
   };
 
   // Get the tbody element
