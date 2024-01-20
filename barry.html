@@ -79,7 +79,7 @@
       <td>${video.videoId}</td>
       <td>${video.title}</td>
       <td>${video.description}</td>
-      <td><a href="${video.url}" target="_blank">Watch Video</a></td>
+      <td><a href="${video.url}" target="_blank">${video.url}</a></td>
       <td>${video.views}</td>
       <td>${formatDate(video.publishedAt)}</td>
     `;
@@ -144,7 +144,7 @@
   const downloadExcel = () => {
     const table = document.getElementById('videoTableBody');
     const data = tableToData(table);
-    const ws = XLSX.utils.json_to_sheet(data);
+    const ws = XLSX.utils.json_to_sheet(data, { header: ['Video ID', 'Video Title', 'Video Description', 'Video URL', 'Views', 'Date Uploaded'] });
     const wb = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(wb, ws, 'VideoData');
     XLSX.writeFile(wb, 'VideoData.xlsx');
@@ -155,10 +155,14 @@
     const data = [];
     const rows = table.querySelectorAll('tr');
     rows.forEach(row => {
-      const rowData = [];
-      row.querySelectorAll('td').forEach(cell => {
-        rowData.push(cell.textContent);
-      });
+      const rowData = {};
+      const cells = row.querySelectorAll('td');
+      rowData['Video ID'] = cells[0].textContent;
+      rowData['Video Title'] = cells[1].textContent;
+      rowData['Video Description'] = cells[2].textContent;
+      rowData['Video URL'] = cells[3].textContent;
+      rowData['Views'] = cells[4].textContent;
+      rowData['Date Uploaded'] = cells[5].textContent;
       data.push(rowData);
     });
     return data;
