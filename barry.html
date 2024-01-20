@@ -51,7 +51,7 @@
     // Fetch video data from GitHub
     fetch('https://joelthebrave.github.io/video_details.json')
       .then(response => response.json())
-      .then(data => displayVideos(data));
+      .then(data => displayVideos(data.items));
 
     // Function to display videos in the table
     function displayVideos(videos) {
@@ -67,7 +67,8 @@
         titleCell.textContent = video.snippet.title;
         descriptionCell.textContent = video.snippet.description;
         urlCell.innerHTML = `<a href="https://www.youtube.com/watch?v=${video.id.videoId}" target="_blank">Watch</a>`;
-        viewsCell.textContent = 'Views';  // You need to fetch views data from YouTube API
+        // You need to fetch views data from YouTube API
+        viewsCell.textContent = 'Views'; // You need to fetch views data from YouTube API
       });
     }
 
