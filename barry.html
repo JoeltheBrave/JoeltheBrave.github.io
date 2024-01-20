@@ -31,6 +31,7 @@
       margin: 5px;
     }
   </style>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.17.5/dist/xlsx.full.min.js"></script>
 </head>
 <body>
 
@@ -40,6 +41,7 @@
 <button onclick="sortByDate()">Sort by Date</button>
 <button onclick="sortByViews()">Sort by Views</button>
 <button onclick="resetSorting()">Reset Sorting</button>
+<button onclick="downloadExcel()">Download Excel</button>
 
 <table>
   <thead>
@@ -136,6 +138,30 @@
         row.style.display = 'none';
       }
     });
+  };
+
+  // Function to download data as Excel
+  const downloadExcel = () => {
+    const table = document.getElementById('videoTableBody');
+    const data = tableToData(table);
+    const ws = XLSX.utils.json_to_sheet(data);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, 'VideoData');
+    XLSX.writeFile(wb, 'VideoData.xlsx');
+  };
+
+  // Function to convert table data to JSON
+  const tableToData = (table) => {
+    const data = [];
+    const rows = table.querySelectorAll('tr');
+    rows.forEach(row => {
+      const rowData = [];
+      row.querySelectorAll('td').forEach(cell => {
+        rowData.push(cell.textContent);
+      });
+      data.push(rowData);
+    });
+    return data;
   };
 
   // Fetch video details and populate the table
