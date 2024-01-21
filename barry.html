@@ -180,7 +180,7 @@
 
     // Replace each special character
     Object.entries(specialCharacterMap).forEach(([entity, character]) => {
-      text = text.split(entity).join(character);
+      text = text.replace(new RegExp(entity, 'g'), character);
     });
 
     return text;
