@@ -193,7 +193,8 @@
   // Function to update the artist dropdown with unique artists
   const updateArtistDropdown = () => {
     const artistDropdown = document.getElementById('artistDropdown');
-    const uniqueArtists = new Set(videoDetailsData.map(video => mapArtistName(video.title)));
+    const uniqueArtists = [...new Set(videoDetailsData.map(video => mapArtistName(video.title)))].filter(Boolean); // Remove empty values
+    uniqueArtists.sort(); // Sort alphabetically
 
     // Clear existing options
     artistDropdown.innerHTML = '<option value="">All Artists</option>';
