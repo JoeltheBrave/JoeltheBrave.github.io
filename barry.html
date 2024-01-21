@@ -64,6 +64,7 @@
 
 <script>
   let videoDetailsData = []; // To store the original data
+  let artistMapping = {}; // To store mapping between similar artist names
 
   // Function to fetch and preprocess JSON data from the provided URL
   const fetchAndProcessVideoDetails = async () => {
@@ -76,6 +77,9 @@
         const titleRegex = /^[^:]+:.+/; // Matches "Artist: Track"
         return titleRegex.test(video.title);
       });
+
+      // Create a mapping between similar artist names
+      artistMapping = createArtistMapping(processedData);
 
       return processedData;
     } catch (error) {
@@ -115,15 +119,28 @@
     });
   };
 
+  // Function to sort by multiple criteria
+  const multiSort = (criterias) => {
+    return (a, b) => {
+      for (const criteria of criterias) {
+        const result = criteria(a, b);
+        if (result !== 0) {
+          return result;
+        }
+      }
+      return 0;
+    };
+  };
+
   // Function to sort by date
   const sortByDate = () => {
-    videoDetailsData.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    videoDetailsData.sort(multiSort([(a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)]));
     populateTable();
   };
 
   // Function to sort by views
   const sortByViews = () => {
-    videoDetailsData.sort((a, b) => b.views - a.views);
+    videoDetailsData.sort(multiSort([(a, b) => b.views - a.views, (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)]));
     populateTable();
   };
 
@@ -145,7 +162,10 @@
       const descriptionCell = row.cells[2];
       const descriptionText = descriptionCell.textContent.toLowerCase();
 
-      if (searchInput === '' || descriptionText.includes(searchInput)) {
+      // Replace HTML entities for special characters
+      const cleanedSearchInput = cleanSpecialCharacters(searchInput);
+
+      if (cleanedSearchInput === '' || descriptionText.includes(cleanedSearchInput)) {
         row.style.display = '';
       } else {
         row.style.display = 'none';
@@ -153,16 +173,33 @@
     });
   };
 
+  // Function to replace HTML entities for special characters
+  const cleanSpecialCharacters = (text) => {
+    const specialCharacterMap = {
+      '&amp;': '&',
+      '&quot;': '"',
+      '&#39;': "'",
+      // Add more mappings as needed
+    };
+
+    // Replace each special character
+    Object.entries(specialCharacterMap).forEach(([entity, character]) => {
+      text = text.replace(new RegExp(entity, 'g'), character);
+    });
+
+    return text;
+  };
+
   // Function to update the artist dropdown with unique artists
   const updateArtistDropdown = () => {
     const artistDropdown = document.getElementById('artistDropdown');
-    const artists = new Set(videoDetailsData.map(video => getArtistFromTitle(video.title)));
+    const uniqueArtists = new Set(videoDetailsData.map(video => mapArtistName(video.title)));
 
     // Clear existing options
     artistDropdown.innerHTML = '<option value="">All Artists</option>';
 
     // Add new options
-    artists.forEach(artist => {
+    uniqueArtists.forEach(artist => {
       const option = document.createElement('option');
       option.value = artist;
       option.textContent = artist;
@@ -170,10 +207,13 @@
     });
   };
 
-  // Function to extract the artist from the video title
-  const getArtistFromTitle = (title) => {
+  // Function to extract the artist from the video title and map to the original artist name
+  const mapArtistName = (title) => {
     const separatorIndex = title.indexOf(':');
-    return separatorIndex !== -1 ? title.substring(0, separatorIndex).trim() : '';
+    const artist = separatorIndex !== -1 ? title.substring(0, separatorIndex).trim() : '';
+
+    // Check if the artist has a mapping
+    return artistMapping[artist] || artist;
   };
 
   // Function to filter videos by selected artist
@@ -184,7 +224,7 @@
 
     tableRows.forEach(row => {
       const titleCell = row.cells[1];
-      const artist = getArtistFromTitle(titleCell.textContent).toLowerCase();
+      const artist = mapArtistName(titleCell.textContent).toLowerCase();
 
       if (selectedArtist === '' || artist === selectedArtist) {
         row.style.display = '';
@@ -220,6 +260,20 @@
       data.push(rowData);
     });
     return data;
+  };
+
+  // Function to create a mapping between similar artist names
+  const createArtistMapping = (data) => {
+    const mapping = {};
+
+    data.forEach(video => {
+      const artist = mapArtistName(video.title);
+      if (artist !== video.title) {
+        mapping[artist] = video.title;
+      }
+    });
+
+    return mapping;
   };
 
   // Fetch and preprocess video details and populate the table
