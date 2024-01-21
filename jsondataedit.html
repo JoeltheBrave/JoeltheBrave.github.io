@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data Editor</title>
+    <style>
+        /* Your styles go here */
+    </style>
+</head>
+<body>
+
+<h1>JSON Data Editor</h1>
+
+<form id="videoForm">
+    <!-- Your form inputs go here -->
+
+    <button type="button" onclick="addVideo()">Save</button>
+</form>
+
+<!-- Display current videos -->
+<h2>Current Videos</h2>
+<div id="currentVideos"></div>
+
+<script>
+    // Function to fetch and display current videos
+    async function fetchAndDisplayVideos() {
+        const response = await fetch('https://raw.githubusercontent.com/joelthebrave/joelthebrave.github.io/main/barryprocess.json');
+        const data = await response.json();
+
+        const currentVideosDiv = document.getElementById('currentVideos');
+        currentVideosDiv.innerHTML = '';
+
+        data.forEach(video => {
+            const videoDiv = document.createElement('div');
+            videoDiv.innerHTML = `<strong>${video.title}</strong>`;
+            currentVideosDiv.appendChild(videoDiv);
+        });
+    }
+
+    // Function to add video
+    function addVideo() {
+        const title = document.getElementById('title').value;
+        const description = document.getElementById('description').value;
+        const publishedAt = document.getElementById('publishedAt').value;
+        const videoId = document.getElementById('videoId').value;
+        const url = document.getElementById('url').value;
+        const views = document.getElementById('views').value;
+        const artist = document.getElementById('artist').value;
+        const bandMembers = document.getElementById('bandMembers').value.split(',').map(member => member.trim());
+
+        const newVideo = {
+            title,
+            description,
+            publishedAt,
+            videoId,
+            url,
+            views,
+            artist,
+            bandMembers,
+        };
+
+        // Save the new video data to a different JSON file (barryprocess.json)
+        saveToNewFile(newVideo);
+    }
+
+    // Function to save data to a new JSON file (barryprocess.json)
+    async function saveToNewFile(newVideo) {
+        const githubToken = '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';
+
+        const response = await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/barryprocess.json', {
+            method: 'GET',
+            headers: {
+                Authorization: `Bearer ${githubToken}`,
+            },
+        });
+
+        const data = await response.json();
+        const currentData = JSON.parse(atob(data.content));
+
+        // Add the new video data to the existing data
+        currentData.push(newVideo);
+
+        // Save the updated data to the new file
+        await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/barryprocess.json', {
+            method: 'PUT',
+            headers: {
+                Authorization: `Bearer ${githubToken}`,
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                message: 'Update file with new data',
+                content: btoa(JSON.stringify(currentData)),
+                sha: data.sha,
+            }),
+        });
+
+        // After processing, fetch and display the updated videos
+        fetchAndDisplayVideos();
+    }
+
+    // Fetch and display videos on page load
+    fetchAndDisplayVideos();
+</script>
+
+</body>
+</html>
