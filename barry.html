@@ -64,7 +64,6 @@
 
 <script>
   let videoDetailsData = []; // To store the original data
-  let artistMapping = {}; // To store mapping between similar artist names
 
   // Function to fetch and preprocess JSON data from the provided URL
   const fetchAndProcessVideoDetails = async () => {
@@ -77,9 +76,6 @@
         const titleRegex = /^[^:]+:.+/; // Matches "Artist: Track"
         return titleRegex.test(video.title);
       });
-
-      // Create a mapping between similar artist names
-      artistMapping = createArtistMapping(processedData);
 
       return processedData;
     } catch (error) {
@@ -193,14 +189,13 @@
   // Function to update the artist dropdown with unique artists
   const updateArtistDropdown = () => {
     const artistDropdown = document.getElementById('artistDropdown');
-    const uniqueArtists = [...new Set(videoDetailsData.map(video => mapArtistName(video.title)))].filter(Boolean); // Remove empty values
-    uniqueArtists.sort(); // Sort alphabetically
+    const artists = new Set(videoDetailsData.map(video => getArtistFromTitle(video.title)));
 
     // Clear existing options
     artistDropdown.innerHTML = '<option value="">All Artists</option>';
 
     // Add new options
-    uniqueArtists.forEach(artist => {
+    artists.forEach(artist => {
       const option = document.createElement('option');
       option.value = artist;
       option.textContent = artist;
@@ -208,13 +203,10 @@
     });
   };
 
-  // Function to extract the artist from the video title and map to the original artist name
-  const mapArtistName = (title) => {
+  // Function to extract the artist from the video title
+  const getArtistFromTitle = (title) => {
     const separatorIndex = title.indexOf(':');
-    const artist = separatorIndex !== -1 ? title.substring(0, separatorIndex).trim() : '';
-
-    // Check if the artist has a mapping
-    return artistMapping[artist] || artist;
+    return separatorIndex !== -1 ? title.substring(0, separatorIndex).trim() : '';
   };
 
   // Function to filter videos by selected artist
@@ -225,7 +217,7 @@
 
     tableRows.forEach(row => {
       const titleCell = row.cells[1];
-      const artist = mapArtistName(titleCell.textContent).toLowerCase();
+      const artist = getArtistFromTitle(titleCell.textContent).toLowerCase();
 
       if (selectedArtist === '' || artist === selectedArtist) {
         row.style.display = '';
@@ -261,20 +253,6 @@
       data.push(rowData);
     });
     return data;
-  };
-
-  // Function to create a mapping between similar artist names
-  const createArtistMapping = (data) => {
-    const mapping = {};
-
-    data.forEach(video => {
-      const artist = mapArtistName(video.title);
-      if (artist !== video.title) {
-        mapping[artist] = video.title;
-      }
-    });
-
-    return mapping;
   };
 
   // Fetch and preprocess video details and populate the table
