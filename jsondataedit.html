@@ -6,101 +6,190 @@
     <title>JSON Data Editor</title>
     <style>
         /* Your styles go here */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .edit-btn {
+            cursor: pointer;
+            color: blue;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
 
 <h1>JSON Data Editor</h1>
 
-<form id="videoForm">
-    <!-- Your form inputs go here -->
+<!-- Display current videos from video_details.json -->
+<h2>All Videos from video_details.json</h2>
+<table id="videosTable">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Published At</th>
+            <th>Video ID</th>
+            <th>URL</th>
+            <th>Views</th>
+            <th>Artist</th>
+            <th>Band Members</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
 
-    <button type="button" onclick="addVideo()">Save</button>
+<!-- Form to edit selected video -->
+<h2>Edit Video</h2>
+<form id="editForm">
+    <label for="editTitle">Title:</label>
+    <input type="text" id="editTitle" name="editTitle" required><br>
+
+    <label for="editDescription">Description:</label>
+    <textarea id="editDescription" name="editDescription" required></textarea><br>
+
+    <label for="editPublishedAt">Published At:</label>
+    <input type="datetime-local" id="editPublishedAt" name="editPublishedAt" required><br>
+
+    <label for="editVideoId">Video ID:</label>
+    <input type="text" id="editVideoId" name="editVideoId" required><br>
+
+    <label for="editUrl">URL:</label>
+    <input type="url" id="editUrl" name="editUrl" required><br>
+
+    <label for="editViews">Views:</label>
+    <input type="number" id="editViews" name="editViews" required><br>
+
+    <label for="editArtist">Artist:</label>
+    <input type="text" id="editArtist" name="editArtist" required><br>
+
+    <label for="editBandMembers">Band Members (comma-separated):</label>
+    <input type="text" id="editBandMembers" name="editBandMembers" required><br>
+
+    <button type="button" onclick="saveEditedVideo()">Save</button>
 </form>
 
-<!-- Display current videos -->
-<h2>Current Videos</h2>
-<div id="currentVideos"></div>
+<!-- Upload to GitHub button -->
+<button onclick="uploadToGitHub()">Upload to GitHub</button>
 
 <script>
-    // Function to fetch and display current videos
-    async function fetchAndDisplayVideos() {
-        const responseBarryProcess = await fetch('https://raw.githubusercontent.com/joelthebrave/joelthebrave.github.io/main/barryprocess.json');
-        const dataBarryProcess = await responseBarryProcess.json();
+    let currentVideosData; // Store the fetched videos data
 
-        const currentVideosDiv = document.getElementById('currentVideos');
-        currentVideosDiv.innerHTML = '';
+    // Fetch and display all videos from video_details.json
+    async function fetchAndDisplayAllVideos() {
+        const responseDetails = await fetch('https://raw.githubusercontent.com/joelthebrave/joelthebrave.github.io/main/video_details.json');
+        const dataDetails = await responseDetails.json();
 
-        dataBarryProcess.forEach(video => {
-            const videoDiv = document.createElement('div');
-            videoDiv.innerHTML = `<strong>${video.title}</strong>`;
-            currentVideosDiv.appendChild(videoDiv);
+        const videosTableBody = document.querySelector('#videosTable tbody');
+        videosTableBody.innerHTML = '';
+
+        dataDetails.forEach(video => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${video.title}</td>
+                <td>${video.description}</td>
+                <td>${video.publishedAt}</td>
+                <td>${video.videoId}</td>
+                <td>${video.url}</td>
+                <td>${video.views}</td>
+                <td>${video.artist}</td>
+                <td>${video.bandMembers.join(', ')}</td>
+                <td><span class="edit-btn" onclick="editVideo(${dataDetails.indexOf(video)})">Edit</span></td>
+            `;
+            videosTableBody.appendChild(row);
         });
+
+        // Store the fetched videos data
+        currentVideosData = dataDetails;
     }
 
-    // Function to add video
-    function addVideo() {
-        const title = document.getElementById('title').value;
-        const description = document.getElementById('description').value;
-        const publishedAt = document.getElementById('publishedAt').value;
-        const videoId = document.getElementById('videoId').value;
-        const url = document.getElementById('url').value;
-        const views = document.getElementById('views').value;
-        const artist = document.getElementById('artist').value;
-        const bandMembers = document.getElementById('bandMembers').value.split(',').map(member => member.trim());
+    // Function to edit selected video
+    function editVideo(index) {
+        const selectedVideo = currentVideosData[index];
 
-        const newVideo = {
-            title,
-            description,
-            publishedAt,
-            videoId,
-            url,
-            views,
-            artist,
-            bandMembers,
+        document.getElementById('editTitle').value = selectedVideo.title;
+        document.getElementById('editDescription').value = selectedVideo.description;
+        document.getElementById('editPublishedAt').value = selectedVideo.publishedAt;
+        document.getElementById('editVideoId').value = selectedVideo.videoId;
+        document.getElementById('editUrl').value = selectedVideo.url;
+        document.getElementById('editViews').value = selectedVideo.views;
+        document.getElementById('editArtist').value = selectedVideo.artist;
+        document.getElementById('editBandMembers').value = selectedVideo.bandMembers.join(', ');
+
+        // Scroll to the edit form
+        document.getElementById('editForm').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    // Function to save edited video
+    function saveEditedVideo() {
+        const editedVideo = {
+            title: document.getElementById('editTitle').value,
+            description: document.getElementById('editDescription').value,
+            publishedAt: document.getElementById('editPublishedAt').value,
+            videoId: document.getElementById('editVideoId').value,
+            url: document.getElementById('editUrl').value,
+            views: document.getElementById('editViews').value,
+            artist: document.getElementById('editArtist').value,
+            bandMembers: document.getElementById('editBandMembers').value.split(',').map(member => member.trim()),
         };
 
-        // Save the new video data to a different JSON file (barryprocess.json)
-        saveToNewFile(newVideo);
+        // Update the video data in the currentVideosData array
+        const selectedIndex = currentVideosData.findIndex(video => video.title === editedVideo.title);
+        if (selectedIndex !== -1) {
+            currentVideosData[selectedIndex] = editedVideo;
+        }
+
+        // Re-render the videos table
+        fetchAndDisplayAllVideos();
     }
 
-    // Function to save data to a new JSON file (barryprocess.json)
-    async function saveToNewFile(newVideo) {
+    // Function to upload data to GitHub
+    async function uploadToGitHub() {
         const githubToken = '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';
 
-        const response = await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/barryprocess.json', {
-            method: 'GET',
+        // Fetch current content of video_details.json from GitHub
+        const responseDetails = await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/video_details.json', {
             headers: {
                 Authorization: `Bearer ${githubToken}`,
             },
         });
 
-        const data = await response.json();
-        const currentData = JSON.parse(atob(data.content));
+        const dataDetails = await responseDetails.json();
+        const currentDetailsData = JSON.parse(atob(dataDetails.content));
 
-        // Add the new video data to the existing data
-        currentData.push(newVideo);
-
-        // Save the updated data to the new file
-        await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/barryprocess.json', {
+        // Update the content of video_details.json with the edited data
+        await fetch('https://api.github.com/repos/joelthebrave/joelthebrave.github.io/contents/video_details.json', {
             method: 'PUT',
             headers: {
                 Authorization: `Bearer ${githubToken}`,
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                message: 'Update file with new data',
-                content: btoa(JSON.stringify(currentData)),
-                sha: data.sha,
+                message: 'Update video_details.json with edited data',
+                content: btoa(JSON.stringify(currentDetailsData)),
+                sha: dataDetails.sha,
             }),
         });
-
-        // After processing, fetch and display the updated videos
-        fetchAndDisplayVideos();
     }
 
     // Fetch and display videos on page load
-    fetchAndDisplayVideos();
+    fetchAndDisplayAllVideos();
 </script>
 
 </body>
