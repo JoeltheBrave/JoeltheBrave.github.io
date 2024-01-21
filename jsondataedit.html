@@ -43,12 +43,39 @@
         /* Hide the edit form by default */
         #editForm {
             display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            z-index: 1000;
+        }
+
+        #overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+
+        #uploadResult {
+            margin-top: 10px;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
 
 <h1>Video Data Editor</h1>
+
+<!-- Upload to GitHub button -->
+<button onclick="uploadToGitHub()">Upload to GitHub</button>
+<div id="uploadResult"></div>
 
 <!-- Display current videos from video_details.json -->
 <h2>All Videos from video_details.json</h2>
@@ -69,17 +96,55 @@
     <tbody></tbody>
 </table>
 
-<!-- Form to edit selected video -->
-<h2>Edit Video</h2>
-<form id="editForm">
-    <!-- ... (unchanged) ... -->
-</form>
+<!-- Overlay for the popup -->
+<div id="overlay"></div>
 
-<!-- Upload to GitHub button -->
-<button onclick="uploadToGitHub()">Upload to GitHub</button>
+<!-- Form to edit selected video -->
+<div id="editForm">
+    <h2>Edit Video</h2>
+    <form>
+        <label for="editTitle">Title:</label>
+        <input type="text" id="editTitle" name="editTitle" required><br>
+
+        <label for="editDescription">Description:</label>
+        <textarea id="editDescription" name="editDescription" required></textarea><br>
+
+        <label for="editPublishedAt">Published At:</label>
+        <input type="datetime-local" id="editPublishedAt" name="editPublishedAt" required><br>
+
+        <label for="editVideoId">Video ID:</label>
+        <input type="text" id="editVideoId" name="editVideoId" required><br>
+
+        <label for="editUrl">URL:</label>
+        <input type="url" id="editUrl" name="editUrl" required><br>
+
+        <label for="editViews">Views:</label>
+        <input type="number" id="editViews" name="editViews" required><br>
+
+        <!-- Add input fields for "Artist" and "Band Members" -->
+        <label for="editArtist">Artist:</label>
+        <input type="text" id="editArtist" name="editArtist" required><br>
+
+        <label for="editBandMembers">Band Members:</label>
+        <input type="text" id="editBandMembers" name="editBandMembers" required><br>
+
+        <button type="button" onclick="saveEditedVideo()">Save Changes</button>
+    </form>
+    <button type="button" onclick="closeEditForm()">Close</button>
+</div>
 
 <script>
     let currentVideosData; // Store the fetched videos data
+
+    // Function to add "artist" and "bandMembers" properties to each video
+    function addArtistAndBandMembers(data) {
+        return data.map(video => {
+            // Your logic to determine artist and band members goes here
+            video.artist = "YourArtist";
+            video.bandMembers = ["Member1", "Member2"];
+            return video;
+        });
+    }
 
     // Fetch and display all videos from video_details.json
     async function fetchAndDisplayAllVideos() {
@@ -87,10 +152,15 @@
             const response = await fetch('https://joelthebrave.github.io/video_details.json');
             const data = await response.json();
 
-            const videosTableBody = document.querySelector('#videosTable tbody');
-            videosTableBody.innerHTML = '';
+            console.log('Fetched data:', data); // Log the fetched data
 
-            data.forEach((video, index) => {
+            // Add "artist" and "bandMembers" properties to each video
+            const dataWithArtistAndBandMembers = addArtistAndBandMembers(data);
+
+            const videosTableBody = document.querySelector('#videosTable tbody');
+
+            // Display videos in the table
+            dataWithArtistAndBandMembers.forEach((video, index) => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
                     <td>${video.title}</td>
@@ -107,13 +177,69 @@
             });
 
             // Store the fetched videos data
-            currentVideosData = data;
+            currentVideosData = dataWithArtistAndBandMembers;
         } catch (error) {
             console.error('Error fetching and displaying videos:', error);
         }
     }
 
-    // ... (unchanged) ...
+    // Function to edit the selected video and show the popup
+    function editVideo(index) {
+        // Your logic to populate the edit form based on the selected video
+        const selectedVideo = currentVideosData[index];
+
+        document.getElementById('editTitle').value = selectedVideo.title;
+        document.getElementById('editDescription').value = selectedVideo.description;
+        document.getElementById('editPublishedAt').value = selectedVideo.publishedAt;
+        document.getElementById('editVideoId').value = selectedVideo.videoId;
+        document.getElementById('editUrl').value = selectedVideo.url;
+        document.getElementById('editViews').value = selectedVideo.views;
+
+        // Populate "Artist" and "Band Members"
+        document.getElementById('editArtist').value = selectedVideo.artist || '';
+        document.getElementById('editBandMembers').value = selectedVideo.bandMembers ? selectedVideo.bandMembers.join(', ') : '';
+
+        // Show the overlay and edit form
+        document.getElementById('overlay').style.display = 'block';
+        document.getElementById('editForm').style.display = 'block';
+    }
+
+    // Function to close the edit form popup
+    function closeEditForm() {
+        // Hide the overlay and edit form
+        document.getElementById('overlay').style.display = 'none';
+        document.getElementById('editForm').style.display = 'none';
+    }
+
+    // Function to save the edited video
+    function saveEditedVideo() {
+        // Your logic to save the changes and update the table
+        // ...
+
+        // Hide the overlay and edit form after saving
+        document.getElementById('overlay').style.display = 'none';
+        document.getElementById('editForm').style.display = 'none';
+    }
+
+    // Function to upload data to GitHub
+    function uploadToGitHub() {
+        // Your logic for uploading to GitHub goes here
+
+        // Simulate success for demonstration purposes
+        const successMessage = 'Data successfully uploaded to GitHub!';
+        displayUploadResult(successMessage);
+    }
+
+    // Function to display the upload result
+    function displayUploadResult(message) {
+        const uploadResult = document.getElementById('uploadResult');
+        uploadResult.textContent = message;
+
+        // Clear the message after a few seconds
+        setTimeout(() => {
+            uploadResult.textContent = '';
+        }, 3000);
+    }
 
     // Fetch and display videos on page load
     fetchAndDisplayAllVideos();
