@@ -1,48 +1,5 @@
 [
   {
-    "id": "dDBvdw",
-    "headline": "Outback",
-    "title": "Sunday Sessions",
-    "startDate": "2024-01-21",
-    "endDate": "2024-01-21",
-    "startTimeString": "5:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3",
-    "description": "Outback at The Earl Haig Club Concert Room.\n\nOutback - Classic Rock Three-piece\nDoors open 5pm\nBand is...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/836/5f0eb14ed5b42626a5ca32abcd35a11befd3c555.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Outback"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1970s",
-      "1980s",
-      "1990s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/outback/6951550",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:37+00:00",
-    "created": "2023-12-19T16:57:36+00:00"
-  },
-  {
     "id": "DwvA0e",
     "headline": "Sun Dogs",
     "title": "Monday Open Mic/Jam Session",
@@ -1708,8 +1665,8 @@
       "2010s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-21T03:29:17+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-01-22T03:29:16+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
