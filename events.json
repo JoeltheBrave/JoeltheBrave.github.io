@@ -1,44 +1,5 @@
 [
   {
-    "id": "DwvA0e",
-    "headline": "Sun Dogs",
-    "title": "Monday Open Mic/Jam Session",
-    "startDate": "2024-01-22",
-    "endDate": "2024-01-22",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Come and join us for our Monday Night Open Mic/Jam Session! Any musician can participate...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/490/348/5c9b3b708e860743bf67a5782865962a6277c37a.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sun Dogs"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sun-dogs/6951540",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:37+00:00",
-    "created": "2023-12-19T16:47:23+00:00"
-  },
-  {
     "id": "nKPemA",
     "headline": "The Sand Boys",
     "title": "Friday Night Live In The Bar",
@@ -1666,7 +1627,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-22T03:29:16+00:00",
+    "lastUpdate": "2024-01-23T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
