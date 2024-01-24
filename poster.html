@@ -25,26 +25,27 @@
         .event-table tr:hover {
             background-color: #ddd;
         }
+        .editable {
+            border: 1px solid #ddd;
+            padding: 5px;
+            background-color: #fff;
+        }
+        .edit-toolbar {
+            display: none;
+            padding: 5px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+        .edit-toolbar button {
+            margin-right: 5px;
+        }
     </style>
 </head>
 <body>
     <h2>Upcoming Events</h2>
 
-    <!-- Dropdown for month selection -->
     <select id="month-selector">
-        <option value="">Select a Month</option>
-        <option value="01">January</option>
-        <option value="02">February</option>
-        <option value="03">March</option>
-        <option value="04">April</option>
-        <option value="05">May</option>
-        <option value="06">June</option>
-        <option value="07">July</option>
-        <option value="08">August</option>
-        <option value="09">September</option>
-        <option value="10">October</option>
-        <option value="11">November</option>
-        <option value="12">December</option>
+        <!-- Month options here -->
     </select>
 
     <table class="event-table" id="event-table">
@@ -54,12 +55,21 @@
                 <th>Event</th>
                 <th>Time</th>
                 <th>Price</th>
+                <th>Edit</th>
             </tr>
         </thead>
         <tbody>
             <!-- Event rows will be inserted here -->
         </tbody>
     </table>
+
+    <!-- Edit Toolbar -->
+    <div id="edit-toolbar" class="edit-toolbar">
+        <button onclick="changeFontSize('small')">Small</button>
+        <button onclick="changeFontSize('normal')">Normal</button>
+        <button onclick="changeFontSize('large')">Large</button>
+        <input type="color" id="font-color" oninput="changeFontColor(this.value)">
+    </div>
 
     <script>
         async function fetchEvents() {
@@ -73,28 +83,67 @@
                         <td>${event.headline}</td>
                         <td>${event.startTimeString || 'TBA'}</td>
                         <td>${event.price || 'Free'}</td>
+                        <td><button onclick="toggleEditMode(this.parentElement.parentElement)">Edit</button></td>
                     </tr>`;
         }
 
-        function filterEventsByMonth(events, month) {
-            return events.filter(event => event.startDate.startsWith(month));
+        function makeCellEditable(cell) {
+            cell.setAttribute('contenteditable', 'true');
+            cell.classList.add('editable');
+            currentEditableCell = cell;
+            showEditToolbar(true);
         }
 
-        async function renderTable(month) {
+        function makeCellReadOnly(cell) {
+            cell.setAttribute('contenteditable', 'false');
+            cell.classList.remove('editable');
+            currentEditableCell = null;
+            showEditToolbar(false);
+        }
+
+        function toggleEditMode(eventRow) {
+            const isEditable = eventRow.hasAttribute('data-editable');
+            const cells = eventRow.querySelectorAll('td:not(:last-child)'); // Exclude the last cell (Edit button)
+            cells.forEach(cell => {
+                isEditable ? makeCellReadOnly(cell) : makeCellEditable(cell);
+            });
+            eventRow.setAttribute('data-editable', !isEditable);
+        }
+
+        function showEditToolbar(show) {
+            const toolbar = document.getElementById('edit-toolbar');
+            toolbar.style.display = show ? 'block' : 'none';
+        }
+
+        function changeFontSize(size) {
+            if (!currentEditableCell) return;
+            switch (size) {
+                case 'small':
+                    currentEditableCell.style.fontSize = '12px';
+                    break;
+                case 'normal':
+                    currentEditableCell.style.fontSize = '16px';
+                    break;
+                case 'large':
+                    currentEditableCell.style.fontSize = '20px';
+                    break;
+            }
+        }
+
+        function changeFontColor(color) {
+            if (currentEditableCell) {
+                currentEditableCell.style.color = color;
+            }
+        }
+
+        async function renderTable() {
             const events = await fetchEvents();
-            const filteredEvents = month ? filterEventsByMonth(events, month) : events;
             const tableBody = document.querySelector('#event-table tbody');
             tableBody.innerHTML = ''; // Clear existing rows
-            filteredEvents.forEach(event => {
+            events.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
         }
-
-        document.getElementById('month-selector').addEventListener('change', (e) => {
-            const selectedMonth = e.target.value;
-            const year = new Date().getFullYear(); // Adjust this as needed
-            renderTable(`${year}-${selectedMonth}`);
-        });
 
         renderTable(); // Initial render with all events
     </script>
