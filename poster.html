@@ -31,6 +31,9 @@
             background-color: #fff;
         }
         .edit-toolbar {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
             display: none;
             padding: 5px;
             border: 1px solid #ccc;
@@ -44,8 +47,10 @@
 <body>
     <h2>Upcoming Events</h2>
 
+    <!-- Dropdown for month selection -->
     <select id="month-selector">
-        <!-- Month options here -->
+        <option value="">Select a Month</option>
+        <!-- Add month options -->
     </select>
 
     <table class="event-table" id="event-table">
@@ -78,13 +83,21 @@
         }
 
         function createEventRow(event) {
+            const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td>${event.startDate}</td>
+                        <td>${formattedDate}</td>
                         <td>${event.headline}</td>
                         <td>${event.startTimeString || 'TBA'}</td>
                         <td>${event.price || 'Free'}</td>
                         <td><button onclick="toggleEditMode(this.parentElement.parentElement)">Edit</button></td>
                     </tr>`;
+        }
+
+        function formatDate(dateString) {
+            const months = ["January", "February", "March", "April", "May", "June",
+                            "July", "August", "September", "October", "November", "December"];
+            const date = new Date(dateString);
+            return `${date.getDate()} ${months[date.getMonth()]}`;
         }
 
         function makeCellEditable(cell) {
@@ -103,7 +116,7 @@
 
         function toggleEditMode(eventRow) {
             const isEditable = eventRow.hasAttribute('data-editable');
-            const cells = eventRow.querySelectorAll('td:not(:last-child)'); // Exclude the last cell (Edit button)
+            const cells = eventRow.querySelectorAll('td:not(:last-child)');
             cells.forEach(cell => {
                 isEditable ? makeCellReadOnly(cell) : makeCellEditable(cell);
             });
@@ -136,14 +149,21 @@
             }
         }
 
-        async function renderTable() {
+        async function renderTable(month = '') {
             const events = await fetchEvents();
+            const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
             const tableBody = document.querySelector('#event-table tbody');
             tableBody.innerHTML = ''; // Clear existing rows
-            events.forEach(event => {
+            filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
         }
+
+        document.getElementById('month-selector').addEventListener('change', (e) => {
+            const selectedMonth = e.target.value;
+            const year = new Date().getFullYear(); // Adjust this as needed
+            renderTable(`${year}-${selectedMonth}`);
+        });
 
         renderTable(); // Initial render with all events
     </script>
