@@ -458,6 +458,47 @@
     "created": "2024-01-10T12:46:15+00:00"
   },
   {
+    "id": "74L1wz",
+    "headline": "The Troubadours",
+    "title": "Sunday Sessions",
+    "startDate": "2024-02-11",
+    "endDate": "2024-02-11",
+    "startTimeString": "6:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3",
+    "description": "Come and experience the magic of The Troubadours with Mark Pontin at The Earl Haig...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/493/520/6d78a9713116771c2925f63b8f54fc4e441ae898.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Troubadours"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-troubadours/6990386",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-23T17:57:33+00:00",
+    "created": "2024-01-23T17:56:35+00:00"
+  },
+  {
     "id": "Go22nk",
     "headline": "Mark Pontin",
     "title": "Monday Open Mic/Jam Session",
@@ -539,6 +580,49 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-01-10T14:16:39+00:00",
     "created": "2024-01-10T12:48:12+00:00"
+  },
+  {
+    "id": "DwlzD1",
+    "headline": "The Red Hot Pokers",
+    "title": "Sunday Sessions",
+    "startDate": "2024-02-18",
+    "endDate": "2024-02-18",
+    "startTimeString": "6:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "The Red Hot Pokers at The Earl Haig Concert Room.\nThe Red Hot Pokers will be...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/493/518/c9d4f7447e70b9ecd5947da38b025df0c55d029e.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "vayx",
+        "name": "The Red Hot Pokers"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-red-hot-pokers/6990384",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-23T17:48:42+00:00",
+    "created": "2024-01-23T17:48:26+00:00"
   },
   {
     "id": "kDaa50",
@@ -691,6 +775,48 @@
     "created": "2024-01-10T13:37:44+00:00"
   },
   {
+    "id": "kDPeQb",
+    "headline": "Tumbling Dice",
+    "title": "Sunday Sessions",
+    "startDate": "2024-02-25",
+    "endDate": "2024-02-25",
+    "startTimeString": "6:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3",
+    "description": "Tumbling Dice are a classic covers band that features members from Outback and The Hindenburgs....",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/493/516/255aab6cd054be56fcb2ebf1ed791048f2b087f8.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Tumbling Dice"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tumbling-dice/6990382",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-23T17:47:06+00:00",
+    "created": "2024-01-23T17:46:49+00:00"
+  },
+  {
     "id": "Go22Gy",
     "headline": "Ken Woods & Ol' Blue Gang",
     "title": "Monday Open Mic / Jam Session",
@@ -836,6 +962,46 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2024-01-10T14:16:56+00:00",
     "created": "2023-11-09T13:44:53+00:00"
+  },
+  {
+    "id": "Wg5QDp",
+    "headline": "Firewater",
+    "title": "Sunday Sessions",
+    "startDate": "2024-03-03",
+    "endDate": "2024-03-03",
+    "startTimeString": "6:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "Come rock out at The Earl Haig Club Concert Room to some hard rock covers...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/493/514/3cd6e3f6c77951e9d9f897c7afa47314cf25cb29.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Firewater"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/firewater/6990380",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-01-23T17:45:25+00:00",
+    "created": "2024-01-23T17:45:09+00:00"
   },
   {
     "id": "oB7dD5",
@@ -1627,7 +1793,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-23T03:29:17+00:00",
+    "lastUpdate": "2024-01-24T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
