@@ -29,6 +29,24 @@
 </head>
 <body>
     <h2>Upcoming Events</h2>
+
+    <!-- Dropdown for month selection -->
+    <select id="month-selector">
+        <option value="">Select a Month</option>
+        <option value="01">January</option>
+        <option value="02">February</option>
+        <option value="03">March</option>
+        <option value="04">April</option>
+        <option value="05">May</option>
+        <option value="06">June</option>
+        <option value="07">July</option>
+        <option value="08">August</option>
+        <option value="09">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
+    </select>
+
     <table class="event-table" id="event-table">
         <thead>
             <tr>
@@ -58,15 +76,27 @@
                     </tr>`;
         }
 
-        async function renderTable() {
+        function filterEventsByMonth(events, month) {
+            return events.filter(event => event.startDate.startsWith(month));
+        }
+
+        async function renderTable(month) {
             const events = await fetchEvents();
+            const filteredEvents = month ? filterEventsByMonth(events, month) : events;
             const tableBody = document.querySelector('#event-table tbody');
-            events.forEach(event => {
+            tableBody.innerHTML = ''; // Clear existing rows
+            filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
         }
 
-        renderTable();
+        document.getElementById('month-selector').addEventListener('change', (e) => {
+            const selectedMonth = e.target.value;
+            const year = new Date().getFullYear(); // Adjust this as needed
+            renderTable(`${year}-${selectedMonth}`);
+        });
+
+        renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
