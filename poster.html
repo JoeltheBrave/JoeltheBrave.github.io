@@ -10,6 +10,11 @@
             box-sizing: border-box;
         }
         .page-container {
+            margin: 0 auto;
+            position: relative;
+            background-color: #fff;
+        }
+        .event-table-container {
             width: 210mm; /* A4 width */
             max-height: 297mm; /* A4 height */
             margin: 0 auto;
@@ -95,6 +100,9 @@
             .page-container {
                 background-color: transparent;
             }
+            .event-table-container {
+                background-color: transparent;
+            }
             .edit-toolbar, #edit-mode-button, select, #print-button {
                 display: none;
             }
@@ -106,18 +114,6 @@
 </head>
 <body>
     <div class="page-container">
-        <!-- Edit Toolbar -->
-        <div id="edit-toolbar" class="edit-toolbar">
-            <select id="font-size-selector" onchange="changeFontSize(this.value)">
-                <script>
-                    for (let i = 7; i <= 76; i++) {
-                        document.write(`<option value="${i}px">${i}px</option>`);
-                    }
-                </script>
-            </select>
-            <input type="color" id="font-color" oninput="changeFontColor(this.value)">
-        </div>
-
         <!-- Button container on the left -->
         <div class="button-container">
             <select id="month-selector" onchange="updateSelectedMonth()">
@@ -130,19 +126,37 @@
             <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
-        <h1 id="poster-header">
-            <span id="poster-title">Earl Haig Club</span>
-            <br>
-            <span id="poster-subtitle">Live Music</span>
-            <br>
-            <span id="selected-month"></span>
-        </h1>
-
-        <!-- QR Code Container -->
-        <div id="qr-code-container">
-            <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+        <!-- Edit Toolbar -->
+        <div id="edit-toolbar" class="edit-toolbar">
+            <select id="font-size-selector" onchange="changeFontSize(this.value)">
+                <script>
+                    for (let i = 7; i <= 76; i++) {
+                        document.write(`<option value="${i}px">${i}px</option>`);
+                    }
+                </script>
+            </select>
+            <input type="color" id="font-color" oninput="changeFontColor(this.value)">
         </div>
 
+        <!-- A4-sized container for the header and QR code -->
+        <div class="event-table-container">
+            <h1 id="poster-header">
+                <span id="poster-title">Earl Haig Club</span>
+                <br>
+                <span id="poster-subtitle">Live Music</span>
+                <br>
+                <span id="selected-month"></span>
+            </h1>
+
+            <!-- QR Code Container -->
+            <div id="qr-code-container">
+                <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- A4-sized container for the event table -->
+    <div class="event-table-container">
         <table class="event-table" id="event-table">
             <thead>
                 <tr>
