@@ -29,6 +29,7 @@
             border: 1px solid #ddd;
             padding: 5px;
             background-color: #fff;
+            cursor: text;
         }
         .edit-toolbar {
             position: fixed;
@@ -50,8 +51,20 @@
     <!-- Dropdown for month selection -->
     <select id="month-selector">
         <option value="">Select a Month</option>
-        <!-- Add month options -->
+        <option value="01">January</option>
+        <option value="02">February</option>
+        <option value="03">March</option>
+        <option value="04">April</option>
+        <option value="05">May</option>
+        <option value="06">June</option>
+        <option value="07">July</option>
+        <option value="08">August</option>
+        <option value="09">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
     </select>
+    <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
 
     <table class="event-table" id="event-table">
         <thead>
@@ -60,7 +73,6 @@
                 <th>Event</th>
                 <th>Time</th>
                 <th>Price</th>
-                <th>Edit</th>
             </tr>
         </thead>
         <tbody>
@@ -89,7 +101,6 @@
                         <td>${event.headline}</td>
                         <td>${event.startTimeString || 'TBA'}</td>
                         <td>${event.price || 'Free'}</td>
-                        <td><button onclick="toggleEditMode(this.parentElement.parentElement)">Edit</button></td>
                     </tr>`;
         }
 
@@ -100,27 +111,21 @@
             return `${date.getDate()} ${months[date.getMonth()]}`;
         }
 
-        function makeCellEditable(cell) {
-            cell.setAttribute('contenteditable', 'true');
-            cell.classList.add('editable');
-            currentEditableCell = cell;
-            showEditToolbar(true);
-        }
+        let globalEditMode = false;
 
-        function makeCellReadOnly(cell) {
-            cell.setAttribute('contenteditable', 'false');
-            cell.classList.remove('editable');
-            currentEditableCell = null;
-            showEditToolbar(false);
-        }
-
-        function toggleEditMode(eventRow) {
-            const isEditable = eventRow.hasAttribute('data-editable');
-            const cells = eventRow.querySelectorAll('td:not(:last-child)');
+        function toggleGlobalEditMode() {
+            globalEditMode = !globalEditMode;
+            const cells = document.querySelectorAll('.event-table td:not(:last-child)'); // Exclude last column (Edit column)
             cells.forEach(cell => {
-                isEditable ? makeCellReadOnly(cell) : makeCellEditable(cell);
+                if (globalEditMode) {
+                    cell.setAttribute('contenteditable', 'true');
+                    cell.classList.add('editable');
+                } else {
+                    cell.setAttribute('contenteditable', 'false');
+                    cell.classList.remove('editable');
+                }
             });
-            eventRow.setAttribute('data-editable', !isEditable);
+            showEditToolbar(globalEditMode);
         }
 
         function showEditToolbar(show) {
@@ -129,24 +134,21 @@
         }
 
         function changeFontSize(size) {
-            if (!currentEditableCell) return;
-            switch (size) {
-                case 'small':
-                    currentEditableCell.style.fontSize = '12px';
-                    break;
-                case 'normal':
-                    currentEditableCell.style.fontSize = '16px';
-                    break;
-                case 'large':
-                    currentEditableCell.style.fontSize = '20px';
-                    break;
-            }
+            const selectedText = window.getSelection();
+            if (!selectedText.rangeCount) return;
+            const range = selectedText.getRangeAt(0);
+            const span = document.createElement('span');
+            span.style.fontSize = size === 'small' ? '12px' : size === 'normal' ? '16px' : '20px';
+            range.surroundContents(span);
         }
 
         function changeFontColor(color) {
-            if (currentEditableCell) {
-                currentEditableCell.style.color = color;
-            }
+            const selectedText = window.getSelection();
+            if (!selectedText.rangeCount) return;
+            const range = selectedText.getRangeAt(0);
+            const span = document.createElement('span');
+            span.style.color = color;
+            range.surroundContents(span);
         }
 
         async function renderTable(month = '') {
