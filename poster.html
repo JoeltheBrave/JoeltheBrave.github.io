@@ -70,7 +70,7 @@
             top: 10px;
             right: 10px;
         }
-        .button-container select, .button-container button {
+        .button-container button {
             margin-right: 10px;
         }
         #poster-header {
@@ -143,6 +143,15 @@
         </div>
         <div class="event-table-container">
             <table class="event-table" id="event-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Event</th>
+                        <th>Time</th>
+                        <th>Room</th> <!-- Header for the Room column -->
+                        <th>Price</th>
+                    </tr>
+                </thead>
                 <tbody>
                     <!-- Event rows will be inserted here by JavaScript -->
                 </tbody>
@@ -164,11 +173,6 @@
                         <td class="time-col">${event.startTimeString || 'TBA'}</td>
                         <td class="room-col">
                             <span class="room-text">${event.room || ''}</span>
-                            <select class="room-select" style="display: none;">
-                                <option value="">Select Room</option>
-                                <option value="Bar">Bar</option>
-                                <option value="Function Room">Function Room</option>
-                            </select>
                         </td>
                         <td class="price-col">${event.price || 'Free'}</td>
                     </tr>`;
@@ -187,7 +191,6 @@
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(:last-child)');
             const roomTextElements = document.querySelectorAll('.room-text');
-            const roomSelectElements = document.querySelectorAll('.room-select');
 
             cells.forEach(cell => {
                 cell.setAttribute('contenteditable', globalEditMode);
@@ -198,32 +201,12 @@
                 element.style.display = globalEditMode ? 'none' : '';
             });
 
-            roomSelectElements.forEach(element => {
-                element.style.display = globalEditMode ? '' : 'none';
-            });
-
             showEditToolbar(globalEditMode);
         }
 
         function showEditToolbar(show) {
             const toolbar = document.getElementById('edit-toolbar');
             toolbar.style.display = show ? 'block' : 'none';
-        }
-
-        function changeFontSize(size) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
-            const span = document.createElement('span');
-            span.style.fontSize = size;
-            range.surroundContents(span);
-        }
-
-        function changeFontColor(color) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
-            const span = document.createElement('span');
-            span.style.color = color;
-            range.surroundContents(span);
         }
 
         function printTable() {
