@@ -66,15 +66,15 @@
             background-color: #ddd;
         }
         .editable {
-    border: 1px solid #ddd;
-    padding: 0;
-    background-color: #fff;
-    cursor: text;
-    overflow: hidden; /* Hide overflow if content exceeds the fixed height */
-}
-td.editable {
-    white-space: nowrap; /* Prevent text from wrapping */
-}
+            border: 1px solid #ddd;
+            padding: 0;
+            background-color: #fff;
+            cursor: text;
+            overflow: hidden; /* Hide overflow if content exceeds the fixed height */
+        }
+        td.editable {
+            white-space: nowrap; /* Prevent text from wrapping */
+        }
         .edit-toolbar {
             position: fixed;
             bottom: 10px;
@@ -200,17 +200,16 @@ td.editable {
             return response.json();
         }
 
-function createEventRow(event) {
-    const formattedDate = formatDate(event.startDate);
-    return `<tr>
-<td class="date-col editable"><div>${formattedDate}</div></td>
-<td class="event-col editable"><div>${event.headline}</div></td>
-<td class="time-col editable"><div>${event.startTimeString || 'TBA'}</div></td>
-<td class="room-col editable"><div><span class="room-text">${event.room || ''}</span></div></td>
-<td class="price-col price-cell editable"><div>${event.price || 'Free'}</div></td>
-
-            </tr>`;
-}
+        function createEventRow(event) {
+            const formattedDate = formatDate(event.startDate);
+            return `<tr>
+                        <td class="date-col editable"><div>${formattedDate}</div></td>
+                        <td class="event-col editable"><div>${event.headline}</div></td>
+                        <td class="time-col editable"><div>${event.startTimeString || 'TBA'}</div></td>
+                        <td class="room-col editable"><div><span class="room-text">${event.room || ''}</span></div></td>
+                        <td class="price-col price-cell editable"><div>${event.price || 'Free'}</div></td>
+                    </tr>`;
+        }
 
         function formatDate(dateString) {
             const months = ["January", "February", "March", "April", "May", "June",
@@ -233,7 +232,7 @@ function createEventRow(event) {
                     toolbar: 'undo redo | bold italic underline | forecolor backcolor'
                 });
             } else {
-                tinymce.remove();
+                tinymce.remove('td.editable'); // Remove TinyMCE from td elements
             }
         }
 
