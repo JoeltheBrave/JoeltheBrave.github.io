@@ -40,12 +40,20 @@
             padding: 8px;
             text-align: left;
         }
-        .event-table .date-col, .event-table .time-col, .event-table .price-col {
-            width: 1%; /* Adjust this width as needed */
-            white-space: nowrap;
+        .event-table .date-col {
+            width: 15%; /* You can adjust the percentage */
         }
-        .event-table .event-col, .event-table .room-col {
-            width: auto; /* Takes the remaining space */
+        .event-table .event-col {
+            width: 50%; /* You can adjust the percentage */
+        }
+        .event-table .time-col {
+            width: 8%; /* You can adjust the percentage */
+        }
+        .event-table .room-col {
+            width: 8%; /* You can adjust the percentage */
+        }
+        .event-table .price-col {
+            width: 15%; /* You can adjust the percentage */
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -149,11 +157,11 @@
             <table class="event-table" id="event-table">
                 <thead>
                     <tr>
-                        <th>Date</th>
-                        <th>Event</th>
-                        <th>Time</th>
-                        <th>Room</th> <!-- Header for the Room column -->
-                        <th>Price</th>
+                        <th class="date-col">Date</th>
+                        <th class="event-col">Event</th>
+                        <th class="time-col">Time</th>
+                        <th class="room-col">Room</th> <!-- Header for the Room column -->
+                        <th class="price-col">Price</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -211,22 +219,6 @@
         function showEditToolbar(show) {
             const toolbar = document.getElementById('edit-toolbar');
             toolbar.style.display = show ? 'block' : 'none';
-        }
-
-        function changeFontSize(size) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
-            const span = document.createElement('span');
-            span.style.fontSize = size;
-            range.surroundContents(span);
-        }
-
-        function changeFontColor(color) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
-            const span = document.createElement('span');
-            span.style.color = color;
-            range.surroundContents(span);
         }
 
         function printTable() {
