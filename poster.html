@@ -201,7 +201,7 @@
                         <td class="date-col editable" contenteditable="false">${formattedDate}</td>
                         <td class="event-col editable" contenteditable="false">${event.headline}</td>
                         <td class="time-col editable" contenteditable="false">${event.startTimeString || 'TBA'}</td>
-                        <td class="room-col editable" contenteditable="false"><span class="room-text">${event.room || ''}</span></td>
+                        <td class="room-col editable" contenteditable="false">${event.room || ''}</td>
                         <td class="price-col price-cell editable" contenteditable="false">${event.price || 'Free'}</td>
                     </tr>`;
         }
@@ -215,14 +215,27 @@
 
         let globalEditMode = false;
 
-function toggleGlobalEditMode() {
-    globalEditMode = !globalEditMode;
-    if (globalEditMode) {
-        // Initialize TinyMCE as before
-    } else {
-        tinymce.remove('.editable');
-    }
-}
+        function toggleGlobalEditMode() {
+            globalEditMode = !globalEditMode;
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor',
+                    setup: function(editor) {
+                        editor.on('init', function() {
+                            this.setContent('');
+                        });
+                    }
+                });
+                document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
+            } else {
+                tinymce.remove('.editable');
+                document.getElementById('edit-mode-button').textContent = 'Edit';
+            }
+        }
+
         function printTable() {
             window.print();
         }
@@ -246,25 +259,34 @@ function toggleGlobalEditMode() {
         document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
         updateSelectedMonth();
 
-async function renderTable(month = '') {
-    const events = await fetchEvents();
-    const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
-    const tableBody = document.querySelector('#event-table tbody');
-    tableBody.innerHTML = '';
-    filteredEvents.forEach(event => {
-        tableBody.innerHTML += createEventRow(event);
-    });
+        async function renderTable(month = '') {
+            const events = await fetchEvents();
+            const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
+            const tableBody = document.querySelector('#event-table tbody');
+            tableBody.innerHTML = '';
+            filteredEvents.forEach(event => {
+                tableBody.innerHTML += createEventRow(event);
+            });
 
-    // Initialize TinyMCE after the content is added
-    if (globalEditMode) {
-        tinymce.init({
-            selector: '.editable',
-            inline: true,
-            menubar: false,
-            toolbar: 'undo redo | bold italic underline | forecolor backcolor'
-        });
-    }
-}
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+                });
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+                });
+            }
+        }
+
+        // Call renderTable to populate the initial content
+        renderTable();
 
     </script>
 </body>
