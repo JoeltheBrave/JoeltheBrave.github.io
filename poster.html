@@ -40,6 +40,19 @@
             border: 1px solid #ccc;
             background-color: #f9f9f9;
         }
+        .edit-toolbar button, .edit-toolbar select, .edit-toolbar input {
+            margin-right: 5px;
+        }
+
+        @media print {
+            body {
+                width: 210mm; /* A4 size */
+                height: 297mm; /* A4 size */
+            }
+            .edit-toolbar, #edit-mode-button, #month-selector, #print-button {
+                display: none; /* Hide editing elements when printing */
+            }
+        }
     </style>
 </head>
 <body>
@@ -50,11 +63,10 @@
         <option value="">Select a Month</option>
         <option value="01">January</option>
         <option value="02">February</option>
-        <option value="03">March</option>
-        <option value="04">April</option>
-        <!-- ... other months ... -->
+        <!-- ... other month options ... -->
     </select>
     <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+    <button id="print-button" onclick="printTable()">Print as PDF</button>
 
     <table class="event-table" id="event-table">
         <thead>
@@ -73,7 +85,7 @@
     <!-- Edit Toolbar -->
     <div id="edit-toolbar" class="edit-toolbar">
         <select id="font-size-selector" onchange="changeFontSize(this.value)">
-            <option value="">Font Size</option>
+            <!-- Font size options -->
             <script>
                 for (let i = 7; i <= 76; i++) {
                     document.write(`<option value="${i}px">${i}px</option>`);
@@ -107,31 +119,15 @@
         }
 
         let globalEditMode = false;
-        let currentEditableCell = null;
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(:last-child)');
             cells.forEach(cell => {
-                if (globalEditMode) {
-                    makeCellEditable(cell);
-                } else {
-                    makeCellReadOnly(cell);
-                }
+                cell.setAttribute('contenteditable', globalEditMode);
+                cell.classList.toggle('editable', globalEditMode);
             });
             showEditToolbar(globalEditMode);
-        }
-
-        function makeCellEditable(cell) {
-            cell.setAttribute('contenteditable', 'true');
-            cell.classList.add('editable');
-            currentEditableCell = cell;
-            showEditToolbar(true);
-        }
-
-        function makeCellReadOnly(cell) {
-            cell.removeAttribute('contenteditable');
-            cell.classList.remove('editable');
         }
 
         function showEditToolbar(show) {
@@ -140,30 +136,30 @@
         }
 
         function changeFontSize(size) {
-            if (!currentEditableCell) return;
-            const selectedText = window.getSelection();
-            if (!selectedText.rangeCount) return;
-            const range = selectedText.getRangeAt(0);
+            if (window.getSelection().rangeCount === 0) return;
+            const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.fontSize = size;
             range.surroundContents(span);
         }
 
         function changeFontColor(color) {
-            if (!currentEditableCell) return;
-            const selectedText = window.getSelection();
-            if (!selectedText.rangeCount) return;
-            const range = selectedText.getRangeAt(0);
+            if (window.getSelection().rangeCount === 0) return;
+            const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.color = color;
             range.surroundContents(span);
+        }
+
+        function printTable() {
+            window.print();
         }
 
         async function renderTable(month = '') {
             const events = await fetchEvents();
             const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
             const tableBody = document.querySelector('#event-table tbody');
-            tableBody.innerHTML = ''; // Clear existing rows
+            tableBody.innerHTML = '';
             filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
@@ -175,7 +171,7 @@
             renderTable(`${year}-${selectedMonth}`);
         });
 
-        renderTable(); // Initial render with all events
+        renderTable();
     </script>
 </body>
 </html>
