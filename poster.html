@@ -25,17 +25,22 @@
         .event-table {
             width: 100%;
             border-collapse: collapse;
-            table-layout: fixed;
+            table-layout: fixed; /* Ensures each cell is the same width */
         }
         .event-table th, .event-table td {
             border: 1px solid black;
             padding: 8px;
             text-align: left;
         }
-        .event-table th {
-            background-color: #4CAF50;
-            color: white;
+
+        /* Custom widths for specific columns */
+        .event-table .date-col, .event-table .time-col, .event-table .price-col {
+            width: 15%; /* Adjust this width as needed */
         }
+        .event-table .event-col {
+            width: auto; /* Takes the remaining space */
+        }
+
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
         }
@@ -163,6 +168,10 @@
 
     <div class="event-table-container">
         <table class="event-table" id="event-table">
+            <thead>
+                <tr>
+                </tr>
+            </thead>
             <tbody>
                 <!-- Event rows will be inserted here by JavaScript -->
             </tbody>
@@ -178,10 +187,10 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td>${formattedDate}</td>
-                        <td>${event.headline}</td>
-                        <td>${event.startTimeString || 'TBA'}</td>
-                        <td>${event.price || 'Free'}</td>
+                        <td class="date-col">${formattedDate}</td>
+                        <td class="event-col">${event.headline}</td>
+                        <td class="time-col">${event.startTimeString || 'TBA'}</td>
+                        <td class="price-col">${event.price || 'Free'}</td>
                     </tr>`;
         }
 
