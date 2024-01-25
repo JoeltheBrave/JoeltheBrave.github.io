@@ -22,10 +22,11 @@
             position: relative;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            page-break-before: auto; /* Page break before this container */
         }
         .event-table-container {
             width: 100%;
-            max-height: 257mm; /* Adjust for header and footer */
+            max-height: 185mm; /* Adjust for header and footer */
             margin: 0 auto;
             position: relative;
             background-color: #fff;
@@ -33,29 +34,29 @@
         .event-table {
             width: 100%;
             border-collapse: collapse;
-            table-layout: fixed; /* Ensures each cell is the same width */
         }
         .event-table th, .event-table td {
             border: 1px solid black;
-            padding: 8px;
+            padding: 6px;
             text-align: left;
-            font-family: 'Anton', sans-serif; /* Apply Anton font */
-            letter-spacing: 3px; /* Add letter spacing */
+            font-family: 'Anton', sans-serif;
+            letter-spacing: 2px;
+            font-size: 10px; /* Adjust font size as needed */
         }
         .event-table .date-col {
-            width: 15%; /* You can adjust the percentage */
+            width: 10%; /* You can adjust the percentage */
         }
         .event-table .event-col {
-            width: 50%; /* You can adjust the percentage */
+            width: 40%; /* You can adjust the percentage */
         }
         .event-table .time-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 10%; /* You can adjust the percentage */
         }
         .event-table .room-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 10%; /* You can adjust the percentage */
         }
         .event-table .price-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 10%; /* You can adjust the percentage */
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -65,18 +66,9 @@
         }
         .editable {
             border: 1px solid #ddd;
-            padding: 5px;
+            padding: 3px;
             background-color: #fff;
             cursor: text;
-        }
-        .edit-toolbar {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            display: none;
-            padding: 5px;
-            border: 1px solid #ccc;
-            background-color: #f9f9f9;
         }
         .button-container {
             text-align: left;
@@ -92,24 +84,24 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            padding: 20px 0;
+            padding: 10px 0;
         }
         #header-container h1 {
-            font-size: 48px;
+            font-size: 24px; /* Adjust font size as needed */
             font-family: 'Anton', sans-serif;
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             text-transform: uppercase;
             font-weight: bold;
             margin: 0;
         }
         #selected-month-container {
             text-align: center;
-            padding: 10px 0;
+            padding: 5px 0;
         }
         #selected-month-container h1 {
-            font-size: 60px;
+            font-size: 36px; /* Adjust font size as needed */
             font-family: 'Anton', sans-serif;
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             color: #E31B23;
             margin: 0;
         }
@@ -119,7 +111,7 @@
             right: 10px;
         }
         #qr-code {
-            width: 150px;
+            width: 100px; /* Adjust size as needed */
             height: auto;
         }
         @media print {
@@ -158,7 +150,7 @@
         </div>
         <div id="event-table-container">
             <div id="selected-month-container">
-                <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
+                <h1 id="selected-month"></h1>
             </div>
             <table class="event-table" id="event-table">
                 <thead>
@@ -166,12 +158,11 @@
                         <th class="date-col">Date</th>
                         <th class="event-col">Event</th>
                         <th class="time-col">Time</th>
-                        <th class="room-col">Room</th> <!-- Header for the Room column -->
+                        <th class="room-col">Room</th>
                         <th class="price-col">Price</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- Event rows will be inserted here by JavaScript -->
                 </tbody>
             </table>
         </div>
@@ -209,7 +200,7 @@
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(.price-cell):not(:last-child)');
             const roomTextElements = document.querySelectorAll('.room-text');
-            const priceCells = document.querySelectorAll('.price-cell'); // Select price cells
+            const priceCells = document.querySelectorAll('.price-cell');
 
             cells.forEach(cell => {
                 cell.setAttribute('contenteditable', globalEditMode);
@@ -220,7 +211,7 @@
                 element.style.display = globalEditMode ? 'none' : '';
             });
 
-            priceCells.forEach(priceCell => { // Handle price cells separately
+            priceCells.forEach(priceCell => {
                 priceCell.contentEditable = globalEditMode ? 'true' : 'false';
                 priceCell.classList.toggle('editable', globalEditMode);
             });
@@ -252,10 +243,6 @@
             const monthSelector = document.getElementById('month-selector');
             const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
             selectedMonthElement.textContent = selectedMonth;
-
-            // Call renderTable here to update the table when a month is selected
-            const year = new Date().getFullYear();
-            renderTable(`${year}-${monthSelector.value}`);
         }
 
         document.getElementById('month-selector').addEventListener('change', () => {
@@ -264,7 +251,7 @@
             renderTable(`${year}-${selectedMonth}`);
         });
 
-        renderTable(); // Initial render with all events
+        renderTable();
     </script>
 </body>
 </html>
