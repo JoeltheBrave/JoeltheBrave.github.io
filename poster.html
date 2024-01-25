@@ -8,7 +8,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
+            box-sizing: border-box;;
+			text-transform: uppercase;
         }
         .page-container {
             margin: 0 auto;
@@ -141,6 +142,9 @@
                 page-break-inside: avoid;
                 display: table; /* Add this line to ensure the table is displayed when printing */
             }
+			.a4-container {
+        box-shadow: none; /* This line removes the shadow when printing */
+    }
         }
     </style>
 </head>
