@@ -131,6 +131,7 @@
             }
             .event-table {
                 page-break-inside: avoid;
+                display: table; /* Add this line to ensure the table is displayed when printing */
             }
         }
     </style>
@@ -194,7 +195,7 @@
                         <td class="room-col">
                             <span class="room-text">${event.room || ''}</span>
                         </td>
-                        <td class="price-col">${event.price || 'Free'}</td>
+                        <td class="price-col price-cell">${event.price || 'Free'}</td>
                     </tr>`;
         }
 
@@ -209,8 +210,9 @@
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
-            const cells = document.querySelectorAll('.event-table td:not(:last-child)');
+            const cells = document.querySelectorAll('.event-table td:not(.price-cell):not(:last-child)');
             const roomTextElements = document.querySelectorAll('.room-text');
+            const priceCells = document.querySelectorAll('.price-cell'); // Select price cells
 
             cells.forEach(cell => {
                 cell.setAttribute('contenteditable', globalEditMode);
@@ -219,6 +221,11 @@
 
             roomTextElements.forEach(element => {
                 element.style.display = globalEditMode ? 'none' : '';
+            });
+
+            priceCells.forEach(priceCell => { // Handle price cells separately
+                priceCell.contentEditable = globalEditMode ? 'true' : 'false';
+                priceCell.classList.toggle('editable', globalEditMode);
             });
 
             showEditToolbar(globalEditMode);
