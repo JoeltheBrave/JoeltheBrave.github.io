@@ -87,27 +87,31 @@
         .button-container button {
             margin-right: 10px;
         }
-        #poster-header {
-            background-color: #fff;
-            color: black;
-            text-align: center;
+        #header-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
             padding: 20px 0;
         }
-        #poster-header h1,
-        #live-music {
-            margin: 0;
+        #header-container h1 {
             font-size: 48px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
             text-transform: uppercase;
             font-weight: bold;
+            margin: 0;
         }
-        #selected-month {
+        #selected-month-container {
+            text-align: center;
+            padding: 10px 0;
+        }
+        #selected-month-container h1 {
             font-size: 60px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
             color: #E31B23;
-            padding: 10px 0;
+            margin: 0;
         }
         #qr-code-container {
             position: absolute;
@@ -145,17 +149,19 @@
         </div>
     </div>
     <div class="a4-container">
-        <div id="poster-header">
+        <div id="header-container">
             <h1>Earl Haig Club</h1>
             <h1 id="live-music">Live Music</h1>
-            <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
         </div>
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank">
                 <img id="qr-code" src="frame.png" alt="QR Code">
             </a>
         </div>
-        <div class="event-table-container">
+        <div id="event-table-container">
+            <div id="selected-month-container">
+                <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
+            </div>
             <table class="event-table" id="event-table">
                 <thead>
                     <tr>
