@@ -76,6 +76,16 @@
             width: 150px; /* Increase the width of the QR code */
             height: auto; /* Maintain the aspect ratio */
         }
+        #poster-title {
+            font-size: 24px; /* Adjust the font size for the title */
+            margin-bottom: 10px; /* Add margin for spacing between title and subtitle */
+        }
+        #poster-subtitle {
+            font-size: 18px; /* Adjust the font size for the subtitle */
+        }
+        #selected-month {
+            font-weight: bold; /* Make the selected month bold */
+        }
 
         @media print {
             body {
@@ -94,18 +104,6 @@
     </style>
 </head>
 <body>
-    <!-- Button container -->
-    <div class="button-container">
-        <select id="month-selector">
-            <option value="">Select a Month</option>
-            <option value="01">January</option>
-            <option value="02">February</option>
-            <!-- ... other month options ... -->
-        </select>
-        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-        <button id="print-button" onclick="printTable()">Print as PDF</button>
-    </div>
-
     <div class="page-container">
         <!-- Edit Toolbar -->
         <div id="edit-toolbar" class="edit-toolbar">
@@ -120,11 +118,28 @@
             <input type="color" id="font-color" oninput="changeFontColor(this.value)">
         </div>
 
-        <h1 id="poster-header">Earl Haig Club Live Music</h1>
+        <h1 id="poster-header">
+            <span id="poster-title">Earl Haig Club</span>
+            <br>
+            <span id="selected-month"></span>
+            <span id="poster-subtitle">Live Music</span>
+        </h1>
 
         <!-- QR Code Container -->
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+        </div>
+
+        <!-- Button container -->
+        <div class="button-container">
+            <select id="month-selector" onchange="updateSelectedMonth()">
+                <option value="">Select a Month</option>
+                <option value="01">January</option>
+                <option value="02">February</option>
+                <!-- ... other month options ... -->
+            </select>
+            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+            <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
         <table class="event-table" id="event-table">
@@ -141,8 +156,21 @@
             </tbody>
         </table>
     </div>
-	
+
     <script>
+        function updateSelectedMonth() {
+            const selectedMonth = document.getElementById("month-selector").value;
+            const selectedMonthSpan = document.getElementById("selected-month");
+            if (selectedMonth) {
+                selectedMonthSpan.textContent = `Selected Month: ${selectedMonth}`;
+            } else {
+                selectedMonthSpan.textContent = "";
+            }
+        }
+
+        // Call the function to initialize the selected month display
+        updateSelectedMonth();
+
         async function fetchEvents() {
             const response = await fetch('events.json');
             return response.json();
@@ -166,7 +194,6 @@
         }
 
         let globalEditMode = false;
-        let currentEditableCell = null;
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
@@ -184,8 +211,6 @@
         function makeCellEditable(cell) {
             cell.setAttribute('contenteditable', 'true');
             cell.classList.add('editable');
-            currentEditableCell = cell;
-            showEditToolbar(true);
         }
 
         function makeCellReadOnly(cell) {
@@ -199,23 +224,23 @@
         }
 
         function changeFontSize(size) {
-            if (!currentEditableCell) return;
-            const selectedText = window.getSelection();
-            if (!selectedText.rangeCount) return;
-            const range = selectedText.getRangeAt(0);
+            if (!window.getSelection().rangeCount) return;
+            const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.fontSize = size;
             range.surroundContents(span);
         }
 
         function changeFontColor(color) {
-            if (!currentEditableCell) return;
-            const selectedText = window.getSelection();
-            if (!selectedText.rangeCount) return;
-            const range = selectedText.getRangeAt(0);
+            if (!window.getSelection().rangeCount) return;
+            const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.color = color;
             range.surroundContents(span);
+        }
+
+        function printTable() {
+            window.print();
         }
 
         async function renderTable(month = '') {
@@ -232,6 +257,7 @@
             const selectedMonth = e.target.value;
             const year = new Date().getFullYear(); // Adjust this as needed
             renderTable(`${year}-${selectedMonth}`);
+            updateSelectedMonth(); // Update selected month in header
         });
 
         renderTable(); // Initial render with all events
