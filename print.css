@@ -1,0 +1,13 @@
+/* Hide elements not needed for printing */
+body {
+    width: 100%;
+    height: 100%;
+}
+
+/* Hide the edit toolbar and other non-essential elements */
+#edit-toolbar,
+#edit-mode-button,
+#month-selector,
+#print-button {
+    display: none;
+}
