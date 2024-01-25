@@ -40,9 +40,6 @@
             border: 1px solid #ccc;
             background-color: #f9f9f9;
         }
-        .edit-toolbar button {
-            margin-right: 5px;
-        }
     </style>
 </head>
 <body>
@@ -53,7 +50,9 @@
         <option value="">Select a Month</option>
         <option value="01">January</option>
         <option value="02">February</option>
-        <!-- Add remaining month options here -->
+        <option value="03">March</option>
+        <option value="04">April</option>
+        <!-- ... other months ... -->
     </select>
     <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
 
@@ -73,9 +72,14 @@
 
     <!-- Edit Toolbar -->
     <div id="edit-toolbar" class="edit-toolbar">
-        <button onclick="changeFontSize('small')">Small</button>
-        <button onclick="changeFontSize('normal')">Normal</button>
-        <button onclick="changeFontSize('large')">Large</button>
+        <select id="font-size-selector" onchange="changeFontSize(this.value)">
+            <option value="">Font Size</option>
+            <script>
+                for (let i = 7; i <= 76; i++) {
+                    document.write(`<option value="${i}px">${i}px</option>`);
+                }
+            </script>
+        </select>
         <input type="color" id="font-color" oninput="changeFontColor(this.value)">
     </div>
 
@@ -123,7 +127,6 @@
             cell.classList.add('editable');
             currentEditableCell = cell;
             showEditToolbar(true);
-            selectText(cell);
         }
 
         function makeCellReadOnly(cell) {
@@ -136,21 +139,13 @@
             toolbar.style.display = show ? 'block' : 'none';
         }
 
-        function selectText(element) {
-            const range = document.createRange();
-            range.selectNodeContents(element);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-        }
-
         function changeFontSize(size) {
             if (!currentEditableCell) return;
             const selectedText = window.getSelection();
             if (!selectedText.rangeCount) return;
             const range = selectedText.getRangeAt(0);
             const span = document.createElement('span');
-            span.style.fontSize = size === 'small' ? '12px' : size === 'normal' ? '16px' : '20px';
+            span.style.fontSize = size;
             range.surroundContents(span);
         }
 
