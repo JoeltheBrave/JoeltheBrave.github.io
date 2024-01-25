@@ -86,6 +86,9 @@
         #selected-month {
             font-weight: bold; /* Make the selected month bold */
         }
+        #selected-month-number {
+            font-size: 18px; /* Adjust the font size for the selected month number */
+        }
 
         @media print {
             body {
@@ -121,8 +124,9 @@
         <h1 id="poster-header">
             <span id="poster-title">Earl Haig Club</span>
             <br>
-            <span id="selected-month"></span>
             <span id="poster-subtitle">Live Music</span>
+            <br>
+            <span id="selected-month-number"></span>
         </h1>
 
         <!-- QR Code Container -->
@@ -160,11 +164,11 @@
     <script>
         function updateSelectedMonth() {
             const selectedMonth = document.getElementById("month-selector").value;
-            const selectedMonthSpan = document.getElementById("selected-month");
+            const selectedMonthNumber = document.getElementById("selected-month-number");
             if (selectedMonth) {
-                selectedMonthSpan.textContent = `Selected Month: ${selectedMonth}`;
+                selectedMonthNumber.textContent = `Selected Month: ${selectedMonth}`;
             } else {
-                selectedMonthSpan.textContent = "";
+                selectedMonthNumber.textContent = "";
             }
         }
 
@@ -187,10 +191,9 @@
         }
 
         function formatDate(dateString) {
-            const months = ["January", "February", "March", "April", "May", "June",
-                            "July", "August", "September", "October", "November", "December"];
             const date = new Date(dateString);
-            return `${date.getDate()} ${months[date.getMonth()]}`;
+            const monthNumber = date.getMonth() + 1;
+            return `${date.getDate()} ${monthNumber}`;
         }
 
         let globalEditMode = false;
