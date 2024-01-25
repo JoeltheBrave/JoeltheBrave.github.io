@@ -53,16 +53,7 @@
         <option value="">Select a Month</option>
         <option value="01">January</option>
         <option value="02">February</option>
-        <option value="03">March</option>
-        <option value="04">April</option>
-        <option value="05">May</option>
-        <option value="06">June</option>
-        <option value="07">July</option>
-        <option value="08">August</option>
-        <option value="09">September</option>
-        <option value="10">October</option>
-        <option value="11">November</option>
-        <option value="12">December</option>
+        <!-- Add remaining month options here -->
     </select>
     <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
 
@@ -112,20 +103,32 @@
         }
 
         let globalEditMode = false;
+        let currentEditableCell = null;
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
-            const cells = document.querySelectorAll('.event-table td:not(:last-child)'); // Exclude last column (Edit column)
+            const cells = document.querySelectorAll('.event-table td:not(:last-child)');
             cells.forEach(cell => {
                 if (globalEditMode) {
-                    cell.setAttribute('contenteditable', 'true');
-                    cell.classList.add('editable');
+                    makeCellEditable(cell);
                 } else {
-                    cell.setAttribute('contenteditable', 'false');
-                    cell.classList.remove('editable');
+                    makeCellReadOnly(cell);
                 }
             });
             showEditToolbar(globalEditMode);
+        }
+
+        function makeCellEditable(cell) {
+            cell.setAttribute('contenteditable', 'true');
+            cell.classList.add('editable');
+            currentEditableCell = cell;
+            showEditToolbar(true);
+            selectText(cell);
+        }
+
+        function makeCellReadOnly(cell) {
+            cell.removeAttribute('contenteditable');
+            cell.classList.remove('editable');
         }
 
         function showEditToolbar(show) {
@@ -133,7 +136,16 @@
             toolbar.style.display = show ? 'block' : 'none';
         }
 
+        function selectText(element) {
+            const range = document.createRange();
+            range.selectNodeContents(element);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+        }
+
         function changeFontSize(size) {
+            if (!currentEditableCell) return;
             const selectedText = window.getSelection();
             if (!selectedText.rangeCount) return;
             const range = selectedText.getRangeAt(0);
@@ -143,6 +155,7 @@
         }
 
         function changeFontColor(color) {
+            if (!currentEditableCell) return;
             const selectedText = window.getSelection();
             if (!selectedText.rangeCount) return;
             const range = selectedText.getRangeAt(0);
