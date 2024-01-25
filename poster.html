@@ -59,10 +59,10 @@
         .button-container select {
             display: inline-block; /* Display the dropdown inline with buttons */
             vertical-align: middle; /* Align it vertically in the middle */
-            margin-left: 10px; /* Add some margin for spacing */
+            margin-right: 10px; /* Add some margin for spacing */
         }
         .button-container button {
-            margin-right: 10px; /* Add some margin between the buttons */
+            /* margin-right: 10px; */ /* Remove this line to remove margin between the buttons and dropdown */
         }
         #poster-header {
             position: relative;
@@ -94,6 +94,18 @@
     </style>
 </head>
 <body>
+    <!-- Button container -->
+    <div class="button-container">
+        <select id="month-selector">
+            <option value="">Select a Month</option>
+            <option value="01">January</option>
+            <option value="02">February</option>
+            <!-- ... other month options ... -->
+        </select>
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
+    </div>
+
     <div class="page-container">
         <!-- Edit Toolbar -->
         <div id="edit-toolbar" class="edit-toolbar">
@@ -113,18 +125,6 @@
         <!-- QR Code Container -->
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-        </div>
-
-        <!-- Button container -->
-        <div class="button-container">
-            <select id="month-selector">
-                <option value="">Select a Month</option>
-                <option value="01">January</option>
-                <option value="02">February</option>
-                <!-- ... other month options ... -->
-            </select>
-            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-            <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
         <table class="event-table" id="event-table">
