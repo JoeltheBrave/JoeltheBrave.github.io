@@ -6,6 +6,12 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            max-width: 210mm; /* A4 width */
+            max-height: 297mm; /* A4 height */
+            margin: 0 auto; /* Center the content horizontally on the page */
+            padding: 20px; /* Add some padding for spacing */
+            box-sizing: border-box; /* Include padding and border in the total width and height */
+            position: relative; /* Set position to relative for button positioning */
         }
         .event-table {
             width: 100%;
@@ -44,6 +50,19 @@
         .edit-toolbar button, .edit-toolbar select, .edit-toolbar input {
             margin-right: 5px;
         }
+        #poster-header {
+            position: relative;
+        }
+        #qr-code {
+            position: absolute;
+            top: -40px; /* Adjust the top position to place it above the content area */
+            right: 20px; /* Adjust the right position as needed */
+        }
+        .button-container {
+            position: absolute;
+            top: -40px; /* Adjust the top position to place it above the content area */
+            right: 20px; /* Adjust the right position as needed */
+        }
 
         @media print {
             body {
@@ -53,11 +72,14 @@
             .edit-toolbar, #edit-mode-button, #month-selector, #print-button {
                 display: none; /* Hide editing elements when printing */
             }
+            #qr-code, .button-container {
+                display: none; /* Hide QR code and button container when printing */
+            }
         }
     </style>
 </head>
 <body>
-    <h1 id="poster-header">Earl Haig Club Live Music</h1>
+    <h1 id="poster-header">Earl Haig Club Live Music <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a></h1>
 
     <!-- Dropdown for month selection -->
     <select id="month-selector">
@@ -66,8 +88,12 @@
         <option value="02">February</option>
         <!-- ... other month options ... -->
     </select>
-    <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-    <button id="print-button" onclick="printTable()">Print as PDF</button>
+
+    <!-- Button container -->
+    <div class="button-container">
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
+    </div>
 
     <table class="event-table" id="event-table">
         <thead>
@@ -171,7 +197,7 @@
             const selectedMonthText = selectedMonth ? document.querySelector(`#month-selector option[value="${selectedMonth}"]`).textContent : '';
             const header = document.getElementById('poster-header');
             header.textContent = `Earl Haig Club Live Music ${selectedMonthText}`;
-            renderTable(`${selectedMonth}`);
+            renderTable(selectedMonth);
         });
 
         renderTable();
