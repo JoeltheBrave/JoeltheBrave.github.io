@@ -122,10 +122,6 @@
             width: 150px;
             height: auto;
         }
-        /* Add a new CSS class to hide elements when printing */
-        .print-hide {
-            display: none;
-        }
         @media print {
             .button-container, .edit-toolbar {
                 display: none;
@@ -139,7 +135,7 @@
 </head>
 <body>
     <div class="page-container">
-        <div class="button-container print-hide"> <!-- Add the print-hide class here -->
+        <div class="button-container">
             <select id="month-selector" onchange="updateSelectedMonth()">
                 <option value="">Select a Month</option>
                 <option value="01">January</option>
