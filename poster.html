@@ -40,8 +40,12 @@
             padding: 8px;
             text-align: left;
         }
-        .event-table .date-col, .event-table .event-col, .event-table .time-col, .event-table .room-col, .event-table .price-col {
-            width: 15%; /* Adjust this width as needed */
+        .event-table .date-col, .event-table .time-col, .event-table .price-col {
+            width: 1%; /* Adjust this width as needed */
+            white-space: nowrap;
+        }
+        .event-table .event-col, .event-table .room-col {
+            width: auto; /* Takes the remaining space */
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -207,6 +211,22 @@
         function showEditToolbar(show) {
             const toolbar = document.getElementById('edit-toolbar');
             toolbar.style.display = show ? 'block' : 'none';
+        }
+
+        function changeFontSize(size) {
+            if (window.getSelection().rangeCount === 0) return;
+            const range = window.getSelection().getRangeAt(0);
+            const span = document.createElement('span');
+            span.style.fontSize = size;
+            range.surroundContents(span);
+        }
+
+        function changeFontColor(color) {
+            if (window.getSelection().rangeCount === 0) return;
+            const range = window.getSelection().getRangeAt(0);
+            const span = document.createElement('span');
+            span.style.color = color;
+            range.surroundContents(span);
         }
 
         function printTable() {
