@@ -199,13 +199,13 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td class="date-col">${formattedDate}</td>
-                        <td class="event-col">${event.headline}</td>
-                        <td class="time-col">${event.startTimeString || 'TBA'}</td>
-                        <td class="room-col">
+                        <td class="date-col editable">${formattedDate}</td>
+                        <td class="event-col editable">${event.headline}</td>
+                        <td class="time-col editable">${event.startTimeString || 'TBA'}</td>
+                        <td class="room-col editable">
                             <span class="room-text">${event.room || ''}</span>
                         </td>
-                        <td class="price-col price-cell">${event.price || 'Free'}</td>
+                        <td class="price-col price-cell editable">${event.price || 'Free'}</td>
                     </tr>`;
         }
 
@@ -220,9 +220,11 @@
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
+            const editableCells = document.querySelectorAll('.editable');
+            
             if (globalEditMode) {
                 tinymce.init({
-                    selector: '#event-table td',
+                    selector: '.editable',
                     inline: true,
                     menubar: false,
                     toolbar: 'undo redo | bold italic underline | forecolor backcolor'
