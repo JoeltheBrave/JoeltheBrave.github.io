@@ -53,10 +53,14 @@
         #poster-header {
             position: relative;
         }
-        #qr-code {
+        #qr-code-container {
             position: absolute;
             top: -40px; /* Adjust the top position to place it above the content area */
             right: 20px; /* Adjust the right position as needed */
+        }
+        #qr-code {
+            width: 80px; /* Set the width of the QR code image */
+            height: auto; /* Maintain the aspect ratio */
         }
         .button-container {
             position: absolute;
@@ -72,14 +76,19 @@
             .edit-toolbar, #edit-mode-button, #month-selector, #print-button {
                 display: none; /* Hide editing elements when printing */
             }
-            #qr-code, .button-container {
+            #qr-code-container, .button-container {
                 display: none; /* Hide QR code and button container when printing */
             }
         }
     </style>
 </head>
 <body>
-    <h1 id="poster-header">Earl Haig Club Live Music <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a></h1>
+    <h1 id="poster-header">Earl Haig Club Live Music</h1>
+
+    <!-- QR Code Container -->
+    <div id="qr-code-container">
+        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+    </div>
 
     <!-- Dropdown for month selection -->
     <select id="month-selector">
