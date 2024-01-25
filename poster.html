@@ -15,9 +15,17 @@
             position: relative;
             background-color: #fff;
         }
-        .event-table-container {
+        .a4-container {
             width: 210mm;
-            max-height: 297mm;
+            height: 297mm;
+            margin: 0 auto;
+            position: relative;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .event-table-container {
+            width: 100%;
+            max-height: 257mm; /* Adjust for header and footer */
             margin: 0 auto;
             position: relative;
             background-color: #fff;
@@ -32,15 +40,9 @@
             padding: 8px;
             text-align: left;
         }
-
-        /* Custom widths for specific columns */
-        .event-table .date-col, .event-table .time-col, .event-table .price-col {
+        .event-table .date-col, .event-table .event-col, .event-table .time-col, .event-table .room-col, .event-table .price-col {
             width: 15%; /* Adjust this width as needed */
         }
-        .event-table .event-col {
-            width: auto; /* Takes the remaining space */
-        }
-
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
         }
@@ -56,7 +58,7 @@
         .edit-toolbar {
             position: fixed;
             bottom: 10px;
-            left: 10px;
+            right: 10px;
             display: none;
             padding: 5px;
             border: 1px solid #ccc;
@@ -66,14 +68,9 @@
             text-align: left;
             position: absolute;
             top: 10px;
-            left: 10px;
+            right: 10px;
         }
-        .button-container select {
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-        .button-container button {
+        .button-container select, .button-container button {
             margin-right: 10px;
         }
         #poster-header {
@@ -100,9 +97,8 @@
         }
         #qr-code-container {
             position: absolute;
-            top: 50%;
-            right: 20px;
-            transform: translateY(-50%);
+            top: 10px;
+            right: 10px;
         }
         #qr-code {
             width: 150px;
@@ -117,13 +113,6 @@
             }
             .event-table {
                 page-break-inside: avoid;
-            }
-            #qr-code-container {
-                display: block !important;
-                position: absolute;
-                right: 20px;
-                top: 50%;
-                transform: translateY(-50%);
             }
         }
     </style>
@@ -140,38 +129,25 @@
             <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
             <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
-
-        <div id="edit-toolbar" class="edit-toolbar">
-            <select id="font-size-selector" onchange="changeFontSize(this.value)">
-                <script>
-                    for (let i = 7; i <= 76; i++) {
-                        document.write(`<option value="${i}px">${i}px</option>`);
-                    }
-                </script>
-            </select>
-            <input type="color" id="font-color" oninput="changeFontColor(this.value)">
-        </div>
     </div>
-
-    <div class="event-table-container">
-        <div id="poster-header">
-            <h1>Earl Haig Club</h1>
-            <h1 id="live-music">Live Music</h1>
-            <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
-        </div>
+    <div class="a4-container">
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank">
                 <img id="qr-code" src="frame.png" alt="QR Code">
             </a>
         </div>
-    </div>
-
-    <div class="event-table-container">
-        <table class="event-table" id="event-table">
-            <tbody>
-                <!-- Event rows will be inserted here by JavaScript -->
-            </tbody>
-        </table>
+        <div id="poster-header">
+            <h1>Earl Haig Club</h1>
+            <h1 id="live-music">Live Music</h1>
+            <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
+        </div>
+        <div class="event-table-container">
+            <table class="event-table" id="event-table">
+                <tbody>
+                    <!-- Event rows will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </div>
     </div>
 
     <script>
@@ -186,6 +162,14 @@
                         <td class="date-col">${formattedDate}</td>
                         <td class="event-col">${event.headline}</td>
                         <td class="time-col">${event.startTimeString || 'TBA'}</td>
+                        <td class="room-col">
+                            <span class="room-text">${event.room || ''}</span>
+                            <select class="room-select" style="display: none;">
+                                <option value="">Select Room</option>
+                                <option value="Bar">Bar</option>
+                                <option value="Function Room">Function Room</option>
+                            </select>
+                        </td>
                         <td class="price-col">${event.price || 'Free'}</td>
                     </tr>`;
         }
@@ -202,10 +186,22 @@
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(:last-child)');
+            const roomTextElements = document.querySelectorAll('.room-text');
+            const roomSelectElements = document.querySelectorAll('.room-select');
+
             cells.forEach(cell => {
                 cell.setAttribute('contenteditable', globalEditMode);
                 cell.classList.toggle('editable', globalEditMode);
             });
+
+            roomTextElements.forEach(element => {
+                element.style.display = globalEditMode ? 'none' : '';
+            });
+
+            roomSelectElements.forEach(element => {
+                element.style.display = globalEditMode ? '' : 'none';
+            });
+
             showEditToolbar(globalEditMode);
         }
 
@@ -242,23 +238,6 @@
             filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
-            adjustTableRowHeights();
-        }
-
-        function adjustTableRowHeights() {
-            const pageHeightMm = 297; // Height of A4 page in mm
-            const headerHeightMm = 20; // Adjust based on your header's height
-            const footerHeightMm = 20; // Adjust if you have a footer
-            const availableHeightMm = pageHeightMm - headerHeightMm - footerHeightMm;
-            const rows = document.querySelectorAll('#event-table tbody tr');
-            const numberOfRows = rows.length;
-
-            if (numberOfRows > 0) {
-                const rowHeight = availableHeightMm / numberOfRows;
-                rows.forEach(row => {
-                    row.style.height = `${rowHeight}mm`;
-                });
-            }
         }
 
         function updateSelectedMonth() {
