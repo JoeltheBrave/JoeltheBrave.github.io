@@ -70,47 +70,42 @@
             margin-right: 10px;
         }
         #poster-header {
-            position: relative;
+            background-color: #000; /* Dark background for the header */
+            color: white;
+            text-align: center;
+            padding: 20px 0;
         }
-        #poster-header h1 {
-            font-size: 24px;
-            margin: 0;
-        }
+        #poster-header h1,
         #live-music {
-            font-size: 18px;
+            margin: 0;
+            font-size: 48px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        #selected-month {
+            font-size: 60px;
+            color: #E31B23; /* Bright color for the month */
+            padding: 10px 0;
         }
         #qr-code-container {
             position: absolute;
-            top: 10px;
+            top: 50%;
             right: 20px;
+            transform: translateY(-50%);
         }
         #qr-code {
             width: 150px;
             height: auto;
         }
-        #selected-month {
-            font-size: 24px;
-            font-weight: bold;
-        }
-
         @media print {
-            body {
-                background-color: transparent;
-            }
-            .page-container {
-                background-color: transparent;
-            }
-            .event-table-container {
-                background-color: transparent;
-            }
-            .edit-toolbar, .button-container, select, #print-button {
+            .button-container, .edit-toolbar, #qr-code-container {
                 display: none;
             }
-            #qr-code-container {
-                display: block !important; /* Ensure the QR code is displayed in print */
-                position: absolute;
-                top: 10px;
-                right: 20px;
+            .event-table-container {
+                box-shadow: none;
+            }
+            .event-table {
+                page-break-inside: avoid;
             }
         }
     </style>
@@ -144,15 +139,16 @@
 
     <!-- A4-sized container for the header and QR code -->
     <div class="event-table-container">
-        <h1 id="poster-header" style="font-size: 32px;">
-            Earl Haig Club
-            <h1 id="live-music" style="font-size: 32px;">Live Music</h1>
-            <h1 id="selected-month" style="font-size: 32px;"></h1>
-        </h1>
-
-        <!-- QR Code Container -->
+        <div id="poster-header">
+            <h1>Earl Haig Club</h1>
+            <h1 id="live-music">Live Music</h1>
+            <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
+        </div>
+		        <!-- QR Code Container -->
         <div id="qr-code-container">
-            <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+            <a href="https://earlhaigclub.com" target="_blank">
+                <img id="qr-code" src="frame.png" alt="QR Code">
+            </a>
         </div>
     </div>
 
@@ -168,7 +164,7 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- Event rows will be inserted here -->
+                <!-- Event rows will be inserted here by JavaScript -->
             </tbody>
         </table>
     </div>
@@ -250,14 +246,14 @@
             updateSelectedMonth();
         });
 
-        renderTable(); // Initial render with all events
-
         function updateSelectedMonth() {
             const selectedMonthElement = document.getElementById('selected-month');
             const monthSelector = document.getElementById('month-selector');
             const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
             selectedMonthElement.textContent = selectedMonth;
         }
+
+        renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
