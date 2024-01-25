@@ -59,13 +59,13 @@
             right: 20px; /* Adjust the right position as needed */
         }
         #qr-code {
-            width: 50px; /* Set the width of the QR code image */
+            width: 150px; /* Increase the width of the QR code */
             height: auto; /* Maintain the aspect ratio */
         }
         #month-selector {
-            position: absolute;
-            top: 10px; /* Adjust the top position */
-            right: 10px; /* Adjust the right position as needed */
+            display: inline-block; /* Display the dropdown and buttons inline */
+            vertical-align: middle; /* Align them vertically in the middle */
+            margin-left: 20px; /* Add some margin for spacing */
         }
 
         @media print {
@@ -83,14 +83,6 @@
     </style>
 </head>
 <body>
-    <!-- Dropdown for month selection -->
-    <select id="month-selector">
-        <option value="">Select a Month</option>
-        <option value="01">January</option>
-        <option value="02">February</option>
-        <!-- ... other month options ... -->
-    </select>
-
     <!-- Edit Toolbar -->
     <div id="edit-toolbar" class="edit-toolbar">
         <select id="font-size-selector" onchange="changeFontSize(this.value)">
@@ -104,17 +96,25 @@
         <input type="color" id="font-color" oninput="changeFontColor(this.value)">
     </div>
 
-    <!-- Button container -->
-    <div class="button-container">
-        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-        <button id="print-button" onclick="printTable()">Print as PDF</button>
-    </div>
-
     <h1 id="poster-header">Earl Haig Club Live Music</h1>
 
     <!-- QR Code Container -->
     <div id="qr-code-container">
         <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+    </div>
+
+    <!-- Dropdown for month selection -->
+    <select id="month-selector">
+        <option value="">Select a Month</option>
+        <option value="01">January</option>
+        <option value="02">February</option>
+        <!-- ... other month options ... -->
+    </select>
+
+    <!-- Button container -->
+    <div class="button-container">
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
     </div>
 
     <table class="event-table" id="event-table">
@@ -130,6 +130,7 @@
             <!-- Event rows will be inserted here -->
         </tbody>
     </table>
+
 
     <script>
         async function fetchEvents() {
