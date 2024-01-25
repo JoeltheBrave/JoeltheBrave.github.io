@@ -75,7 +75,6 @@
             position: fixed;
             bottom: 10px;
             right: 10px;
-            display: none;
             padding: 5px;
             border: 1px solid #ccc;
             background-color: #f9f9f9;
@@ -221,13 +220,14 @@
             const editableCells = document.querySelectorAll('.editable');
             
             if (globalEditMode) {
-                editableCells.forEach(cell => {
-                    cell.contentEditable = true;
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
                 });
             } else {
-                editableCells.forEach(cell => {
-                    cell.contentEditable = false;
-                });
+                tinymce.remove();
             }
         }
 
