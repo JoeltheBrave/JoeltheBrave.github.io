@@ -39,6 +39,8 @@
             border: 1px solid black;
             padding: 8px;
             text-align: left;
+            font-family: 'Anton', sans-serif; /* Apply Anton font */
+            letter-spacing: 3px; /* Add letter spacing */
         }
         .event-table .date-col {
             width: 15%; /* You can adjust the percentage */
@@ -53,7 +55,7 @@
             width: 8%; /* You can adjust the percentage */
         }
         .event-table .price-col {
-            width: 15%; /* You can adjust the percentage */
+            width: 8%; /* You can adjust the percentage */
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -143,15 +145,15 @@
         </div>
     </div>
     <div class="a4-container">
-        <div id="qr-code-container">
-            <a href="https://earlhaigclub.com" target="_blank">
-                <img id="qr-code" src="frame.png" alt="QR Code">
-            </a>
-        </div>
         <div id="poster-header">
             <h1>Earl Haig Club</h1>
             <h1 id="live-music">Live Music</h1>
             <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
+        </div>
+        <div id="qr-code-container">
+            <a href="https://earlhaigclub.com" target="_blank">
+                <img id="qr-code" src="frame.png" alt="QR Code">
+            </a>
         </div>
         <div class="event-table-container">
             <table class="event-table" id="event-table">
