@@ -39,25 +39,13 @@
         }
         .event-table th, .event-table td {
             border: 1px solid black;
-            padding: 8px;
+            padding: 0;
             text-align: left;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
         }
-        .event-table .date-col {
+        .event-table .date-col, .event-table .event-col, .event-table .time-col, .event-table .room-col, .event-table .price-col {
             width: 15%;
-        }
-        .event-table .event-col {
-            width: 50%;
-        }
-        .event-table .time-col {
-            width: 8%;
-        }
-        .event-table .room-col {
-            width: 8%;
-        }
-        .event-table .price-col {
-            width: 8%;
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -70,14 +58,7 @@
             padding: 8px;
             background-color: #fff;
             cursor: text;
-        }
-        .edit-toolbar {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            padding: 5px;
-            border: 1px solid #ccc;
-            background-color: #f9f9f9;
+            min-height: 20px;
         }
         .button-container {
             text-align: left;
@@ -172,7 +153,7 @@
             <h1>Earl Haig Club</h1>
             <span id="live-block">
                 <h1 id="live-music">Live Music</h1>
-                <h2 id="selected-month">fg</h2>
+                <h2 id="selected-month"></h2>
             </span>
         </div>
         <div id="qr-code-container">
@@ -189,98 +170,96 @@
         </div>
     </div>
 
-<script>
-    async function fetchEvents() {
-        const response = await fetch('events.json');
-        return response.json();
-    }
-
-    function createEventRow(event) {
-        const formattedDate = formatDate(event.startDate);
-        return `<tr>
-                    <td class="date-col editable" contenteditable="false">${formattedDate}</td>
-                    <td class="event-col editable" contenteditable="false">${event.headline}</td>
-                    <td class="time-col editable" contenteditable="false">${event.startTimeString || 'TBA'}</td>
-                    <td class="room-col editable" contenteditable="false">${event.room || ''}</td>
-                    <td class="price-col price-cell editable" contenteditable="false">${event.price || 'Free'}</td>
-                </tr>`;
-    }
-
-    function formatDate(dateString) {
-        const months = ["January", "February", "March", "April", "May", "June",
-                        "July", "August", "September", "October", "November", "December"];
-        const date = new Date(dateString);
-        return `${date.getDate()} ${months[date.getMonth()]}`;
-    }
-
-    let globalEditMode = false;
-
-    function toggleGlobalEditMode() {
-        globalEditMode = !globalEditMode;
-        if (globalEditMode) {
-            tinymce.init({
-                selector: '.editable',
-                inline: true,
-                menubar: false,
-                toolbar: 'undo redo | bold italic underline | forecolor backcolor',
-                setup: function(editor) {
-                    editor.on('init', function() {
-                        this.setContent('');
-                    });
-                }
-            });
-            document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
-        } else {
-            tinymce.remove('.editable');
-            document.getElementById('edit-mode-button').textContent = 'Edit';
+    <script>
+        async function fetchEvents() {
+            const response = await fetch('events.json');
+            return response.json();
         }
-    }
 
-    function printTable() {
-        window.print();
-    }
+        function createEventRow(event) {
+            const formattedDate = formatDate(event.startDate);
+            return `<tr>
+                        <td class="date-col"><div class="editable" contenteditable="true">${formattedDate}</div></td>
+                        <td class="event-col"><div class="editable" contenteditable="true">${event.headline}</div></td>
+                        <td class="time-col"><div class="editable" contenteditable="true">${event.startTimeString || 'TBA'}</div></td>
+                        <td class="room-col"><div class="editable" contenteditable="true">${event.room || ''}</div></td>
+                        <td class="price-col"><div class="editable price-cell" contenteditable="true">${event.price || 'Free'}</div></td>
+                    </tr>`;
+        }
 
-    function updateSelectedMonth() {
-        const selectedMonthElement = document.getElementById('selected-month');
-        const monthSelector = document.getElementById('month-selector');
-        const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
-        selectedMonthElement.textContent = selectedMonth;
+        function formatDate(dateString) {
+            const months = ["January", "February", "March", "April", "May", "June",
+                            "July", "August", "September", "October", "November", "December"];
+            const date = new Date(dateString);
+            return `${date.getDate()} ${months[date.getMonth()]}`;
+        }
 
-        const year = new Date().getFullYear();
-        renderTable(`${year}-${monthSelector.value}`);
-    }
+        let globalEditMode = false;
 
-    document.getElementById('month-selector').addEventListener('change', () => {
-        const selectedMonth = document.getElementById('month-selector').value;
-        const year = new Date().getFullYear();
-        renderTable(`${year}-${selectedMonth}`);
-    });
+        function toggleGlobalEditMode() {
+            globalEditMode = !globalEditMode;
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor',
+                    setup: function(editor) {
+                        editor.on('init', function() {
+                            this.setContent('');
+                        });
+                    }
+                });
+                document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
+            } else {
+                tinymce.remove('.editable');
+                document.getElementById('edit-mode-button').textContent = 'Edit';
+            }
+        }
 
-    document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
-    updateSelectedMonth();
+        function printTable() {
+            window.print();
+        }
 
-    async function renderTable(month = '') {
-        const events = await fetchEvents();
-        const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
-        const tableBody = document.querySelector('#event-table tbody');
-        tableBody.innerHTML = '';
-        filteredEvents.forEach(event => {
-            tableBody.innerHTML += createEventRow(event);
+        function updateSelectedMonth() {
+            const selectedMonthElement = document.getElementById('selected-month');
+            const monthSelector = document.getElementById('month-selector');
+            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
+            selectedMonthElement.textContent = selectedMonth;
+
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${monthSelector.value}`);
+        }
+
+        document.getElementById('month-selector').addEventListener('change', () => {
+            const selectedMonth = document.getElementById('month-selector').value;
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${selectedMonth}`);
         });
 
-        if (globalEditMode) {
-            tinymce.init({
-                selector: '.editable',
-                inline: true,
-                menubar: false,
-                toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+        document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
+        updateSelectedMonth();
+
+        async function renderTable(month = '') {
+            const events = await fetchEvents();
+            const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
+            const tableBody = document.querySelector('#event-table tbody');
+            tableBody.innerHTML = '';
+            filteredEvents.forEach(event => {
+                tableBody.innerHTML += createEventRow(event);
             });
+
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '.editable',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+                });
+            }
         }
-    }
 
-    // Call renderTable to populate the initial content
-    renderTable();
-</script>
-
+        renderTable();
+    </script>
 </body>
 </html>
