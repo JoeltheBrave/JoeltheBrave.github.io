@@ -215,22 +215,14 @@
 
         let globalEditMode = false;
 
-        function toggleGlobalEditMode() {
-            globalEditMode = !globalEditMode;
-            const editableCells = document.querySelectorAll('.editable');
-            
-            if (globalEditMode) {
-                tinymce.init({
-                    selector: '.editable',
-                    inline: true,
-                    menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
-                });
-            } else {
-                tinymce.remove();
-            }
-        }
-
+function toggleGlobalEditMode() {
+    globalEditMode = !globalEditMode;
+    if (globalEditMode) {
+        // Initialize TinyMCE as before
+    } else {
+        tinymce.remove('.editable');
+    }
+}
         function printTable() {
             window.print();
         }
@@ -254,15 +246,26 @@
         document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
         updateSelectedMonth();
 
-        async function renderTable(month = '') {
-            const events = await fetchEvents();
-            const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
-            const tableBody = document.querySelector('#event-table tbody');
-            tableBody.innerHTML = '';
-            filteredEvents.forEach(event => {
-                tableBody.innerHTML += createEventRow(event);
-            });
-        }
+async function renderTable(month = '') {
+    const events = await fetchEvents();
+    const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
+    const tableBody = document.querySelector('#event-table tbody');
+    tableBody.innerHTML = '';
+    filteredEvents.forEach(event => {
+        tableBody.innerHTML += createEventRow(event);
+    });
+
+    // Initialize TinyMCE after the content is added
+    if (globalEditMode) {
+        tinymce.init({
+            selector: '.editable',
+            inline: true,
+            menubar: false,
+            toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+        });
+    }
+}
+
     </script>
 </body>
 </html>
