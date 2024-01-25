@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Events Poster</title>
-	<link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,8 +16,8 @@
             background-color: #fff;
         }
         .event-table-container {
-            width: 210mm; /* A4 width */
-            max-height: 297mm; /* A4 height */
+            width: 210mm;
+            max-height: 297mm;
             margin: 0 auto;
             position: relative;
             background-color: #fff;
@@ -25,7 +25,7 @@
         .event-table {
             width: 100%;
             border-collapse: collapse;
-            table-layout: fixed; /* Ensures each cell is the same width */
+            table-layout: fixed;
         }
         .event-table th, .event-table td {
             border: 1px solid black;
@@ -90,7 +90,7 @@
             font-size: 60px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
-            color: #E31B23; /* Bright color for the month */
+            color: #E31B23;
             padding: 10px 0;
         }
         #qr-code-container {
@@ -237,23 +237,9 @@
             filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
+            adjustTableRowHeights();
         }
 
-        document.getElementById('month-selector').addEventListener('change', (e) => {
-            const selectedMonth = e.target.value;
-            const year = new Date().getFullYear(); // Adjust this as needed
-            renderTable(`${year}-${selectedMonth}`);
-            updateSelectedMonth();
-        });
-
-        function updateSelectedMonth() {
-            const selectedMonthElement = document.getElementById('selected-month');
-            const monthSelector = document.getElementById('month-selector');
-            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
-            selectedMonthElement.textContent = selectedMonth;
-        }
-
-        renderTable(); // Initial render with all events
         function adjustTableRowHeights() {
             const pageHeightMm = 297; // Height of A4 page in mm
             const headerHeightMm = 20; // Adjust based on your header's height
@@ -270,13 +256,20 @@
             }
         }
 
-        async function loadAndDisplayEvents() {
-            await renderTable(); // Assuming this function populates the table
-            adjustTableRowHeights();
+        function updateSelectedMonth() {
+            const selectedMonthElement = document.getElementById('selected-month');
+            const monthSelector = document.getElementById('month-selector');
+            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
+            selectedMonthElement.textContent = selectedMonth;
         }
 
-        document.getElementById('month-selector').addEventListener('change', loadAndDisplayEvents);
-        loadAndDisplayEvents(); // Initial call to load events
+        document.getElementById('month-selector').addEventListener('change', () => {
+            const selectedMonth = document.getElementById('month-selector').value;
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${selectedMonth}`);
+        });
+
+        renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
