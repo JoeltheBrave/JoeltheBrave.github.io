@@ -52,7 +52,12 @@
         }
         .button-container {
             text-align: center; /* Center-align the buttons under the header */
-            margin-top: 10px; /* Add some margin for spacing */
+            position: absolute;
+            top: 10px; /* Adjust the top position as needed */
+            left: 10px; /* Adjust the left position for button container */
+        }
+        .button-container button {
+            margin-right: 10px; /* Add some margin between the buttons */
         }
         #poster-header {
             position: relative;
@@ -89,6 +94,12 @@
     </style>
 </head>
 <body>
+    <!-- Button container -->
+    <div class="button-container">
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
+    </div>
+
     <div class="page-container">
         <!-- Edit Toolbar -->
         <div id="edit-toolbar" class="edit-toolbar">
@@ -117,12 +128,6 @@
             <option value="02">February</option>
             <!-- ... other month options ... -->
         </select>
-
-        <!-- Button container -->
-        <div class="button-container">
-            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-            <button id="print-button" onclick="printTable()">Print as PDF</button>
-        </div>
 
         <table class="event-table" id="event-table">
             <thead>
