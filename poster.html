@@ -102,16 +102,23 @@
             width: 150px;
             height: auto;
         }
-        @media print {
-            .button-container, .edit-toolbar, #qr-code-container {
-                display: none;
-            }
-            .event-table-container {
-                box-shadow: none;
-            }
-            .event-table {
-                page-break-inside: avoid;
-            }
+	@media print {
+		.button-container, .edit-toolbar {
+			display: none;
+		}
+		.event-table-container {
+			box-shadow: none;
+		}
+		.event-table {
+			page-break-inside: avoid;
+		}
+		#qr-code-container {
+			display: block !important; /* Make sure the QR code is visible in print */
+			position: absolute;
+			right: 20px;
+			top: 10px;
+		}
+	}
         }
     </style>
 </head>
