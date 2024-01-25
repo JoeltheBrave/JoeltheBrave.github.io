@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Events Poster</title>
-	<link rel="stylesheet" type="text/css" href="print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="print.css" media="print">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
     </style>
 </head>
 <body>
-    <h2>Upcoming Events</h2>
+    <h1 id="poster-header">Earl Haig Club Live Music</h1>
 
     <!-- Dropdown for month selection -->
     <select id="month-selector">
@@ -168,8 +168,10 @@
 
         document.getElementById('month-selector').addEventListener('change', (e) => {
             const selectedMonth = e.target.value;
-            const year = new Date().getFullYear(); // Adjust this as needed
-            renderTable(`${year}-${selectedMonth}`);
+            const selectedMonthText = selectedMonth ? document.querySelector(`#month-selector option[value="${selectedMonth}"]`).textContent : '';
+            const header = document.getElementById('poster-header');
+            header.textContent = `Earl Haig Club Live Music ${selectedMonthText}`;
+            renderTable(`${selectedMonth}`);
         });
 
         renderTable();
