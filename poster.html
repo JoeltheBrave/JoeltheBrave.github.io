@@ -5,16 +5,16 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0; /* Remove default margin */
-            padding: 0; /* Remove default padding */
-            box-sizing: border-box; /* Include padding and border in the total width and height */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
         .page-container {
-            max-width: 210mm; /* A4 width */
-            max-height: 297mm; /* A4 height */
-            margin: 0 auto; /* Center the content horizontally on the page */
-            position: relative; /* Set position to relative for button positioning */
-            background-color: #fff; /* Set a white background for the A4-sized container */
+            max-width: 210mm;
+            max-height: 297mm;
+            margin: 0 auto;
+            position: relative;
+            background-color: #fff;
         }
         .event-table {
             width: 100%;
@@ -51,57 +51,57 @@
             background-color: #f9f9f9;
         }
         .button-container {
-            text-align: left; /* Align the buttons and dropdown to the left */
+            text-align: left;
             position: absolute;
-            top: 10px; /* Adjust the top position as needed */
-            left: 10px; /* Adjust the left position for button container */
+            top: 10px;
+            left: 10px;
         }
         .button-container select {
-            display: inline-block; /* Display the dropdown inline with buttons */
-            vertical-align: middle; /* Align it vertically in the middle */
-            margin-right: 10px; /* Add some margin for spacing */
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
         }
         .button-container button {
-            /* margin-right: 10px; */ /* Remove this line to remove margin between the buttons and dropdown */
+            margin-right: 10px;
         }
         #poster-header {
             position: relative;
         }
         #qr-code-container {
             position: absolute;
-            top: 10px; /* Adjust the top position */
-            right: 20px; /* Adjust the right position as needed */
+            top: 10px;
+            right: 20px;
         }
         #qr-code {
-            width: 150px; /* Increase the width of the QR code */
-            height: auto; /* Maintain the aspect ratio */
+            width: 150px;
+            height: auto;
         }
         #poster-title {
-            font-size: 24px; /* Adjust the font size for the title */
-            margin-bottom: 10px; /* Add margin for spacing between title and subtitle */
+            font-size: 24px;
+            margin-bottom: 10px;
         }
         #poster-subtitle {
-            font-size: 18px; /* Adjust the font size for the subtitle */
+            font-size: 18px;
         }
         #selected-month {
-            font-weight: bold; /* Make the selected month bold */
+            font-weight: bold;
         }
         #selected-month-number {
-            font-size: 18px; /* Adjust the font size for the selected month number */
+            font-size: 18px;
         }
 
         @media print {
             body {
-                background-color: transparent; /* Remove background color for printing */
+                background-color: transparent;
             }
             .page-container {
-                background-color: transparent; /* Remove background color for printing */
+                background-color: transparent;
             }
             .edit-toolbar, #edit-mode-button, select, #print-button {
-                display: none; /* Hide editing elements when printing */
+                display: none;
             }
             #qr-code-container, .button-container {
-                display: none; /* Hide QR code and button container when printing */
+                display: none;
             }
         }
     </style>
@@ -111,7 +111,6 @@
         <!-- Edit Toolbar -->
         <div id="edit-toolbar" class="edit-toolbar">
             <select id="font-size-selector" onchange="changeFontSize(this.value)">
-                <!-- Font size options -->
                 <script>
                     for (let i = 7; i <= 76; i++) {
                         document.write(`<option value="${i}px">${i}px</option>`);
@@ -119,6 +118,18 @@
                 </script>
             </select>
             <input type="color" id="font-color" oninput="changeFontColor(this.value)">
+        </div>
+
+        <!-- Button container on the left -->
+        <div class="button-container">
+            <select id="month-selector" onchange="updateSelectedMonth()">
+                <option value="">Select a Month</option>
+                <option value="01">January</option>
+                <option value="02">February</option>
+                <!-- ... other month options ... -->
+            </select>
+            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+            <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
         <h1 id="poster-header">
@@ -132,18 +143,6 @@
         <!-- QR Code Container -->
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-        </div>
-
-        <!-- Button container -->
-        <div class="button-container">
-            <select id="month-selector" onchange="updateSelectedMonth()">
-                <option value="">Select a Month</option>
-                <option value="01">January</option>
-                <option value="02">February</option>
-                <!-- ... other month options ... -->
-            </select>
-            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-            <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
         <table class="event-table" id="event-table">
