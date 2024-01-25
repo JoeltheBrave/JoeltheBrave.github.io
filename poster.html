@@ -72,6 +72,13 @@
         #poster-header {
             position: relative;
         }
+        #poster-header h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+        #live-music {
+            font-size: 18px;
+        }
         #qr-code-container {
             position: absolute;
             top: 10px;
@@ -81,16 +88,9 @@
             width: 150px;
             height: auto;
         }
-        #poster-title {
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-        #poster-subtitle {
-            font-size: 18px;
-        }
         #selected-month {
+            font-size: 24px;
             font-weight: bold;
-            font-size: 18px;
         }
 
         @media print {
@@ -103,11 +103,14 @@
             .event-table-container {
                 background-color: transparent;
             }
-            .edit-toolbar, #edit-mode-button, select, #print-button {
+            .edit-toolbar, .button-container, select, #print-button {
                 display: none;
             }
-            #qr-code-container, .button-container {
-                display: none;
+            #qr-code-container {
+                display: block !important; /* Ensure the QR code is displayed in print */
+                position: absolute;
+                top: 10px;
+                right: 20px;
             }
         }
     </style>
@@ -137,21 +140,19 @@
             </select>
             <input type="color" id="font-color" oninput="changeFontColor(this.value)">
         </div>
+    </div>
 
-        <!-- A4-sized container for the header and QR code -->
-        <div class="event-table-container">
-            <h1 id="poster-header">
-                <span id="poster-title">Earl Haig Club</span>
-                <br>
-                <span id="poster-subtitle">Live Music</span>
-                <br>
-                <span id="selected-month"></span>
-            </h1>
+    <!-- A4-sized container for the header and QR code -->
+    <div class="event-table-container">
+        <h1 id="poster-header" style="font-size: 32px;">
+            Earl Haig Club
+            <h1 id="live-music" style="font-size: 32px;">Live Music</h1>
+            <h1 id="selected-month" style="font-size: 32px;"></h1>
+        </h1>
 
-            <!-- QR Code Container -->
-            <div id="qr-code-container">
-                <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-            </div>
+        <!-- QR Code Container -->
+        <div id="qr-code-container">
+            <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
         </div>
     </div>
 
@@ -173,20 +174,6 @@
     </div>
 
     <script>
-        function updateSelectedMonth() {
-            const selectedMonth = document.getElementById("month-selector").value;
-            const selectedMonthText = getMonthText(selectedMonth);
-            document.getElementById("selected-month").textContent = selectedMonthText ? `Selected Month: ${selectedMonthText}` : "";
-        }
-
-        function getMonthText(monthNumber) {
-            const monthNames = [
-                "January", "February", "March", "April", "May", "June",
-                "July", "August", "September", "October", "November", "December"
-            ];
-            return monthNames[parseInt(monthNumber) - 1];
-        }
-
         async function fetchEvents() {
             const response = await fetch('events.json');
             return response.json();
@@ -203,10 +190,10 @@
         }
 
         function formatDate(dateString) {
+            const months = ["January", "February", "March", "April", "May", "June",
+                            "July", "August", "September", "October", "November", "December"];
             const date = new Date(dateString);
-            const monthNumber = date.getMonth() + 1;
-            const day = date.getDate();
-            return `${day} ${getMonthText(monthNumber)}`;
+            return `${date.getDate()} ${months[date.getMonth()]}`;
         }
 
         let globalEditMode = false;
@@ -215,23 +202,10 @@
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(:last-child)');
             cells.forEach(cell => {
-                if (globalEditMode) {
-                    makeCellEditable(cell);
-                } else {
-                    makeCellReadOnly(cell);
-                }
+                cell.setAttribute('contenteditable', globalEditMode);
+                cell.classList.toggle('editable', globalEditMode);
             });
             showEditToolbar(globalEditMode);
-        }
-
-        function makeCellEditable(cell) {
-            cell.setAttribute('contenteditable', 'true');
-            cell.classList.add('editable');
-        }
-
-        function makeCellReadOnly(cell) {
-            cell.removeAttribute('contenteditable');
-            cell.classList.remove('editable');
         }
 
         function showEditToolbar(show) {
@@ -240,7 +214,7 @@
         }
 
         function changeFontSize(size) {
-            if (!window.getSelection().rangeCount) return;
+            if (window.getSelection().rangeCount === 0) return;
             const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.fontSize = size;
@@ -248,7 +222,7 @@
         }
 
         function changeFontColor(color) {
-            if (!window.getSelection().rangeCount) return;
+            if (window.getSelection().rangeCount === 0) return;
             const range = window.getSelection().getRangeAt(0);
             const span = document.createElement('span');
             span.style.color = color;
@@ -263,7 +237,7 @@
             const events = await fetchEvents();
             const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
             const tableBody = document.querySelector('#event-table tbody');
-            tableBody.innerHTML = ''; // Clear existing rows
+            tableBody.innerHTML = '';
             filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
@@ -273,10 +247,17 @@
             const selectedMonth = e.target.value;
             const year = new Date().getFullYear(); // Adjust this as needed
             renderTable(`${year}-${selectedMonth}`);
-            updateSelectedMonth(); // Update selected month in header
+            updateSelectedMonth();
         });
 
         renderTable(); // Initial render with all events
+
+        function updateSelectedMonth() {
+            const selectedMonthElement = document.getElementById('selected-month');
+            const monthSelector = document.getElementById('month-selector');
+            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
+            selectedMonthElement.textContent = selectedMonth;
+        }
     </script>
 </body>
 </html>
