@@ -89,33 +89,39 @@
         }
         #header-container {
             display: flex;
-            justify-content: center;
-            align-items: center;
+            justify-content: left;
+            align-items: left;
             flex-direction: column;
-            padding: 0 0 20px; /* Added padding to lower the distance */
+            padding: 0 20px 10px; /* Added padding to lower the distance */
         }
         #header-container h1 {
-    font-size: 73px;
-    font-family: 'Anton', sans-serif;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-weight: bold;
-    margin: 0;
+            font-size: 90px;
+            font-family: 'Anton', sans-serif;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            font-weight: bold;
+            margin: 0;
+            padding: 0;
         }
         #header-container #live-music {
-    font-size: 70px; /* Adjust font size as needed */
-    margin-bottom: 5px; /* Lower the distance between "Live Music" and the selected month */
+            display: inline !important;
+            font-size: 60px; /* Adjust font size as needed */
+            margin-bottom: 5px; /* Lower the distance between "Live Music" and the selected month */
         }
-        #selected-month-container {
-            text-align: center;
-            padding: 10px 0;
+
+        #live-block {
+            margin-top: -20px;
         }
-        #selected-month-container h1 {
+
+        #selected-month {
+            display: inline !important;
+
             font-size: 60px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
             color: #E31B23;
             margin: 0;
+            text-transform: uppercase;
         }
         #qr-code-container {
             position: absolute;
@@ -123,8 +129,9 @@
             right: 10px;
         }
         #qr-code {
-            width: 150px;
+            width: 120px;
             height: auto;
+            padding: 5px 5px;
         }
         @media print {
             .button-container, .edit-toolbar {
@@ -163,7 +170,11 @@
     <div class="a4-container">
         <div id="header-container">
             <h1>Earl Haig Club</h1>
-            <h1 id="live-music">Live Music</h1>
+            <span id="live-block">
+                <h1 id="live-music">Live Music              
+                </h1>
+                <h2 id="selected-month">fg</h2>
+            </span>
         </div>
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank">
@@ -171,9 +182,6 @@
             </a>
         </div>
         <div id="event-table-container">
-            <div id="selected-month-container">
-                <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
-            </div>
             <table class="event-table" id="event-table">
                 <tbody>
                     <!-- Event rows will be inserted here by JavaScript -->
@@ -268,8 +276,9 @@
             const year = new Date().getFullYear();
             renderTable(`${year}-${selectedMonth}`);
         });
-
-        renderTable(); // Initial render with all events
+        document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
+        updateSelectedMonth();
+        // renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
