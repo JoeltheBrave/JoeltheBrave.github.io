@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Events Poster</title>
-    <link rel="stylesheet" type="text/css" href="print.css" media="print">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -63,9 +62,8 @@
             height: auto; /* Maintain the aspect ratio */
         }
         .button-container {
-            position: absolute;
-            top: 10px; /* Adjust the top position */
-            right: 120px; /* Adjust the right position as needed */
+            text-align: center; /* Center-align the buttons under the header */
+            margin-top: 10px; /* Add some margin for spacing */
         }
         #month-selector {
             position: absolute;
@@ -90,17 +88,6 @@
 <body>
     <h1 id="poster-header">Earl Haig Club Live Music</h1>
 
-    <!-- QR Code Container -->
-    <div id="qr-code-container">
-        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-    </div>
-
-    <!-- Button container -->
-    <div class="button-container">
-        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-        <button id="print-button" onclick="printTable()">Print as PDF</button>
-    </div>
-
     <!-- Dropdown for month selection -->
     <select id="month-selector">
         <option value="">Select a Month</option>
@@ -108,6 +95,11 @@
         <option value="02">February</option>
         <!-- ... other month options ... -->
     </select>
+
+    <!-- QR Code Container -->
+    <div id="qr-code-container">
+        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+    </div>
 
     <table class="event-table" id="event-table">
         <thead>
@@ -134,6 +126,12 @@
             </script>
         </select>
         <input type="color" id="font-color" oninput="changeFontColor(this.value)">
+    </div>
+
+    <!-- Button container -->
+    <div class="button-container">
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
     </div>
 
     <script>
