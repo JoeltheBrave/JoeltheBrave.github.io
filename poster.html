@@ -67,19 +67,14 @@
         }
         .editable {
             border: 1px solid #ddd;
-            padding: 0;
+            padding: 8px;
             background-color: #fff;
             cursor: text;
-            overflow: hidden; /* Hide overflow if content exceeds the fixed height */
-        }
-        td.editable {
-            white-space: nowrap; /* Prevent text from wrapping */
         }
         .edit-toolbar {
             position: fixed;
             bottom: 10px;
             right: 10px;
-            display: none;
             padding: 5px;
             border: 1px solid #ccc;
             background-color: #f9f9f9;
@@ -203,11 +198,11 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td class="date-col"><div class="editable">${formattedDate}</div></td>
-                        <td class="event-col editable"><div>${event.headline}</div></td>
-                        <td class="time-col editable"><div>${event.startTimeString || 'TBA'}</div></td>
-                        <td class="room-col editable"><div><span class="room-text">${event.room || ''}</span></div></td>
-                        <td class="price-col price-cell editable"><div>${event.price || 'Free'}</div></td>
+                        <td class="date-col editable" contenteditable="false">${formattedDate}</td>
+                        <td class="event-col editable" contenteditable="false">${event.headline}</td>
+                        <td class="time-col editable" contenteditable="false">${event.startTimeString || 'TBA'}</td>
+                        <td class="room-col editable" contenteditable="false"><span class="room-text">${event.room || ''}</span></td>
+                        <td class="price-col price-cell editable" contenteditable="false">${event.price || 'Free'}</td>
                     </tr>`;
         }
 
@@ -232,7 +227,7 @@
                     toolbar: 'undo redo | bold italic underline | forecolor backcolor'
                 });
             } else {
-                tinymce.remove('td.editable'); // Remove TinyMCE from td elements
+                tinymce.remove();
             }
         }
 
