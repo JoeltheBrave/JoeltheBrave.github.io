@@ -83,8 +83,6 @@
     </style>
 </head>
 <body>
-    <h1 id="poster-header">Earl Haig Club Live Music</h1>
-
     <!-- Dropdown for month selection -->
     <select id="month-selector">
         <option value="">Select a Month</option>
@@ -92,25 +90,6 @@
         <option value="02">February</option>
         <!-- ... other month options ... -->
     </select>
-
-    <!-- QR Code Container -->
-    <div id="qr-code-container">
-        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-    </div>
-
-    <table class="event-table" id="event-table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Event</th>
-                <th>Time</th>
-                <th>Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Event rows will be inserted here -->
-        </tbody>
-    </table>
 
     <!-- Edit Toolbar -->
     <div id="edit-toolbar" class="edit-toolbar">
@@ -130,6 +109,27 @@
         <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
         <button id="print-button" onclick="printTable()">Print as PDF</button>
     </div>
+
+    <h1 id="poster-header">Earl Haig Club Live Music</h1>
+
+    <!-- QR Code Container -->
+    <div id="qr-code-container">
+        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+    </div>
+
+    <table class="event-table" id="event-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Event</th>
+                <th>Time</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Event rows will be inserted here -->
+        </tbody>
+    </table>
 
     <script>
         async function fetchEvents() {
