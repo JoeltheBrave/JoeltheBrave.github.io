@@ -252,6 +252,10 @@
             const monthSelector = document.getElementById('month-selector');
             const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
             selectedMonthElement.textContent = selectedMonth;
+
+            // Call renderTable here to update the table when a month is selected
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${monthSelector.value}`);
         }
 
         document.getElementById('month-selector').addEventListener('change', () => {
