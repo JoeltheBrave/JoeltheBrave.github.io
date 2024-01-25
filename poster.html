@@ -5,12 +5,16 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+            box-sizing: border-box; /* Include padding and border in the total width and height */
+        }
+        .page-container {
             max-width: 210mm; /* A4 width */
             max-height: 297mm; /* A4 height */
             margin: 0 auto; /* Center the content horizontally on the page */
-            padding: 20px; /* Add some padding for spacing */
-            box-sizing: border-box; /* Include padding and border in the total width and height */
             position: relative; /* Set position to relative for button positioning */
+            background-color: #fff; /* Set a white background for the A4-sized container */
         }
         .event-table {
             width: 100%;
@@ -70,8 +74,10 @@
 
         @media print {
             body {
-                width: 210mm; /* A4 size */
-                height: 297mm; /* A4 size */
+                background-color: transparent; /* Remove background color for printing */
+            }
+            .page-container {
+                background-color: transparent; /* Remove background color for printing */
             }
             .edit-toolbar, #edit-mode-button, #month-selector, #print-button {
                 display: none; /* Hide editing elements when printing */
@@ -83,54 +89,55 @@
     </style>
 </head>
 <body>
-    <!-- Edit Toolbar -->
-    <div id="edit-toolbar" class="edit-toolbar">
-        <select id="font-size-selector" onchange="changeFontSize(this.value)">
-            <!-- Font size options -->
-            <script>
-                for (let i = 7; i <= 76; i++) {
-                    document.write(`<option value="${i}px">${i}px</option>`);
-                }
-            </script>
+    <div class="page-container">
+        <!-- Edit Toolbar -->
+        <div id="edit-toolbar" class="edit-toolbar">
+            <select id="font-size-selector" onchange="changeFontSize(this.value)">
+                <!-- Font size options -->
+                <script>
+                    for (let i = 7; i <= 76; i++) {
+                        document.write(`<option value="${i}px">${i}px</option>`);
+                    }
+                </script>
+            </select>
+            <input type="color" id="font-color" oninput="changeFontColor(this.value)">
+        </div>
+
+        <h1 id="poster-header">Earl Haig Club Live Music</h1>
+
+        <!-- QR Code Container -->
+        <div id="qr-code-container">
+            <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
+        </div>
+
+        <!-- Dropdown for month selection -->
+        <select id="month-selector">
+            <option value="">Select a Month</option>
+            <option value="01">January</option>
+            <option value="02">February</option>
+            <!-- ... other month options ... -->
         </select>
-        <input type="color" id="font-color" oninput="changeFontColor(this.value)">
+
+        <!-- Button container -->
+        <div class="button-container">
+            <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+            <button id="print-button" onclick="printTable()">Print as PDF</button>
+        </div>
+
+        <table class="event-table" id="event-table">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Event</th>
+                    <th>Time</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Event rows will be inserted here -->
+            </tbody>
+        </table>
     </div>
-
-    <h1 id="poster-header">Earl Haig Club Live Music</h1>
-
-    <!-- QR Code Container -->
-    <div id="qr-code-container">
-        <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
-    </div>
-
-    <!-- Dropdown for month selection -->
-    <select id="month-selector">
-        <option value="">Select a Month</option>
-        <option value="01">January</option>
-        <option value="02">February</option>
-        <!-- ... other month options ... -->
-    </select>
-
-    <!-- Button container -->
-    <div class="button-container">
-        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-        <button id="print-button" onclick="printTable()">Print as PDF</button>
-    </div>
-
-    <table class="event-table" id="event-table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Event</th>
-                <th>Time</th>
-                <th>Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Event rows will be inserted here -->
-        </tbody>
-    </table>
-
 
     <script>
         async function fetchEvents() {
