@@ -85,8 +85,6 @@
         }
         #selected-month {
             font-weight: bold;
-        }
-        #selected-month-number {
             font-size: 18px;
         }
 
@@ -137,7 +135,7 @@
             <br>
             <span id="poster-subtitle">Live Music</span>
             <br>
-            <span id="selected-month-number"></span>
+            <span id="selected-month"></span>
         </h1>
 
         <!-- QR Code Container -->
@@ -163,16 +161,17 @@
     <script>
         function updateSelectedMonth() {
             const selectedMonth = document.getElementById("month-selector").value;
-            const selectedMonthNumber = document.getElementById("selected-month-number");
-            if (selectedMonth) {
-                selectedMonthNumber.textContent = `Selected Month: ${selectedMonth}`;
-            } else {
-                selectedMonthNumber.textContent = "";
-            }
+            const selectedMonthText = getMonthText(selectedMonth);
+            document.getElementById("selected-month").textContent = selectedMonthText ? `Selected Month: ${selectedMonthText}` : "";
         }
 
-        // Call the function to initialize the selected month display
-        updateSelectedMonth();
+        function getMonthText(monthNumber) {
+            const monthNames = [
+                "January", "February", "March", "April", "May", "June",
+                "July", "August", "September", "October", "November", "December"
+            ];
+            return monthNames[parseInt(monthNumber) - 1];
+        }
 
         async function fetchEvents() {
             const response = await fetch('events.json');
@@ -192,7 +191,8 @@
         function formatDate(dateString) {
             const date = new Date(dateString);
             const monthNumber = date.getMonth() + 1;
-            return `${date.getDate()} ${monthNumber}`;
+            const day = date.getDate();
+            return `${day} ${getMonthText(monthNumber)}`;
         }
 
         let globalEditMode = false;
