@@ -55,17 +55,22 @@
         }
         #qr-code-container {
             position: absolute;
-            top: -40px; /* Adjust the top position to place it above the content area */
+            top: 10px; /* Adjust the top position */
             right: 20px; /* Adjust the right position as needed */
         }
         #qr-code {
-            width: 80px; /* Set the width of the QR code image */
+            width: 50px; /* Set the width of the QR code image */
             height: auto; /* Maintain the aspect ratio */
         }
         .button-container {
             position: absolute;
-            top: -40px; /* Adjust the top position to place it above the content area */
-            right: 20px; /* Adjust the right position as needed */
+            top: 10px; /* Adjust the top position */
+            right: 120px; /* Adjust the right position as needed */
+        }
+        #month-selector {
+            position: absolute;
+            top: 10px; /* Adjust the top position */
+            right: 10px; /* Adjust the right position as needed */
         }
 
         @media print {
@@ -90,6 +95,12 @@
         <a href="https://earlhaigclub.com" target="_blank"><img id="qr-code" src="frame.png" alt="QR Code"></a>
     </div>
 
+    <!-- Button container -->
+    <div class="button-container">
+        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
+        <button id="print-button" onclick="printTable()">Print as PDF</button>
+    </div>
+
     <!-- Dropdown for month selection -->
     <select id="month-selector">
         <option value="">Select a Month</option>
@@ -97,12 +108,6 @@
         <option value="02">February</option>
         <!-- ... other month options ... -->
     </select>
-
-    <!-- Button container -->
-    <div class="button-container">
-        <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
-        <button id="print-button" onclick="printTable()">Print as PDF</button>
-    </div>
 
     <table class="event-table" id="event-table">
         <thead>
