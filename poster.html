@@ -27,7 +27,7 @@
         }
         .event-table-container {
             width: 100%;
-            max-height: 257mm; /* Adjust for header and footer */
+            max-height: 257mm;
             margin: 0 auto;
             position: relative;
             background-color: #fff;
@@ -35,29 +35,29 @@
         .event-table {
             width: 100%;
             border-collapse: collapse;
-            table-layout: fixed; /* Ensures each cell is the same width */
+            table-layout: fixed;
         }
         .event-table th, .event-table td {
             border: 1px solid black;
             padding: 8px;
             text-align: left;
-            font-family: 'Anton', sans-serif; /* Apply Anton font */
-            letter-spacing: 3px; /* Add letter spacing */
+            font-family: 'Anton', sans-serif;
+            letter-spacing: 3px;
         }
         .event-table .date-col {
-            width: 15%; /* You can adjust the percentage */
+            width: 15%;
         }
         .event-table .event-col {
-            width: 50%; /* You can adjust the percentage */
+            width: 50%;
         }
         .event-table .time-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 8%;
         }
         .event-table .room-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 8%;
         }
         .event-table .price-col {
-            width: 8%; /* You can adjust the percentage */
+            width: 8%;
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -94,7 +94,7 @@
             justify-content: left;
             align-items: left;
             flex-direction: column;
-            padding: 0 20px 10px; /* Added padding to lower the distance */
+            padding: 0 20px 10px;
         }
         #header-container h1 {
             font-size: 90px;
@@ -107,17 +107,14 @@
         }
         #header-container #live-music {
             display: inline !important;
-            font-size: 60px; /* Adjust font size as needed */
-            margin-bottom: 5px; /* Lower the distance between "Live Music" and the selected month */
+            font-size: 60px;
+            margin-bottom: 5px;
         }
-
         #live-block {
             margin-top: -20px;
         }
-
         #selected-month {
             display: inline !important;
-
             font-size: 60px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
@@ -141,10 +138,10 @@
             }
             .event-table {
                 page-break-inside: avoid;
-                display: table; /* Add this line to ensure the table is displayed when printing */
+                display: table;
             }
-			.a4-container {
-                box-shadow: none; /* This line removes the shadow when printing */
+            .a4-container {
+                box-shadow: none;
             }
         }
     </style>
