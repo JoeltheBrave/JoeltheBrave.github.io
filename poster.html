@@ -3,13 +3,14 @@
 <head>
     <title>Events Poster</title>
     <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;;
-			text-transform: uppercase;
+            box-sizing: border-box;
+            text-transform: uppercase;
         }
         .page-container {
             margin: 0 auto;
@@ -143,8 +144,8 @@
                 display: table; /* Add this line to ensure the table is displayed when printing */
             }
 			.a4-container {
-        box-shadow: none; /* This line removes the shadow when printing */
-    }
+                box-shadow: none; /* This line removes the shadow when printing */
+            }
         }
     </style>
 </head>
@@ -165,7 +166,6 @@
                 <option value="10">October</option>
                 <option value="11">November</option>
                 <option value="12">December</option>
-                <!-- ... other month options ... -->
             </select>
             <button id="edit-mode-button" onclick="toggleGlobalEditMode()">Edit</button>
             <button id="print-button" onclick="printTable()">Print as PDF</button>
@@ -175,8 +175,7 @@
         <div id="header-container">
             <h1>Earl Haig Club</h1>
             <span id="live-block">
-                <h1 id="live-music">Live Music              
-                </h1>
+                <h1 id="live-music">Live Music</h1>
                 <h2 id="selected-month">fg</h2>
             </span>
         </div>
@@ -224,35 +223,40 @@
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
-            const cells = document.querySelectorAll('.event-table td:not(.price-cell):not(:last-child)');
-            const roomTextElements = document.querySelectorAll('.room-text');
-            const priceCells = document.querySelectorAll('.price-cell'); // Select price cells
-
-            cells.forEach(cell => {
-                cell.setAttribute('contenteditable', globalEditMode);
-                cell.classList.toggle('editable', globalEditMode);
-            });
-
-            roomTextElements.forEach(element => {
-                element.style.display = globalEditMode ? 'none' : '';
-            });
-
-            priceCells.forEach(priceCell => { // Handle price cells separately
-                priceCell.contentEditable = globalEditMode ? 'true' : 'false';
-                priceCell.classList.toggle('editable', globalEditMode);
-            });
-
-            showEditToolbar(globalEditMode);
-        }
-
-        function showEditToolbar(show) {
-            const toolbar = document.getElementById('edit-toolbar');
-            toolbar.style.display = show ? 'block' : 'none';
+            if (globalEditMode) {
+                tinymce.init({
+                    selector: '#event-table td',
+                    inline: true,
+                    menubar: false,
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+                });
+            } else {
+                tinymce.remove();
+            }
         }
 
         function printTable() {
             window.print();
         }
+
+        function updateSelectedMonth() {
+            const selectedMonthElement = document.getElementById('selected-month');
+            const monthSelector = document.getElementById('month-selector');
+            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
+            selectedMonthElement.textContent = selectedMonth;
+
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${monthSelector.value}`);
+        }
+
+        document.getElementById('month-selector').addEventListener('change', () => {
+            const selectedMonth = document.getElementById('month-selector').value;
+            const year = new Date().getFullYear();
+            renderTable(`${year}-${selectedMonth}`);
+        });
+
+        document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
+        updateSelectedMonth();
 
         async function renderTable(month = '') {
             const events = await fetchEvents();
@@ -263,26 +267,6 @@
                 tableBody.innerHTML += createEventRow(event);
             });
         }
-
-        function updateSelectedMonth() {
-            const selectedMonthElement = document.getElementById('selected-month');
-            const monthSelector = document.getElementById('month-selector');
-            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
-            selectedMonthElement.textContent = selectedMonth;
-
-            // Call renderTable here to update the table when a month is selected
-            const year = new Date().getFullYear();
-            renderTable(`${year}-${monthSelector.value}`);
-        }
-
-        document.getElementById('month-selector').addEventListener('change', () => {
-            const selectedMonth = document.getElementById('month-selector').value;
-            const year = new Date().getFullYear();
-            renderTable(`${year}-${selectedMonth}`);
-        });
-        document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
-        updateSelectedMonth();
-        // renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
