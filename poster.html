@@ -41,11 +41,9 @@
             border: 1px solid black;
             padding: 0;
             text-align: left;
-            font-family: 'Anton', sans-serif;
-            letter-spacing: 3px;
         }
         .event-table .date-col, .event-table .event-col, .event-table .time-col, .event-table .room-col, .event-table .price-col {
-            width: 15%;
+            width: 20%;
         }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -54,11 +52,10 @@
             background-color: #ddd;
         }
         .editable {
-            border: 1px solid #ddd;
             padding: 8px;
-            background-color: #fff;
-            cursor: text;
             min-height: 20px;
+            width: 100%;
+            box-sizing: border-box;
         }
         .button-container {
             text-align: left;
@@ -86,15 +83,12 @@
             padding: 0;
         }
         #header-container #live-music {
-            display: inline !important;
+            display: inline;
             font-size: 60px;
             margin-bottom: 5px;
         }
-        #live-block {
-            margin-top: -20px;
-        }
         #selected-month {
-            display: inline !important;
+            display: inline;
             font-size: 60px;
             font-family: 'Anton', sans-serif;
             letter-spacing: 3px;
@@ -179,11 +173,11 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td class="date-col"><div class="editable" contenteditable="true">${formattedDate}</div></td>
-                        <td class="event-col"><div class="editable" contenteditable="true">${event.headline}</div></td>
-                        <td class="time-col"><div class="editable" contenteditable="true">${event.startTimeString || 'TBA'}</div></td>
-                        <td class="room-col"><div class="editable" contenteditable="true">${event.room || ''}</div></td>
-                        <td class="price-col"><div class="editable price-cell" contenteditable="true">${event.price || 'Free'}</div></td>
+                        <td class="date-col"><div class="editable" contenteditable="false">${formattedDate}</div></td>
+                        <td class="event-col"><div class="editable" contenteditable="false">${event.headline}</div></td>
+                        <td class="time-col"><div class="editable" contenteditable="false">${event.startTimeString || 'TBA'}</div></td>
+                        <td class="room-col"><div class="editable" contenteditable="false">${event.room || ''}</div></td>
+                        <td class="price-col"><div class="editable" contenteditable="false">${event.price || 'Free'}</div></td>
                     </tr>`;
         }
 
@@ -198,21 +192,25 @@
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
+            const editableElements = document.querySelectorAll('.editable');
+
             if (globalEditMode) {
+                editableElements.forEach(element => {
+                    element.setAttribute('contenteditable', true);
+                });
+
                 tinymce.init({
                     selector: '.editable',
                     inline: true,
                     menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor',
-                    setup: function(editor) {
-                        editor.on('init', function() {
-                            this.setContent('');
-                        });
-                    }
+                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
                 });
                 document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
             } else {
                 tinymce.remove('.editable');
+                editableElements.forEach(element => {
+                    element.setAttribute('contenteditable', false);
+                });
                 document.getElementById('edit-mode-button').textContent = 'Edit';
             }
         }
@@ -259,6 +257,7 @@
             }
         }
 
+        // Call renderTable to populate the initial content
         renderTable();
     </script>
 </body>
