@@ -25,6 +25,7 @@
         .event-table {
             width: 100%;
             border-collapse: collapse;
+            table-layout: fixed; /* Ensures each cell is the same width */
         }
         .event-table th, .event-table td {
             border: 1px solid black;
@@ -80,15 +81,15 @@
         #live-music {
             margin: 0;
             font-size: 48px;
-			font-family: 'Anton', sans-serif;
-			letter-spacing: 3px;
+            font-family: 'Anton', sans-serif;
+            letter-spacing: 3px;
             text-transform: uppercase;
             font-weight: bold;
         }
         #selected-month {
             font-size: 60px;
-			font-family: 'Anton', sans-serif;
-			letter-spacing: 3px;
+            font-family: 'Anton', sans-serif;
+            letter-spacing: 3px;
             color: #E31B23; /* Bright color for the month */
             padding: 10px 0;
         }
@@ -102,30 +103,28 @@
             width: 150px;
             height: auto;
         }
-@media print {
-    .button-container, .edit-toolbar {
-        display: none;
-    }
-    .event-table-container {
-        box-shadow: none;
-    }
-    .event-table {
-        page-break-inside: avoid;
-    }
-    #qr-code-container {
-        display: block !important; /* Ensure the QR code is visible */
-        position: absolute;
-        right: 20px;
-        top: 50%; /* Adjusted to lower the QR code position */
-        transform: translateY(-50%); /* Center it vertically relative to its position */
-    }
-}
+        @media print {
+            .button-container, .edit-toolbar {
+                display: none;
+            }
+            .event-table-container {
+                box-shadow: none;
+            }
+            .event-table {
+                page-break-inside: avoid;
+            }
+            #qr-code-container {
+                display: block !important;
+                position: absolute;
+                right: 20px;
+                top: 50%;
+                transform: translateY(-50%);
+            }
         }
     </style>
 </head>
 <body>
     <div class="page-container">
-        <!-- Button container on the left -->
         <div class="button-container">
             <select id="month-selector" onchange="updateSelectedMonth()">
                 <option value="">Select a Month</option>
@@ -137,7 +136,6 @@
             <button id="print-button" onclick="printTable()">Print as PDF</button>
         </div>
 
-        <!-- Edit Toolbar -->
         <div id="edit-toolbar" class="edit-toolbar">
             <select id="font-size-selector" onchange="changeFontSize(this.value)">
                 <script>
@@ -150,14 +148,12 @@
         </div>
     </div>
 
-    <!-- A4-sized container for the header and QR code -->
     <div class="event-table-container">
         <div id="poster-header">
             <h1>Earl Haig Club</h1>
             <h1 id="live-music">Live Music</h1>
             <h1 id="selected-month"></h1> <!-- The month will be set dynamically -->
         </div>
-		        <!-- QR Code Container -->
         <div id="qr-code-container">
             <a href="https://earlhaigclub.com" target="_blank">
                 <img id="qr-code" src="frame.png" alt="QR Code">
@@ -165,15 +161,9 @@
         </div>
     </div>
 
-    <!-- A4-sized container for the event table -->
-<div class="event-table-container">
-    <table class="event-table" id="event-table">
-        <!-- Removed the thead section to eliminate the table header -->
-        <tbody>
-            <!-- Event rows will be inserted here by JavaScript -->
-        </tbody>
-    </table>
-</div>
+    <div class="event-table-container">
+        <table class="event-table" id="event-table">
+            <tbody>
                 <!-- Event rows will be inserted here by JavaScript -->
             </tbody>
         </table>
@@ -264,6 +254,29 @@
         }
 
         renderTable(); // Initial render with all events
+        function adjustTableRowHeights() {
+            const pageHeightMm = 297; // Height of A4 page in mm
+            const headerHeightMm = 20; // Adjust based on your header's height
+            const footerHeightMm = 20; // Adjust if you have a footer
+            const availableHeightMm = pageHeightMm - headerHeightMm - footerHeightMm;
+            const rows = document.querySelectorAll('#event-table tbody tr');
+            const numberOfRows = rows.length;
+
+            if (numberOfRows > 0) {
+                const rowHeight = availableHeightMm / numberOfRows;
+                rows.forEach(row => {
+                    row.style.height = `${rowHeight}mm`;
+                });
+            }
+        }
+
+        async function loadAndDisplayEvents() {
+            await renderTable(); // Assuming this function populates the table
+            adjustTableRowHeights();
+        }
+
+        document.getElementById('month-selector').addEventListener('change', loadAndDisplayEvents);
+        loadAndDisplayEvents(); // Initial call to load events
     </script>
 </body>
 </html>
