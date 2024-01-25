@@ -203,7 +203,7 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td class="date-col editable"><div>${formattedDate}</div></td>
+                        <td class="date-col"><div class="editable">${formattedDate}</div></td>
                         <td class="event-col editable"><div>${event.headline}</div></td>
                         <td class="time-col editable"><div>${event.startTimeString || 'TBA'}</div></td>
                         <td class="room-col editable"><div><span class="room-text">${event.room || ''}</span></div></td>
@@ -220,21 +220,22 @@
 
         let globalEditMode = false;
 
-        function toggleGlobalEditMode() {
-            globalEditMode = !globalEditMode;
-            const editableCells = document.querySelectorAll('.editable');
-            
-            if (globalEditMode) {
-                tinymce.init({
-                    selector: '.editable',
-                    inline: true,
-                    menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
-                });
-            } else {
-                tinymce.remove('td.editable'); // Remove TinyMCE from td elements
-            }
-        }
+function toggleGlobalEditMode() {
+    globalEditMode = !globalEditMode;
+    const editableDivs = document.querySelectorAll('.editable');
+    
+    if (globalEditMode) {
+        tinymce.init({
+            selector: '.editable',
+            inline: true,
+            menubar: false,
+            toolbar: 'undo redo | bold italic underline | forecolor backcolor'
+        });
+    } else {
+        tinymce.remove('div.editable'); // Remove TinyMCE from editable divs
+    }
+}
+
 
         function printTable() {
             window.print();
