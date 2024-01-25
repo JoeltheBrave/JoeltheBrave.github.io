@@ -46,8 +46,9 @@
             border: 1px solid #ccc;
             background-color: #f9f9f9;
         }
-        .edit-toolbar button, .edit-toolbar select, .edit-toolbar input {
-            margin-right: 5px;
+        .button-container {
+            text-align: center; /* Center-align the buttons under the header */
+            margin-top: 10px; /* Add some margin for spacing */
         }
         #poster-header {
             position: relative;
@@ -60,10 +61,6 @@
         #qr-code {
             width: 50px; /* Set the width of the QR code image */
             height: auto; /* Maintain the aspect ratio */
-        }
-        .button-container {
-            text-align: center; /* Center-align the buttons under the header */
-            margin-top: 10px; /* Add some margin for spacing */
         }
         #month-selector {
             position: absolute;
@@ -158,15 +155,31 @@
         }
 
         let globalEditMode = false;
+        let currentEditableCell = null;
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
             const cells = document.querySelectorAll('.event-table td:not(:last-child)');
             cells.forEach(cell => {
-                cell.setAttribute('contenteditable', globalEditMode);
-                cell.classList.toggle('editable', globalEditMode);
+                if (globalEditMode) {
+                    makeCellEditable(cell);
+                } else {
+                    makeCellReadOnly(cell);
+                }
             });
             showEditToolbar(globalEditMode);
+        }
+
+        function makeCellEditable(cell) {
+            cell.setAttribute('contenteditable', 'true');
+            cell.classList.add('editable');
+            currentEditableCell = cell;
+            showEditToolbar(true);
+        }
+
+        function makeCellReadOnly(cell) {
+            cell.removeAttribute('contenteditable');
+            cell.classList.remove('editable');
         }
 
         function showEditToolbar(show) {
@@ -175,30 +188,30 @@
         }
 
         function changeFontSize(size) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
+            if (!currentEditableCell) return;
+            const selectedText = window.getSelection();
+            if (!selectedText.rangeCount) return;
+            const range = selectedText.getRangeAt(0);
             const span = document.createElement('span');
             span.style.fontSize = size;
             range.surroundContents(span);
         }
 
         function changeFontColor(color) {
-            if (window.getSelection().rangeCount === 0) return;
-            const range = window.getSelection().getRangeAt(0);
+            if (!currentEditableCell) return;
+            const selectedText = window.getSelection();
+            if (!selectedText.rangeCount) return;
+            const range = selectedText.getRangeAt(0);
             const span = document.createElement('span');
             span.style.color = color;
             range.surroundContents(span);
-        }
-
-        function printTable() {
-            window.print();
         }
 
         async function renderTable(month = '') {
             const events = await fetchEvents();
             const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
             const tableBody = document.querySelector('#event-table tbody');
-            tableBody.innerHTML = '';
+            tableBody.innerHTML = ''; // Clear existing rows
             filteredEvents.forEach(event => {
                 tableBody.innerHTML += createEventRow(event);
             });
@@ -206,13 +219,11 @@
 
         document.getElementById('month-selector').addEventListener('change', (e) => {
             const selectedMonth = e.target.value;
-            const selectedMonthText = selectedMonth ? document.querySelector(`#month-selector option[value="${selectedMonth}"]`).textContent : '';
-            const header = document.getElementById('poster-header');
-            header.textContent = `Earl Haig Club Live Music ${selectedMonthText}`;
-            renderTable(selectedMonth);
+            const year = new Date().getFullYear(); // Adjust this as needed
+            renderTable(`${year}-${selectedMonth}`);
         });
 
-        renderTable();
+        renderTable(); // Initial render with all events
     </script>
 </body>
 </html>
