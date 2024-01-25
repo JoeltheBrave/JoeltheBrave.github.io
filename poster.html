@@ -27,7 +27,7 @@
             border-collapse: collapse;
         }
         .event-table th, .event-table td {
-            border: 1px solid #ddd;
+            border: 1px solid black;
             padding: 8px;
             text-align: left;
         }
@@ -158,17 +158,14 @@
     </div>
 
     <!-- A4-sized container for the event table -->
-    <div class="event-table-container">
-        <table class="event-table" id="event-table">
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Event</th>
-                    <th>Time</th>
-                    <th>Price</th>
-                </tr>
-            </thead>
-            <tbody>
+<div class="event-table-container">
+    <table class="event-table" id="event-table">
+        <!-- Removed the thead section to eliminate the table header -->
+        <tbody>
+            <!-- Event rows will be inserted here by JavaScript -->
+        </tbody>
+    </table>
+</div>
                 <!-- Event rows will be inserted here by JavaScript -->
             </tbody>
         </table>
