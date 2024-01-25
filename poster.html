@@ -67,13 +67,9 @@
         }
         .editable {
             border: 1px solid #ddd;
-            padding: 0;
+            padding: 8px;
             background-color: #fff;
             cursor: text;
-            overflow: hidden; /* Hide overflow if content exceeds the fixed height */
-        }
-        td.editable {
-            white-space: nowrap; /* Prevent text from wrapping */
         }
         .edit-toolbar {
             position: fixed;
@@ -203,26 +199,11 @@
         function createEventRow(event) {
             const formattedDate = formatDate(event.startDate);
             return `<tr>
-                        <td class="date-col">
-                            <div class="editable" style="display: none;">${formattedDate}</div>
-                            <div>${formattedDate}</div>
-                        </td>
-                        <td class="event-col">
-                            <div class="editable" style="display: none;">${event.headline}</div>
-                            <div>${event.headline}</div>
-                        </td>
-                        <td class="time-col">
-                            <div class="editable" style="display: none;">${event.startTimeString || 'TBA'}</div>
-                            <div>${event.startTimeString || 'TBA'}</div>
-                        </td>
-                        <td class="room-col">
-                            <div class="editable" style="display: none;"><span class="room-text">${event.room || ''}</span></div>
-                            <div><span class="room-text">${event.room || ''}</span></div>
-                        </td>
-                        <td class="price-col price-cell">
-                            <div class="editable" style="display: none;">${event.price || 'Free'}</div>
-                            <div>${event.price || 'Free'}</div>
-                        </td>
+                        <td class="date-col editable" contenteditable="false">${formattedDate}</td>
+                        <td class="event-col editable" contenteditable="false">${event.headline}</td>
+                        <td class="time-col editable" contenteditable="false">${event.startTimeString || 'TBA'}</td>
+                        <td class="room-col editable" contenteditable="false"><span class="room-text">${event.room || ''}</span></td>
+                        <td class="price-col price-cell editable" contenteditable="false">${event.price || 'Free'}</td>
                     </tr>`;
         }
 
@@ -237,34 +218,15 @@
 
         function toggleGlobalEditMode() {
             globalEditMode = !globalEditMode;
-            const hiddenEditableDivs = document.querySelectorAll('.editable[style*="display: none;"]');
+            const editableCells = document.querySelectorAll('.editable');
             
             if (globalEditMode) {
-                tinymce.init({
-                    selector: '.editable[style*="display: none;"]',
-                    inline: true,
-                    menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor',
-                    setup: function (editor) {
-                        editor.on('change', function () {
-                            const content = editor.getContent();
-                            const visibleDiv = editor.getElement().nextElementSibling;
-                            visibleDiv.innerHTML = content;
-                        });
-                    }
-                });
-
-                // Show hidden editable divs
-                hiddenEditableDivs.forEach(div => {
-                    div.style.display = 'block';
+                editableCells.forEach(cell => {
+                    cell.contentEditable = true;
                 });
             } else {
-                tinymce.remove();
-                // Hide visible divs and restore original content
-                hiddenEditableDivs.forEach(div => {
-                    div.style.display = 'none';
-                    const visibleDiv = div.nextElementSibling;
-                    visibleDiv.innerHTML = div.innerHTML;
+                editableCells.forEach(cell => {
+                    cell.contentEditable = false;
                 });
             }
         }
