@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Trump Card Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
+</head>
+<body>
+    <div id="editor">
+        <table>
+            <tr>
+                <td>Name:</td>
+                <td><input type="text" id="nameInput" value="CRAIG"></td>
+            </tr>
+            <tr>
+                <td>AUTISM:</td>
+                <td><input type="number" id="autismInput" value="7"></td>
+            </tr>
+            <tr>
+                <td>MUSIC TALENT:</td>
+                <td><input type="number" id="musicTalentInput" value="1"></td>
+            </tr>
+            <tr>
+                <td>BIG:</td>
+                <td><input type="number" id="bigInput" value="5"></td>
+            </tr>
+            <tr>
+                <td>DRINKING CAPABILITY:</td>
+                <td><input type="number" id="drinkingCapabilityInput" value="8"></td>
+            </tr>
+            <tr>
+                <td>WEALTH:</td>
+                <td><input type="number" id="wealthInput" value="3"></td>
+            </tr>
+        </table>
+        <button onclick="saveChanges()">Save</button>
+    </div>
+
+    <div id="cardPreview">
+        <div id="uploadedImageContainer"></div>
+        <div id="cardBackground">
+            <div id="nameTag">CRAIG</div>
+            <ul id="stats">
+                <li><span class="statValue" id="autismStat">7</span></li>
+                <li><span class="statValue" id="musicTalentStat">1</span></li>
+                <li><span class="statValue" id="bigStat">5</span></li>
+                <li><span class="statValue" id="drinkingCapabilityStat">8</span></li>
+                <li><span class="statValue" id="wealthStat">3</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <input type="file" id="imageUpload" accept="image/*" style="margin-top: 20px;">
+
+    <script src="script.js"></script>
+</body>
+</html>
