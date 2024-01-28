@@ -1,52 +1,5 @@
 [
   {
-    "id": "2KWEmL",
-    "headline": "The Big Bash",
-    "title": "The Big Bash",
-    "startDate": "2024-01-27",
-    "endDate": "2024-01-27",
-    "startTimeString": "3:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Charity Event:\nFree afternoon session\nThe Big Bash Little Bash will be held in the front bar....",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/490/270/51aafa128a3e7349448e0fd71b6dff6f162cf628.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Semantics"
-      },
-      {
-        "id": "Rjm72",
-        "name": "CVC"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie",
-      "alternative",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-bash/6951564",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2024-01-10T14:16:37+00:00",
-    "created": "2023-12-21T10:24:25+00:00"
-  },
-  {
     "id": "LzrqaX",
     "headline": "Stonehouse",
     "title": "Sunday Sessions",
@@ -2034,7 +1987,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-27T03:29:17+00:00",
+    "lastUpdate": "2024-01-28T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
