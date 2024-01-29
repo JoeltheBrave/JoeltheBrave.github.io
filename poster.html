@@ -139,6 +139,13 @@
     min-height: 10px; /* Set a minimum height */
     overflow: auto; /* Add overflow to allow scrolling if content overflows */
 }
+
+/* Add this CSS to control the height of editable elements in edit mode */
+.editable.edit-mode {
+    min-height: 10px; /* Set a minimum height */
+    overflow: auto; /* Add overflow to allow scrolling if content overflows */
+}
+
         }
     </style>
 </head>
@@ -212,34 +219,36 @@
 
         let globalEditMode = false;
 
-        function toggleGlobalEditMode() {
-            globalEditMode = !globalEditMode;
-            const editableElements = document.querySelectorAll('.editable');
+function toggleGlobalEditMode() {
+    globalEditMode = !globalEditMode;
+    const editableElements = document.querySelectorAll('.editable');
 
-            if (globalEditMode) {
-                editableElements.forEach(element => {
-                    element.setAttribute('contenteditable', true);
-                });
+    if (globalEditMode) {
+        editableElements.forEach(element => {
+            element.setAttribute('contenteditable', true);
+            element.classList.add('edit-mode'); // Add a CSS class for edit mode
+        });
 
-				// Add the "fontSize" plugin to the TinyMCE initialization
-				tinymce.init({
-					selector: '.editable',
-					inline: true,
-					menubar: false,
-					toolbar: 'undo redo | bold italic underline | forecolor backcolor | fontsizeselect', // Add 'fontsizeselect'
-					plugins: 'fontSize', // Add 'fontSize' plugin
-					fontsize_formats: '8px 10px 12px 14px 18px 24px 36px', // Define available font sizes
-				});
+        // Initialize TinyMCE for font size selection
+        tinymce.init({
+            selector: '.editable.edit-mode',
+            inline: true,
+            menubar: false,
+            toolbar: 'undo redo | bold italic underline | forecolor backcolor | fontsizeselect', // Add 'fontsizeselect'
+            plugins: 'fontSize', // Add 'fontSize' plugin
+            fontsize_formats: '8px 10px 12px 14px 18px 24px 36px', // Define available font sizes
+        });
 
-                document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
-            } else {
-                tinymce.remove('.editable');
-                editableElements.forEach(element => {
-                    element.setAttribute('contenteditable', false);
-                });
-                document.getElementById('edit-mode-button').textContent = 'Edit';
-            }
-        }
+        document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
+    } else {
+        tinymce.remove('.editable.edit-mode');
+        editableElements.forEach(element => {
+            element.setAttribute('contenteditable', false);
+            element.classList.remove('edit-mode'); // Remove the CSS class for edit mode
+        });
+        document.getElementById('edit-mode-button').textContent = 'Edit';
+    }
+}
 
         function printTable() {
             window.print();
