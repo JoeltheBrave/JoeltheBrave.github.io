@@ -37,16 +37,20 @@ function makeImageDraggable() {
     })
     .resizable({
         edges: { left: true, right: true, bottom: true, top: true },
-        inertia: true
+        inertia: true,
+        // Add aspectRatio option
+        aspectRatio: true
     })
     .on('resizemove', function (event) {
         var target = event.target;
         var x = (parseFloat(target.getAttribute('data-x')) || 0);
         var y = (parseFloat(target.getAttribute('data-y')) || 0);
 
+        // Update target's dimensions
         target.style.width  = event.rect.width + 'px';
         target.style.height = event.rect.height + 'px';
 
+        // Translate the position of the element
         x += event.deltaRect.left;
         y += event.deltaRect.top;
 
@@ -56,6 +60,7 @@ function makeImageDraggable() {
         target.setAttribute('data-y', y);
     });
 }
+
 
 function dragMoveListener(event) {
     var target = event.target;
