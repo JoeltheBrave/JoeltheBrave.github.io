@@ -1,4 +1,3 @@
-// script.js
 function saveChanges() {
     document.getElementById('nameTag').textContent = document.getElementById('nameInput').value;
     document.getElementById('autismStat').textContent = document.getElementById('autismInput').value;
