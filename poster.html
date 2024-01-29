@@ -38,22 +38,22 @@
             table-layout: fixed;
         }
         .event-table th, .event-table td {
-		    font-family: 'Anton', sans-serif;
+            font-family: 'Anton', sans-serif;
             border: 1px solid black;
             padding: 0;
             text-align: left;
-			font-size: 20px; /* Adjust this value as needed */
-			letter-spacing: 2px; /* Adjust this value as needed */
-		}
+            font-size: 20px; /* Adjust this value as needed */
+            letter-spacing: 2px; /* Adjust this value as needed */
+        }
         .event-table .time-col, .event-table .room-col, .event-table .price-col {
             width: 15%;
         }
-		.event-table .event-col {
-		width: 60%; /* Increased to take the space freed from other columns */
-		}
-		.event-table .date-col {
-		width: 25%; /* Increased to take the space freed from other columns */
-		}
+        .event-table .event-col {
+            width: 60%; /* Increased to take the space freed from other columns */
+        }
+        .event-table .date-col {
+            width: 25%; /* Increased to take the space freed from other columns */
+        }
         .event-table tr:nth-child(even) {
             background-color: #f2f2f2;
         }
@@ -131,21 +131,13 @@
             .a4-container {
                 box-shadow: none;
             }
-		.mce-tinymce {
-    height: auto !important; /* Set height to auto to prevent expanding */
-}
-
-.mce-editable {
-    min-height: 10px; /* Set a minimum height */
-    overflow: auto; /* Add overflow to allow scrolling if content overflows */
-}
-
-/* Add this CSS to control the height of editable elements in edit mode */
-.editable.edit-mode {
-    min-height: 10px; /* Set a minimum height */
-    overflow: auto; /* Add overflow to allow scrolling if content overflows */
-}
-
+            .mce-tinymce {
+                height: auto !important; /* Set height to auto to prevent expanding */
+            }
+            .mce-editable {
+                min-height: 10px; /* Set a minimum height */
+                overflow: auto; /* Add overflow to allow scrolling if content overflows */
+            }
         }
     </style>
 </head>
@@ -194,30 +186,30 @@
     </div>
 
     <script>
-        async function fetchEvents() {
-            const response = await fetch('events.json');
-            return response.json();
-        }
+async function fetchEvents() {
+    const response = await fetch('events.json');
+    return response.json();
+}
 
-        function createEventRow(event) {
-            const formattedDate = formatDate(event.startDate);
-            return `<tr>
-                        <td class="date-col"><div class="editable" contenteditable="false">${formattedDate}</div></td>
-                        <td class="event-col"><div class="editable" contenteditable="false">${event.headline}</div></td>
-                        <td class="time-col"><div class="editable" contenteditable="false">${event.startTimeString || 'TBA'}</div></td>
-                        <td class="room-col"><div class="editable" contenteditable="false">${event.room || ''}</div></td>
-                        <td class="price-col"><div class="editable" contenteditable="false">${event.price || 'Free'}</div></td>
-                    </tr>`;
-        }
+function createEventRow(event) {
+    const formattedDate = formatDate(event.startDate);
+    return `<tr>
+                <td class="date-col"><div class="editable" contenteditable="false">${formattedDate}</div></td>
+                <td class="event-col"><div class="editable" contenteditable="false">${event.headline}</div></td>
+                <td class="time-col"><div class="editable" contenteditable="false">${event.startTimeString || 'TBA'}</div></td>
+                <td class="room-col"><div class="editable" contenteditable="false">${event.room || ''}</div></td>
+                <td class="price-col"><div class="editable" contenteditable="false">${event.price || 'Free'}</div></td>
+            </tr>`;
+}
 
-        function formatDate(dateString) {
-            const months = ["January", "February", "March", "April", "May", "June",
-                            "July", "August", "September", "October", "November", "December"];
-            const date = new Date(dateString);
-            return `${date.getDate()} ${months[date.getMonth()]}`;
-        }
+function formatDate(dateString) {
+    const months = ["January", "February", "March", "April", "May", "June",
+                    "July", "August", "September", "October", "November", "December"];
+    const date = new Date(dateString);
+    return `${date.getDate()} ${months[date.getMonth()]}`;
+}
 
-        let globalEditMode = false;
+let globalEditMode = false;
 
 function toggleGlobalEditMode() {
     globalEditMode = !globalEditMode;
@@ -226,12 +218,11 @@ function toggleGlobalEditMode() {
     if (globalEditMode) {
         editableElements.forEach(element => {
             element.setAttribute('contenteditable', true);
-            element.classList.add('edit-mode'); // Add a CSS class for edit mode
         });
 
-        // Initialize TinyMCE for font size selection
+        // Add the "fontSize" plugin to the TinyMCE initialization
         tinymce.init({
-            selector: '.editable.edit-mode',
+            selector: '.editable',
             inline: true,
             menubar: false,
             toolbar: 'undo redo | bold italic underline | forecolor backcolor | fontsizeselect', // Add 'fontsizeselect'
@@ -241,59 +232,58 @@ function toggleGlobalEditMode() {
 
         document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
     } else {
-        tinymce.remove('.editable.edit-mode');
+        tinymce.remove('.editable');
         editableElements.forEach(element => {
             element.setAttribute('contenteditable', false);
-            element.classList.remove('edit-mode'); // Remove the CSS class for edit mode
         });
         document.getElementById('edit-mode-button').textContent = 'Edit';
     }
 }
 
-        function printTable() {
-            window.print();
-        }
+function printTable() {
+    window.print();
+}
 
-        function updateSelectedMonth() {
-            const selectedMonthElement = document.getElementById('selected-month');
-            const monthSelector = document.getElementById('month-selector');
-            const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
-            selectedMonthElement.textContent = selectedMonth;
+function updateSelectedMonth() {
+    const selectedMonthElement = document.getElementById('selected-month');
+    const monthSelector = document.getElementById('month-selector');
+    const selectedMonth = monthSelector.options[monthSelector.selectedIndex].text;
+    selectedMonthElement.textContent = selectedMonth;
 
-            const year = new Date().getFullYear();
-            renderTable(`${year}-${monthSelector.value}`);
-        }
+    const year = new Date().getFullYear();
+    renderTable(`${year}-${monthSelector.value}`);
+}
 
-        document.getElementById('month-selector').addEventListener('change', () => {
-            const selectedMonth = document.getElementById('month-selector').value;
-            const year = new Date().getFullYear();
-            renderTable(`${year}-${selectedMonth}`);
+document.getElementById('month-selector').addEventListener('change', () => {
+    const selectedMonth = document.getElementById('month-selector').value;
+    const year = new Date().getFullYear();
+    renderTable(`${year}-${selectedMonth}`);
+});
+
+document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
+updateSelectedMonth();
+
+async function renderTable(month = '') {
+    const events = await fetchEvents();
+    const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
+    const tableBody = document.querySelector('#event-table tbody');
+    tableBody.innerHTML = '';
+    filteredEvents.forEach(event => {
+        tableBody.innerHTML += createEventRow(event);
+    });
+
+    if (globalEditMode) {
+        tinymce.init({
+            selector: '.editable',
+            inline: true,
+            menubar: false,
+            toolbar: 'undo redo | bold italic underline | forecolor backcolor'
         });
+    }
+}
 
-        document.getElementById('month-selector').selectedIndex = new Date().getMonth() + 1;
-        updateSelectedMonth();
-
-        async function renderTable(month = '') {
-            const events = await fetchEvents();
-            const filteredEvents = month ? events.filter(event => event.startDate.startsWith(month)) : events;
-            const tableBody = document.querySelector('#event-table tbody');
-            tableBody.innerHTML = '';
-            filteredEvents.forEach(event => {
-                tableBody.innerHTML += createEventRow(event);
-            });
-
-            if (globalEditMode) {
-                tinymce.init({
-                    selector: '.editable',
-                    inline: true,
-                    menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
-                });
-            }
-        }
-
-        // Call renderTable to populate the initial content
-        renderTable();
+// Call renderTable to populate the initial content
+renderTable();
     </script>
 </body>
 </html>
