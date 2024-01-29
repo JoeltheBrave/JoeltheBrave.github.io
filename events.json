@@ -1,47 +1,5 @@
 [
   {
-    "id": "LzrqaX",
-    "headline": "Stonehouse",
-    "title": "Sunday Sessions",
-    "startDate": "2024-01-28",
-    "endDate": "2024-01-28",
-    "startTimeString": "5:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3 on the door",
-    "description": "Stonehouse at The Earl Haig Club Concert Room.\nEarl Haig Club favorites Stonehouse are back to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/824/730d79413501337b05c943cb1a49dc9493787ce7.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Stonehouse"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stonehouse/6947552",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:37+00:00",
-    "created": "2023-12-14T13:11:05+00:00"
-  },
-  {
     "id": "74KEaE",
     "headline": "deadedz",
     "title": "Monday Open Mic/Jam Session",
@@ -1987,7 +1945,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-28T03:29:17+00:00",
+    "lastUpdate": "2024-01-29T03:29:18+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
