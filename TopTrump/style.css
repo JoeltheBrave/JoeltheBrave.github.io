@@ -1,4 +1,3 @@
-/* style.css */
 @font-face {
     font-family: 'Earl Haig';
     src: url('Earl Haig Font.otf') format('opentype');
@@ -12,7 +11,9 @@
     width: 300px;
     height: 500px;
     background-image: url('Trump.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     border-radius: 20px;
     overflow: hidden;
     position: relative;
@@ -21,35 +22,28 @@
 
 #nameTag {
     position: absolute;
-    top: 7%;
-    left: 70%;
-    transform: translateX(-50%);
+    top: 205px;
+    left: 160px;
     font-size: 24px;
     color: black;
 }
 
 #stats {
     position: absolute;
-    top: 30%;
-    left: 35%;
-    transform: translateX(-50%);
+    top: 245px;
+    left: 190px;
     list-style-type: none;
     padding: 0;
-    width: 100%;
-}
-
-#stats li {
-    margin: 5px 0;
 }
 
 .statValue {
-    font-size: 20px;
+    font-size: 23px;
     color: black;
     text-align: right;
     display: block;
     width: 50px;
     margin-left: auto;
-    margin-bottom: 18px;
+    margin-bottom: 11px;
 }
 
 #uploadedImageContainer {
@@ -59,14 +53,20 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+	z-index: 1;
 }
 
 #uploadedImageContainer img {
     width: 100%;
     height: auto;
+	z-index: 1;
 }
 
 #cardBackground {
     position: relative;
-    z-index: 2;
+	z-index: 2;
 }
+
+#foreground {
+    position: relative;
+	z-index: 10;
