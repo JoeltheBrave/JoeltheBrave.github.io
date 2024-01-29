@@ -213,12 +213,16 @@
                     element.setAttribute('contenteditable', true);
                 });
 
-                tinymce.init({
-                    selector: '.editable',
-                    inline: true,
-                    menubar: false,
-                    toolbar: 'undo redo | bold italic underline | forecolor backcolor'
-                });
+				// Add the "fontSize" plugin to the TinyMCE initialization
+				tinymce.init({
+					selector: '.editable',
+					inline: true,
+					menubar: false,
+					toolbar: 'undo redo | bold italic underline | forecolor backcolor | fontsizeselect', // Add 'fontsizeselect'
+					plugins: 'fontSize', // Add 'fontSize' plugin
+					fontsize_formats: '8px 10px 12px 14px 18px 24px 36px', // Define available font sizes
+				});
+
                 document.getElementById('edit-mode-button').textContent = 'Exit Edit Mode';
             } else {
                 tinymce.remove('.editable');
