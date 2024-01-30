@@ -1,53 +1,5 @@
 [
   {
-    "id": "74KEaE",
-    "headline": "deadedz",
-    "title": "Monday Open Mic/Jam Session",
-    "startDate": "2024-01-29",
-    "endDate": "2024-01-29",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Join us for our Monday Night Open Mic and Jam Session! Any musician can participate...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/447/848/6a27f626bb96585622def51c8ec2ec0193f83e15.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "Rj9E2",
-        "name": "deadedz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "acoustic",
-      "experimental",
-      "rocknroll",
-      "folk",
-      "americana",
-      "blues",
-      "tribute"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/deadedz/6951542",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-10T14:16:54+00:00",
-    "created": "2023-12-19T16:48:25+00:00"
-  },
-  {
     "id": "DwlPrL",
     "headline": "Capital City Jazz Orchestra",
     "title": "Big Band Jazz",
@@ -1945,7 +1897,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-29T03:29:18+00:00",
+    "lastUpdate": "2024-01-30T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
