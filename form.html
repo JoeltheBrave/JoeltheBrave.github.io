@@ -3,22 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Form</title>
+    <title>Earl Haig Booking Query</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        label, input, select, textarea {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
 <body>
+    <form method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSeTIQwtTcyxHiBwNgTBefHtJWYrQ-nAmO3IzfYSDBGDb75LIw/formResponse">
+        <label for="email">Email</label>
+        <input type="email" name="entry.1074208666" id="email" placeholder="Email Address" required />
 
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSeTIQwtTcyxHiBwNgTBefHtJWYrQ-nAmO3IzfYSDBGDb75LIw/viewform?usp=sf_link" method="GET">
-        <!-- Your form fields go here -->
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-        
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
+        <label for="member">Are you a member?</label>
+        <select name="entry.1868401736" id="member">
+            <option value="">Select an option</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+            <option value="Other">Other</option>
+        </select>
 
-        <!-- Add more fields as needed -->
+        <label for="name">Name</label>
+        <input type="text" name="entry.1664524183" id="name" placeholder="Your Name" required />
 
-        <input type="submit" value="Submit">
+        <label for="contact">Contact Number</label>
+        <input type="text" name="entry.1974488377" id="contact" placeholder="Contact Number" required />
+
+        <label for="room">What room are you enquiring about?</label>
+        <select name="entry.434662017" id="room">
+            <option value="">Select a room</option>
+            <option value="Lounge">Lounge</option>
+            <option value="Function Room">Function Room</option>
+        </select>
+
+        <label for="date">What date are you enquiring about?</label>
+        <input type="text" name="entry.1726206814" id="date" placeholder="Date" required />
+
+        <label for="reason">What is the reason for this enquiry</label>
+        <textarea name="entry.1966657705" id="reason" placeholder="Reason for enquiry" required></textarea>
+
+        <label for="details">Any extra details?</label>
+        <textarea name="entry.856647679" id="details" placeholder="Extra details"></textarea>
+
+        <button type="submit">Submit</button>
     </form>
-
 </body>
 </html>
