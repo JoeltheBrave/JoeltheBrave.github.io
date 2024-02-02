@@ -1,46 +1,5 @@
 [
   {
-    "id": "DwlPrL",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Big Band Jazz",
-    "startDate": "2024-02-01",
-    "endDate": "2024-02-01",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£5",
-    "description": "CCJO return for the first time in 2024 with a fantastic selection of Big Band...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/772/4faf535369f8dec7ef96a894c02d5a4006ccaad4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/6991540",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-24T13:51:54+00:00",
-    "created": "2024-01-24T13:51:39+00:00"
-  },
-  {
     "id": "NL5l9g",
     "headline": "Leighton Jones",
     "title": "Friday Night Live In The Bar",
@@ -1897,7 +1856,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-01T03:29:17+00:00",
+    "lastUpdate": "2024-02-02T03:29:18+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
