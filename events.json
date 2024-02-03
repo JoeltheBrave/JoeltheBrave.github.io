@@ -1,46 +1,5 @@
 [
   {
-    "id": "NL5l9g",
-    "headline": "Leighton Jones",
-    "title": "Friday Night Live In The Bar",
-    "startDate": "2024-02-02",
-    "endDate": "2024-02-02",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "The Leighton Jones Band, featuring Leighton Jones, a talented musician and a contestant of The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/005/283/ca29faca37e4d7d03a9ca785aa43cfd57172b215.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "BGdE",
-        "name": "Leighton Jones"
-      }
-    ],
-    "genre": [
-      "music",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/leighton-jones/6951554",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:54+00:00",
-    "created": "2023-12-19T16:59:49+00:00"
-  },
-  {
     "id": "XXmYL2",
     "headline": "Dansette",
     "title": "Saturday Night Live",
@@ -1856,7 +1815,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-02T03:29:18+00:00",
+    "lastUpdate": "2024-02-03T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
