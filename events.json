@@ -1,46 +1,5 @@
 [
   {
-    "id": "dDBqv4",
-    "headline": "Bluesfire",
-    "title": "Sunday Sessions",
-    "startDate": "2024-02-04",
-    "endDate": "2024-02-04",
-    "startTimeString": "5:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3 on the door",
-    "description": "Bluesfire at The Earl Haig Club Concert Room.\nDoors open 5pm\nBand on at 6pm\n£3 on the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/489/802/eef3880cdd04bf0d655cb5e067f493d4c6fdec60.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Bluesfire"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bluesfire/6947550",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:38+00:00",
-    "created": "2023-12-14T13:09:23+00:00"
-  },
-  {
     "id": "bkNNLA",
     "headline": "Monday Open Mic/Jam Session",
     "title": "Monday Open Mic/Jam Session",
@@ -1775,7 +1734,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-04T03:29:17+00:00",
+    "lastUpdate": "2024-02-05T03:29:18+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
