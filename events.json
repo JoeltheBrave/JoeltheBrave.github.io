@@ -36,7 +36,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/6973202",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:38+00:00",
+    "lastUpdate": "2024-02-06T15:58:31+00:00",
     "created": "2024-01-10T12:40:18+00:00"
   },
   {
@@ -233,12 +233,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Rockin 58"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/6991362",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-24T12:29:20+00:00",
+    "lastUpdate": "2024-02-06T15:10:57+00:00",
     "created": "2024-01-24T12:29:08+00:00"
   },
   {
@@ -745,6 +750,46 @@
     "created": "2023-11-09T13:44:53+00:00"
   },
   {
+    "id": "mDR8jj",
+    "headline": "The John Lewis Trio",
+    "title": "Rock N Roll In The Bar",
+    "startDate": "2024-03-02",
+    "endDate": "2024-03-02",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The real 'John Lewis' has been a headlining mainstay on the Rock n Roll, Rockabilly,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The John Lewis Trio"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-john-lewis-trio/7007644",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:35:13+00:00",
+    "created": "2024-02-06T15:34:56+00:00"
+  },
+  {
     "id": "Wg5QDp",
     "headline": "Firewater",
     "title": "Sunday Sessions",
@@ -783,6 +828,170 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-01-23T17:45:25+00:00",
     "created": "2024-01-23T17:45:09+00:00"
+  },
+  {
+    "id": "NLgPRg",
+    "headline": "Pearls",
+    "title": "Monday Night Open Mic / Jam Session",
+    "startDate": "2024-03-04",
+    "endDate": "2024-03-04",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Pearls"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pearls/7007610",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T16:22:50+00:00",
+    "created": "2024-02-06T15:10:46+00:00"
+  },
+  {
+    "id": "XX0bj2",
+    "headline": "Just Friends Jazz",
+    "title": "Jazz Club",
+    "startDate": "2024-03-05",
+    "endDate": "2024-03-05",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Come enjoy an acoustic jazz session at the Just Friends Jazz Club located at The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends Jazz"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/7007618",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:15:06+00:00",
+    "created": "2024-02-06T15:14:49+00:00"
+  },
+  {
+    "id": "zajPdo",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Big Band Jazz",
+    "startDate": "2024-03-07",
+    "endDate": "2024-03-07",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£5 on the door",
+    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/495/120/520a9f5977017c60118924300cf29a47d243edd7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007630",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:24:03+00:00",
+    "created": "2024-02-06T15:23:48+00:00"
+  },
+  {
+    "id": "K91P4D",
+    "headline": "Blues Central",
+    "title": "Blues Night",
+    "startDate": "2024-03-08",
+    "endDate": "2024-03-08",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/041/608/aee249052bf8f05094ac71e650a721ff2fef8e4d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Blues Central",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "mmmv",
+        "name": "Blues Central"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/blues-central/7007648",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:27:50+00:00",
+    "created": "2024-02-06T17:27:38+00:00"
   },
   {
     "id": "oB7dD5",
@@ -916,6 +1125,360 @@
     "created": "2023-11-24T06:55:19+00:00"
   },
   {
+    "id": "NLgPXg",
+    "headline": "The Semantics",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-09",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Semantics at The Earl Haig Club Bar.\n\nTHE SEMANTICS were formed in 1996 as a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Semantics"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7007654",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:28:00+00:00",
+    "created": "2024-02-06T17:27:48+00:00"
+  },
+  {
+    "id": "zajP1o",
+    "headline": "Rattlesnake",
+    "title": "Sunday Sessions",
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-10",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "Rattlesnake, a 4-piece classic rock band hailing from South Wales, have been reinvigorated with a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rattlesnake"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rattlesnake/7007674",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T16:45:41+00:00",
+    "created": "2024-02-06T16:03:56+00:00"
+  },
+  {
+    "id": "BvarBL",
+    "headline": "Monday Night Open Mic / Jam Session",
+    "title": "Monday Night Open Mic / Jam Session",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-11",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007612",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:12:08+00:00",
+    "created": "2024-02-06T15:11:50+00:00"
+  },
+  {
+    "id": "PaEz25",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-12",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Rockers Reunion night (or should that be The Old Cardiff Rockers Reunion ?) Most...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7007622",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:17:12+00:00",
+    "created": "2024-02-06T15:16:56+00:00"
+  },
+  {
+    "id": "BvardL",
+    "headline": "Cold Shot",
+    "title": "Rock Night",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-15",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Coldshot are a four piece classic rock cover band from South Wales. Formed in 2021,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Cold Shot"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7007656",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:41:38+00:00",
+    "created": "2024-02-06T15:41:21+00:00"
+  },
+  {
+    "id": "XX0b62",
+    "headline": "Ragged Union",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-16",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Ragged Union at The Earl Haig Club Bar.\n\n\"Groove driven, kick-arse, boogie beat, southern infused, rock’n’roll....",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/321/665/601dc0069218944026fad790b420d9d1012a2d71.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "KY6vp",
+        "name": "Ragged Union"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "country",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ragged-union/7007662",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:28:18+00:00",
+    "created": "2024-02-06T17:28:07+00:00"
+  },
+  {
+    "id": "2K0P5L",
+    "headline": "Moonstorm",
+    "title": "Sunday Sessions",
+    "startDate": "2024-03-17",
+    "endDate": "2024-03-17",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3 on the door",
+    "description": "Moonmstorm,  here's your chance to see these guys again.\nWe are looking forward to a great...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Moonstorm"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/moonstorm/7007664",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:54:33+00:00",
+    "created": "2024-02-06T15:54:16+00:00"
+  },
+  {
+    "id": "ymWP9n",
+    "headline": "James Oliver Band",
+    "title": "Monday Night Open Mic / Jam Session",
+    "startDate": "2024-03-18",
+    "endDate": "2024-03-18",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7007614",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:12:56+00:00",
+    "created": "2024-02-06T15:12:39+00:00"
+  },
+  {
+    "id": "1WGZvz",
+    "headline": "Andy Johnson",
+    "title": "Strictly Acoustic",
+    "startDate": "2024-03-19",
+    "endDate": "2024-03-19",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Join us for an unforgettable night of live acoustic music at The Earl Haig Club...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7007628",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:00:22+00:00",
+    "created": "2024-02-06T15:20:35+00:00"
+  },
+  {
     "id": "NL5rRk",
     "headline": "The Specials Ltd",
     "title": "Global Promotions Live",
@@ -976,6 +1539,46 @@
     "fansOnEnts24": 5,
     "lastUpdate": "2024-01-10T14:16:56+00:00",
     "created": "2023-12-11T08:24:25+00:00"
+  },
+  {
+    "id": "Rx5zv2",
+    "headline": "Helter Skelter",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Helter Skelter will be returning to The Earl Haig Club Bar. Last time they played,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7007668",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:28:26+00:00",
+    "created": "2024-02-06T17:28:15+00:00"
   },
   {
     "id": "pgRNdB",
@@ -1040,6 +1643,80 @@
     "created": "2023-11-24T06:55:19+00:00"
   },
   {
+    "id": "1WGZ9z",
+    "headline": "Mark Davies Band",
+    "title": "Sunday Session",
+    "startDate": "2024-03-24",
+    "endDate": "2024-03-24",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3",
+    "description": "Guitar Blues",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Mark Davies Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mark-davies-band/7007672",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T16:05:36+00:00",
+    "created": "2024-02-06T16:03:56+00:00"
+  },
+  {
+    "id": "nKrLjA",
+    "headline": "Monday Night Open Mic / Jam Session",
+    "title": "Monday Night Open Mic / Jam Session",
+    "startDate": "2024-03-25",
+    "endDate": "2024-03-25",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007616",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:22:05+00:00",
+    "created": "2024-02-06T15:13:32+00:00"
+  },
+  {
     "id": "kDa72R",
     "headline": "Big Mac's Wholly Soul Band",
     "title": null,
@@ -1102,6 +1779,88 @@
     "created": "2024-01-18T11:32:24+00:00"
   },
   {
+    "id": "ymWPYn",
+    "headline": "BC 60's",
+    "title": "Friday Night Live In The Bar",
+    "startDate": "2024-03-29",
+    "endDate": "2024-03-29",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The BC 60's at The Earl Haig Club Bar\n\n60’s Rock Classics featuring Nick Cogan",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "BC 60's"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bc-60s/7007658",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:28:12+00:00",
+    "created": "2024-02-06T17:28:02+00:00"
+  },
+  {
+    "id": "oBoqvb",
+    "headline": "The Shameless",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-30",
+    "endDate": "2024-03-30",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Shameless are a rock band based in The Vale of Glamorgan. We play a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Shameless"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-shameless/7007670",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T17:28:30+00:00",
+    "created": "2024-02-06T17:28:20+00:00"
+  },
+  {
     "id": "LzrjgK",
     "headline": "Big Mac's Wholly Soul Band",
     "title": null,
@@ -1144,6 +1903,162 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2024-01-18T11:31:10+00:00",
     "created": "2023-12-31T16:52:00+00:00"
+  },
+  {
+    "id": "bk9PK2",
+    "headline": "The Chordettes",
+    "title": "Sunday Session",
+    "startDate": "2024-03-31",
+    "endDate": "2024-03-31",
+    "startTimeString": "5:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£3",
+    "description": "60's Classics",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Chordettes"
+      }
+    ],
+    "genre": [
+      "music",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-chordettes/7007676",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T16:05:38+00:00",
+    "created": "2024-02-06T16:05:22+00:00"
+  },
+  {
+    "id": "2K0PXL",
+    "headline": "Just Friends Jazz",
+    "title": "Jazz Club",
+    "startDate": "2024-04-02",
+    "endDate": "2024-04-02",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Come enjoy an acoustic jazz session at the Just Friends Jazz Club located at The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends Jazz"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/7007620",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:16:14+00:00",
+    "created": "2024-02-06T15:15:57+00:00"
+  },
+  {
+    "id": "bk9Pj2",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Big Band Jazz",
+    "startDate": "2024-04-04",
+    "endDate": "2024-04-04",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£5 on the door",
+    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/038/734/1b949a0c8b4731b35e77daccb8175c6f9dbbd67b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007632",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:25:13+00:00",
+    "created": "2024-02-06T15:24:56+00:00"
+  },
+  {
+    "id": "Rx5zP2",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2024-04-09",
+    "endDate": "2024-04-09",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Rockers Reunion night, or perhaps better known as The Old Cardiff Rockers Reunion, is...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7007624",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:18:12+00:00",
+    "created": "2024-02-06T15:17:56+00:00"
   },
   {
     "id": "WgXlyX",
@@ -1569,6 +2484,47 @@
     "created": "2023-11-17T14:03:46+00:00"
   },
   {
+    "id": "pgZNjL",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Big Band Jazz",
+    "startDate": "2024-05-02",
+    "endDate": "2024-05-02",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£5 on the door",
+    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/038/734/1b949a0c8b4731b35e77daccb8175c6f9dbbd67b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007634",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:26:05+00:00",
+    "created": "2024-02-06T15:25:49+00:00"
+  },
+  {
     "id": "dDBPQj",
     "headline": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001",
     "title": "Global Promotions Live",
@@ -1640,11 +2596,11 @@
   },
   {
     "id": "XXmyx2",
-    "headline": "The Dirt Road Band, James Oliver Band",
+    "headline": "James Oliver Band",
     "title": null,
     "startDate": "2024-05-09",
     "endDate": "2024-05-09",
-    "startTimeString": "7:30pm",
+    "startTimeString": "8:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -1656,7 +2612,7 @@
     "price": null,
     "description": "A fabulous double bill of Rock and Blues \nSteve Walwyn from Dr Feelgood \nHorace Panter...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1666,17 +2622,13 @@
     },
     "artists": [
       {
-        "id": "6wkw4",
-        "name": "The Dirt Road Band"
-      },
-      {
         "id": "d5Xy2",
         "name": "James Oliver Band"
       }
     ],
     "tickets": [
       {
-        "dateTime": "2024-05-09T19:30:00+01:00",
+        "dateTime": "2024-05-09T20:00:00+01:00",
         "supplier": "WeGotTickets",
         "price": "£13.20",
         "totalPrice": "£13.20",
@@ -1698,9 +2650,9 @@
       "jazz",
       "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-06T03:29:17+00:00",
+    "lastUpdate": "2024-02-06T16:18:40+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
@@ -1830,6 +2782,47 @@
     "created": "2024-01-02T08:54:19+00:00"
   },
   {
+    "id": "kDPYjz",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Big Band Jazz",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-06",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": "£5 on the door",
+    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/038/734/1b949a0c8b4731b35e77daccb8175c6f9dbbd67b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007638",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T15:27:45+00:00",
+    "created": "2024-02-06T15:27:28+00:00"
+  },
+  {
     "id": "2KWPap",
     "headline": "Legend - The Music Of Bob Marley",
     "title": "Global Promotions Live",
@@ -1888,6 +2881,68 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2024-01-10T14:16:58+00:00",
     "created": "2023-11-27T07:21:53+00:00"
+  },
+  {
+    "id": "NLgPoE",
+    "headline": "Ceri Dupree",
+    "title": null,
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. Ceri Dupree!",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/315/657/0f55fc560f10a4e331e5462f626836122b65cfc1.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "aZAa",
+        "name": "Ceri Dupree"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-07-27T00:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£15.00",
+        "totalPrice": "£15.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-02-06T00:00:00+00:00",
+        "onSaleUntil": "2024-07-27T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly9jZW50cmFsbGluZWRpc2NvLmJpZ2NhcnRlbC5jb20v/supplier/Miscellaneous/suppliedid/MjE0MDky/ticketid/7084206/checksum/15900a097f4d2a4b3bb3816959f95239/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "comedy",
+      "theatreandarts",
+      "showsandevents",
+      "cabaret",
+      "drag"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ceri-dupree/7007098",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-06T10:28:58+00:00",
+    "created": "2024-02-06T10:28:46+00:00"
   },
   {
     "id": "oB65qW",
