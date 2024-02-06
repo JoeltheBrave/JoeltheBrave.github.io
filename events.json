@@ -1,39 +1,5 @@
 [
   {
-    "id": "bkNNLA",
-    "headline": "Monday Open Mic/Jam Session",
-    "title": "Monday Open Mic/Jam Session",
-    "startDate": "2024-02-05",
-    "endDate": "2024-02-05",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/844/5973c1db0062791a09721ff76ef4cd2bdd546cd1.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-open-micjam-session/6973076",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:38+00:00",
-    "created": "2024-01-10T12:27:11+00:00"
-  },
-  {
     "id": "Go222R",
     "headline": "Just Friends Jazz",
     "title": "Jazz Club",
@@ -1734,7 +1700,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-05T03:29:18+00:00",
+    "lastUpdate": "2024-02-06T03:29:17+00:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
