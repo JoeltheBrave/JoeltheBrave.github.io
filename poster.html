@@ -66,12 +66,16 @@
             width: 100%;
             box-sizing: border-box;
             overflow: hidden;
+			font-size: 1em;
         }
 		.editable p { margin: 0; padding: 0; }
-        .event-table td {
-            height: 50px; /* Adjust as needed */
-            vertical-align: top;
-        }
+.event-table td {
+    min-height: 50px; /* Minimum height to ensure visibility */
+    vertical-align: top; /* Align content to the top */
+    padding: 0.5em; /* Padding for visual space around content */
+    border: 1px solid black; /* Optional: border to define cell boundaries */
+    font-size: 1em; /* Font size relative to the table or body font size */
+}
         .button-container {
             text-align: left;
             position: absolute;
