@@ -70,3 +70,8 @@
 #foreground {
     position: relative;
 	z-index: 10;
+}
+.editable p { 
+	margin: 0; 
+	padding: 0; 
+}
