@@ -1,45 +1,5 @@
 [
   {
-    "id": "Go222R",
-    "headline": "Just Friends Jazz",
-    "title": "Jazz Club",
-    "startDate": "2024-02-06",
-    "endDate": "2024-02-06",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Come enjoy an acoustic jazz session at the Just Friends Jazz Club located at The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/864/2c768300dc60da4485c92cdb3b40cf51f8f5abd0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/6973202",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:58:31+00:00",
-    "created": "2024-01-10T12:40:18+00:00"
-  },
-  {
     "id": "Lzrrw0",
     "headline": "The Jedis",
     "title": "Friday Night Live In The Bar",
@@ -767,7 +727,7 @@
     "price": "Free",
     "description": "The real 'John Lewis' has been a headlining mainstay on the Rock n Roll, Rockabilly,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/444/094031bbc7fc6ca750007ff402c148b92e7afc62.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -786,7 +746,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-john-lewis-trio/7007644",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:35:13+00:00",
+    "lastUpdate": "2024-02-07T19:44:15+00:00",
     "created": "2024-02-06T15:34:56+00:00"
   },
   {
@@ -969,11 +929,11 @@
     "price": "Free",
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/000/041/608/aee249052bf8f05094ac71e650a721ff2fef8e4d.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/440/cfdad60a493138102edf6d2d238fa776af2992d4.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
-        "copyright": "Blues Central",
+        "copyright": null,
         "caption": null
       }
     },
@@ -989,8 +949,8 @@
       "blues"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/blues-central/7007648",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:27:50+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-02-07T19:36:48+00:00",
     "created": "2024-02-06T17:27:38+00:00"
   },
   {
@@ -1142,7 +1102,7 @@
     "price": "Free",
     "description": "The Semantics at The Earl Haig Club Bar.\n\nTHE SEMANTICS were formed in 1996 as a...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/442/74da2723dd3f73ea6aa3b6420d586cd135928b1d.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1160,7 +1120,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7007654",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:28:00+00:00",
+    "lastUpdate": "2024-02-07T19:39:22+00:00",
     "created": "2024-02-06T17:27:48+00:00"
   },
   {
@@ -1181,7 +1141,7 @@
     "price": "£3 on the door",
     "description": "Rattlesnake, a 4-piece classic rock band hailing from South Wales, have been reinvigorated with a...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/422/4199386acecbf107bba4e0d980f4c7bddf242fdf.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1200,7 +1160,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rattlesnake/7007674",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T16:45:41+00:00",
+    "lastUpdate": "2024-02-07T19:17:25+00:00",
     "created": "2024-02-06T16:03:56+00:00"
   },
   {
@@ -1289,7 +1249,7 @@
     "price": "Free",
     "description": "Coldshot are a four piece classic rock cover band from South Wales. Formed in 2021,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/430/ac6a8e578cd26dfee379c82b5c6ff2b814a724af.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1310,7 +1270,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7007656",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:41:38+00:00",
+    "lastUpdate": "2024-02-07T19:21:46+00:00",
     "created": "2024-02-06T15:41:21+00:00"
   },
   {
@@ -1331,7 +1291,7 @@
     "price": "Free",
     "description": "Ragged Union at The Earl Haig Club Bar.\n\n\"Groove driven, kick-arse, boogie beat, southern infused, rock’n’roll....",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/321/665/601dc0069218944026fad790b420d9d1012a2d71.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/446/d9b6df817b02d634152a85dbd2009f7470c2fadc.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1353,7 +1313,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ragged-union/7007662",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:28:18+00:00",
+    "lastUpdate": "2024-02-07T19:52:53+00:00",
     "created": "2024-02-06T17:28:07+00:00"
   },
   {
@@ -1374,7 +1334,7 @@
     "price": "£3 on the door",
     "description": "Moonmstorm,  here's your chance to see these guys again.\nWe are looking forward to a great...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/432/2b61fc3fa0e72d102c786e3a18ccfdb04e95b743.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1393,7 +1353,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/moonstorm/7007664",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:54:33+00:00",
+    "lastUpdate": "2024-02-07T19:22:36+00:00",
     "created": "2024-02-06T15:54:16+00:00"
   },
   {
@@ -1558,7 +1518,7 @@
     "price": "Free",
     "description": "Helter Skelter will be returning to The Earl Haig Club Bar. Last time they played,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/438/3a7763249c9ab9c9a1aed0b08d277829d13f3b4b.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1577,7 +1537,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7007668",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:28:26+00:00",
+    "lastUpdate": "2024-02-07T19:27:36+00:00",
     "created": "2024-02-06T17:28:15+00:00"
   },
   {
@@ -1660,7 +1620,7 @@
     "price": "£3",
     "description": "Guitar Blues",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/436/661b0eac65dcc7baef0730336b86553dae2485c8.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1679,7 +1639,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mark-davies-band/7007672",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T16:05:36+00:00",
+    "lastUpdate": "2024-02-07T19:24:14+00:00",
     "created": "2024-02-06T16:03:56+00:00"
   },
   {
@@ -1796,7 +1756,7 @@
     "price": "Free",
     "description": "The BC 60's at The Earl Haig Club Bar\n\n60’s Rock Classics featuring Nick Cogan",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/434/c1aa1a268df69fa69939241a829079770acba8fe.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1816,7 +1776,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bc-60s/7007658",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:28:12+00:00",
+    "lastUpdate": "2024-02-07T19:23:28+00:00",
     "created": "2024-02-06T17:28:02+00:00"
   },
   {
@@ -1837,7 +1797,7 @@
     "price": "Free",
     "description": "The Shameless are a rock band based in The Vale of Glamorgan. We play a...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/426/972e85f61d766b175353cfe97ed3e9565e46f8e4.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1857,7 +1817,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-shameless/7007670",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:28:30+00:00",
+    "lastUpdate": "2024-02-07T19:20:06+00:00",
     "created": "2024-02-06T17:28:20+00:00"
   },
   {
@@ -1922,7 +1882,7 @@
     "price": "£3",
     "description": "60's Classics",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/495/428/cd465786ccb0e3448e658105f1c328ba4f89bde1.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1940,8 +1900,8 @@
       "1960s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-chordettes/7007676",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T16:05:38+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-02-07T19:20:24+00:00",
     "created": "2024-02-06T16:05:22+00:00"
   },
   {
