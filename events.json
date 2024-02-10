@@ -1,49 +1,5 @@
 [
   {
-    "id": "Lzrrw0",
-    "headline": "The Jedis",
-    "title": "Friday Night Live In The Bar",
-    "startDate": "2024-02-09",
-    "endDate": "2024-02-09",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Classic Rock from The Jedis",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/868/03187c415d92dd7f1fa0c6be8f8c2dfecd3e4bd0.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "covers",
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/6973208",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:38+00:00",
-    "created": "2024-01-10T12:42:40+00:00"
-  },
-  {
     "id": "NL55gY",
     "headline": "Rock n Roll Revival",
     "title": "Saturday Night Live",
