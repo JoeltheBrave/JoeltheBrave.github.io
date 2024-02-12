@@ -1,46 +1,5 @@
 [
   {
-    "id": "74L1wz",
-    "headline": "The Troubadours",
-    "title": "Sunday Sessions",
-    "startDate": "2024-02-11",
-    "endDate": "2024-02-11",
-    "startTimeString": "6:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3",
-    "description": "Come and experience the magic of The Troubadours with Mark Pontin at The Earl Haig...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/520/6d78a9713116771c2925f63b8f54fc4e441ae898.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Troubadours"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-troubadours/6990386",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-23T17:57:33+00:00",
-    "created": "2024-01-23T17:56:35+00:00"
-  },
-  {
     "id": "Go22nk",
     "headline": "Mark Pontin",
     "title": "Monday Open Mic/Jam Session",
