@@ -27,7 +27,7 @@
         }
         .event-table-container {
             width: 100%;
-            max-height: 410mm;
+            max-height: 300mm;
             margin: 0 auto;
             position: relative;
             background-color: #fff;
@@ -76,12 +76,14 @@
     border: 1px solid black; /* Optional: border to define cell boundaries */
     font-size: 1em; /* Font size relative to the table or body font size */
 }
-        .button-container {
-            text-align: left;
-            position: absolute;
-            top: 10px;
-            right: 10px;
-        }
+.button-container {
+    text-align: center; /* Aligns the buttons and dropdown in the center */
+    position: absolute;
+    left: 50%; /* Moves the container to the middle */
+    transform: translateX(-50%); /* Centers the container exactly */
+    top: 10px;
+}
+
         .button-container button {
             margin-right: 10px;
         }
