@@ -1111,7 +1111,7 @@
   },
   {
     "id": "2K0P5L",
-    "headline": "Moonstorm",
+    "headline": "Sunday Sessions",
     "title": "Sunday Sessions",
     "startDate": "2024-03-17",
     "endDate": "2024-03-17",
@@ -1125,9 +1125,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": "£3 on the door",
-    "description": "Moonmstorm,  here's your chance to see these guys again.\nWe are looking forward to a great...",
+    "description": "Band to be confirmed.\nDoors open 5pm\nBand on a 6pm\n",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/495/432/2b61fc3fa0e72d102c786e3a18ccfdb04e95b743.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/496/314/c745de09f29e4eb68faca698c6dc4862cd611011.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1135,18 +1135,13 @@
         "caption": null
       }
     },
-    "artists": [
-      {
-        "name": "Moonstorm"
-      }
-    ],
     "genre": [
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/moonstorm/7007664",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7007664",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-07T19:22:36+00:00",
+    "lastUpdate": "2024-02-14T17:21:41+00:00",
     "created": "2024-02-06T15:54:16+00:00"
   },
   {
