@@ -1,47 +1,5 @@
 [
   {
-    "id": "Bv44aO",
-    "headline": "Parcel Of Rogues",
-    "title": "Saturday Night Live",
-    "startDate": "2024-02-17",
-    "endDate": "2024-02-17",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "The following is an announcement for an upcoming event:\n? Band Name: Parcel Of Rogues ?\n?...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/872/14f2f62a824f1321762aa35e44ab40868be32880.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OqoZz",
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parcel-of-rogues/6973212",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-10T14:16:39+00:00",
-    "created": "2024-01-10T12:48:12+00:00"
-  },
-  {
     "id": "DwlzD1",
     "headline": "The Red Hot Pokers",
     "title": "Sunday Sessions",
