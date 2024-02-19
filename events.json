@@ -1,48 +1,5 @@
 [
   {
-    "id": "DwlzD1",
-    "headline": "The Red Hot Pokers",
-    "title": "Sunday Sessions",
-    "startDate": "2024-02-18",
-    "endDate": "2024-02-18",
-    "startTimeString": "6:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3 on the door",
-    "description": "The Red Hot Pokers at The Earl Haig Concert Room.\nThe Red Hot Pokers will be...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/518/c9d4f7447e70b9ecd5947da38b025df0c55d029e.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "vayx",
-        "name": "The Red Hot Pokers"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-red-hot-pokers/6990384",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-23T17:48:42+00:00",
-    "created": "2024-01-23T17:48:26+00:00"
-  },
-  {
     "id": "kDaa50",
     "headline": "Pete Mathison",
     "title": "Monday Open Mic / Jam Session",
