@@ -1,45 +1,5 @@
 [
   {
-    "id": "kDaa50",
-    "headline": "Pete Mathison",
-    "title": "Monday Open Mic / Jam Session",
-    "startDate": "2024-02-19",
-    "endDate": "2024-02-19",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/850/2441bf6eaf591c74e385dac2d9f5fd8ea924d446.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Pete Mathison"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pete-mathison/6973138",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-18T18:54:19+00:00",
-    "created": "2024-01-10T12:31:31+00:00"
-  },
-  {
     "id": "pgZ5nB",
     "headline": "Andy Johnson",
     "title": "Strictly Acoustic",
@@ -694,18 +654,18 @@
     ],
     "tickets": [
       {
-        "dateTime": "2024-03-08T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£33.75",
-        "totalPrice": "£33.75",
+        "dateTime": "2024-03-08T19:30:00+00:00",
+        "supplier": "Skiddle",
+        "price": "£33.60",
+        "totalPrice": "£33.60",
         "inclBookingFee": false,
         "isOnSale": true,
         "isAvailable": true,
         "isPresaleTicket": false,
         "isResaleTicket": false,
-        "onSaleFrom": "2023-10-26T00:00:00+01:00",
+        "onSaleFrom": "2023-11-28T00:00:00+00:00",
         "onSaleUntil": "2024-03-09T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXZpbnRhZ2UtZXhwbG9zaW9uL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODE0NTIzP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgxNDUyMw/ticketid/6874880/checksum/ed8bfdc01b7f2c0f37f1c3adcdebfd60/track/true",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly93d3cuc2tpZGRsZS5jb20vd2hhdHMtb24vQ2FyZGlmZi9USEUtRUFSTC1IQUlHLS9UaGUtVmludGFnZS1FeHBsb3Npb24vMzY3MjEyNDQvP3NrdGFnPTE1Mjkz/supplier/Skiddle/suppliedid/MzY3MjEyNDQ/ticketid/6929418/checksum/7e4796c86627920891320ac3a62a594b/track/true",
         "email": null,
         "telephone": null
       }
@@ -720,7 +680,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-vintage-explosion/6896226",
     "fansOnEnts24": 3,
-    "lastUpdate": "2024-01-10T14:16:56+00:00",
+    "lastUpdate": "2024-02-19T15:31:01+00:00",
     "created": "2023-10-26T06:47:52+00:00"
   },
   {
@@ -2379,6 +2339,64 @@
     "fansOnEnts24": 5,
     "lastUpdate": "2024-01-10T14:16:58+00:00",
     "created": "2023-11-27T07:21:52+00:00"
+  },
+  {
+    "id": "XX0GY0",
+    "headline": "Thin Ice",
+    "title": null,
+    "startDate": "2024-05-18",
+    "endDate": "2024-05-18",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Thin Ice"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-18T21:00:00+01:00",
+        "supplier": "Ents24",
+        "price": "£11.00",
+        "totalPrice": "£11.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-02-19T00:00:00+00:00",
+        "onSaleUntil": "2024-05-18T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGlja2V0cy9ldmVudGlkLzI5NTM0ODQ_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjk1MzQ4NA/ticketid/7109934/checksum/5ee4165f93a31c15f560117ded52a158/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thin-ice/7021118",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-19T12:22:27+00:00",
+    "created": "2024-02-19T10:57:00+00:00"
   },
   {
     "id": "Go2DZy",
