@@ -1,45 +1,5 @@
 [
   {
-    "id": "pgZ5nB",
-    "headline": "Andy Johnson",
-    "title": "Strictly Acoustic",
-    "startDate": "2024-02-20",
-    "endDate": "2024-02-20",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Strictly Acoustic with Andy Johnson at The Earl Haig Club Bar.\nTuesday February 20th, 2023\nJoin us...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/844/1bf60b192bfac7a7d7f9851c380439b52778f310.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/6991734",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-24T20:04:35+00:00",
-    "created": "2024-01-24T20:04:18+00:00"
-  },
-  {
     "id": "Go2DDy",
     "headline": "The Big Motown 'N' Soul Nite",
     "title": "The Big Motown 'N' Soul Nite",
@@ -51,13 +11,13 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "@TheBigNiteOut Presents.. The Big Motown 'N' Soul Nite with Dave Bowen!",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/490/942/8e1f86c683fe299d5d6fb2f60df314e50cdecb91.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/496/858/47743a68b8f23ff963e41a2b10981210e1362903.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -65,22 +25,9 @@
         "caption": null
       }
     },
-    "tickets": [
+    "artists": [
       {
-        "dateTime": "2024-02-23T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-01-03T00:00:00+00:00",
-        "onSaleUntil": "2024-02-23T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjA5MzU4/ticketid/7005280/checksum/fe586a51453fcee5cc2a3d1ef751aede/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
+        "name": "Dave Bowen"
       }
     ],
     "genre": [
@@ -96,9 +43,9 @@
       "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/6963290",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2024-01-10T14:16:39+00:00",
-    "created": "2024-01-03T15:12:27+00:00"
+    "fansOnEnts24": 6,
+    "lastUpdate": "2024-02-20T12:32:46+00:00",
+    "created": "2024-02-20T12:32:36+00:00"
   },
   {
     "id": "ymEEWy",
@@ -1860,8 +1807,8 @@
   },
   {
     "id": "bk9agy",
-    "headline": "The Big Motown'N'Soul Nite",
-    "title": "The Big Motown'N'Soul Nite",
+    "headline": "The Big Motown 'N' Soul Nite",
+    "title": "The Big Motown 'N' Soul Nite",
     "startDate": "2024-04-19",
     "endDate": "2024-04-19",
     "startTimeString": "7:00pm",
@@ -1884,6 +1831,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Ruby Kay"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2024-04-19T00:00:00+01:00",
@@ -1916,9 +1868,9 @@
       "1980s",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite/6991476",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/6991476",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-24T12:53:01+00:00",
+    "lastUpdate": "2024-02-20T12:28:07+00:00",
     "created": "2024-01-24T12:52:32+00:00"
   },
   {
@@ -2462,6 +2414,70 @@
     "created": "2024-01-02T08:54:19+00:00"
   },
   {
+    "id": "Rx5N7R",
+    "headline": "The Neil Diamond Experience",
+    "title": null,
+    "startDate": "2024-05-25",
+    "endDate": "2024-05-25",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents The Neil Diamond Experience with Jeff Phillips!",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/496/856/bad69fa6c7c6747e69bc99112585c7bf8aba6a81.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "GGv0",
+        "name": "The Neil Diamond Experience"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-25T00:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-02-20T00:00:00+00:00",
+        "onSaleUntil": "2024-05-25T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjE1OTcw/ticketid/7115054/checksum/af5325b76809f80331fa9b7e73f136b2/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "easy",
+      "tribute",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-neil-diamond-experience/7024024",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-20T12:32:54+00:00",
+    "created": "2024-02-20T12:32:40+00:00"
+  },
+  {
     "id": "kDPYjz",
     "headline": "Capital City Jazz Orchestra",
     "title": "Big Band Jazz",
@@ -2561,6 +2577,74 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2024-01-10T14:16:58+00:00",
     "created": "2023-11-27T07:21:53+00:00"
+  },
+  {
+    "id": "PaELOE",
+    "headline": "The Big Motown 'N' Soul Nite",
+    "title": "The Big Motown 'N' Soul Nite",
+    "startDate": "2024-06-29",
+    "endDate": "2024-06-29",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. Lee St Lawarence!",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-06-29T00:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-02-20T00:00:00+00:00",
+        "onSaleUntil": "2024-06-29T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjE1OTY4/ticketid/7115042/checksum/618198fbe16c3c6a97cc39a4822e8bd8/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "reggae",
+      "rocknroll",
+      "disco",
+      "world",
+      "blues",
+      "swing",
+      "easy",
+      "choral",
+      "covers",
+      "tribute",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/7024022",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-20T12:26:21+00:00",
+    "created": "2024-02-20T12:26:06+00:00"
   },
   {
     "id": "NLgPoE",
