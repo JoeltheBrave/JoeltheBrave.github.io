@@ -213,7 +213,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ken-woods-and-ol-blue-gang/6973146",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-19T17:35:41+00:00",
+    "lastUpdate": "2024-02-22T13:40:42+00:00",
     "created": "2024-01-19T17:35:31+00:00"
   },
   {
@@ -440,7 +440,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pearls/7007610",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T16:22:50+00:00",
+    "lastUpdate": "2024-02-22T13:40:42+00:00",
     "created": "2024-02-06T15:10:46+00:00"
   },
   {
@@ -631,8 +631,47 @@
     "created": "2023-10-26T06:47:52+00:00"
   },
   {
+    "id": "NLgPXg",
+    "headline": "The Semantics",
+    "title": "Saturday Night Live",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-09",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "The Semantics at The Earl Haig Club Bar.\n\nTHE SEMANTICS were formed in 1996 as a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/495/442/74da2723dd3f73ea6aa3b6420d586cd135928b1d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Semantics"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7007654",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-07T19:39:22+00:00",
+    "created": "2024-02-06T17:27:48+00:00"
+  },
+  {
     "id": "bkNPzA",
-    "headline": "StereoIronics, Maniac Street Preachers",
+    "headline": "StereoIronics",
     "title": "Global Promotions Live",
     "startDate": "2024-03-09",
     "endDate": "2024-03-09",
@@ -693,49 +732,10 @@
       "1990s",
       "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stereoironics-maniac-street-preachers/6921376",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stereoironics/6921376",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-10T14:16:40+00:00",
-    "created": "2023-11-24T06:55:19+00:00"
-  },
-  {
-    "id": "NLgPXg",
-    "headline": "The Semantics",
-    "title": "Saturday Night Live",
-    "startDate": "2024-03-09",
-    "endDate": "2024-03-09",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "The Semantics at The Earl Haig Club Bar.\n\nTHE SEMANTICS were formed in 1996 as a...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/495/442/74da2723dd3f73ea6aa3b6420d586cd135928b1d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Semantics"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7007654",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-07T19:39:22+00:00",
-    "created": "2024-02-06T17:27:48+00:00"
+    "lastUpdate": "2024-02-22T13:42:04+00:00",
+    "created": "2024-02-22T13:41:53+00:00"
   },
   {
     "id": "zajP1o",
@@ -803,12 +803,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Jedis"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007612",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:12:08+00:00",
+    "lastUpdate": "2024-02-22T13:40:42+00:00",
     "created": "2024-02-06T15:11:50+00:00"
   },
   {
@@ -837,12 +842,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The James Boys"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7007622",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:17:12+00:00",
+    "lastUpdate": "2024-02-22T13:40:44+00:00",
     "created": "2024-02-06T15:16:56+00:00"
   },
   {
@@ -1004,7 +1014,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7007614",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:12:56+00:00",
+    "lastUpdate": "2024-02-22T13:40:44+00:00",
     "created": "2024-02-06T15:12:39+00:00"
   },
   {
@@ -1277,12 +1287,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Sundogs"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007616",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:22:05+00:00",
+    "lastUpdate": "2024-02-22T13:38:39+00:00",
     "created": "2024-02-06T15:13:32+00:00"
   },
   {
