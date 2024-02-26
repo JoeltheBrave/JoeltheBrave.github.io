@@ -1,47 +1,5 @@
 [
   {
-    "id": "kDPeQb",
-    "headline": "Tumbling Dice",
-    "title": "Sunday Sessions",
-    "startDate": "2024-02-25",
-    "endDate": "2024-02-25",
-    "startTimeString": "6:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3",
-    "description": "Tumbling Dice are a classic covers band that features members from Outback and The Hindenburgs....",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/516/255aab6cd054be56fcb2ebf1ed791048f2b087f8.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Tumbling Dice"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tumbling-dice/6990382",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-23T17:47:06+00:00",
-    "created": "2024-01-23T17:46:49+00:00"
-  },
-  {
     "id": "Go22Gy",
     "headline": "Ken Woods & Ol' Blue Gang",
     "title": "Monday Open Mic / Jam Session",
