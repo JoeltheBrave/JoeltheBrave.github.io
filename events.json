@@ -1,45 +1,5 @@
 [
   {
-    "id": "Go22Gy",
-    "headline": "Ken Woods & Ol' Blue Gang",
-    "title": "Monday Open Mic / Jam Session",
-    "startDate": "2024-02-26",
-    "endDate": "2024-02-26",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/856/7e2c3a2e72ad42fe2941c06d01468de81619e949.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Ken Woods & Ol' Blue Gang"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ken-woods-and-ol-blue-gang/6973146",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-22T13:40:42+00:00",
-    "created": "2024-01-19T17:35:31+00:00"
-  },
-  {
     "id": "mDlllX",
     "headline": "Tony Morley And The Little Giants",
     "title": "Saturday Night Live",
@@ -1308,7 +1268,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6960908",
     "fansOnEnts24": 4,
-    "lastUpdate": "2024-01-18T11:31:10+00:00",
+    "lastUpdate": "2024-02-26T20:10:47+00:00",
     "created": "2023-12-31T16:52:00+00:00"
   },
   {
@@ -1592,13 +1552,13 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "@TheBigNiteOut Presents... Night At The Opera (Queen Tribute Band)",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/108/338/6fab57f01e2456a64dac11c6b5cd7706e57093be.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/497/496/1865bcbf8b98faac72ade0b0fef02cb1e158b596.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1612,24 +1572,6 @@
         "name": "Night At The Opera"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-12T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-01-24T00:00:00+00:00",
-        "onSaleUntil": "2024-04-12T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly9jZW50cmFsbGluZWRpc2NvLmJpZ2NhcnRlbC5jb20vcHJvZHVjdHM/supplier/Miscellaneous/suppliedid/MjEyNTMw/ticketid/7056882/checksum/819a9ce8bcdd3933cb2b3a6e77aa1cdf/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -1639,8 +1581,8 @@
       "1980s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/night-at-the-opera/6991478",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-24T15:51:15+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-02-26T20:13:15+00:00",
     "created": "2024-01-24T15:51:04+00:00"
   },
   {
@@ -2434,7 +2376,7 @@
     "price": null,
     "description": "@TheBigNiteOut Presents.. Lee St Lawarence!",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/497/494/85c934b2076550cd2e216afbc471cebc22a34602.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -2481,7 +2423,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/7024022",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-20T12:26:21+00:00",
+    "lastUpdate": "2024-02-26T20:12:35+00:00",
     "created": "2024-02-20T12:26:06+00:00"
   },
   {
