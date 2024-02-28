@@ -1268,8 +1268,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6960908",
     "fansOnEnts24": 4,
-    "lastUpdate": "2024-02-26T20:10:47+00:00",
-    "created": "2023-12-31T16:52:00+00:00"
+    "lastUpdate": "2024-02-27T10:05:50+00:00",
+    "created": "2024-02-27T10:05:38+00:00"
   },
   {
     "id": "bk9PK2",
@@ -1582,8 +1582,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/night-at-the-opera/6991478",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-26T20:13:15+00:00",
-    "created": "2024-01-24T15:51:04+00:00"
+    "lastUpdate": "2024-02-27T10:05:56+00:00",
+    "created": "2024-02-27T10:05:45+00:00"
   },
   {
     "id": "bk9agy",
@@ -2384,6 +2384,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Lee St Lawrence"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2024-06-29T00:00:00+01:00",
@@ -2423,7 +2428,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite/7024022",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-26T20:12:35+00:00",
+    "lastUpdate": "2024-02-27T11:44:31+00:00",
     "created": "2024-02-20T12:26:06+00:00"
   },
   {
@@ -2487,6 +2492,67 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-02-06T10:28:58+00:00",
     "created": "2024-02-06T10:28:46+00:00"
+  },
+  {
+    "id": "2K08Oj",
+    "headline": "Band of Friends",
+    "title": null,
+    "startDate": "2024-07-31",
+    "endDate": "2024-07-31",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/423/720/7674e3bb5b763d080a9240bfd225bbe1c98da185.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "wBadG",
+        "name": "Band of Friends"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-07-31T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-02-27T00:00:00+00:00",
+        "onSaleUntil": "2024-08-01T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYmFuZC1vZi1mcmllbmRzL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yOTYwODY3P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/Mjk2MDg2Nw/ticketid/7130464/checksum/a58be80219b67f873adb8083fba49ddc/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/band-of-friends/7031964",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-02-27T17:38:29+00:00",
+    "created": "2024-02-27T09:59:11+00:00"
   },
   {
     "id": "oB65qW",
