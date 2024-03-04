@@ -1,45 +1,5 @@
 [
   {
-    "id": "Wg5QDp",
-    "headline": "Firewater",
-    "title": "Sunday Sessions",
-    "startDate": "2024-03-03",
-    "endDate": "2024-03-03",
-    "startTimeString": "6:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3 on the door",
-    "description": "Come rock out at The Earl Haig Club Concert Room to some hard rock covers...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/493/514/3cd6e3f6c77951e9d9f897c7afa47314cf25cb29.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Firewater"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/firewater/6990380",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-01-23T17:45:25+00:00",
-    "created": "2024-01-23T17:45:09+00:00"
-  },
-  {
     "id": "NLgPRg",
     "headline": "Pearls",
     "title": "Monday Night Open Mic / Jam Session",
