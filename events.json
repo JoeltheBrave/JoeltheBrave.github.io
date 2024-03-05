@@ -1,45 +1,5 @@
 [
   {
-    "id": "NLgPRg",
-    "headline": "Pearls",
-    "title": "Monday Night Open Mic / Jam Session",
-    "startDate": "2024-03-04",
-    "endDate": "2024-03-04",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Pearls"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pearls/7007610",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-22T13:40:42+00:00",
-    "created": "2024-02-06T15:10:46+00:00"
-  },
-  {
     "id": "XX0bj2",
     "headline": "Just Friends Jazz",
     "title": "Jazz Club",
@@ -312,8 +272,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stereoironics/6921376",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-22T13:42:04+00:00",
-    "created": "2024-02-22T13:41:53+00:00"
+    "lastUpdate": "2024-03-04T16:19:29+00:00",
+    "created": "2024-03-04T16:19:17+00:00"
   },
   {
     "id": "zajP1o",
@@ -373,7 +333,7 @@
     "price": "Free",
     "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/498/192/ae2f86bf4735c2b9e86fd4e7e1deecb9f4aab3fb.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -391,7 +351,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007612",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-22T13:40:42+00:00",
+    "lastUpdate": "2024-03-04T13:51:58+00:00",
     "created": "2024-02-06T15:11:50+00:00"
   },
   {
@@ -534,9 +494,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": "£3 on the door",
-    "description": "Band to be confirmed.\nDoors open 5pm\nBand on a 6pm\n",
+    "description": "The Godseys at The Earl Haig Club Concert Room\nThe Godseys are from the Wye Valley...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/496/314/c745de09f29e4eb68faca698c6dc4862cd611011.png?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/498/186/c966b56e78da6c06ca01fe99e16d6663f56a7197.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -544,18 +504,24 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Godseys"
+      }
+    ],
     "genre": [
       "music",
-      "rock"
+      "acoustic",
+      "country"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7007664",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-14T17:21:41+00:00",
+    "lastUpdate": "2024-03-04T13:41:20+00:00",
     "created": "2024-02-06T15:54:16+00:00"
   },
   {
     "id": "ymWP9n",
-    "headline": "James Oliver Band",
+    "headline": "Monday Night Open Mic / Jam Session",
     "title": "Monday Night Open Mic / Jam Session",
     "startDate": "2024-03-18",
     "endDate": "2024-03-18",
@@ -590,14 +556,14 @@
       "blues",
       "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7007614",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7007614",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-22T13:40:44+00:00",
+    "lastUpdate": "2024-03-04T11:52:22+00:00",
     "created": "2024-02-06T15:12:39+00:00"
   },
   {
     "id": "1WGZvz",
-    "headline": "Andy Johnson",
+    "headline": "Strictly Acoustic",
     "title": "Strictly Acoustic",
     "startDate": "2024-03-19",
     "endDate": "2024-03-19",
@@ -613,7 +579,7 @@
     "price": "Free",
     "description": "Join us for an unforgettable night of live acoustic music at The Earl Haig Club...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/498/194/c09202f3f01662e6c4be1888927716b5127cfc74.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -630,9 +596,9 @@
       "music",
       "acoustic"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7007628",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic/7007628",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T17:00:22+00:00",
+    "lastUpdate": "2024-03-04T13:53:36+00:00",
     "created": "2024-02-06T15:20:35+00:00"
   },
   {
@@ -694,7 +660,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-specials-ltd/6943698",
     "fansOnEnts24": 5,
-    "lastUpdate": "2024-01-10T14:16:56+00:00",
+    "lastUpdate": "2024-03-04T13:46:59+00:00",
     "created": "2023-12-11T08:24:25+00:00"
   },
   {
@@ -795,9 +761,9 @@
       "1960s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-doors-rising/6921378",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-01-10T14:16:40+00:00",
-    "created": "2023-11-24T06:55:19+00:00"
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-03-04T16:19:37+00:00",
+    "created": "2024-03-04T16:19:26+00:00"
   },
   {
     "id": "1WGZ9z",
@@ -1173,7 +1139,7 @@
   {
     "id": "BvaqwE",
     "headline": "The Stonehouse Collective",
-    "title": "Samaritans Charity : Stonehouse",
+    "title": "Samaritans Charity Event : Stonehouse",
     "startDate": "2024-04-06",
     "endDate": "2024-04-06",
     "startTimeString": "9:00pm",
@@ -1186,9 +1152,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "? Get ready for a night of nostalgia and fun at the Earl Haig Memorial...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/498/178/c8f401d38fbe9dc0a1f036a57aafd776817995b2.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1203,7 +1169,7 @@
     ],
     "tickets": [
       {
-        "dateTime": "2024-04-06T21:00:00+01:00",
+        "dateTime": "2024-04-06T20:00:00+01:00",
         "supplier": "Ents24",
         "price": "£11.00",
         "totalPrice": "£11.00",
@@ -1224,8 +1190,8 @@
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-stonehouse-collective/7036956",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-01T17:20:13+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-03-04T16:35:35+00:00",
     "created": "2024-03-01T17:20:00+00:00"
   },
   {
@@ -1254,17 +1220,22 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The James Boys"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7007624",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:18:12+00:00",
+    "lastUpdate": "2024-03-04T13:38:48+00:00",
     "created": "2024-02-06T15:17:56+00:00"
   },
   {
     "id": "WgXlyX",
-    "headline": "Treacherous Cretins ft Robert Martin",
+    "headline": "Celebrate Zappa: Treacherous Cretins Feat Frank Zappa Alumni Bobby Martin",
     "title": "Celebrate Zappa: Treacherous Cretins Feat Frank Zappa Alumni Bobby Martin",
     "startDate": "2024-04-11",
     "endDate": "2024-04-11",
@@ -1322,9 +1293,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/treacherous-cretins-ft-robert-martin/6859680",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/celebrate-zappa-treacherous-cretins-feat-frank-zappa-alumni-bobby-martin/6859680",
     "fansOnEnts24": 3,
-    "lastUpdate": "2024-01-10T14:16:58+00:00",
+    "lastUpdate": "2024-03-04T13:43:40+00:00",
     "created": "2023-09-11T08:09:19+00:00"
   },
   {
@@ -1547,7 +1518,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dirty-dc/6943540",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-01-10T14:16:59+00:00",
+    "lastUpdate": "2024-03-04T13:48:08+00:00",
     "created": "2023-12-11T08:24:23+00:00"
   },
   {
