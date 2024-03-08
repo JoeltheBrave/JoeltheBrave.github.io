@@ -1,46 +1,5 @@
 [
   {
-    "id": "zajPdo",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Big Band Jazz",
-    "startDate": "2024-03-07",
-    "endDate": "2024-03-07",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£5 on the door",
-    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/495/120/520a9f5977017c60118924300cf29a47d243edd7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007630",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:24:03+00:00",
-    "created": "2024-02-06T15:23:48+00:00"
-  },
-  {
     "id": "K91P4D",
     "headline": "Blues Central",
     "title": "Blues Night",
@@ -659,8 +618,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7007668",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:32:15+00:00",
-    "created": "2024-02-06T17:28:15+00:00"
+    "lastUpdate": "2024-03-07T15:42:51+00:00",
+    "created": "2024-03-07T15:42:39+00:00"
   },
   {
     "id": "pgRNdB",
@@ -844,8 +803,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6983882",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-03-06T16:43:24+00:00",
-    "created": "2024-02-28T14:54:23+00:00"
+    "lastUpdate": "2024-03-07T15:42:37+00:00",
+    "created": "2024-03-07T15:42:26+00:00"
   },
   {
     "id": "ymWPYn",
@@ -926,52 +885,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-shameless/7007670",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T17:06:28+00:00",
-    "created": "2024-02-06T17:28:20+00:00"
-  },
-  {
-    "id": "LzrjgK",
-    "headline": "Big Mac's Wholly Soul Band",
-    "title": "TheBigNiteOut Presents.",
-    "startDate": "2024-03-30",
-    "endDate": "2024-03-30",
-    "startTimeString": "7:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "@TheBigNiteOut Presents.. Big Macs Wholly Soul Band!\n\nWhen this event sells out please email info@thebigniteout.co.uk to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Nick Fowler Photography",
-        "caption": "Nick Fowler"
-      }
-    },
-    "artists": [
-      {
-        "id": "AwEN",
-        "name": "Big Mac's Wholly Soul Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "covers",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/6960908",
-    "fansOnEnts24": 4,
-    "lastUpdate": "2024-03-06T16:43:24+00:00",
-    "created": "2024-02-27T10:05:38+00:00"
+    "lastUpdate": "2024-03-07T15:42:57+00:00",
+    "created": "2024-03-07T15:42:45+00:00"
   },
   {
     "id": "bk9PK2",
@@ -1266,8 +1181,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics/7042292",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T17:03:43+00:00",
-    "created": "2024-03-06T15:44:31+00:00"
+    "lastUpdate": "2024-03-07T16:02:32+00:00",
+    "created": "2024-03-07T16:02:20+00:00"
   },
   {
     "id": "LzwAqK",
@@ -1537,8 +1452,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/night-at-the-opera/6991478",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-03-06T16:43:26+00:00",
-    "created": "2024-02-27T10:05:45+00:00"
+    "lastUpdate": "2024-03-07T15:42:39+00:00",
+    "created": "2024-03-07T15:42:28+00:00"
   },
   {
     "id": "dD4dq6",
@@ -1910,8 +1825,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jug-band/7042298",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:43:26+00:00",
-    "created": "2024-03-06T15:44:38+00:00"
+    "lastUpdate": "2024-03-07T16:02:32+00:00",
+    "created": "2024-03-07T16:02:22+00:00"
   },
   {
     "id": "Bvae66",
@@ -2152,8 +2067,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ponchartrain/7042300",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:29:15+00:00",
-    "created": "2024-03-06T15:44:42+00:00"
+    "lastUpdate": "2024-03-07T16:02:32+00:00",
+    "created": "2024-03-07T16:02:21+00:00"
   },
   {
     "id": "ymW5dB",
@@ -2379,8 +2294,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:32:15+00:00",
-    "created": "2024-03-06T15:44:25+00:00"
+    "lastUpdate": "2024-03-07T16:02:24+00:00",
+    "created": "2024-03-07T16:02:13+00:00"
   },
   {
     "id": "GoRdKk",
@@ -3006,8 +2921,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/are-you-experienced/7040548",
     "fansOnEnts24": 3,
-    "lastUpdate": "2024-03-06T17:13:22+00:00",
-    "created": "2024-03-05T15:15:39+00:00"
+    "lastUpdate": "2024-03-07T16:02:12+00:00",
+    "created": "2024-03-07T16:02:00+00:00"
   },
   {
     "id": "PaELOE",
@@ -3432,6 +3347,68 @@
     "created": "2024-03-05T07:47:20+00:00"
   },
   {
+    "id": "K91rwk",
+    "headline": "Dizzy Lizzy",
+    "title": null,
+    "startDate": "2024-08-31",
+    "endDate": "2024-08-31",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/058/804/1ac0cf65c81212987863aed4bcb0355339987ee7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pyL",
+        "name": "Dizzy Lizzy"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-31T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£18.00",
+        "totalPrice": "£18.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-03-07T12:00:00+00:00",
+        "onSaleUntil": "2024-09-01T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZGl6enktbGl6enkvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI5NjgwMjY_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjk2ODAyNg/ticketid/7155934/checksum/6f4c45f7f10d8c3e0ae87f664d21f723/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dizzy-lizzy/7043492",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-07T14:12:59+00:00",
+    "created": "2024-03-07T13:00:44+00:00"
+  },
+  {
     "id": "Rx5PjR",
     "headline": "The Oasis Experience",
     "title": "Global Promotions Live",
@@ -3740,6 +3717,68 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2024-03-06T16:43:28+00:00",
     "created": "2024-02-29T15:56:40+00:00"
+  },
+  {
+    "id": "NLg1w8",
+    "headline": "Electrik Live Orchestra",
+    "title": null,
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-15",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/489/086/5a3e8ff33be54ee71a8b8beec9049b7a8b720330.jpg?auto=format&fp-x=0.492&fp-y=0.077&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "nzBl0",
+        "name": "Electrik Live Orchestra"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-11-15T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£24.75",
+        "totalPrice": "£24.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-03-07T00:00:00+00:00",
+        "onSaleUntil": "2024-11-16T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZWxlY3RyaWstbGl2ZS1vcmNoZXN0cmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI5NjkzMTA_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjk2OTMxMA/ticketid/7155960/checksum/e568e9f46b211b7971f8a65ac9494a2c/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/electrik-live-orchestra/7043510",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-07T14:13:01+00:00",
+    "created": "2024-03-07T13:00:45+00:00"
   },
   {
     "id": "74L67G",
