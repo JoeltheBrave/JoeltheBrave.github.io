@@ -2385,7 +2385,7 @@
   {
     "id": "XX0GY0",
     "headline": "Thin Ice",
-    "title": null,
+    "title": "Thin Ice",
     "startDate": "2024-05-18",
     "endDate": "2024-05-18",
     "startTimeString": "9:00pm",
@@ -2415,7 +2415,7 @@
     ],
     "tickets": [
       {
-        "dateTime": "2024-05-18T21:00:00+01:00",
+        "dateTime": "2024-05-18T20:00:00+01:00",
         "supplier": "Ents24",
         "price": "£11.00",
         "totalPrice": "£11.00",
@@ -2437,7 +2437,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thin-ice/7021118",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-19T12:22:27+00:00",
+    "lastUpdate": "2024-03-10T13:49:47+00:00",
     "created": "2024-02-19T10:57:00+00:00"
   },
   {
