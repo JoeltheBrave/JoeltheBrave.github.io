@@ -1,5 +1,10 @@
 [
   {
+    "title": "Maniac Street Preachers: Motorcycle Emptiness",
+    "url": "https://www.youtube.com/watch?v=pthecU2Nhno",
+    "publishedAt": "2024-03-15T19:49:17Z"
+  },
+  {
     "title": "ReGenesis: Entangled",
     "url": "https://www.youtube.com/watch?v=Q8plumMbM8c",
     "publishedAt": "2024-03-11T15:30:37Z"
@@ -130,6 +135,11 @@
     "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
+    "title": "Outback: Best Of You",
+    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
+    "publishedAt": "2023-09-04T11:47:27Z"
+  },
+  {
     "title": "Dansette: Take Me To The River",
     "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
     "publishedAt": "2023-08-11T17:50:22Z"
@@ -163,6 +173,11 @@
     "title": "Pearl Harbor: Spiders From Mars",
     "url": "https://www.youtube.com/watch?v=gUZGUut7mxo",
     "publishedAt": "2023-07-12T16:19:47Z"
+  },
+  {
+    "title": "John Otway & Wild Willy Barrett: Really Free",
+    "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
+    "publishedAt": "2023-07-12T13:07:15Z"
   },
   {
     "title": "The Sandboys: Sell Out",
@@ -233,21 +248,6 @@
     "title": "Snatch It Back: Oh Baby",
     "url": "https://www.youtube.com/watch?v=po6GvmNUTVc",
     "publishedAt": "2023-03-27T12:10:05Z"
-  },
-  {
-    "title": "Treacherous Cretins: Bamboozled By Love",
-    "url": "https://www.youtube.com/watch?v=cYAjyrCN0zE",
-    "publishedAt": "2023-03-26T09:57:48Z"
-  },
-  {
-    "title": "Davey Sheppard: Run",
-    "url": "https://www.youtube.com/watch?v=2mA9JYdKy4c",
-    "publishedAt": "2023-03-24T13:57:33Z"
-  },
-  {
-    "title": "Charlie & Andy: Because The Night",
-    "url": "https://www.youtube.com/watch?v=1rg0Ah7auEA",
-    "publishedAt": "2023-03-23T22:16:43Z"
   },
   {
     "title": "Davey Sheppard: Run",
@@ -500,6 +500,11 @@
     "publishedAt": "2022-11-17T18:50:30Z"
   },
   {
+    "title": "Anonymous Iconoclasts: These Are The Words",
+    "url": "https://www.youtube.com/watch?v=dEUSnUrnMqM",
+    "publishedAt": "2022-11-16T09:23:22Z"
+  },
+  {
     "title": "The Bluesters: Sitting On Top Of The World",
     "url": "https://www.youtube.com/watch?v=MLOKllkb2RY",
     "publishedAt": "2022-11-15T18:27:27Z"
@@ -700,11 +705,6 @@
     "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
-    "title": "A Parcel of Rogues: Part of the Union",
-    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
-    "publishedAt": "2022-08-28T11:07:15Z"
-  },
-  {
     "title": "Bluesfire Blues Band: So Many Roads",
     "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
     "publishedAt": "2022-08-22T17:51:21Z"
@@ -750,16 +750,6 @@
     "publishedAt": "2022-08-09T22:13:50Z"
   },
   {
-    "title": "The Lucky Truckers: The Monkey and the Engineer",
-    "url": "https://www.youtube.com/watch?v=ich96lByp-M",
-    "publishedAt": "2022-08-09T13:43:51Z"
-  },
-  {
-    "title": "The Jedis: Hollywood Hills",
-    "url": "https://www.youtube.com/watch?v=aa6aCCkMldY",
-    "publishedAt": "2022-08-08T16:02:08Z"
-  },
-  {
     "title": "The Jedis: White Room",
     "url": "https://www.youtube.com/watch?v=NwFaLw6tIe0",
     "publishedAt": "2022-08-08T13:27:04Z"
@@ -798,11 +788,6 @@
     "title": "Sassafras: Moonshine",
     "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
     "publishedAt": "2022-06-26T10:21:08Z"
-  },
-  {
-    "title": "Sassafras: I Am The Walrus",
-    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
-    "publishedAt": "2022-06-26T10:21:03Z"
   },
   {
     "title": "Son Of Man: Call Down The Moon",
@@ -998,6 +983,26 @@
     "title": "Stonehouse: Jailbird",
     "url": "https://www.youtube.com/watch?v=wvtn0rGoxTc",
     "publishedAt": "2022-03-30T16:59:37Z"
+  },
+  {
+    "title": "Stonehouse: Funk #49",
+    "url": "https://www.youtube.com/watch?v=3GZdAQ3CFGg",
+    "publishedAt": "2022-03-30T16:59:32Z"
+  },
+  {
+    "title": "Stonehouse: Sympathy For The Devil",
+    "url": "https://www.youtube.com/watch?v=R3kWtqy-xo8",
+    "publishedAt": "2022-03-29T16:55:10Z"
+  },
+  {
+    "title": "Stonehouse: We're An American Band",
+    "url": "https://www.youtube.com/watch?v=jbX4i2n2ZNU",
+    "publishedAt": "2022-03-29T16:54:58Z"
+  },
+  {
+    "title": "Stonehouse: Funk #49",
+    "url": "https://www.youtube.com/watch?v=3GZdAQ3CFGg",
+    "publishedAt": "2022-03-30T16:59:32Z"
   },
   {
     "title": "Stonehouse: Sympathy For The Devil",
@@ -1250,16 +1255,6 @@
     "publishedAt": "2021-12-02T20:31:20Z"
   },
   {
-    "title": "The Flares: Pinball Wizard",
-    "url": "https://www.youtube.com/watch?v=06dHmrc9mGk",
-    "publishedAt": "2021-12-02T20:31:26Z"
-  },
-  {
-    "title": "The Flares: Brown Sugar",
-    "url": "https://www.youtube.com/watch?v=lWF9EBHxro0",
-    "publishedAt": "2021-12-02T20:31:20Z"
-  },
-  {
     "title": "Live Dead '69: Going Down The Road Feeling Bad",
     "url": "https://www.youtube.com/watch?v=8C2_awgpehk",
     "publishedAt": "2021-11-30T21:46:46Z"
@@ -1340,16 +1335,6 @@
     "publishedAt": "2021-10-10T10:43:13Z"
   },
   {
-    "title": "Moonstorm playing \"You're No Good\"",
-    "url": "https://www.youtube.com/watch?v=zOSK9dUUL6A",
-    "publishedAt": "2021-10-01T10:00:47Z"
-  },
-  {
-    "title": "The Jug Band",
-    "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
-    "publishedAt": "2021-10-01T09:54:25Z"
-  },
-  {
     "title": "The Heavy Quartet: Which Dreamt It?",
     "url": "https://www.youtube.com/watch?v=LYxSV_5H-do",
     "publishedAt": "2020-10-18T00:07:47Z"
@@ -1360,9 +1345,24 @@
     "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
+    "title": "Neil Lockwood - Rock Me Baby",
+    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
+    "publishedAt": "2020-05-22T22:30:03Z"
+  },
+  {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
     "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
     "publishedAt": "2020-05-06T23:03:51Z"
+  },
+  {
+    "title": "Bob, Mugsy and Bob",
+    "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
+    "publishedAt": "2020-02-21T20:16:40Z"
+  },
+  {
+    "title": "Disco Wonderland - Band unknown to me",
+    "url": "https://www.youtube.com/watch?v=xOG5PMWLJ8w",
+    "publishedAt": "2019-12-22T19:20:03Z"
   },
   {
     "title": "James Oliver Band  - It's My Own Business",
@@ -1378,6 +1378,11 @@
     "title": "James Oliver Band  - Outsider Help",
     "url": "https://www.youtube.com/watch?v=a-VPKG7fW6I",
     "publishedAt": "2019-11-13T12:10:32Z"
+  },
+  {
+    "title": "James Oliver Band - Misirlou",
+    "url": "https://www.youtube.com/watch?v=kUMzkRxpDks",
+    "publishedAt": "2019-11-13T11:19:38Z"
   },
   {
     "title": "James Oliver Band - Stay Out of Trouble",
@@ -1485,14 +1490,14 @@
     "publishedAt": "2017-11-26T18:03:36Z"
   },
   {
-    "title": "The Octave Doctors - The Needle and the Spoon",
-    "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
-    "publishedAt": "2017-11-25T17:03:32Z"
-  },
-  {
     "title": "Theo and Steve with TangeKanic at Chepstow 2017",
     "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
     "publishedAt": "2017-10-12T16:44:09Z"
+  },
+  {
+    "title": "Mahogany Dog - Bathroom Wall",
+    "url": "https://www.youtube.com/watch?v=b2_m7teEXms",
+    "publishedAt": "2017-08-13T18:32:08Z"
   },
   {
     "title": "Some Drum Foolery from the Whitchurch Jam #100",
@@ -1725,6 +1730,11 @@
     "publishedAt": "2014-10-02T09:50:07Z"
   },
   {
+    "title": "Magenta - Demons",
+    "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
+    "publishedAt": "2014-10-02T09:49:44Z"
+  },
+  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1735,14 +1745,9 @@
     "publishedAt": "2014-09-30T20:06:35Z"
   },
   {
-    "title": "Steve Roberts The Bells",
-    "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
-    "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
+    "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=j2dp5wjNXA8",
+    "publishedAt": "2014-09-26T15:06:31Z"
   },
   {
     "title": "Hey Joe - Glyn Knight's 'Stone Free' Band",
@@ -1805,11 +1810,6 @@
     "publishedAt": "2014-07-24T01:41:47Z"
   },
   {
-    "title": "Turning Japanese - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=1Vviovwr7Sc",
-    "publishedAt": "2014-07-21T07:12:51Z"
-  },
-  {
     "title": "To Love Somebody - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=jcYbCBJyvYI",
     "publishedAt": "2014-07-21T07:12:51Z"
@@ -1853,11 +1853,6 @@
     "title": "The Only Thing That Looks Good On Me Is You - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=KjZU3Vxp0Lg",
     "publishedAt": "2014-07-20T22:33:31Z"
-  },
-  {
-    "title": "Hard To Handle - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
-    "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
     "title": "The Middle - The Kenny Driscoll Band",
@@ -1907,6 +1902,11 @@
   {
     "title": "Sabre Dance - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=GMe4nP_ivyM",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Reelin' and Rocking - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=PM7TRRudVIw",
     "publishedAt": "2014-07-18T07:49:34Z"
   },
   {
@@ -1970,11 +1970,6 @@
     "publishedAt": "2014-07-15T16:48:35Z"
   },
   {
-    "title": "Red House - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=zd7NCLS5vt0",
-    "publishedAt": "2014-07-15T16:49:00Z"
-  },
-  {
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
     "url": "https://www.youtube.com/watch?v=9Pt3cF6ylSo",
     "publishedAt": "2014-07-14T19:26:21Z"
@@ -1983,16 +1978,6 @@
     "title": "Kenny Driscoll Band Live at the JimJam open mic at the Claude, Cardiff",
     "url": "https://www.youtube.com/watch?v=RuvBiZ3Hn0E",
     "publishedAt": "2014-07-12T14:40:51Z"
-  },
-  {
-    "title": "Kenny Driscoll Band Live at the Claude, Cardiff",
-    "url": "https://www.youtube.com/watch?v=nNpAupr5ZS0",
-    "publishedAt": "2014-07-11T10:36:46Z"
-  },
-  {
-    "title": "Whole Lotta Rosie   Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=rnyZrRKO0pc",
-    "publishedAt": "2014-07-06T10:37:51Z"
   },
   {
     "title": "Kenny Driscoll Band Live at the Claude, Cardiff",
@@ -2090,9 +2075,19 @@
     "publishedAt": "2012-02-22T17:36:20Z"
   },
   {
+    "title": "Micky Gee with The Sneakers - 3",
+    "url": "https://www.youtube.com/watch?v=oU3Zh2OSO5Y",
+    "publishedAt": "2012-02-22T17:29:37Z"
+  },
+  {
     "title": "Micky Gee with The Sneakers - 2",
     "url": "https://www.youtube.com/watch?v=8pm8MTU82wA",
     "publishedAt": "2012-02-22T17:06:47Z"
+  },
+  {
+    "title": "Micky Gee with The Sneakers - The Old Man Down the Road",
+    "url": "https://www.youtube.com/watch?v=-GhuFtQZAeI",
+    "publishedAt": "2012-02-22T16:55:22Z"
   },
   {
     "title": "The Sneakers with Micky Gee - Green Onions",
@@ -2118,11 +2113,6 @@
     "title": "Stan Kenton - The Peanut Vendor",
     "url": "https://www.youtube.com/watch?v=1_okd-n42p0",
     "publishedAt": "2008-01-13T16:20:23Z"
-  },
-  {
-    "title": "Stan Kenton - Malaga (5)",
-    "url": "https://www.youtube.com/watch?v=HEt13RIL0ko",
-    "publishedAt": "2008-01-13T16:11:45Z"
   },
   {
     "title": "Stan Kenton - Tiare (7)",
