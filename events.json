@@ -3163,6 +3163,66 @@
     "created": "2024-03-05T07:47:21+00:00"
   },
   {
+    "id": "NLg5n7",
+    "headline": "Arthur Brown",
+    "title": null,
+    "startDate": "2024-10-02",
+    "endDate": "2024-10-02",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/328/715/87065d8f8c57be536108c321e24a1d15ab3d1dc5.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Paul Meacham @ PaulyRockPhoto",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "DzYn",
+        "name": "Arthur Brown"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-10-02T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-03-20T10:45:00+00:00",
+        "onSaleUntil": "2024-10-03T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLWNyYXp5LXdvcmxkLW9mLWFydGh1ci1icm93bi90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjk4NjkyMz9hZmY9ZW50czI0/supplier/Ents24/suppliedid/Mjk4NjkyMw/ticketid/7182588/checksum/af332cf8beb13f4c00a950225645734b/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/arthur-brown/7057254",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-20T11:45:33+00:00",
+    "created": "2024-03-20T11:22:00+00:00"
+  },
+  {
     "id": "GoRmjy",
     "headline": "Jim Jones Allstars",
     "title": "Jim Jones Allstars",
