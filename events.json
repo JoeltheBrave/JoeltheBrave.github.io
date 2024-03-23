@@ -1,49 +1,5 @@
 [
   {
-    "id": "NL5rRk",
-    "headline": "The Specials Ltd",
-    "title": "Global Promotions Live",
-    "startDate": "2024-03-22",
-    "endDate": "2024-03-22",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/344/072/7ef717d91ef0009dff921fde5aabf16e8e9734ff.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "10dZz",
-        "name": "The Specials Ltd"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "ska",
-      "tribute",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-specials-ltd/6943698",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2024-03-11T09:20:35+00:00",
-    "created": "2023-12-11T08:24:25+00:00"
-  },
-  {
     "id": "Rx5zv2",
     "headline": "Helter Skelter",
     "title": "Saturday Night Live",
@@ -115,24 +71,6 @@
         "name": "The Doors Rising"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-03-23T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2023-11-23T12:00:00+00:00",
-        "onSaleUntil": "2024-03-24T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLWRvb3JzLXJpc2luZy1kai1saWFtLWN1cnRpbi90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjgzODgxMj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MjgzODgxMg/ticketid/6920556/checksum/33746d2f73b6a145c2e17c45e8b4a9ba/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -142,7 +80,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-doors-rising/6921378",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-03-04T16:19:37+00:00",
+    "lastUpdate": "2024-03-22T10:12:38+00:00",
     "created": "2024-03-04T16:19:26+00:00"
   },
   {
@@ -1329,7 +1267,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/royal-scam/7042312",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:47:07+00:00",
+    "lastUpdate": "2024-03-22T14:14:56+00:00",
     "created": "2024-03-06T15:32:47+00:00"
   },
   {
@@ -1649,47 +1587,6 @@
     "created": "2024-02-06T15:25:49+00:00"
   },
   {
-    "id": "mDR4XL",
-    "headline": "Helter Skelter",
-    "title": "Friday Night Live",
-    "startDate": "2024-05-03",
-    "endDate": "2024-05-03",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-07T16:02:24+00:00",
-    "created": "2024-03-07T16:02:13+00:00"
-  },
-  {
     "id": "dDBPQj",
     "headline": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001",
     "title": "Global Promotions Live",
@@ -1758,6 +1655,47 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-02-12T10:09:45+00:00",
     "created": "2023-11-27T07:21:52+00:00"
+  },
+  {
+    "id": "mDR4XL",
+    "headline": "Helter Skelter",
+    "title": "Friday Night Live",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-07T16:02:24+00:00",
+    "created": "2024-03-07T16:02:13+00:00"
   },
   {
     "id": "GoRdKk",
