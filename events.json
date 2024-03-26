@@ -1,44 +1,5 @@
 [
   {
-    "id": "nKrLjA",
-    "headline": "Sundogs",
-    "title": "Monday Night Open Mic / Jam Session",
-    "startDate": "2024-03-25",
-    "endDate": "2024-03-25",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We are so excited to invite you to our amazing Monday Night Open...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sundogs"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sundogs/7007616",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T18:19:23+00:00",
-    "created": "2024-02-06T15:13:32+00:00"
-  },
-  {
     "id": "kDa72R",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "TheBigNiteOut Presents.",
@@ -565,12 +526,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Lonely Hearts Club Band."
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7007624",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T15:18:10+00:00",
+    "lastUpdate": "2024-03-25T15:16:23+00:00",
     "created": "2024-02-06T15:17:56+00:00"
   },
   {
@@ -891,6 +857,46 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-03-06T16:43:26+00:00",
     "created": "2024-03-06T15:17:59+00:00"
+  },
+  {
+    "id": "oBojOz",
+    "headline": "Cardiff Arms Park Male Choir",
+    "title": "Open Night",
+    "startDate": "2024-04-18",
+    "endDate": "2024-04-18",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Cardiff Arms Park Male Choir Open Night.\n\"Join us on Thursday, April 18th at 7 pm...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/500/618/6a3b90a3a0a49438b6a0b8253f1b574e46c93cc6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Cardiff Arms Park Male Choir"
+      }
+    ],
+    "genre": [
+      "music",
+      "choral"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cardiff-arms-park-male-choir/7061826",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-25T13:14:24+00:00",
+    "created": "2024-03-25T13:14:07+00:00"
   },
   {
     "id": "Wg5PlX",
@@ -1463,6 +1469,47 @@
     "created": "2024-02-06T15:25:49+00:00"
   },
   {
+    "id": "mDR4XL",
+    "headline": "Helter Skelter",
+    "title": "Friday Night Live",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-03-07T16:02:24+00:00",
+    "created": "2024-03-07T16:02:13+00:00"
+  },
+  {
     "id": "dDBPQj",
     "headline": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001",
     "title": "Global Promotions Live",
@@ -1531,47 +1578,6 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-02-12T10:09:45+00:00",
     "created": "2023-11-27T07:21:52+00:00"
-  },
-  {
-    "id": "mDR4XL",
-    "headline": "Helter Skelter",
-    "title": "Friday Night Live",
-    "startDate": "2024-05-03",
-    "endDate": "2024-05-03",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-07T16:02:24+00:00",
-    "created": "2024-03-07T16:02:13+00:00"
   },
   {
     "id": "GoRdKk",
