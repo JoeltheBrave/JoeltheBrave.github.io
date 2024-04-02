@@ -1,45 +1,5 @@
 [
   {
-    "id": "bk9PK2",
-    "headline": "The Chordettes",
-    "title": "Sunday Session",
-    "startDate": "2024-03-31",
-    "endDate": "2024-03-31",
-    "startTimeString": "5:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£3",
-    "description": "Get your dancing shoes on and prepare to have a blast! Our talented local band...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/495/428/cd465786ccb0e3448e658105f1c328ba4f89bde1.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Chordettes"
-      }
-    ],
-    "genre": [
-      "music",
-      "1960s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-chordettes/7007676",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-03-06T17:05:14+00:00",
-    "created": "2024-02-06T16:05:22+00:00"
-  },
-  {
     "id": "Wg5PA2",
     "headline": "Monday Night Open Mic / Jam Session",
     "title": "Monday Night Open Mic / Jam Session",
