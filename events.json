@@ -1,39 +1,5 @@
 [
   {
-    "id": "Wg5PA2",
-    "headline": "Monday Night Open Mic / Jam Session",
-    "title": "Monday Night Open Mic / Jam Session",
-    "startDate": "2024-04-01",
-    "endDate": "2024-04-01",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We are so excited to invite you to our amazing Monday Night Open...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7042180",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T18:19:25+00:00",
-    "created": "2024-03-06T14:57:18+00:00"
-  },
-  {
     "id": "2K0PXL",
     "headline": "Just Friends Jazz",
     "title": "Jazz Club",
