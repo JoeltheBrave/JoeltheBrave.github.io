@@ -1,46 +1,5 @@
 [
   {
-    "id": "2K0PXL",
-    "headline": "Just Friends Jazz",
-    "title": "Jazz Club",
-    "startDate": "2024-04-02",
-    "endDate": "2024-04-02",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "We cordially invite you to attend an acoustic jazz session at the renowned Just Friends...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/7007620",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T17:11:01+00:00",
-    "created": "2024-02-06T15:15:57+00:00"
-  },
-  {
     "id": "bk9Pj2",
     "headline": "Capital City Jazz Orchestra",
     "title": "Big Band Jazz",
