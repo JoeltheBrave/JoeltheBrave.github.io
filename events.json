@@ -1,46 +1,5 @@
 [
   {
-    "id": "bk9Pj2",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Big Band Jazz",
-    "startDate": "2024-04-04",
-    "endDate": "2024-04-04",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": "£5 on the door",
-    "description": "CCJO return to the Earl Haig for their monthly selection of Big Band classics, old...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/038/734/1b949a0c8b4731b35e77daccb8175c6f9dbbd67b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007632",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:25:13+00:00",
-    "created": "2024-02-06T15:24:56+00:00"
-  },
-  {
     "id": "kDP9xP",
     "headline": "Snatch It Back _Cardiff",
     "title": "Blues Night",
