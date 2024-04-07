@@ -1,47 +1,5 @@
 [
   {
-    "id": "kDP9xP",
-    "headline": "Snatch It Back _Cardiff",
-    "title": "Blues Night",
-    "startDate": "2024-04-05",
-    "endDate": "2024-04-05",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Witness the triumphant return of the Cardiff Blues legends as they take the stage for...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/498/556/80f296b8c1831e2c01f1c8c869ccc5498e5eacdf.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Snatch It Back _Cardiff"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/snatch-it-back-cardiff/7042282",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T18:27:46+00:00",
-    "created": "2024-03-06T15:17:58+00:00"
-  },
-  {
     "id": "BvaqwE",
     "headline": "The Stonehouse Collective",
     "title": "Samaritans Charity Event : Stonehouse",
