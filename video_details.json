@@ -1,35 +1,19 @@
 [
   {
-    "title": "The Marc Davies Band: Use Me",
-    "description": "The Marc Davies Band performing 'Use Me' at the Earl Haig Club on Sunday 24th March 2024.",
-    "publishedAt": "2024-03-27T21:45:12Z",
-    "videoId": "Bj2FcKqW5SY",
-    "url": "https://www.youtube.com/watch?v=Bj2FcKqW5SY",
-    "views": "185"
-  },
-  {
-    "title": "ReGenesis: Supper&#39;s Ready",
-    "description": "ReGenesis performing \"Supper's Ready\" recorded at the Earl Haig Club, Cardiff on 19th October 2023.",
-    "publishedAt": "2024-03-25T17:46:25Z",
-    "videoId": "c6Q4dbknDnE",
-    "url": "https://www.youtube.com/watch?v=c6Q4dbknDnE",
-    "views": "135"
-  },
-  {
     "title": "Jedis: Itchycoo Park",
     "description": "The Jedis performing 'Itchycoo Park' at Terry Marshall's 70th birthday party on 17th February 2024.",
     "publishedAt": "2024-03-23T09:15:51Z",
     "videoId": "tZSU9RDqKrI",
     "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
-    "views": "104"
+    "views": "103"
   },
   {
-    "title": "Stereoironics: The Bartender and the Thief",
-    "description": "Stereoironics performing 'The Bartender and the Thief' at the Earl Haig Club on Saturday 9th March 2024.",
-    "publishedAt": "2024-03-22T15:57:39Z",
-    "videoId": "YUF5qyyW2lE",
-    "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
-    "views": "149"
+    "title": "Thin Ice: Another Brick In The Wall (Part II)",
+    "description": "Thin Ice performing 'Another Brick In The Wall (Part II)' at the Earl Haig Club on Saturday 25th November 2023.",
+    "publishedAt": "2024-03-21T06:19:08Z",
+    "videoId": "VhoP-dH9-yk",
+    "url": "https://www.youtube.com/watch?v=VhoP-dH9-yk",
+    "views": "185"
   },
   {
     "title": "ReGenesis: Get &#39;Em Out By Friday",
@@ -37,7 +21,7 @@
     "publishedAt": "2024-03-19T18:57:39Z",
     "videoId": "5HjhiQYjluk",
     "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
-    "views": "126"
+    "views": "128"
   },
   {
     "title": "Claire &amp; Chris: Libertango",
@@ -56,12 +40,20 @@
     "views": "146"
   },
   {
+    "title": "ReGenesis: Entangled",
+    "description": "ReGenesis performing 'Entangled' at the Earl Haig Club, Cardiff on 19th October 2023.",
+    "publishedAt": "2024-03-11T15:30:37Z",
+    "videoId": "Q8plumMbM8c",
+    "url": "https://www.youtube.com/watch?v=Q8plumMbM8c",
+    "views": "136"
+  },
+  {
     "title": "ReGenesis: Stagnation",
     "description": "ReGenesis performing 'Stagnation' at the Earl Haig Club, Cardiff on 19th October 2023.",
     "publishedAt": "2024-03-06T11:19:18Z",
     "videoId": "ZyyovT__9Aw",
     "url": "https://www.youtube.com/watch?v=ZyyovT__9Aw",
-    "views": "121"
+    "views": "122"
   },
   {
     "title": "ReGenesis: Cinema Show / Aisle Of Plenty",
@@ -69,7 +61,7 @@
     "publishedAt": "2024-02-20T10:59:47Z",
     "videoId": "vghTNmoO47Y",
     "url": "https://www.youtube.com/watch?v=vghTNmoO47Y",
-    "views": "206"
+    "views": "209"
   },
   {
     "title": "Stone Free:  Hey Joe",
@@ -77,7 +69,7 @@
     "publishedAt": "2024-02-09T11:13:53Z",
     "videoId": "0KRbC-10Etw",
     "url": "https://www.youtube.com/watch?v=0KRbC-10Etw",
-    "views": "580"
+    "views": "579"
   },
   {
     "title": "The Parcel of Rogues: 500 miles",
@@ -101,7 +93,7 @@
     "publishedAt": "2024-01-25T15:04:40Z",
     "videoId": "jGfrqS9BYNo",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
-    "views": "201"
+    "views": "204"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -109,7 +101,7 @@
     "publishedAt": "2024-01-16T21:04:31Z",
     "videoId": "-lhVHGo_fK4",
     "url": "https://www.youtube.com/watch?v=-lhVHGo_fK4",
-    "views": "310"
+    "views": "309"
   },
   {
     "title": "The Jug Band: The Midnight Special",
@@ -117,7 +109,7 @@
     "publishedAt": "2024-01-15T08:33:28Z",
     "videoId": "zFn_jcTsa_Y",
     "url": "https://www.youtube.com/watch?v=zFn_jcTsa_Y",
-    "views": "314"
+    "views": "316"
   },
   {
     "title": "The Soul Miners: Ain&#39;t No Mountain High Enough",
@@ -141,7 +133,7 @@
     "publishedAt": "2023-12-13T15:46:23Z",
     "videoId": "vIMKCsLR8C8",
     "url": "https://www.youtube.com/watch?v=vIMKCsLR8C8",
-    "views": "392"
+    "views": "391"
   },
   {
     "title": "Son Of Man: Stuck",
@@ -158,6 +150,22 @@
     "videoId": "2K-mj8Ho5Xc",
     "url": "https://www.youtube.com/watch?v=2K-mj8Ho5Xc",
     "views": "337"
+  },
+  {
+    "title": "James Oliver Band: Roxette",
+    "description": "The James Oliver Band performing Roxette at the Earl Haig Club on Thursday 23rd November 2023.",
+    "publishedAt": "2023-11-29T13:59:58Z",
+    "videoId": "TAuR8BtQ1GQ",
+    "url": "https://www.youtube.com/watch?v=TAuR8BtQ1GQ",
+    "views": "736"
+  },
+  {
+    "title": "Palm Tree Antics: Little Wing",
+    "description": "Palm Tree Antics, with special guest Glyn Knight on guitar, performing 'Little Wing' at the Earl Haig Club on Friday 24th November 2023.",
+    "publishedAt": "2023-11-29T13:39:37Z",
+    "videoId": "34mh468YJEU",
+    "url": "https://www.youtube.com/watch?v=34mh468YJEU",
+    "views": "448"
   },
   {
     "title": "Lucie Flowers: Ironic",
@@ -205,7 +213,7 @@
     "publishedAt": "2023-09-29T15:23:23Z",
     "videoId": "cSKEzUkt7Xk",
     "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
-    "views": "403"
+    "views": "404"
   },
   {
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
@@ -213,15 +221,15 @@
     "publishedAt": "2023-09-04T11:47:22Z",
     "videoId": "15Fux8-S2do",
     "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
-    "views": "359"
+    "views": "360"
   },
   {
-    "title": "Dansette: Take Me To The River",
-    "description": "Dansette performing 'Take Me To The River' at the Earl Haig Club on Sunday 23rd July 2023.",
-    "publishedAt": "2023-08-11T17:50:22Z",
-    "videoId": "B53TVpbUutM",
-    "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
-    "views": "773"
+    "title": "Miss Kitty: Better Place",
+    "description": "Miss Kitty performing 'Better Place' at the Strictly Acoustic Jam Session, Earl Haig Club on Tuesday 15th August 2023.",
+    "publishedAt": "2023-08-16T15:12:25Z",
+    "videoId": "L5CS5BNbMIA",
+    "url": "https://www.youtube.com/watch?v=L5CS5BNbMIA",
+    "views": "397"
   },
   {
     "title": "Stone Free: Live at The Point June 2003",
@@ -248,12 +256,20 @@
     "views": "635"
   },
   {
+    "title": "Dizzy Lizzy: The Boys Are Back In Town",
+    "description": "Dizzy Lizzy performing 'The Boys Are Back In Town' at the Earl Haig Club on Friday 14th July 2023.",
+    "publishedAt": "2023-07-28T17:00:54Z",
+    "videoId": "RE1LvGkNwQQ",
+    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
+    "views": "1591"
+  },
+  {
     "title": "Treacherous Cretins: Magic Fingers &amp; Peaches En Regalia",
     "description": "Treacherous Cretins performing 'Magic Fingers & Peaches En Regalia' at the Earl Haig Club on Wednesday 15th February 2023.",
     "publishedAt": "2023-07-18T13:58:08Z",
     "videoId": "mh1D8FZ8608",
     "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
-    "views": "164"
+    "views": "165"
   },
   {
     "title": "Revolver: Let there Be Rock",
@@ -262,6 +278,14 @@
     "videoId": "8rAlR3PtgRc",
     "url": "https://www.youtube.com/watch?v=8rAlR3PtgRc",
     "views": "228"
+  },
+  {
+    "title": "Legend: Redemption Song",
+    "description": "Legend performing 'Redemption Song' at the Earl Haig Club on Saturday 6th May 2023.",
+    "publishedAt": "2023-07-15T09:12:34Z",
+    "videoId": "bQ_5qcY2rQs",
+    "url": "https://www.youtube.com/watch?v=bQ_5qcY2rQs",
+    "views": "69"
   },
   {
     "title": "Legend: Three Little Birds",
@@ -285,7 +309,7 @@
     "publishedAt": "2023-07-12T13:07:15Z",
     "videoId": "cAeubu9jKQ4",
     "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
-    "views": "1750"
+    "views": "1759"
   },
   {
     "title": "Stone Free: Live at the Point, Cardiff.",
@@ -301,7 +325,7 @@
     "publishedAt": "2023-05-26T09:02:42Z",
     "videoId": "z4GbRP5jTww",
     "url": "https://www.youtube.com/watch?v=z4GbRP5jTww",
-    "views": "467"
+    "views": "468"
   },
   {
     "title": "Snatch It Back: Hot Stuff",
@@ -341,7 +365,7 @@
     "publishedAt": "2023-05-13T12:24:01Z",
     "videoId": "hBlXYZSnX9U",
     "url": "https://www.youtube.com/watch?v=hBlXYZSnX9U",
-    "views": "266"
+    "views": "265"
   },
   {
     "title": "Capital City Jazz Orchestra: Blue",
@@ -357,7 +381,7 @@
     "publishedAt": "2023-04-07T17:25:45Z",
     "videoId": "inl-xjkYHgY",
     "url": "https://www.youtube.com/watch?v=inl-xjkYHgY",
-    "views": "344"
+    "views": "345"
   },
   {
     "title": "The S&#39;punkles: Pills",
@@ -373,23 +397,7 @@
     "publishedAt": "2023-04-01T10:47:24Z",
     "videoId": "k4gMDQ2MRNY",
     "url": "https://www.youtube.com/watch?v=k4gMDQ2MRNY",
-    "views": "164"
-  },
-  {
-    "title": "Treacherous Cretins: Trouble Every Day",
-    "description": "Treacherous Cretins performing 'Trouble Every Day' at the Earl Haig Club on Wednesday 15th February 2023.",
-    "publishedAt": "2023-04-01T10:47:20Z",
-    "videoId": "l-zngNg6CjU",
-    "url": "https://www.youtube.com/watch?v=l-zngNg6CjU",
-    "views": "103"
-  },
-  {
-    "title": "Snatch It Back: Oh Baby",
-    "description": "Snatch It Back: Oh Baby",
-    "publishedAt": "2023-03-27T12:10:05Z",
-    "videoId": "po6GvmNUTVc",
-    "url": "https://www.youtube.com/watch?v=po6GvmNUTVc",
-    "views": "673"
+    "views": "165"
   },
   {
     "title": "Treacherous Cretins: Bamboozled By Love",
@@ -397,7 +405,7 @@
     "publishedAt": "2023-03-26T09:57:48Z",
     "videoId": "cYAjyrCN0zE",
     "url": "https://www.youtube.com/watch?v=cYAjyrCN0zE",
-    "views": "251"
+    "views": "253"
   },
   {
     "title": "Davey Sheppard: Run",
@@ -485,7 +493,7 @@
     "publishedAt": "2023-02-24T08:48:35Z",
     "videoId": "vF5uRGbTUvA",
     "url": "https://www.youtube.com/watch?v=vF5uRGbTUvA",
-    "views": "330"
+    "views": "333"
   },
   {
     "title": "The S&#39;punkles featuring Brian Hayter on vocals: I Don&#39;t Wanna Be Nice",
@@ -493,7 +501,7 @@
     "publishedAt": "2023-02-21T18:54:10Z",
     "videoId": "ekhAArP2xpY",
     "url": "https://www.youtube.com/watch?v=ekhAArP2xpY",
-    "views": "1181"
+    "views": "1182"
   },
   {
     "title": "Oasis fundraising gig on 21st January 2023.",
@@ -509,7 +517,7 @@
     "publishedAt": "2023-02-20T13:11:26Z",
     "videoId": "goFUup3n0Y0",
     "url": "https://www.youtube.com/watch?v=goFUup3n0Y0",
-    "views": "132"
+    "views": "133"
   },
   {
     "title": "Robert Jon &amp; The Wreck: Rescue Train",
@@ -517,7 +525,7 @@
     "publishedAt": "2023-02-15T16:01:11Z",
     "videoId": "gI0LtlOkLqU",
     "url": "https://www.youtube.com/watch?v=gI0LtlOkLqU",
-    "views": "2638"
+    "views": "2639"
   },
   {
     "title": "Snatch It Back: Rock This House",
@@ -525,7 +533,7 @@
     "publishedAt": "2023-02-15T10:44:10Z",
     "videoId": "1JC9uq-9Vvs",
     "url": "https://www.youtube.com/watch?v=1JC9uq-9Vvs",
-    "views": "1207"
+    "views": "1209"
   },
   {
     "title": "Who&#39;s Next: Who Are You",
@@ -613,7 +621,7 @@
     "publishedAt": "2023-01-16T15:52:03Z",
     "videoId": "nTWqdioq6kA",
     "url": "https://www.youtube.com/watch?v=nTWqdioq6kA",
-    "views": "855"
+    "views": "859"
   },
   {
     "title": "Tumbling Dice: Shine On You Crazy Diamond",
@@ -637,7 +645,7 @@
     "publishedAt": "2023-01-07T11:17:29Z",
     "videoId": "swAM8gozfko",
     "url": "https://www.youtube.com/watch?v=swAM8gozfko",
-    "views": "1777"
+    "views": "1780"
   },
   {
     "title": "The Philo Beddoe Band: Stuck In The Middle With You &amp; Oye Como Va",
@@ -669,7 +677,7 @@
     "publishedAt": "2022-12-09T09:21:35Z",
     "videoId": "hYbtPphBeBY",
     "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
-    "views": "332"
+    "views": "333"
   },
   {
     "title": "Just Friends: I Get A Kick Out Of You",
@@ -717,7 +725,7 @@
     "publishedAt": "2022-12-06T10:25:22Z",
     "videoId": "g4Fi2enOrOc",
     "url": "https://www.youtube.com/watch?v=g4Fi2enOrOc",
-    "views": "1394"
+    "views": "1398"
   },
   {
     "title": "The Worried Men: Nova",
@@ -725,7 +733,7 @@
     "publishedAt": "2022-12-02T09:57:03Z",
     "videoId": "6H9sNBBX0GY",
     "url": "https://www.youtube.com/watch?v=6H9sNBBX0GY",
-    "views": "699"
+    "views": "700"
   },
   {
     "title": "The S&#39;punkles: The Harper &amp; Walk On The Wild Side",
@@ -749,7 +757,7 @@
     "publishedAt": "2022-11-24T09:46:18Z",
     "videoId": "226wS1VnQQI",
     "url": "https://www.youtube.com/watch?v=226wS1VnQQI",
-    "views": "510"
+    "views": "512"
   },
   {
     "title": "Outback: My Sharona",
@@ -757,7 +765,7 @@
     "publishedAt": "2022-11-24T09:46:23Z",
     "videoId": "LrKLedIvgFk",
     "url": "https://www.youtube.com/watch?v=LrKLedIvgFk",
-    "views": "554"
+    "views": "559"
   },
   {
     "title": "Davey Sheppard: Piano Man",
@@ -789,39 +797,7 @@
     "publishedAt": "2022-11-17T18:50:34Z",
     "videoId": "xYqwVhNuqHg",
     "url": "https://www.youtube.com/watch?v=xYqwVhNuqHg",
-    "views": "693"
-  },
-  {
-    "title": "Palm Tree Antics: 54-46 That&#39;s My Number",
-    "description": "Palm Tree Antics performing '54-46 That's My Number' at the Earl Haig Club on Sunday 13th November 2022.",
-    "publishedAt": "2022-11-17T18:50:30Z",
-    "videoId": "t7ZfLogn-9Y",
-    "url": "https://www.youtube.com/watch?v=t7ZfLogn-9Y",
-    "views": "956"
-  },
-  {
-    "title": "Andy Johnson &amp; Charlotte Clark: Before he Cheats",
-    "description": "Andy Johnson & Charlotte Clark performing 'Before he Cheats' at the Earl Haig Club Acoustic Jam Session on Tuesday 15th November 2022.\n\nThe Acoustic jam session is held at the club on the 3rd Tuesday of each month.",
-    "publishedAt": "2022-11-18T16:08:03Z",
-    "videoId": "GpZVc_Jv2Io",
-    "url": "https://www.youtube.com/watch?v=GpZVc_Jv2Io",
-    "views": "334"
-  },
-  {
-    "title": "Tumbling Dice: Reelin&#39; In The Years",
-    "description": "Tumbling Dice performing \"Reelin' In The Years\" at the Earl Haig Club on Sunday 30th October 2022.",
-    "publishedAt": "2022-11-17T18:50:34Z",
-    "videoId": "xYqwVhNuqHg",
-    "url": "https://www.youtube.com/watch?v=xYqwVhNuqHg",
-    "views": "693"
-  },
-  {
-    "title": "Palm Tree Antics: 54-46 That&#39;s My Number",
-    "description": "Palm Tree Antics performing '54-46 That's My Number' at the Earl Haig Club on Sunday 13th November 2022.",
-    "publishedAt": "2022-11-17T18:50:30Z",
-    "videoId": "t7ZfLogn-9Y",
-    "url": "https://www.youtube.com/watch?v=t7ZfLogn-9Y",
-    "views": "956"
+    "views": "694"
   },
   {
     "title": "Anonymous Iconoclasts: These Are The Words",
@@ -853,7 +829,7 @@
     "publishedAt": "2022-11-11T18:21:02Z",
     "videoId": "c_-Qmk_twmk",
     "url": "https://www.youtube.com/watch?v=c_-Qmk_twmk",
-    "views": "842"
+    "views": "844"
   },
   {
     "title": "Outback: Message In A Bottle",
@@ -861,7 +837,7 @@
     "publishedAt": "2022-11-11T18:20:57Z",
     "videoId": "HHJWgEYdsuw",
     "url": "https://www.youtube.com/watch?v=HHJWgEYdsuw",
-    "views": "261"
+    "views": "262"
   },
   {
     "title": "The Chordettes: Baby It&#39;s You",
@@ -965,7 +941,7 @@
     "publishedAt": "2022-10-22T23:19:32Z",
     "videoId": "R8YlQSGV-mw",
     "url": "https://www.youtube.com/watch?v=R8YlQSGV-mw",
-    "views": "915"
+    "views": "918"
   },
   {
     "title": "The Chordettes: Got To Get You Into My Life",
@@ -974,14 +950,6 @@
     "videoId": "capMN2f6p08",
     "url": "https://www.youtube.com/watch?v=capMN2f6p08",
     "views": "299"
-  },
-  {
-    "title": "Letz Zep: Since I Been Loving You",
-    "description": "Letz Zep performing 'Since I Been Loving You' live at the Earl Haig Club, Cardiff on 29th October 2021.",
-    "publishedAt": "2022-10-15T18:41:52Z",
-    "videoId": "vNStz3pgEDk",
-    "url": "https://www.youtube.com/watch?v=vNStz3pgEDk",
-    "views": "1176"
   },
   {
     "title": "Roosevelt: Thanks for the Giving",
@@ -1029,7 +997,7 @@
     "publishedAt": "2022-10-09T14:10:27Z",
     "videoId": "NS_ftlBcb2M",
     "url": "https://www.youtube.com/watch?v=NS_ftlBcb2M",
-    "views": "337"
+    "views": "338"
   },
   {
     "title": "Thin Ice (Pink Floyd Tribute): Echoes",
@@ -1037,7 +1005,7 @@
     "publishedAt": "2022-10-07T09:16:24Z",
     "videoId": "VeRFo7VXMAg",
     "url": "https://www.youtube.com/watch?v=VeRFo7VXMAg",
-    "views": "776"
+    "views": "777"
   },
   {
     "title": "Just Friends: A Night In Tunisia",
@@ -1061,7 +1029,7 @@
     "publishedAt": "2022-09-28T08:32:03Z",
     "videoId": "nFQ88HsivSw",
     "url": "https://www.youtube.com/watch?v=nFQ88HsivSw",
-    "views": "513"
+    "views": "514"
   },
   {
     "title": "The S&#39;punkles: Anarchy In The UK",
@@ -1070,14 +1038,6 @@
     "videoId": "MaklPQnfp2Y",
     "url": "https://www.youtube.com/watch?v=MaklPQnfp2Y",
     "views": "301"
-  },
-  {
-    "title": "Absolute Bowie: All The Young Dudes",
-    "description": "Absolute Bowie performing 'All The Young Dudes' at the Earl Haig Club, Cardiff on Saturday 24th September 2022.",
-    "publishedAt": "2022-09-25T21:30:37Z",
-    "videoId": "B_hBFUT-47Q",
-    "url": "https://www.youtube.com/watch?v=B_hBFUT-47Q",
-    "views": "1367"
   },
   {
     "title": "Fortunate Sons: I Heard It Through The Grapevine",
@@ -1109,7 +1069,7 @@
     "publishedAt": "2022-09-14T14:43:00Z",
     "videoId": "yk0BOFcfmHE",
     "url": "https://www.youtube.com/watch?v=yk0BOFcfmHE",
-    "views": "816"
+    "views": "817"
   },
   {
     "title": "Tri-City Fanfare: Mosquito Medley",
@@ -1133,7 +1093,7 @@
     "publishedAt": "2022-09-12T17:54:07Z",
     "videoId": "t1yHbejkLrQ",
     "url": "https://www.youtube.com/watch?v=t1yHbejkLrQ",
-    "views": "378"
+    "views": "379"
   },
   {
     "title": "Capital City Jazz Orchestra: Never-ending Journey",
@@ -1141,7 +1101,7 @@
     "publishedAt": "2022-09-05T18:26:21Z",
     "videoId": "8e0FaC03dq0",
     "url": "https://www.youtube.com/watch?v=8e0FaC03dq0",
-    "views": "202"
+    "views": "203"
   },
   {
     "title": "Parcel of Rogues: All Around My Hat",
@@ -1149,7 +1109,15 @@
     "publishedAt": "2022-09-04T13:37:15Z",
     "videoId": "XSKsxmHY4mI",
     "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
-    "views": "219"
+    "views": "220"
+  },
+  {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "description": "A Parcel of Rogues performing 'Part of the Union' at the Earl Haig Club, Whitchurch, Cardiff on Sunday 3rd April 2022.",
+    "publishedAt": "2022-08-28T11:07:15Z",
+    "videoId": "y1Bd20YkVX8",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "views": "265"
   },
   {
     "title": "Bluesfire Blues Band: So Many Roads",
@@ -1200,6 +1168,38 @@
     "views": "174"
   },
   {
+    "title": "Neil Lockwood: Let The Good Times Roll",
+    "description": "Neil Lockwood performing 'Let The Good Times Roll' at the Earl Haig Club  Monday jam session on 8th August 2022.",
+    "publishedAt": "2022-08-11T09:45:27Z",
+    "videoId": "6d30CKarohw",
+    "url": "https://www.youtube.com/watch?v=6d30CKarohw",
+    "views": "972"
+  },
+  {
+    "title": "The S’punkles: Stepping Stone",
+    "description": "The S’punkles performing 'Stepping Stone' at the Earl Haig Club Monday jam session on 8th August 2022.",
+    "publishedAt": "2022-08-11T09:45:16Z",
+    "videoId": "wMftxqYwSQU",
+    "url": "https://www.youtube.com/watch?v=wMftxqYwSQU",
+    "views": "567"
+  },
+  {
+    "title": "Deadedz: Sugar Magnolia / Scarlet Begonias / Fire On The Mountain medley",
+    "description": "Deadedz performing 'Sugar Magnolia / Scarlet Begonias / Fire On The Mountain' medley at the Earl Haig Club on Saturday 6th August 2022.",
+    "publishedAt": "2022-08-09T22:13:50Z",
+    "videoId": "GyUwYAD023E",
+    "url": "https://www.youtube.com/watch?v=GyUwYAD023E",
+    "views": "307"
+  },
+  {
+    "title": "The Lucky Truckers: The Monkey and the Engineer",
+    "description": "The Lucky Truckers performing 'The Monkey and the Engineer' at the Earl Haig Club on Saturday 6th August 2022.",
+    "publishedAt": "2022-08-09T13:43:51Z",
+    "videoId": "ich96lByp-M",
+    "url": "https://www.youtube.com/watch?v=ich96lByp-M",
+    "views": "292"
+  },
+  {
     "title": "The Lucky Truckers: The Monkey and the Engineer",
     "description": "The Lucky Truckers performing 'The Monkey and the Engineer' at the Earl Haig Club on Saturday 6th August 2022.",
     "publishedAt": "2022-08-09T13:43:51Z",
@@ -1237,7 +1237,7 @@
     "publishedAt": "2022-07-07T15:34:09Z",
     "videoId": "xWBYf1sQAvM",
     "url": "https://www.youtube.com/watch?v=xWBYf1sQAvM",
-    "views": "1113"
+    "views": "1114"
   },
   {
     "title": "Prognosis: The Boys Of Summer",
@@ -1253,7 +1253,7 @@
     "publishedAt": "2022-07-01T10:45:13Z",
     "videoId": "ogaUG3rKQhU",
     "url": "https://www.youtube.com/watch?v=ogaUG3rKQhU",
-    "views": "874"
+    "views": "877"
   },
   {
     "title": "Doctor Feelgood: Roxette",
@@ -1280,6 +1280,14 @@
     "views": "250"
   },
   {
+    "title": "Sassafras: I Am The Walrus",
+    "description": "Sassafras performing 'I Am The Walrus' at the Earl Haig Club, Cardiff on Saturday 4th June 2022.",
+    "publishedAt": "2022-06-26T10:21:03Z",
+    "videoId": "dQfdNI6USEM",
+    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
+    "views": "230"
+  },
+  {
     "title": "Son Of Man: Call Down The Moon",
     "description": "Son Of Man performing 'Call Down The Moon' at the Earl Haig Club, Cardiff, on Friday 17th June 2022.",
     "publishedAt": "2022-06-26T08:46:25Z",
@@ -1293,7 +1301,7 @@
     "publishedAt": "2022-06-25T21:08:08Z",
     "videoId": "gNLy3uHWrOo",
     "url": "https://www.youtube.com/watch?v=gNLy3uHWrOo",
-    "views": "1166"
+    "views": "1168"
   },
   {
     "title": "Son Of Man: Soul To The Road",
@@ -1309,7 +1317,7 @@
     "publishedAt": "2022-06-25T09:11:01Z",
     "videoId": "16938cbA1a8",
     "url": "https://www.youtube.com/watch?v=16938cbA1a8",
-    "views": "889"
+    "views": "892"
   },
   {
     "title": "Sassafras: Schooldays",
@@ -1325,7 +1333,7 @@
     "publishedAt": "2022-06-08T22:20:18Z",
     "videoId": "XAyDulp19Ww",
     "url": "https://www.youtube.com/watch?v=XAyDulp19Ww",
-    "views": "1296"
+    "views": "1298"
   },
   {
     "title": "LucieAnn: Why",
@@ -1349,7 +1357,7 @@
     "publishedAt": "2022-05-29T14:34:48Z",
     "videoId": "DfurrRkWiBA",
     "url": "https://www.youtube.com/watch?v=DfurrRkWiBA",
-    "views": "291"
+    "views": "292"
   },
   {
     "title": "The James Oliver Band: Sugar Coated Love",
@@ -1381,7 +1389,7 @@
     "publishedAt": "2022-05-27T09:03:21Z",
     "videoId": "bgvPYmWQHjc",
     "url": "https://www.youtube.com/watch?v=bgvPYmWQHjc",
-    "views": "9701"
+    "views": "9715"
   },
   {
     "title": "The James Oliver Band: Misirlou",
@@ -1397,7 +1405,7 @@
     "publishedAt": "2022-05-21T08:45:09Z",
     "videoId": "i88lD7ufKio",
     "url": "https://www.youtube.com/watch?v=i88lD7ufKio",
-    "views": "451"
+    "views": "452"
   },
   {
     "title": "The Worried Men: Lonesome Ride Back Home",
@@ -1413,7 +1421,7 @@
     "publishedAt": "2022-05-16T14:11:06Z",
     "videoId": "zt9XK3pd_3U",
     "url": "https://www.youtube.com/watch?v=zt9XK3pd_3U",
-    "views": "3534"
+    "views": "3537"
   },
   {
     "title": "Rockers Reunion with The Sunsets and the All Stars",
@@ -1421,7 +1429,7 @@
     "publishedAt": "2022-05-12T16:37:57Z",
     "videoId": "eVFRrsCBUOI",
     "url": "https://www.youtube.com/watch?v=eVFRrsCBUOI",
-    "views": "453"
+    "views": "454"
   },
   {
     "title": "Snatch It Back: Run Sinner Run",
@@ -1429,7 +1437,7 @@
     "publishedAt": "2022-05-07T14:19:35Z",
     "videoId": "uydQQ2fKjiE",
     "url": "https://www.youtube.com/watch?v=uydQQ2fKjiE",
-    "views": "345"
+    "views": "346"
   },
   {
     "title": "The Philo Beddoe Band: Down In Hollywood",
@@ -1477,7 +1485,7 @@
     "publishedAt": "2022-04-23T16:31:29Z",
     "videoId": "jwR5wHGLOcc",
     "url": "https://www.youtube.com/watch?v=jwR5wHGLOcc",
-    "views": "367"
+    "views": "366"
   },
   {
     "title": "Thin Ice: Shine On You Crazy Diamond",
@@ -1485,7 +1493,7 @@
     "publishedAt": "2022-04-22T23:34:45Z",
     "videoId": "WxTB6-mTZBQ",
     "url": "https://www.youtube.com/watch?v=WxTB6-mTZBQ",
-    "views": "328"
+    "views": "327"
   },
   {
     "title": "Thin Ice: Wish You Were Here",
@@ -1549,7 +1557,7 @@
     "publishedAt": "2022-04-08T13:48:43Z",
     "videoId": "p99R1ZU2Wmc",
     "url": "https://www.youtube.com/watch?v=p99R1ZU2Wmc",
-    "views": "595"
+    "views": "596"
   },
   {
     "title": "A Parcel Of Rogues: Purple Rain",
@@ -1600,6 +1608,14 @@
     "views": "244"
   },
   {
+    "title": "Stonehouse: We&#39;re An American Band",
+    "description": "Stonehouse performing 'We're An American Band' at the Earl Haig Club, Whitchurch, Cardiff on Sunday 27th March 2022.",
+    "publishedAt": "2022-03-29T16:54:58Z",
+    "videoId": "jbX4i2n2ZNU",
+    "url": "https://www.youtube.com/watch?v=jbX4i2n2ZNU",
+    "views": "270"
+  },
+  {
     "title": "Stonehouse: Highway To Hell",
     "description": "Stonehouse performing 'Highway To Hell' at the Earl Haig Club, Whitchurch, Cardiff on Sunday 27th March 2022",
     "publishedAt": "2022-03-29T16:55:21Z",
@@ -1637,7 +1653,7 @@
     "publishedAt": "2022-03-13T12:40:44Z",
     "videoId": "kthLQuFeQww",
     "url": "https://www.youtube.com/watch?v=kthLQuFeQww",
-    "views": "883"
+    "views": "890"
   },
   {
     "title": "Time-lapse Snow 1st March 2018 - 4th March 2018",
@@ -1685,7 +1701,7 @@
     "publishedAt": "2022-02-21T17:40:53Z",
     "videoId": "_LxmDQgHDyA",
     "url": "https://www.youtube.com/watch?v=_LxmDQgHDyA",
-    "views": "1907"
+    "views": "1908"
   },
   {
     "title": "Don and friends: New Speedway Boogie",
@@ -1805,7 +1821,7 @@
     "publishedAt": "2022-02-02T08:44:12Z",
     "videoId": "dLIrN7FWcJQ",
     "url": "https://www.youtube.com/watch?v=dLIrN7FWcJQ",
-    "views": "5590"
+    "views": "5594"
   },
   {
     "title": "The James Oliver Band: Mean Little Mamma",
@@ -1869,7 +1885,7 @@
     "publishedAt": "2022-01-20T20:56:25Z",
     "videoId": "8pTq3F6uUAU",
     "url": "https://www.youtube.com/watch?v=8pTq3F6uUAU",
-    "views": "524"
+    "views": "522"
   },
   {
     "title": "VASTS: Radar Love",
@@ -1885,7 +1901,7 @@
     "publishedAt": "2022-01-17T17:43:53Z",
     "videoId": "64mBeiKOdDE",
     "url": "https://www.youtube.com/watch?v=64mBeiKOdDE",
-    "views": "650"
+    "views": "651"
   },
   {
     "title": "The Troubadours: Third Stone From The Sun &amp; Tomorrow Never Knows (Medley)",
@@ -1933,7 +1949,7 @@
     "publishedAt": "2021-12-22T09:02:33Z",
     "videoId": "WYdJahC_GIA",
     "url": "https://www.youtube.com/watch?v=WYdJahC_GIA",
-    "views": "375"
+    "views": "377"
   },
   {
     "title": "Roosevelt: Somewhere In The City",
@@ -2085,7 +2101,7 @@
     "publishedAt": "2021-10-11T10:18:39Z",
     "videoId": "POEpiaCJ8SA",
     "url": "https://www.youtube.com/watch?v=POEpiaCJ8SA",
-    "views": "2055"
+    "views": "2056"
   },
   {
     "title": "The Blues Sisters: Tequila",
@@ -2165,7 +2181,7 @@
     "publishedAt": "2019-11-13T13:11:04Z",
     "videoId": "mtfQl3J0YBk",
     "url": "https://www.youtube.com/watch?v=mtfQl3J0YBk",
-    "views": "3525"
+    "views": "3528"
   },
   {
     "title": "James Oliver Band  - Outsider Help",
@@ -2173,7 +2189,7 @@
     "publishedAt": "2019-11-13T12:10:32Z",
     "videoId": "a-VPKG7fW6I",
     "url": "https://www.youtube.com/watch?v=a-VPKG7fW6I",
-    "views": "1473"
+    "views": "1476"
   },
   {
     "title": "James Oliver Band - Misirlou",
@@ -2192,12 +2208,20 @@
     "views": "4190"
   },
   {
+    "title": "James Oliver Band - Stay Out of Trouble",
+    "description": "The James Oliver Band playing 'Stay Out of Trouble' at the Earl Haig Club, Whitchurch, Cardiff on 6th November 2019.",
+    "publishedAt": "2019-11-13T11:11:05Z",
+    "videoId": "cjipy5cmQmI",
+    "url": "https://www.youtube.com/watch?v=cjipy5cmQmI",
+    "views": "789"
+  },
+  {
     "title": "James Oliver Band - TV Mama",
     "description": "The James Oliver Band playing 'TV Mama' at the Earl Haig Club, Whitchurch, Cardiff on 6th November 2019.",
     "publishedAt": "2019-11-13T11:11:24Z",
     "videoId": "jAuZKRPGQFk",
     "url": "https://www.youtube.com/watch?v=jAuZKRPGQFk",
-    "views": "2454"
+    "views": "2455"
   },
   {
     "title": "James Oliver Band - The Missing Link",
@@ -2296,14 +2320,6 @@
     "views": "239"
   },
   {
-    "title": "Focus Live at the Earl Haig Club Cardiff",
-    "description": "A compilation of a few tracks that Focus played at the Earl Haig Club, Cardiff on 10th September 2018.",
-    "publishedAt": "2018-09-11T18:38:36Z",
-    "videoId": "5qxrsZPhQTM",
-    "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
-    "views": "1017"
-  },
-  {
     "title": "The Marc Davies Band: Ball &amp; Chain",
     "description": "The Marc Davies Band playing the Big Mama Thornton song Ball & Chain, recorded at Miss Jones on 11th April 2018",
     "publishedAt": "2018-07-21T10:35:10Z",
@@ -2365,7 +2381,7 @@
     "publishedAt": "2017-11-26T18:03:36Z",
     "videoId": "C_COmtPHk90",
     "url": "https://www.youtube.com/watch?v=C_COmtPHk90",
-    "views": "1148"
+    "views": "1149"
   },
   {
     "title": "The Octave Doctors - The Needle and the Spoon",
@@ -2374,6 +2390,14 @@
     "videoId": "oE2M0sZ82w8",
     "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
     "views": "281"
+  },
+  {
+    "title": "Mahogany Dog - Bathroom Wall",
+    "description": "Mahogany Dog performing 'Bathroom Wall' at the Earl Haig Jam Session on 30th July 2017.",
+    "publishedAt": "2017-08-13T18:32:08Z",
+    "videoId": "b2_m7teEXms",
+    "url": "https://www.youtube.com/watch?v=b2_m7teEXms",
+    "views": "311"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -2397,15 +2421,7 @@
     "publishedAt": "2017-08-06T18:40:20Z",
     "videoId": "9osLsVvy_5Y",
     "url": "https://www.youtube.com/watch?v=9osLsVvy_5Y",
-    "views": "1025"
-  },
-  {
-    "title": "Earl Haig Jam Session July 2017",
-    "description": "The 99th Jam Session at the Earl Haig Club  in Whitchurch, Cardiff on 30th July 2017.",
-    "publishedAt": "2017-08-06T18:40:20Z",
-    "videoId": "9osLsVvy_5Y",
-    "url": "https://www.youtube.com/watch?v=9osLsVvy_5Y",
-    "views": "1025"
+    "views": "1026"
   },
   {
     "title": "Nut Crack Boogie",
@@ -2424,20 +2440,12 @@
     "views": "309"
   },
   {
-    "title": "The Kenny Driscoll Band - To Love Somebody",
-    "description": "The Kenny Driscoll Band playing 'To Love Somebody' at the Miss Jones live jam session, Whitchurch, Cardiff on 21 June 2017",
-    "publishedAt": "2017-06-23T23:25:31Z",
-    "videoId": "Io4nmkpoERE",
-    "url": "https://www.youtube.com/watch?v=Io4nmkpoERE",
-    "views": "762"
-  },
-  {
     "title": "The Kenny Driscoll Band - Runnin&#39; Down A Dream",
     "description": "The Kenny Driscoll Band playing 'Runnin' Down A Dream'  at the Miss Jones live jam session, Whitchurch, Cardiff on 21 June 2017",
     "publishedAt": "2017-06-23T23:25:31Z",
     "videoId": "Mfu32BnHNCM",
     "url": "https://www.youtube.com/watch?v=Mfu32BnHNCM",
-    "views": "1519"
+    "views": "1520"
   },
   {
     "title": "Jazz at Cardiff College of Music and Drama",
@@ -2477,7 +2485,7 @@
     "publishedAt": "2016-06-18T00:52:13Z",
     "videoId": "8yYBO-5E09g",
     "url": "https://www.youtube.com/watch?v=8yYBO-5E09g",
-    "views": "6631"
+    "views": "6632"
   },
   {
     "title": "The Kenny Driscoll Band - Boulevard of Broken Dreams",
@@ -2504,20 +2512,12 @@
     "views": "800"
   },
   {
-    "title": "Dave Brubeck: Take 5 performed in 1972 - HQ Stereo Sound",
-    "description": "Dave Brubeck, Gerry Mulligan, Paul Desmond, Alan Dawson and Jack Six performing Take 5 at the Philharmonic in Berlin on 4 November 1972.\n\nI found a copy of this video on YouTube and realised it was the exact same version as that from 'We're All Together Again for the First Time’, one of my favourite Brubeck albums - so I decided to have a go at synchronising the audio from my CD. Not an easy task as they were different lengths (I listened to both audio tracks simultaneously and altered the video to fit the CD sound when I heard phase shift). The video quality was not great to begin with but I am delighted that I found it.",
-    "publishedAt": "2015-12-21T16:35:58Z",
-    "videoId": "1tbSyrmXo60",
-    "url": "https://www.youtube.com/watch?v=1tbSyrmXo60",
-    "views": "217648"
-  },
-  {
     "title": "Noddy&#39;s Puncture - Karn Evil 9",
     "description": "Noddy's Puncture Emerson Lake & Palmer Tribute Band playing Karn Evil 9 at The Studio, Hartlepool 31 July 2015.",
     "publishedAt": "2015-11-25T23:02:16Z",
     "videoId": "ik2Ez1CIj1M",
     "url": "https://www.youtube.com/watch?v=ik2Ez1CIj1M",
-    "views": "986"
+    "views": "987"
   },
   {
     "title": "Low Profile @ Royal Oak, Whitchurch, Cardiff",
@@ -2566,6 +2566,14 @@
     "videoId": "678aHh8bpto",
     "url": "https://www.youtube.com/watch?v=678aHh8bpto",
     "views": "599"
+  },
+  {
+    "title": "The Billy Pezzack Trio - Dance Crazed",
+    "description": "The Billy Pezzack Trio\nLive at The Park Hotel, Barry - 20th June 2015 \nDance Crazed written by Billy Pezzack\n\nBilly Pezzack: Guitar\nSteve Roberts: Drums\nJason Charles Rogers: Bass",
+    "publishedAt": "2015-06-24T22:22:58Z",
+    "videoId": "3_HQUunBXu4",
+    "url": "https://www.youtube.com/watch?v=3_HQUunBXu4",
+    "views": "259"
   },
   {
     "title": "The Billy Pezzack Trio - Your Blue Sky",
@@ -2664,20 +2672,12 @@
     "views": "58"
   },
   {
-    "title": "Godsticks at Monnow Valley Studio: Drums set-up",
-    "description": "Godsticks recording their third full length album at Monnow Valley Studio, Monmouth, Wales. Time-lapse Drum set-up.",
-    "publishedAt": "2014-11-17T14:58:32Z",
-    "videoId": "b4PTqBKeRxk",
-    "url": "https://www.youtube.com/watch?v=b4PTqBKeRxk",
-    "views": "384"
-  },
-  {
     "title": "Steve Roberts The Bells - Version 2",
     "description": "Noddy's Puncture Drummer Steve Roberts has often had a problem with the bell section of his Emerson Lake and Palmer tribute drum solo, however he informs me that this is sorted now - a real shame if you ask me. This is version 2 as I found another 'bell' malfunction.",
     "publishedAt": "2014-10-24T11:29:51Z",
     "videoId": "p7aw_hJPN3o",
     "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
-    "views": "190"
+    "views": "191"
   },
   {
     "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
@@ -2701,7 +2701,7 @@
     "publishedAt": "2014-10-04T19:58:50Z",
     "videoId": "YsjMaPep3jk",
     "url": "https://www.youtube.com/watch?v=YsjMaPep3jk",
-    "views": "3663"
+    "views": "3664"
   },
   {
     "title": "Tin Spirits - Red",
@@ -2709,7 +2709,7 @@
     "publishedAt": "2014-10-04T19:59:19Z",
     "videoId": "3M-RQ8E5sww",
     "url": "https://www.youtube.com/watch?v=3M-RQ8E5sww",
-    "views": "1590"
+    "views": "1592"
   },
   {
     "title": "Magenta - Pearl",
@@ -2725,7 +2725,7 @@
     "publishedAt": "2014-10-02T09:49:44Z",
     "videoId": "V6bDXwZ-kY8",
     "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
-    "views": "407"
+    "views": "406"
   },
   {
     "title": "Magenta - The Lizard King",
@@ -2733,7 +2733,7 @@
     "publishedAt": "2014-10-01T07:29:46Z",
     "videoId": "3K6t15zuh4k",
     "url": "https://www.youtube.com/watch?v=3K6t15zuh4k",
-    "views": "4390"
+    "views": "4388"
   },
   {
     "title": "Magenta - The White Witch",
@@ -2749,7 +2749,7 @@
     "publishedAt": "2014-09-30T20:06:35Z",
     "videoId": "VKIZeQsSWlE",
     "url": "https://www.youtube.com/watch?v=VKIZeQsSWlE",
-    "views": "1023"
+    "views": "1021"
   },
   {
     "title": "Steve Roberts The Bells",
@@ -2792,12 +2792,20 @@
     "views": "154"
   },
   {
+    "title": "Noddy&#39;s Puncture Emerson Lake &amp; Palmer Tribute - Abaddons Bolero &amp; Karn Evil 9",
+    "description": "Noddy's Puncture Live at the Earl Haig Memorial Club, Whitchurch, Cardiff on 9 August 2014.",
+    "publishedAt": "2014-09-05T14:47:21Z",
+    "videoId": "IxG2ICkpjY0",
+    "url": "https://www.youtube.com/watch?v=IxG2ICkpjY0",
+    "views": "316"
+  },
+  {
     "title": "Noddy&#39;s Puncture Emerson Lake &amp; Palmer Tribute - Romeo &amp; Juliet",
     "description": "Noddy's Puncture Live at the Earl Haig Memorial Club, Whitchurch, Cardiff on 9 August 2014.",
     "publishedAt": "2014-09-05T14:46:33Z",
     "videoId": "4hmXxSGksWU",
     "url": "https://www.youtube.com/watch?v=4hmXxSGksWU",
-    "views": "419"
+    "views": "420"
   },
   {
     "title": "Noddy&#39;s Puncture Emerson Lake &amp; Palmer Tribute - From The Beginning",
@@ -2824,6 +2832,14 @@
     "views": "337"
   },
   {
+    "title": "Noddy&#39;s Puncture Emerson Lake &amp; Palmer Tribute - Pictures At An Exhibition",
+    "description": "Noddy's Puncture Live at the Earl Haig Memorial Club, Whitchurch, Cardiff on 9 August 2014.\n\n00:31 Promenade\n01:50 The Gnome\n06:19 Promenade\n07:38 The Sage\n12:21 The Old Castle\n15:10 Blues Variation\n19:14 Promenade\n20:35 The Hut of Baba Yaga\n21:55 The Curse of Baba Yaga\n26:23 The Hut of Baba Yaga\n27:28 The Great Gates of Kiev",
+    "publishedAt": "2014-08-22T15:28:36Z",
+    "videoId": "qSo5Kdddxvc",
+    "url": "https://www.youtube.com/watch?v=qSo5Kdddxvc",
+    "views": "636"
+  },
+  {
     "title": "Noddy&#39;s Puncture Emerson Lake &amp; Palmer Tribute - Trilogy",
     "description": "Live at the Earl Haig Memorial Club, Whitchurch, Cardiff on 9 August 2014.",
     "publishedAt": "2014-08-20T07:16:10Z",
@@ -2845,15 +2861,7 @@
     "publishedAt": "2014-07-24T01:41:47Z",
     "videoId": "Q5L0TS3V91Y",
     "url": "https://www.youtube.com/watch?v=Q5L0TS3V91Y",
-    "views": "335307"
-  },
-  {
-    "title": "Turning Japanese - The Kenny Driscoll Band",
-    "description": "The Kenny Driscoll Band live at the Royal Oak, Cardiff.\nTurning Japanese\nKenny Driscoll (v), Paul Grehan (g), Wayne Jones (b), Steve Roberts (XLVIII) (d)",
-    "publishedAt": "2014-07-21T07:12:51Z",
-    "videoId": "1Vviovwr7Sc",
-    "url": "https://www.youtube.com/watch?v=1Vviovwr7Sc",
-    "views": "282"
+    "views": "335416"
   },
   {
     "title": "To Love Somebody - The Kenny Driscoll Band",
@@ -3040,6 +3048,14 @@
     "views": "119"
   },
   {
+    "title": "All Or Nothing - Tiger Bay",
+    "description": "Tiger Bay Live at the Royal Oak, Whitchurch, Cardiff.\nAll Or Nothing",
+    "publishedAt": "2014-07-17T09:07:43Z",
+    "videoId": "4ylBYMJ6rnE",
+    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "views": "74"
+  },
+  {
     "title": "Train &#39;Round The Bend - Tiger Bay",
     "description": "Tiger Bay Live at the Royal Oak, Whitchurch, Cardiff.\nTrain 'Round The Bend",
     "publishedAt": "2014-07-17T09:07:43Z",
@@ -3069,7 +3085,7 @@
     "publishedAt": "2014-07-16T08:27:54Z",
     "videoId": "3h3p_lqjLSM",
     "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
-    "views": "274"
+    "views": "275"
   },
   {
     "title": "Coming Back To Life - Tiger Bay",
@@ -3176,6 +3192,14 @@
     "views": "170"
   },
   {
+    "title": "Kenny Driscoll Band: Jumpin&#39; Jack Flash",
+    "description": "Kenny Driscoll Band\nJumpin' Jack Flash\nLive at the Royal Oak, Whitchurch\n20 June 2014\n\nKenny Driscoll (v), Paul Grehan (g), Wayne Jones (b), Steve Roberts (XLVIII) (d)",
+    "publishedAt": "2014-06-22T11:30:54Z",
+    "videoId": "_g_LYFFGlkQ",
+    "url": "https://www.youtube.com/watch?v=_g_LYFFGlkQ",
+    "views": "170"
+  },
+  {
     "title": "Kenny Driscoll Band: Runnin&#39; Down A Dream",
     "description": "Kenny Driscoll Band\nRunnin' Down A Dream\nLive at the Royal Oak, Whitchurch\n20 June 2014\n\nKenny Driscoll (v), Paul Grehan (g), Wayne Jones (b), Steve Roberts (XLVIII) (d)\n",
     "publishedAt": "2014-06-22T11:30:56Z",
@@ -3240,14 +3264,6 @@
     "views": "223"
   },
   {
-    "title": "Sneakers Newport with Micky Gee - 5 Master of Disaster",
-    "description": "Micky Gee with his last band The Sneakers playing at the Engineers, Newport, Wales. Featuring Micky Gee guitar, Craig Burton bass and Justin Watts drums.",
-    "publishedAt": "2012-02-24T19:46:34Z",
-    "videoId": "JLbTM3PpJ44",
-    "url": "https://www.youtube.com/watch?v=JLbTM3PpJ44",
-    "views": "136"
-  },
-  {
     "title": "The Sneakers with Micky Gee Newport gig - 3 The Old Man Down The Road",
     "description": "Micky Gee with his last band The Sneakers playing at the Engineers, Newport, Wales. Featuring Micky Gee guitar, Craig Burton bass and Justin Watts drums.",
     "publishedAt": "2012-02-24T19:36:21Z",
@@ -3309,7 +3325,7 @@
     "publishedAt": "2012-02-04T10:53:11Z",
     "videoId": "aNZeKdCN-3g",
     "url": "https://www.youtube.com/watch?v=aNZeKdCN-3g",
-    "views": "1614"
+    "views": "1615"
   },
   {
     "title": "The Sneakers with Micky Gee",
@@ -3325,7 +3341,7 @@
     "publishedAt": "2010-11-02T18:45:22Z",
     "videoId": "xM2oHCvyt4g",
     "url": "https://www.youtube.com/watch?v=xM2oHCvyt4g",
-    "views": "3740"
+    "views": "3741"
   },
   {
     "title": "Stan Kenton - Artistry in Rhythm (9)",
@@ -3333,7 +3349,7 @@
     "publishedAt": "2008-01-13T16:28:30Z",
     "videoId": "x3EkI3ISz28",
     "url": "https://www.youtube.com/watch?v=x3EkI3ISz28",
-    "views": "313636"
+    "views": "313669"
   },
   {
     "title": "Stan Kenton - The Peanut Vendor",
@@ -3341,7 +3357,7 @@
     "publishedAt": "2008-01-13T16:20:23Z",
     "videoId": "1_okd-n42p0",
     "url": "https://www.youtube.com/watch?v=1_okd-n42p0",
-    "views": "496908"
+    "views": "496973"
   },
   {
     "title": "Stan Kenton - Malaga (5)",
@@ -3349,7 +3365,7 @@
     "publishedAt": "2008-01-13T16:11:45Z",
     "videoId": "HEt13RIL0ko",
     "url": "https://www.youtube.com/watch?v=HEt13RIL0ko",
-    "views": "113216"
+    "views": "113232"
   },
   {
     "title": "Stan Kenton - Tiare (7)",
@@ -3365,7 +3381,7 @@
     "publishedAt": "2008-01-13T15:29:10Z",
     "videoId": "Oax-u-X0G8E",
     "url": "https://www.youtube.com/watch?v=Oax-u-X0G8E",
-    "views": "382679"
+    "views": "382735"
   },
   {
     "title": "Stan Kenton - MacArthur Park (4)",
@@ -3373,7 +3389,7 @@
     "publishedAt": "2008-01-13T14:34:36Z",
     "videoId": "cA0Iat3AdN8",
     "url": "https://www.youtube.com/watch?v=cA0Iat3AdN8",
-    "views": "190464"
+    "views": "190480"
   },
   {
     "title": "Stan Kenton -- Artistry In Percussion (3)",
@@ -3381,7 +3397,7 @@
     "publishedAt": "2008-01-13T14:12:34Z",
     "videoId": "Dqym9TRs2D0",
     "url": "https://www.youtube.com/watch?v=Dqym9TRs2D0",
-    "views": "26797"
+    "views": "26796"
   },
   {
     "title": "Stan Kenton - Chiapas (2)",
@@ -3389,7 +3405,7 @@
     "publishedAt": "2008-01-08T18:43:08Z",
     "videoId": "aBeCf1AkcXw",
     "url": "https://www.youtube.com/watch?v=aBeCf1AkcXw",
-    "views": "78524"
+    "views": "78534"
   },
   {
     "title": "Stan Kenton - Minor Booze 1972 (1)",
@@ -3397,6 +3413,6 @@
     "publishedAt": "2008-01-07T20:35:20Z",
     "videoId": "Q4JgG8iyOyY",
     "url": "https://www.youtube.com/watch?v=Q4JgG8iyOyY",
-    "views": "103675"
+    "views": "103698"
   }
 ]
