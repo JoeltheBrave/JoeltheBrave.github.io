@@ -1233,8 +1233,8 @@
   },
   {
     "id": "XXmyx2",
-    "headline": "James Oliver Band",
-    "title": null,
+    "headline": "The Dirt Road Band with The James Oliver Band",
+    "title": "The Dirt Road Band with The James Oliver Band",
     "startDate": "2024-05-09",
     "endDate": "2024-05-09",
     "startTimeString": "8:00pm",
@@ -1249,7 +1249,7 @@
     "price": null,
     "description": "A fabulous double bill of Rock and Blues \nSteve Walwyn from Dr Feelgood \nHorace Panter...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1258,6 +1258,10 @@
       }
     },
     "artists": [
+      {
+        "id": "6wkw4",
+        "name": "The Dirt Road Band"
+      },
       {
         "id": "d5Xy2",
         "name": "James Oliver Band"
@@ -1287,9 +1291,9 @@
       "jazz",
       "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/6976818",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-02-06T16:18:40+00:00",
+    "lastUpdate": "2024-04-09T03:29:15+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
