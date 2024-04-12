@@ -1,70 +1,5 @@
 [
   {
-    "id": "WgXlyX",
-    "headline": "Celebrate Zappa: Treacherous Cretins Feat Frank Zappa Alumni Bobby Martin",
-    "title": "Celebrate Zappa: Treacherous Cretins Feat Frank Zappa Alumni Bobby Martin",
-    "startDate": "2024-04-11",
-    "endDate": "2024-04-11",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/483/410/19424a01934145ac3091984c51cf764fa28d5b24.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "71Xp1",
-        "name": "Treacherous Cretins ft Robert Martin"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-11T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2023-09-11T00:00:00+01:00",
-        "onSaleUntil": "2024-04-12T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvY2VsZWJyYXRlLXphcHBhLWZlYXR1cmluZy10aGUtdHJlYWNoZXJvdXMtY3JldGlucy90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjc2OTU4Nj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/Mjc2OTU4Ng/ticketid/6804304/checksum/2eb8c663d55e32b6f90d16669ba89032/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "jazz",
-      "tribute",
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/celebrate-zappa-treacherous-cretins-feat-frank-zappa-alumni-bobby-martin/6859680",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2024-03-04T13:43:40+00:00",
-    "created": "2023-09-11T08:09:19+00:00"
-  },
-  {
     "id": "PawwdR",
     "headline": "The Fugitives - Cardiff",
     "title": "Rhythm & Blues Nights",
@@ -1215,7 +1150,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-12T03:29:14+01:00",
+    "lastUpdate": "2024-04-12T04:29:16+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
