@@ -1,45 +1,5 @@
 [
   {
-    "id": "dD4dq6",
-    "headline": "Sidewinder",
-    "title": "Saturday Night Live",
-    "startDate": "2024-04-13",
-    "endDate": "2024-04-13",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "This five-piece band hails from South Wales, United Kingdom, and is renowned for their exceptional...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sidewinder"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sidewinder/7042294",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T17:11:01+00:00",
-    "created": "2024-03-06T15:27:16+00:00"
-  },
-  {
     "id": "NLg9Ar",
     "headline": "The Vanderbilts",
     "title": "Sunday Sessions",
@@ -1057,7 +1017,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-14T03:29:14+01:00",
+    "lastUpdate": "2024-04-14T04:29:15+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
