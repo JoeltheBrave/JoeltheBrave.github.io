@@ -5,24 +5,19 @@
     "publishedAt": "2024-04-12T17:19:51Z"
   },
   {
-    "title": "The Marc Davies Band: Use Me",
-    "url": "https://www.youtube.com/watch?v=Bj2FcKqW5SY",
-    "publishedAt": "2024-03-27T21:45:12Z"
-  },
-  {
-    "title": "ReGenesis: Supper's Ready",
-    "url": "https://www.youtube.com/watch?v=c6Q4dbknDnE",
-    "publishedAt": "2024-03-25T17:46:25Z"
-  },
-  {
     "title": "Jedis: Itchycoo Park",
     "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
     "publishedAt": "2024-03-23T09:15:51Z"
   },
   {
-    "title": "ReGenesis: Get 'Em Out By Friday",
-    "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
-    "publishedAt": "2024-03-19T18:57:39Z"
+    "title": "Stereoironics: The Bartender and the Thief",
+    "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
+    "publishedAt": "2024-03-22T15:57:39Z"
+  },
+  {
+    "title": "Thin Ice: Another Brick In The Wall (Part II)",
+    "url": "https://www.youtube.com/watch?v=VhoP-dH9-yk",
+    "publishedAt": "2024-03-21T06:19:08Z"
   },
   {
     "title": "Claire & Chris: Libertango",
@@ -70,6 +65,11 @@
     "publishedAt": "2024-01-25T15:04:40Z"
   },
   {
+    "title": "Five Points Gang: Let's Stay Together",
+    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
+    "publishedAt": "2024-01-19T17:02:44Z"
+  },
+  {
     "title": "The Soul Miners: Hit The Road Jack",
     "url": "https://www.youtube.com/watch?v=-lhVHGo_fK4",
     "publishedAt": "2024-01-16T21:04:31Z"
@@ -108,11 +108,6 @@
     "title": "The S'punkles: The S'punkles Are Coming",
     "url": "https://www.youtube.com/watch?v=2K-mj8Ho5Xc",
     "publishedAt": "2023-12-08T17:49:23Z"
-  },
-  {
-    "title": "James Oliver Band: Roxette",
-    "url": "https://www.youtube.com/watch?v=TAuR8BtQ1GQ",
-    "publishedAt": "2023-11-29T13:59:58Z"
   },
   {
     "title": "Palm Tree Antics: Little Wing",
@@ -155,14 +150,9 @@
     "publishedAt": "2023-09-29T15:23:23Z"
   },
   {
-    "title": "Outback: Best Of You",
-    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
-    "publishedAt": "2023-09-04T11:47:27Z"
-  },
-  {
-    "title": "Dansette: Take Me To The River",
-    "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
-    "publishedAt": "2023-08-11T17:50:22Z"
+    "title": "The Blues Sisters: Lipstick, Powder and Paint",
+    "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
+    "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
     "title": "Stone Free: Live at The Point June 2003",
@@ -175,19 +165,14 @@
     "publishedAt": "2023-08-05T18:10:51Z"
   },
   {
+    "title": "Dizzy Lizzy: The Boys Are Back In Town",
+    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
+    "publishedAt": "2023-07-28T17:00:54Z"
+  },
+  {
     "title": "Treacherous Cretins: Magic Fingers & Peaches En Regalia",
     "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
     "publishedAt": "2023-07-18T13:58:08Z"
-  },
-  {
-    "title": "Revolver: Let there Be Rock",
-    "url": "https://www.youtube.com/watch?v=8rAlR3PtgRc",
-    "publishedAt": "2023-07-17T15:35:40Z"
-  },
-  {
-    "title": "Legend: Three Little Birds",
-    "url": "https://www.youtube.com/watch?v=k-INOScDDgU",
-    "publishedAt": "2023-07-15T09:11:23Z"
   },
   {
     "title": "Pearl Harbor: Spiders From Mars",
@@ -253,6 +238,16 @@
     "title": "The S'punkles: Pills",
     "url": "https://www.youtube.com/watch?v=vP1sEHrqU0Q",
     "publishedAt": "2023-04-05T21:02:52Z"
+  },
+  {
+    "title": "Treacherous Cretins: Advance Romance",
+    "url": "https://www.youtube.com/watch?v=k4gMDQ2MRNY",
+    "publishedAt": "2023-04-01T10:47:24Z"
+  },
+  {
+    "title": "Treacherous Cretins: Trouble Every Day",
+    "url": "https://www.youtube.com/watch?v=l-zngNg6CjU",
+    "publishedAt": "2023-04-01T10:47:20Z"
   },
   {
     "title": "Treacherous Cretins: Advance Romance",
@@ -505,6 +500,11 @@
     "publishedAt": "2022-11-20T12:28:48Z"
   },
   {
+    "title": "Davey Sheppard: Piano Man",
+    "url": "https://www.youtube.com/watch?v=GevkF1Aw7Ho",
+    "publishedAt": "2022-11-20T12:28:48Z"
+  },
+  {
     "title": "Phil Allen & Dave Bowen: Be My Friend",
     "url": "https://www.youtube.com/watch?v=g8MA5yUCg4M",
     "publishedAt": "2022-11-18T17:54:04Z"
@@ -635,6 +635,11 @@
     "publishedAt": "2022-10-15T18:39:48Z"
   },
   {
+    "title": "Junior Hacksaw: Hoochie Coochie Man",
+    "url": "https://www.youtube.com/watch?v=YVO1GiIP4S0",
+    "publishedAt": "2022-10-15T18:33:49Z"
+  },
+  {
     "title": "Oye Santana: Soul Sacrifice",
     "url": "https://www.youtube.com/watch?v=e0rlt0u6qc0",
     "publishedAt": "2022-10-11T20:44:50Z"
@@ -745,11 +750,6 @@
     "publishedAt": "2022-08-19T08:39:40Z"
   },
   {
-    "title": "Bus Pass: Fortunate Son",
-    "url": "https://www.youtube.com/watch?v=SrzR6TR-4B8",
-    "publishedAt": "2022-08-15T17:27:45Z"
-  },
-  {
     "title": "Neil Lockwood: Let The Good Times Roll",
     "url": "https://www.youtube.com/watch?v=6d30CKarohw",
     "publishedAt": "2022-08-11T09:45:27Z"
@@ -813,11 +813,6 @@
     "title": "Sassafras: Moonshine",
     "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
     "publishedAt": "2022-06-26T10:21:08Z"
-  },
-  {
-    "title": "Sassafras: I Am The Walrus",
-    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
-    "publishedAt": "2022-06-26T10:21:03Z"
   },
   {
     "title": "Son Of Man: Call Down The Moon",
@@ -1000,24 +995,9 @@
     "publishedAt": "2022-04-06T19:58:32Z"
   },
   {
-    "title": "The Bluesters: Trouble With Money",
-    "url": "https://www.youtube.com/watch?v=thvnG7EpGSw",
-    "publishedAt": "2022-04-06T19:58:32Z"
-  },
-  {
     "title": "The Bluesters: Chank",
     "url": "https://www.youtube.com/watch?v=dL3yI1kAMEA",
     "publishedAt": "2022-04-06T19:58:17Z"
-  },
-  {
-    "title": "The Bluesters: Green Onions",
-    "url": "https://www.youtube.com/watch?v=npZlu_dcGNg",
-    "publishedAt": "2022-04-04T13:54:53Z"
-  },
-  {
-    "title": "Stonehouse: Jailbird",
-    "url": "https://www.youtube.com/watch?v=wvtn0rGoxTc",
-    "publishedAt": "2022-03-30T16:59:37Z"
   },
   {
     "title": "Stonehouse: Funk #49",
@@ -1270,6 +1250,11 @@
     "publishedAt": "2021-12-03T11:26:06Z"
   },
   {
+    "title": "The Flares: Back in the USSR",
+    "url": "https://www.youtube.com/watch?v=XWAtrQwXqgM",
+    "publishedAt": "2021-12-03T11:26:06Z"
+  },
+  {
     "title": "The Flares: Pinball Wizard",
     "url": "https://www.youtube.com/watch?v=06dHmrc9mGk",
     "publishedAt": "2021-12-02T20:31:26Z"
@@ -1513,16 +1498,6 @@
     "title": "Kerosene Lane: War Pigs",
     "url": "https://www.youtube.com/watch?v=5FvOqG8rSo4",
     "publishedAt": "2017-12-10T10:21:02Z"
-  },
-  {
-    "title": "Whitchurch Jam #100 Compilation",
-    "url": "https://www.youtube.com/watch?v=C_COmtPHk90",
-    "publishedAt": "2017-11-26T18:03:36Z"
-  },
-  {
-    "title": "The Octave Doctors - The Needle and the Spoon",
-    "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
-    "publishedAt": "2017-11-25T17:03:32Z"
   },
   {
     "title": "Theo and Steve with TangeKanic at Chepstow 2017",
@@ -1770,16 +1745,6 @@
     "publishedAt": "2014-09-30T20:06:35Z"
   },
   {
-    "title": "Steve Roberts The Bells",
-    "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
-    "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
-  },
-  {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
     "url": "https://www.youtube.com/watch?v=j2dp5wjNXA8",
     "publishedAt": "2014-09-26T15:06:31Z"
@@ -1860,6 +1825,11 @@
     "publishedAt": "2014-07-21T07:12:51Z"
   },
   {
+    "title": "Paint It Black - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=Sqf7QDtx9Fw",
+    "publishedAt": "2014-07-21T07:12:51Z"
+  },
+  {
     "title": "Honky Tonk Woman - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=WVF0wqGuaY0",
     "publishedAt": "2014-07-21T07:12:51Z"
@@ -1888,6 +1858,11 @@
     "title": "The Only Thing That Looks Good On Me Is You - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=KjZU3Vxp0Lg",
     "publishedAt": "2014-07-20T22:33:31Z"
+  },
+  {
+    "title": "Hard To Handle - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
+    "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
     "title": "The Middle - The Kenny Driscoll Band",
@@ -2063,11 +2038,6 @@
     "title": "The Sneakers with Micky Gee Newport gig - 10 Shake It Up And Go",
     "url": "https://www.youtube.com/watch?v=2bU-QegsILs",
     "publishedAt": "2012-02-24T20:08:55Z"
-  },
-  {
-    "title": "The Sneakers with Micky Gee Newport gig - 9 FBI Medley",
-    "url": "https://www.youtube.com/watch?v=TtycqNay-Ms",
-    "publishedAt": "2012-02-24T20:03:58Z"
   },
   {
     "title": "The Sneakers with Micky Gee Newport gig - 8 Rocking in the Free World",
