@@ -1,45 +1,5 @@
 [
   {
-    "id": "74LaQY",
-    "headline": "Mark Pontin",
-    "title": "Monday Night Open Mic / Jam Session",
-    "startDate": "2024-04-15",
-    "endDate": "2024-04-15",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mark-pontin/7042186",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T15:00:52+00:00",
-    "created": "2024-03-06T15:00:35+00:00"
-  },
-  {
     "id": "Dwl0GN",
     "headline": "Strictly Acoustic",
     "title": "Strictly Acoustic",
@@ -1024,7 +984,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-16T03:29:14+01:00",
+    "lastUpdate": "2024-04-16T04:29:16+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
