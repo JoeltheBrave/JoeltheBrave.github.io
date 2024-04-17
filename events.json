@@ -650,47 +650,6 @@
     "created": "2024-02-06T15:25:49+00:00"
   },
   {
-    "id": "mDR4XL",
-    "headline": "Helter Skelter",
-    "title": "Friday Night Live",
-    "startDate": "2024-05-03",
-    "endDate": "2024-05-03",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-07T16:02:24+00:00",
-    "created": "2024-03-07T16:02:13+00:00"
-  },
-  {
     "id": "dDBPQj",
     "headline": "Bootleg Blondie - The World's No.1 Official Blondie and Debbie Harry Tribute Est 2001",
     "title": "Global Promotions Live",
@@ -761,6 +720,65 @@
     "created": "2023-11-27T07:21:52+00:00"
   },
   {
+    "id": "mDR4XL",
+    "headline": "Helter Skelter",
+    "title": "Friday Night Live",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": "Free",
+    "description": "Great news for all the music lovers out there! Helter Skelter will be returning to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-03T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:21:43+01:00",
+        "onSaleUntil": "2024-05-03T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7042288",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-04-16T17:21:50+01:00",
+    "created": "2024-03-07T16:02:13+00:00"
+  },
+  {
     "id": "GoRdKk",
     "headline": "Fortunate Sons",
     "title": "Saturday Night Live",
@@ -791,13 +809,31 @@
         "name": "Fortunate Sons"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-04T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:22:05+01:00",
+        "onSaleUntil": "2024-05-04T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/fortunate-sons/7042302",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T16:43:26+00:00",
+    "lastUpdate": "2024-04-16T17:22:10+01:00",
     "created": "2024-03-06T15:29:31+00:00"
   },
   {
@@ -831,13 +867,31 @@
         "name": "Sun Dogs"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-05T17:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:22:27+01:00",
+        "onSaleUntil": "2024-05-05T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sun-dogs/7042316",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-15T18:41:52+01:00",
+    "lastUpdate": "2024-04-16T17:22:32+01:00",
     "created": "2024-03-06T15:35:08+00:00"
   },
   {
@@ -872,12 +926,30 @@
         "name": "Sundogs"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-06T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:23:05+01:00",
+        "onSaleUntil": "2024-05-06T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7042244",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-15T17:13:44+01:00",
+    "lastUpdate": "2024-04-16T17:23:06+01:00",
     "created": "2024-03-06T15:02:59+00:00"
   },
   {
@@ -912,14 +984,32 @@
         "name": "Just Friends"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-07T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:23:19+01:00",
+        "onSaleUntil": "2024-05-07T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "acoustic",
       "jazz"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends/7081274",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-15T18:46:09+01:00",
+    "fansOnEnts24": 5,
+    "lastUpdate": "2024-04-16T17:23:20+01:00",
     "created": "2024-04-15T16:13:41+00:00"
   },
   {
@@ -984,7 +1074,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-16T04:29:16+01:00",
+    "lastUpdate": "2024-04-17T03:29:20+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
@@ -1081,6 +1171,24 @@
         "name": "Rock n Roll Revival"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-11T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:23:58+01:00",
+        "onSaleUntil": "2024-05-11T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rocknroll",
@@ -1088,8 +1196,8 @@
       "1960s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rock-n-roll-revival/7081278",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-15T17:14:08+01:00",
+    "fansOnEnts24": 5,
+    "lastUpdate": "2024-04-16T17:24:05+01:00",
     "created": "2024-04-15T16:13:56+00:00"
   },
   {
@@ -1498,8 +1606,8 @@
       "country"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosvelt/7081288",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-15T17:14:34+01:00",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2024-04-16T17:46:45+01:00",
     "created": "2024-04-15T16:14:21+00:00"
   },
   {
@@ -2019,13 +2127,31 @@
         "name": "Capital City Jazz Orchestra"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-06-06T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:26:53+01:00",
+        "onSaleUntil": "2024-06-06T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "jazz"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7007638",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-02-06T15:27:45+00:00",
+    "lastUpdate": "2024-04-16T17:26:59+01:00",
     "created": "2024-02-06T15:27:28+00:00"
   },
   {
@@ -2298,13 +2424,31 @@
         "name": "Stone Free"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-07-14T17:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-16T17:27:27+01:00",
+        "onSaleUntil": "2024-07-14T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stone-free/7042580",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-06T18:31:07+00:00",
+    "lastUpdate": "2024-04-16T17:27:28+01:00",
     "created": "2024-03-06T18:30:51+00:00"
   },
   {
