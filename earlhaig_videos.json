@@ -15,11 +15,6 @@
     "publishedAt": "2024-03-25T17:46:25Z"
   },
   {
-    "title": "Jedis: Itchycoo Park",
-    "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
-    "publishedAt": "2024-03-23T09:15:51Z"
-  },
-  {
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
@@ -28,6 +23,11 @@
     "title": "Thin Ice: Another Brick In The Wall (Part II)",
     "url": "https://www.youtube.com/watch?v=VhoP-dH9-yk",
     "publishedAt": "2024-03-21T06:19:08Z"
+  },
+  {
+    "title": "ReGenesis: Get 'Em Out By Friday",
+    "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
+    "publishedAt": "2024-03-19T18:57:39Z"
   },
   {
     "title": "Claire & Chris: Libertango",
@@ -73,11 +73,6 @@
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
-  },
-  {
-    "title": "Five Points Gang: Let's Stay Together",
-    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
-    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -140,11 +135,6 @@
     "publishedAt": "2023-11-02T10:45:17Z"
   },
   {
-    "title": "ReGenesis: Firth of Fifth",
-    "url": "https://www.youtube.com/watch?v=eCe3fuz9X6Y",
-    "publishedAt": "2023-10-23T18:35:52Z"
-  },
-  {
     "title": "The Bluesters: Messy Bessie",
     "url": "https://www.youtube.com/watch?v=d_aG14OdkFE",
     "publishedAt": "2023-10-16T11:28:38Z"
@@ -158,6 +148,11 @@
     "title": "Earl Haig Strictly Acoustic Jam Session Compilation",
     "url": "https://www.youtube.com/watch?v=quJwPiAhMrI",
     "publishedAt": "2023-10-05T21:14:55Z"
+  },
+  {
+    "title": "Sweatbox: Bark, Joey in Third Gear and Loose Cannon",
+    "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
+    "publishedAt": "2023-09-29T15:23:23Z"
   },
   {
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
@@ -180,14 +175,14 @@
     "publishedAt": "2023-08-11T09:11:05Z"
   },
   {
-    "title": "Earl Haig Club Monday Jam Session Compilation July 2023",
-    "url": "https://www.youtube.com/watch?v=Of15K3OJ2to",
-    "publishedAt": "2023-08-05T18:10:51Z"
-  },
-  {
     "title": "Dizzy Lizzy: The Boys Are Back In Town",
     "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
     "publishedAt": "2023-07-28T17:00:54Z"
+  },
+  {
+    "title": "Treacherous Cretins: Magic Fingers & Peaches En Regalia",
+    "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
+    "publishedAt": "2023-07-18T13:58:08Z"
   },
   {
     "title": "Revolver: Let there Be Rock",
@@ -205,9 +200,9 @@
     "publishedAt": "2023-07-12T16:19:47Z"
   },
   {
-    "title": "John Otway & Wild Willy Barrett: Really Free",
-    "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
-    "publishedAt": "2023-07-12T13:07:15Z"
+    "title": "The Sandboys: Sell Out",
+    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
+    "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
     "title": "Stone Free: Live at the Point, Cardiff.",
@@ -250,14 +245,9 @@
     "publishedAt": "2023-04-15T18:06:42Z"
   },
   {
-    "title": "Snatch It Back: Oh Baby",
-    "url": "https://www.youtube.com/watch?v=po6GvmNUTVc",
-    "publishedAt": "2023-03-27T12:10:05Z"
-  },
-  {
-    "title": "Treacherous Cretins: Bamboozled By Love",
-    "url": "https://www.youtube.com/watch?v=cYAjyrCN0zE",
-    "publishedAt": "2023-03-26T09:57:48Z"
+    "title": "Capital City Jazz Orchestra: Good News",
+    "url": "https://www.youtube.com/watch?v=inl-xjkYHgY",
+    "publishedAt": "2023-04-07T17:25:45Z"
   },
   {
     "title": "Davey Sheppard: Run",
@@ -500,6 +490,16 @@
     "publishedAt": "2022-11-18T16:08:03Z"
   },
   {
+    "title": "Tumbling Dice: Reelin' In The Years",
+    "url": "https://www.youtube.com/watch?v=xYqwVhNuqHg",
+    "publishedAt": "2022-11-17T18:50:34Z"
+  },
+  {
+    "title": "Palm Tree Antics: 54-46 That's My Number",
+    "url": "https://www.youtube.com/watch?v=t7ZfLogn-9Y",
+    "publishedAt": "2022-11-17T18:50:30Z"
+  },
+  {
     "title": "Davey Sheppard: Piano Man",
     "url": "https://www.youtube.com/watch?v=GevkF1Aw7Ho",
     "publishedAt": "2022-11-20T12:28:48Z"
@@ -720,6 +720,11 @@
     "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "publishedAt": "2022-08-28T11:07:15Z"
+  },
+  {
     "title": "Bluesfire Blues Band: So Many Roads",
     "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
     "publishedAt": "2022-08-22T17:51:21Z"
@@ -738,16 +743,6 @@
     "title": "Prognosis: I'm Mandy Fly Me",
     "url": "https://www.youtube.com/watch?v=hcS71FOmmWs",
     "publishedAt": "2022-08-19T08:39:40Z"
-  },
-  {
-    "title": "Bus Pass: Fortunate Son",
-    "url": "https://www.youtube.com/watch?v=SrzR6TR-4B8",
-    "publishedAt": "2022-08-15T17:27:45Z"
-  },
-  {
-    "title": "Kinky Wizzards: Caffeine Overdose",
-    "url": "https://www.youtube.com/watch?v=AXmoVXqLIBQ",
-    "publishedAt": "2022-08-11T09:45:21Z"
   },
   {
     "title": "Bus Pass: Fortunate Son",
@@ -823,11 +818,6 @@
     "title": "Sassafras: Moonshine",
     "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
     "publishedAt": "2022-06-26T10:21:08Z"
-  },
-  {
-    "title": "Sassafras: I Am The Walrus",
-    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
-    "publishedAt": "2022-06-26T10:21:03Z"
   },
   {
     "title": "Son Of Man: Call Down The Moon",
@@ -998,6 +988,31 @@
     "title": "Capital City Jazz Orchestra: La Fiesta",
     "url": "https://www.youtube.com/watch?v=p99R1ZU2Wmc",
     "publishedAt": "2022-04-08T13:48:43Z"
+  },
+  {
+    "title": "A Parcel Of Rogues: Purple Rain",
+    "url": "https://www.youtube.com/watch?v=b4kkD0Aw_Wg",
+    "publishedAt": "2022-04-07T16:59:32Z"
+  },
+  {
+    "title": "The Bluesters: Trouble With Money",
+    "url": "https://www.youtube.com/watch?v=thvnG7EpGSw",
+    "publishedAt": "2022-04-06T19:58:32Z"
+  },
+  {
+    "title": "A Parcel Of Rogues: Purple Rain",
+    "url": "https://www.youtube.com/watch?v=b4kkD0Aw_Wg",
+    "publishedAt": "2022-04-07T16:59:32Z"
+  },
+  {
+    "title": "The Bluesters: Trouble With Money",
+    "url": "https://www.youtube.com/watch?v=thvnG7EpGSw",
+    "publishedAt": "2022-04-06T19:58:32Z"
+  },
+  {
+    "title": "The Bluesters: Chank",
+    "url": "https://www.youtube.com/watch?v=dL3yI1kAMEA",
+    "publishedAt": "2022-04-06T19:58:17Z"
   },
   {
     "title": "The Bluesters: Green Onions",
@@ -1230,14 +1245,9 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
-    "title": "Roosevelt: Heaven's Gate",
-    "url": "https://www.youtube.com/watch?v=J8HsIonp-Cs",
-    "publishedAt": "2021-12-14T11:56:23Z"
-  },
-  {
-    "title": "New Street Groove: Sign Sealed Delivered I'm Yours",
-    "url": "https://www.youtube.com/watch?v=KwxUomZ9DpY",
-    "publishedAt": "2021-12-07T10:42:19Z"
+    "title": "Roosevelt: Hold on Tight",
+    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
+    "publishedAt": "2021-12-14T11:58:00Z"
   },
   {
     "title": "New Street Groove: Billie Jean",
@@ -1248,6 +1258,16 @@
     "title": "New Street Groove: Kiss",
     "url": "https://www.youtube.com/watch?v=k8npAxXaB-w",
     "publishedAt": "2021-12-07T10:42:27Z"
+  },
+  {
+    "title": "The Flares: Back in the USSR",
+    "url": "https://www.youtube.com/watch?v=XWAtrQwXqgM",
+    "publishedAt": "2021-12-03T11:26:06Z"
+  },
+  {
+    "title": "The Flares: Pinball Wizard",
+    "url": "https://www.youtube.com/watch?v=06dHmrc9mGk",
+    "publishedAt": "2021-12-02T20:31:26Z"
   },
   {
     "title": "The Flares: Brown Sugar",
@@ -1268,6 +1288,11 @@
     "title": "Live Dead '69: New Speedway Boogie & Truckin'",
     "url": "https://www.youtube.com/watch?v=sKYG5xX85CM",
     "publishedAt": "2021-11-17T15:10:41Z"
+  },
+  {
+    "title": "Jedis: My Sharona",
+    "url": "https://www.youtube.com/watch?v=tekXL954Buc",
+    "publishedAt": "2021-11-17T14:30:08Z"
   },
   {
     "title": "Firewater: Roll Over Lay Down",
@@ -1335,11 +1360,6 @@
     "publishedAt": "2021-10-01T10:00:47Z"
   },
   {
-    "title": "The Jug Band",
-    "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
-    "publishedAt": "2021-10-01T09:54:25Z"
-  },
-  {
     "title": "The Heavy Quartet: Which Dreamt It?",
     "url": "https://www.youtube.com/watch?v=LYxSV_5H-do",
     "publishedAt": "2020-10-18T00:07:47Z"
@@ -1348,11 +1368,6 @@
     "title": "James Oliver - It's My Own Business",
     "url": "https://www.youtube.com/watch?v=9UrCusRaFco",
     "publishedAt": "2020-05-24T14:19:21Z"
-  },
-  {
-    "title": "Neil Lockwood - Rock Me Baby",
-    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
-    "publishedAt": "2020-05-22T22:30:03Z"
   },
   {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
@@ -1388,11 +1403,6 @@
     "title": "James Oliver Band - Misirlou",
     "url": "https://www.youtube.com/watch?v=kUMzkRxpDks",
     "publishedAt": "2019-11-13T11:19:38Z"
-  },
-  {
-    "title": "James Oliver Band - She's The One",
-    "url": "https://www.youtube.com/watch?v=ThFudyiaoZ8",
-    "publishedAt": "2019-11-13T11:11:13Z"
   },
   {
     "title": "James Oliver Band - Stay Out of Trouble",
@@ -1705,6 +1715,11 @@
     "publishedAt": "2014-11-20T12:01:02Z"
   },
   {
+    "title": "Godsticks at Monnow Valley Studio: Drums set-up",
+    "url": "https://www.youtube.com/watch?v=b4PTqBKeRxk",
+    "publishedAt": "2014-11-17T14:58:32Z"
+  },
+  {
     "title": "Steve Roberts The Bells - Version 2",
     "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
     "publishedAt": "2014-10-24T11:29:51Z"
@@ -1730,11 +1745,6 @@
     "publishedAt": "2014-10-04T19:59:19Z"
   },
   {
-    "title": "Magenta - Pearl",
-    "url": "https://www.youtube.com/watch?v=zxIXXi4CZRc",
-    "publishedAt": "2014-10-02T09:50:07Z"
-  },
-  {
     "title": "Magenta - Demons",
     "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
     "publishedAt": "2014-10-02T09:49:44Z"
@@ -1753,11 +1763,6 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1793,6 +1798,11 @@
     "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - From The Beginning",
     "url": "https://www.youtube.com/watch?v=_HLikNkKs7M",
     "publishedAt": "2014-08-31T12:15:16Z"
+  },
+  {
+    "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Fanfare For The Common Man",
+    "url": "https://www.youtube.com/watch?v=3ec15ULl_3I",
+    "publishedAt": "2014-08-31T09:20:58Z"
   },
   {
     "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Hoedown",
@@ -1985,6 +1995,36 @@
     "publishedAt": "2014-07-15T16:50:40Z"
   },
   {
+    "title": "Whole Lotta Rosie - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Strange Brew - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Cocaine - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "The Thrill Is Gone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "Bad To The Bone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=BPeHXjpcsvM",
+    "publishedAt": "2014-07-15T16:52:20Z"
+  },
+  {
+    "title": "Master of Disaster - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=f1Mxg7C7K8M",
+    "publishedAt": "2014-07-15T16:50:40Z"
+  },
+  {
     "title": "Riding Along In My Automobile and Route 66 - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=y3cm3qoC9gk",
     "publishedAt": "2014-07-15T16:48:35Z"
@@ -2048,11 +2088,6 @@
     "title": "The Sneakers with Micky Gee Newport gig - 10 Shake It Up And Go",
     "url": "https://www.youtube.com/watch?v=2bU-QegsILs",
     "publishedAt": "2012-02-24T20:08:55Z"
-  },
-  {
-    "title": "The Sneakers with Micky Gee Newport gig - 9 FBI Medley",
-    "url": "https://www.youtube.com/watch?v=TtycqNay-Ms",
-    "publishedAt": "2012-02-24T20:03:58Z"
   },
   {
     "title": "The Sneakers with Micky Gee Newport gig - 8 Rocking in the Free World",
