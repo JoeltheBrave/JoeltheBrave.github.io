@@ -1,45 +1,5 @@
 [
   {
-    "id": "oBojOz",
-    "headline": "Cardiff Arms Park Male Choir",
-    "title": "Open Night",
-    "startDate": "2024-04-18",
-    "endDate": "2024-04-18",
-    "startTimeString": "7:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Cardiff Arms Park Male Choir Open Night.\n\"Join us on Thursday, April 18th at 7 pm...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/500/618/6a3b90a3a0a49438b6a0b8253f1b574e46c93cc6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Cardiff Arms Park Male Choir"
-      }
-    ],
-    "genre": [
-      "music",
-      "choral"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cardiff-arms-park-male-choir/7061826",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-25T13:14:24+00:00",
-    "created": "2024-03-25T13:14:07+00:00"
-  },
-  {
     "id": "Wg5PlX",
     "headline": "Viper Squad",
     "title": "Friday Night Live",
@@ -1112,7 +1072,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-19T03:29:14+01:00",
+    "lastUpdate": "2024-04-19T04:29:15+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
