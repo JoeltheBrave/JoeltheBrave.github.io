@@ -1,108 +1,5 @@
 [
   {
-    "id": "DwvkGD",
-    "headline": "Dirty DC",
-    "title": "Global Promotions Live",
-    "startDate": "2024-04-20",
-    "endDate": "2024-04-20",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/033/256/963b50e1af0699b928eba748466e561578965fbf.jpg?auto=format&fp-x=0.527&fp-y=0.186&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "Lkx",
-        "name": "Dirty DC"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-20T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2023-12-11T00:00:00+00:00",
-        "onSaleUntil": "2024-04-21T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZGlydHktZGMtMjAyNC90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMjgzODgxND9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MjgzODgxNA/ticketid/6963770/checksum/c64fda06d2914801539e671e5cc172b0/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal",
-      "tribute",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dirty-dc/6943540",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2024-03-04T13:48:08+00:00",
-    "created": "2023-12-11T08:24:23+00:00"
-  },
-  {
-    "id": "NLg9AE",
-    "headline": "The Jug Band",
-    "title": "Saturday Night Live",
-    "startDate": "2024-04-20",
-    "endDate": "2024-04-20",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Looking for a truly unique and unforgettable musical experience? You simply can't miss the Jug...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/024/573/871c44c9da94fa91cfcbdd5e8880b4779e49992f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "PnmR",
-        "name": "The Jug Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jug-band/7042298",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-03-07T16:02:32+00:00",
-    "created": "2024-03-07T16:02:22+00:00"
-  },
-  {
     "id": "Bvae66",
     "headline": "Royal Scam",
     "title": "Sunday Sessions",
@@ -945,7 +842,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-20T04:29:20+01:00",
+    "lastUpdate": "2024-04-21T04:29:19+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
