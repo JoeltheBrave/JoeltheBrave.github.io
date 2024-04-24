@@ -31,32 +31,14 @@
         "name": "Focus"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-26T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£25.75",
-        "totalPrice": "£25.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2023-11-23T22:30:00+00:00",
-        "onSaleUntil": "2024-04-27T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZm9jdXMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mzg4MTc_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgzODgxNw/ticketid/6920558/checksum/c32a56d0f4b30296994ef9d5f8e94868/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
       "1970s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/6921380",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2024-03-05T12:29:22+00:00",
+    "fansOnEnts24": 7,
+    "lastUpdate": "2024-04-23T14:47:52+01:00",
     "created": "2023-11-24T06:55:19+00:00"
   },
   {
@@ -742,8 +724,8 @@
       "2010s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-23T04:29:20+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-04-24T04:29:20+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
