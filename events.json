@@ -725,7 +725,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-04-24T04:29:20+01:00",
+    "lastUpdate": "2024-04-25T04:29:19+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
@@ -850,6 +850,69 @@
     "fansOnEnts24": 5,
     "lastUpdate": "2024-04-19T07:35:13+01:00",
     "created": "2024-04-15T16:13:56+00:00"
+  },
+  {
+    "id": "NLKb4E",
+    "headline": "Palm Tree Antics",
+    "title": "Palm Tree Antics",
+    "startDate": "2024-05-11",
+    "endDate": "2024-05-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "SKA PLACE featuring Palm Tree Antics is organizing a charity event at Earl Haig on...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/65fce126-cbc4-4dd0-9333-a1e9f95999e7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5jBj",
+        "name": "Palm Tree Antics"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-05-11T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£12.00",
+        "totalPrice": "£12.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-24T09:16:32+01:00",
+        "onSaleUntil": "2024-05-11T23:59:59+01:00",
+        "url": null,
+        "email": "phil.taff@gmail.com",
+        "telephone": " 07949166490"
+      }
+    ],
+    "genre": [
+      "music",
+      "ska",
+      "reggae",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics/7089554",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-04-24T09:16:42+01:00",
+    "created": "2024-04-24T08:16:30+00:00"
   },
   {
     "id": "Wg908m",
