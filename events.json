@@ -185,7 +185,7 @@
   },
   {
     "id": "Dwl0kN",
-    "headline": "Monday Night Open Mic / Jam Session",
+    "headline": "The S'punkles",
     "title": "Monday Night Open Mic / Jam Session",
     "startDate": "2024-04-29",
     "endDate": "2024-04-29",
@@ -211,34 +211,15 @@
     },
     "artists": [
       {
-        "id": "WQR8X",
         "name": "The S'punkles"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-29T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-17T16:21:12+01:00",
-        "onSaleUntil": "2024-04-29T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": null
       }
     ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7042240",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7042240",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-17T16:21:43+01:00",
+    "lastUpdate": "2024-04-25T15:37:59+01:00",
     "created": "2024-03-06T15:01:11+00:00"
   },
   {
@@ -725,7 +706,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-04-25T04:29:19+01:00",
+    "lastUpdate": "2024-04-26T04:29:20+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
@@ -1082,6 +1063,48 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2024-04-19T07:35:13+01:00",
     "created": "2024-04-15T16:14:06+00:00"
+  },
+  {
+    "id": "dDoPne",
+    "headline": "The S'punkles",
+    "title": "The S'punkles",
+    "startDate": "2024-05-17",
+    "endDate": "2024-05-17",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The S'punkles at The Earl Haig Club Bar. The S'punkles will be performing at The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/502d86a8-7c90-4308-a695-97f82c871458.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The S'punkles"
+      }
+    ],
+    "genre": [
+      "music",
+      "punk",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7092150",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-04-25T15:38:13+01:00",
+    "created": "2024-04-25T14:15:24+00:00"
   },
   {
     "id": "XXmbR4",
@@ -2081,8 +2104,50 @@
     "created": "2024-04-15T16:14:39+00:00"
   },
   {
+    "id": "Bvgr9d",
+    "headline": "The S'punkles",
+    "title": "The S'punkles",
+    "startDate": "2024-06-23",
+    "endDate": "2024-06-23",
+    "startTimeString": "6:00pm",
+    "endTimeString": "10:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The S'punkles at The Earl Haig Club Concert Room.\n\nThe S'punkles at The Earl Haig Club...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/19d9ccd6-06d6-4d07-8f53-b532bf631955.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The S'punkles"
+      }
+    ],
+    "genre": [
+      "music",
+      "punk",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7092212",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-04-25T15:38:27+01:00",
+    "created": "2024-04-25T14:15:30+00:00"
+  },
+  {
     "id": "PaELOE",
-    "headline": "The Big Motown 'N' Soul Nite with Lee St Lawrence",
+    "headline": "Lee St Lawrence",
     "title": "The Big Motown 'N' Soul Nite with Lee St Lawrence",
     "startDate": "2024-06-29",
     "endDate": "2024-06-29",
@@ -2148,9 +2213,9 @@
       "1980s",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite-with-lee-st-lawrence/7024022",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/lee-st-lawrence/7024022",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-04-22T11:52:28+01:00",
+    "lastUpdate": "2024-04-25T15:16:26+01:00",
     "created": "2024-02-20T12:26:06+00:00"
   },
   {
@@ -3392,5 +3457,65 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-03-06T16:24:05+00:00",
     "created": "2024-03-05T07:47:21+00:00"
+  },
+  {
+    "id": "LzGkl8",
+    "headline": "MAETLIVE featuring Craig Halford as Meatloaf",
+    "title": "MAETLIVE featuring Craig Halford as Meatloaf",
+    "startDate": "2024-12-07",
+    "endDate": "2024-12-07",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Z2g8L",
+        "name": "Craig Halford"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-07T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-25T00:00:00+01:00",
+        "onSaleUntil": "2024-12-08T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFldGxpdmUtZmVhdC1jcmFpZy1oYWxmb3JkLWFzLW1lYXRsb2FmL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMDA0MDUwP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzAwNDA1MA/ticketid/7261454/checksum/cce61b2a46083372ff61991e308eb29f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/maetlive-featuring-craig-halford-as-meatloaf/7091208",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-04-25T09:44:33+01:00",
+    "created": "2024-04-25T06:21:03+00:00"
   }
 ]
