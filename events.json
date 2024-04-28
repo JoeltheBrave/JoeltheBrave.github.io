@@ -1,106 +1,5 @@
 [
   {
-    "id": "Go2pxR",
-    "headline": "Letz Zep",
-    "title": "Zeppelins Resurrection",
-    "startDate": "2024-04-27",
-    "endDate": "2024-04-27",
-    "startTimeString": "7:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Official #1 Tribute to Led Zeppelin",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/444/618/a2060fcd643f52d9debc13144a98aa2d16ae4cfb.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "rzKv",
-        "name": "Letz Zep"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-04-27T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2023-11-27T12:00:00+00:00",
-        "onSaleUntil": "2024-04-28T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGV0ei16ZXAvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI4Mzk0NDU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MjgzOTQ0NQ/ticketid/6924050/checksum/2cd1e98edc28787cb68c84d60634d99a/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal",
-      "tribute",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/letz-zep/6916002",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2024-01-10T14:16:58+00:00",
-    "created": "2023-11-17T14:03:46+00:00"
-  },
-  {
-    "id": "mDR4Xq",
-    "headline": "Ponchartrain",
-    "title": "Saturday Night Live",
-    "startDate": "2024-04-27",
-    "endDate": "2024-04-27",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "It’s a Honky Tonk, Rock’a’Billy, Cajun, Bluesy, Country, Party, Sort of Thing!!!!\nhttps://www.ponchartrain.band/home",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Ponchartrain"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ponchartrain/7042300",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-17T17:25:54+01:00",
-    "created": "2024-03-07T16:02:21+00:00"
-  },
-  {
     "id": "ymW5dB",
     "headline": "The Parcel Of Rogues",
     "title": "Sunday Sessions",
@@ -664,7 +563,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-04-27T04:29:20+01:00",
+    "lastUpdate": "2024-04-28T04:29:19+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
