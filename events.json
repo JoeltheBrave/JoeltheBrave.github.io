@@ -189,8 +189,8 @@
   },
   {
     "id": "GoRdKk",
-    "headline": "Fortunate Sons",
-    "title": "Saturday Night Live",
+    "headline": "The Murphy Morty Band",
+    "title": null,
     "startDate": "2024-05-04",
     "endDate": "2024-05-04",
     "startTimeString": "9:00pm",
@@ -203,9 +203,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": "Free",
-    "description": "Fortunate Sons at The Earl Haig Club Bar\nClassic Rock Combo\nhttps://www.facebook.com/fortunatesonsbanduk",
+    "description": "Live music\nSaturday, May 4th, 2024\nThe Murphy Morty Band at The Earl Haig Club Bar\nFeaturing members...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/7e57d36c-2b57-4e52-8dee-c04d8a3be903.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -215,7 +215,7 @@
     },
     "artists": [
       {
-        "name": "Fortunate Sons"
+        "name": "The Murphy Morty Band"
       }
     ],
     "tickets": [
@@ -231,18 +231,21 @@
         "isResaleTicket": false,
         "onSaleFrom": "2024-04-16T17:22:05+01:00",
         "onSaleUntil": "2024-05-04T23:59:59+01:00",
-        "url": null,
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly9lYXJsaGFpZ2NsdWIud2VlYmx5LmNvbS8/supplier/Miscellaneous/suppliedid/MjIxMjU2/ticketid/7243714/checksum/52dfd0bc9cb014c1e15403819c2843ad/track/true",
         "email": null,
         "telephone": null
       }
     ],
     "genre": [
       "music",
-      "rock"
+      "pop",
+      "rock",
+      "1960s",
+      "1970s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/fortunate-sons/7042302",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-murphy-morty-band/7042302",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-17T16:19:27+01:00",
+    "lastUpdate": "2024-04-30T15:02:53+01:00",
     "created": "2024-03-06T15:29:31+00:00"
   },
   {
@@ -483,7 +486,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-dirt-road-band-with-the-james-oliver-band/6976818",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-04-30T04:29:20+01:00",
+    "lastUpdate": "2024-05-01T04:29:19+01:00",
     "created": "2024-01-15T12:12:40+00:00"
   },
   {
@@ -947,46 +950,6 @@
     "created": "2023-11-27T07:21:52+00:00"
   },
   {
-    "id": "XX0GY0",
-    "headline": "Thin Ice",
-    "title": "Thin Ice",
-    "startDate": "2024-05-18",
-    "endDate": "2024-05-18",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": true,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Thin Ice"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thin-ice/7021118",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-22T14:40:20+01:00",
-    "created": "2024-03-11T14:08:34+00:00"
-  },
-  {
     "id": "742qYG",
     "headline": "Anonymous Iconoclasts ",
     "title": "Anonymous Iconoclasts ",
@@ -1046,6 +1009,46 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-04-26T10:15:39+01:00",
     "created": "2024-04-15T16:14:15+00:00"
+  },
+  {
+    "id": "XX0GY0",
+    "headline": "Thin Ice",
+    "title": "Thin Ice",
+    "startDate": "2024-05-18",
+    "endDate": "2024-05-18",
+    "startTimeString": "9:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": true,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Thin Ice"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thin-ice/7021118",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-04-22T14:40:20+01:00",
+    "created": "2024-03-11T14:08:34+00:00"
   },
   {
     "id": "mDQNwg",
