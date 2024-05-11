@@ -1,49 +1,5 @@
 [
   {
-    "id": "bk5rXz",
-    "headline": "Scotch Corner",
-    "title": "Scotch Corner",
-    "startDate": "2024-05-10",
-    "endDate": "2024-05-10",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Scotch Corner, a dynamic 3 piece band celebrating all that's good in feel-good music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "GeLvr",
-        "name": "Scotch Corner"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7081276",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2024-05-11T00:00:15+01:00",
-    "created": "2024-04-15T16:13:49+00:00"
-  },
-  {
     "id": "pgkAG9",
     "headline": "Rock n Roll Revival",
     "title": "Rock n Roll Revival",
