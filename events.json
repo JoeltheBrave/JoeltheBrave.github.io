@@ -31,24 +31,6 @@
         "name": "Rock n Roll Revival"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-05-11T21:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-16T17:23:58+01:00",
-        "onSaleUntil": "2024-05-11T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rocknroll",
@@ -56,8 +38,8 @@
       "1960s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rock-n-roll-revival/7081278",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2024-04-26T10:15:29+01:00",
+    "fansOnEnts24": 6,
+    "lastUpdate": "2024-05-12T00:00:19+01:00",
     "created": "2024-04-15T16:13:56+00:00"
   },
   {
@@ -92,24 +74,6 @@
         "name": "Palm Tree Antics"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-05-11T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£12.00",
-        "totalPrice": "£12.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-24T09:16:32+01:00",
-        "onSaleUntil": "2024-05-11T23:59:59+01:00",
-        "url": null,
-        "email": "phil.taff@gmail.com",
-        "telephone": " 07949166490"
-      }
-    ],
     "genre": [
       "music",
       "ska",
@@ -119,8 +83,8 @@
       "1980s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics/7089554",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-24T09:16:42+01:00",
+    "fansOnEnts24": 9,
+    "lastUpdate": "2024-05-12T00:00:20+01:00",
     "created": "2024-04-24T08:16:30+00:00"
   },
   {
