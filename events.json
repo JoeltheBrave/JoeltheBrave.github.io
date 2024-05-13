@@ -1,45 +1,5 @@
 [
   {
-    "id": "Wg908m",
-    "headline": "The String Fellows",
-    "title": "The String Fellows",
-    "startDate": "2024-05-12",
-    "endDate": "2024-05-12",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "An exceptionally talented 5 piece jazz and blues band who travel to Ireland each year...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5jav",
-        "name": "The String Fellows"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-string-fellows/7081280",
-    "fansOnEnts24": 6,
-    "lastUpdate": "2024-05-13T00:00:06+01:00",
-    "created": "2024-04-15T16:14:00+00:00"
-  },
-  {
     "id": "74Lakp",
     "headline": "Monday Open Mic Jam Session",
     "title": "Monday Open Mic Jam Session",
