@@ -10,11 +10,6 @@
     "publishedAt": "2024-05-03T09:38:28Z"
   },
   {
-    "title": "Focus: Sylvia",
-    "url": "https://www.youtube.com/watch?v=xiEwQdrC41U",
-    "publishedAt": "2024-04-27T13:37:02Z"
-  },
-  {
     "title": "James, Ash, James & Steve: Somebody's Gonna Get Their Head Kicked In Tonight",
     "url": "https://www.youtube.com/watch?v=Npfefcq4trE",
     "publishedAt": "2024-04-26T15:30:56Z"
@@ -43,6 +38,11 @@
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
+  },
+  {
+    "title": "ReGenesis: Get 'Em Out By Friday",
+    "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
+    "publishedAt": "2024-03-19T18:57:39Z"
   },
   {
     "title": "Maniac Street Preachers: Motorcycle Emptiness",
@@ -95,6 +95,11 @@
     "publishedAt": "2024-01-16T21:04:31Z"
   },
   {
+    "title": "The Soul Miners: Car Wash",
+    "url": "https://www.youtube.com/watch?v=jbmPjY43A6k",
+    "publishedAt": "2024-01-16T21:04:36Z"
+  },
+  {
     "title": "The Jug Band: The Midnight Special",
     "url": "https://www.youtube.com/watch?v=zFn_jcTsa_Y",
     "publishedAt": "2024-01-15T08:33:28Z"
@@ -123,6 +128,11 @@
     "title": "The S'punkles: The S'punkles Are Coming",
     "url": "https://www.youtube.com/watch?v=2K-mj8Ho5Xc",
     "publishedAt": "2023-12-08T17:49:23Z"
+  },
+  {
+    "title": "James Oliver Band: Roxette",
+    "url": "https://www.youtube.com/watch?v=TAuR8BtQ1GQ",
+    "publishedAt": "2023-11-29T13:59:58Z"
   },
   {
     "title": "Palm Tree Antics: Little Wing",
@@ -168,11 +178,6 @@
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
     "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
     "publishedAt": "2023-09-04T11:47:22Z"
-  },
-  {
-    "title": "Outback: Best Of You",
-    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
-    "publishedAt": "2023-09-04T11:47:27Z"
   },
   {
     "title": "Dansette: Take Me To The River",
@@ -245,9 +250,14 @@
     "publishedAt": "2023-05-17T10:48:36Z"
   },
   {
-    "title": "Laurence Kench: Borderline",
-    "url": "https://www.youtube.com/watch?v=15t-IAQbQnk",
-    "publishedAt": "2023-05-15T14:52:46Z"
+    "title": "Bryony Sier: Personal Monster",
+    "url": "https://www.youtube.com/watch?v=ZR7AFlr10kU",
+    "publishedAt": "2023-05-13T12:23:50Z"
+  },
+  {
+    "title": "Sun Dogs: Thank You",
+    "url": "https://www.youtube.com/watch?v=hBlXYZSnX9U",
+    "publishedAt": "2023-05-13T12:24:01Z"
   },
   {
     "title": "Capital City Jazz Orchestra: Blue",
@@ -990,11 +1000,6 @@
     "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
-    "title": "Thin Ice: Dogs",
-    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
-    "publishedAt": "2022-04-15T07:47:00Z"
-  },
-  {
     "title": "Thin Ice: Have A Cigar",
     "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
     "publishedAt": "2022-04-15T07:46:54Z"
@@ -1160,6 +1165,11 @@
     "publishedAt": "2022-02-07T12:55:55Z"
   },
   {
+    "title": "Neil Lockwood and the Blue Lights: The Sky is Crying",
+    "url": "https://www.youtube.com/watch?v=muRNBbS6WN4",
+    "publishedAt": "2022-02-07T12:55:36Z"
+  },
+  {
     "title": "Freshly Cut Grass: People Get Ready",
     "url": "https://www.youtube.com/watch?v=gjO-JQPU-rM",
     "publishedAt": "2022-02-03T11:53:41Z"
@@ -1250,11 +1260,6 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
-    "title": "Roosevelt: Hold on Tight",
-    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
-    "publishedAt": "2021-12-14T11:58:00Z"
-  },
-  {
     "title": "Roosevelt: Heaven's Gate",
     "url": "https://www.youtube.com/watch?v=J8HsIonp-Cs",
     "publishedAt": "2021-12-14T11:56:23Z"
@@ -1288,11 +1293,6 @@
     "title": "The Flares: Brown Sugar",
     "url": "https://www.youtube.com/watch?v=lWF9EBHxro0",
     "publishedAt": "2021-12-02T20:31:20Z"
-  },
-  {
-    "title": "Live Dead '69: Going Down The Road Feeling Bad",
-    "url": "https://www.youtube.com/watch?v=8C2_awgpehk",
-    "publishedAt": "2021-11-30T21:46:46Z"
   },
   {
     "title": "The Flares: Whole Lotta Love (Medley)",
@@ -1365,9 +1365,9 @@
     "publishedAt": "2021-10-10T10:43:13Z"
   },
   {
-    "title": "The Jug Band",
-    "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
-    "publishedAt": "2021-10-01T09:54:25Z"
+    "title": "Moonstorm playing \"You're No Good\"",
+    "url": "https://www.youtube.com/watch?v=zOSK9dUUL6A",
+    "publishedAt": "2021-10-01T10:00:47Z"
   },
   {
     "title": "The Heavy Quartet: Which Dreamt It?",
@@ -1483,6 +1483,21 @@
     "title": "A Couple of Bob and Gong - Whipping Post",
     "url": "https://www.youtube.com/watch?v=OD4ghCPo-OE",
     "publishedAt": "2019-01-29T09:23:48Z"
+  },
+  {
+    "title": "Unboxing The Tangent Proxy CD",
+    "url": "https://www.youtube.com/watch?v=VGnv1T6TXLE",
+    "publishedAt": "2018-11-22T16:35:47Z"
+  },
+  {
+    "title": "Focus Live at the Earl Haig Club Cardiff",
+    "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
+    "publishedAt": "2018-09-11T18:38:36Z"
+  },
+  {
+    "title": "The Marc Davies Band: Ball & Chain",
+    "url": "https://www.youtube.com/watch?v=_wf1eom1yxM",
+    "publishedAt": "2018-07-21T10:35:10Z"
   },
   {
     "title": "Unboxing The Tangent Proxy CD",
@@ -1625,6 +1640,11 @@
     "publishedAt": "2016-01-07T12:48:27Z"
   },
   {
+    "title": "Esbjörn Svensson Trio - The Wraith",
+    "url": "https://www.youtube.com/watch?v=vbE6XEdFkMw",
+    "publishedAt": "2015-12-31T13:17:52Z"
+  },
+  {
     "title": "Dave Brubeck: Take 5 performed in 1972 - HQ Stereo Sound",
     "url": "https://www.youtube.com/watch?v=1tbSyrmXo60",
     "publishedAt": "2015-12-21T16:35:58Z"
@@ -1725,24 +1745,9 @@
     "publishedAt": "2014-12-21T15:08:36Z"
   },
   {
-    "title": "The Kenny Driscoll Band Drum Quiz",
-    "url": "https://www.youtube.com/watch?v=jfJO76f5qL4",
-    "publishedAt": "2014-12-09T14:53:17Z"
-  },
-  {
-    "title": "drumsmixingdesk",
-    "url": "https://www.youtube.com/watch?v=vMEnw7RgRmk",
-    "publishedAt": "2014-11-20T12:01:02Z"
-  },
-  {
-    "title": "Steve Roberts The Bells - Version 2",
-    "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
-    "publishedAt": "2014-10-24T11:29:51Z"
-  },
-  {
-    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
-    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
-    "publishedAt": "2014-10-19T16:59:37Z"
+    "title": "The Kenny Driscoll Band in the recording studio.",
+    "url": "https://www.youtube.com/watch?v=Y2TA3uhemfw",
+    "publishedAt": "2014-12-21T15:08:36Z"
   },
   {
     "title": "The Kenny Driscoll Band Drum Quiz",
@@ -1783,6 +1788,11 @@
     "title": "Magenta - Pearl",
     "url": "https://www.youtube.com/watch?v=zxIXXi4CZRc",
     "publishedAt": "2014-10-02T09:50:07Z"
+  },
+  {
+    "title": "Magenta - Demons",
+    "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
+    "publishedAt": "2014-10-02T09:49:44Z"
   },
   {
     "title": "Magenta - The White Witch",
@@ -1992,6 +2002,16 @@
   {
     "title": "All Or Nothing - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Whole Lotta Rosie - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Strange Brew - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
