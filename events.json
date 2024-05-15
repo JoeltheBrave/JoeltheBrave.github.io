@@ -1,39 +1,5 @@
 [
   {
-    "id": "kDEyZL",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
-    "startDate": "2024-05-14",
-    "endDate": "2024-05-14",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": "Free",
-    "description": "Rockers Reunion\nThe Rockers Reunion night (or should that be The Old Cardiff Rockers Reunion ?)...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7081282",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2024-05-15T00:00:01+01:00",
-    "created": "2024-04-15T16:14:06+00:00"
-  },
-  {
     "id": "dDoPne",
     "headline": "The S'punkles",
     "title": "The S'punkles",
