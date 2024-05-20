@@ -1,40 +1,5 @@
 [
   {
-    "id": "mDQNwg",
-    "headline": "Roosevelt_Cardiff",
-    "title": "Roosevelt_Cardiff",
-    "startDate": "2024-05-19",
-    "endDate": "2024-05-19",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Five piece guitar oriented rock band - play original music plus some great covers by...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bb32cb65-d447-498c-8975-597cca215624.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music",
-      "country"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rooseveltcardiff/7081288",
-    "fansOnEnts24": 4,
-    "lastUpdate": "2024-05-20T00:00:06+01:00",
-    "created": "2024-04-15T16:14:21+00:00"
-  },
-  {
     "id": "GoWwl0",
     "headline": "Monday Night Open Mic / Jam Session",
     "title": "Monday Night Open Mic / Jam Session",
