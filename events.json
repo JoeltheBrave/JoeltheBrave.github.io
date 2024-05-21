@@ -31,24 +31,6 @@
         "name": "James Oliver Band"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-05-20T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-15T17:14:25+01:00",
-        "onSaleUntil": "2024-05-20T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "blues",
@@ -56,7 +38,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-jam-session/7081290",
     "fansOnEnts24": 6,
-    "lastUpdate": "2024-04-19T07:35:13+01:00",
+    "lastUpdate": "2024-05-21T00:00:01+01:00",
     "created": "2024-04-15T16:14:25+00:00"
   },
   {
@@ -3783,5 +3765,68 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2024-05-10T07:18:24+01:00",
     "created": "2024-04-25T06:21:03+00:00"
+  },
+  {
+    "id": "nKWxwZ",
+    "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi..POSTPONED",
+    "title": "The World's Premier Bon Jovi Tribute: Bon Giovi..POSTPONED",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-15",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": ".POSTPONED\n",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/282/809/a71db2cf1b8d340f6ec5971ece621fefbde146d3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "A9W",
+        "name": "The World's Premier Bon Jovi Tribute: Bon Giovi"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-02-15T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£21.25",
+        "totalPrice": "£21.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2023-11-27T00:00:00+00:00",
+        "onSaleUntil": "2025-02-16T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYm9uLWdpb3ZpL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8yODM5MDk4P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MjgzOTA5OA/ticketid/6922388/checksum/20d8534ef9b91ce55fd01fb396b9bd52/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute",
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worlds-premier-bon-jovi-tribute-bon-giovipostponed/7115916",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-05-20T09:06:10+01:00",
+    "created": "2023-11-27T07:21:52+00:00"
   }
 ]
