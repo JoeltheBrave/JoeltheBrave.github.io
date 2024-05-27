@@ -31,24 +31,6 @@
         "name": "Tumbling Dice"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-05-26T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-15T17:14:57+01:00",
-        "onSaleUntil": "2024-05-26T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -59,7 +41,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tumbling-dice/7081306",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-14T16:27:32+01:00",
+    "lastUpdate": "2024-05-27T00:00:06+01:00",
     "created": "2024-04-15T16:14:57+00:00"
   },
   {
