@@ -15,7 +15,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Semantics at The Earl Haig Club\nSaturday June 1st 2024 at 9pm",
+    "description": "The Semantics at The Earl Haig Club\nSaturday, June 1st 2024 at 9 pm\nThis event is...",
     "image": {
       "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -56,7 +56,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7109204",
     "fansOnEnts24": 4,
-    "lastUpdate": "2024-05-28T03:45:50+01:00",
+    "lastUpdate": "2024-05-28T15:31:12+01:00",
     "created": "2024-05-13T16:02:44+00:00"
   },
   {
@@ -185,7 +185,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sun-dogs/7109216",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-05-28T03:47:00+01:00",
+    "lastUpdate": "2024-05-28T15:31:42+01:00",
     "created": "2024-05-14T07:47:50+00:00"
   },
   {
@@ -360,7 +360,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/marc-davies-band/7109230",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-05-28T03:49:14+01:00",
+    "lastUpdate": "2024-05-28T15:31:44+01:00",
     "created": "2024-05-14T08:01:33+00:00"
   },
   {
@@ -421,8 +421,8 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sand-boys/7109234",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-16T15:03:25+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-05-28T15:31:46+01:00",
     "created": "2024-05-14T08:01:40+00:00"
   },
   {
@@ -539,7 +539,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mark-pontin/7109244",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-05-28T03:50:50+01:00",
+    "lastUpdate": "2024-05-28T15:32:14+01:00",
     "created": "2024-05-14T07:48:22+00:00"
   },
   {
@@ -591,7 +591,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7109278",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-05-28T03:52:08+01:00",
+    "lastUpdate": "2024-05-28T15:32:18+01:00",
     "created": "2024-05-14T07:48:26+00:00"
   },
   {
@@ -791,7 +791,7 @@
     "price": null,
     "description": "Classic Hard Rock Band.\nThese guys went down a treat last time they played, Classic &...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/d44b80db-3c60-4958-94fc-203deeefc8d8.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -830,8 +830,8 @@
       "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/firewater/7110416",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-16T14:41:33+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-05-28T15:32:26+01:00",
     "created": "2024-05-15T08:53:50+00:00"
   },
   {
@@ -852,7 +852,7 @@
     "price": null,
     "description": "Jo Hoskins & Lucy Flowers Birthday Jam Session Bash .. \nHey everyone! You're invited to...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/6cf4d078-1f36-4fb9-9be6-1bdb2e86ed30.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -888,7 +888,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-jam-session-special-event/7110418",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-16T15:03:33+01:00",
+    "lastUpdate": "2024-05-28T15:32:24+01:00",
     "created": "2024-05-15T08:54:07+00:00"
   },
   {
@@ -946,7 +946,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic/7110420",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-28T03:54:40+01:00",
+    "lastUpdate": "2024-05-28T15:32:28+01:00",
     "created": "2024-05-15T08:54:19+00:00"
   },
   {
@@ -1081,7 +1081,7 @@
     "price": "Free",
     "description": "Unique 3 part girl harmony and accomplished band performing swing, R&R, R&B and original songs",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/630753d0-b290-4b96-b42e-279580742438.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1109,7 +1109,7 @@
         "onSaleFrom": "2024-04-15T17:14:39+01:00",
         "onSaleUntil": "2024-06-22T23:59:59+01:00",
         "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly9lYXJsaGFpZ2NsdWIud2VlYmx5LmNvbS8/supplier/Miscellaneous/suppliedid/MjIxMTM0/ticketid/7241078/checksum/1c4faed9a92d780fd54748a6d586ede0/track/true",
-        "email": null,
+        "email": "contact@earlhaigclub.com",
         "telephone": null
       }
     ],
@@ -1124,7 +1124,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-blues-sisters/7081294",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-16T15:18:15+01:00",
+    "lastUpdate": "2024-05-28T15:24:12+01:00",
     "created": "2024-04-15T16:14:39+00:00"
   },
   {
@@ -1244,7 +1244,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7110424",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-16T15:07:15+01:00",
+    "lastUpdate": "2024-05-28T15:32:22+01:00",
     "created": "2024-05-14T15:27:01+00:00"
   },
   {
@@ -1664,7 +1664,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pearls/7110482",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-15T10:07:18+01:00",
+    "lastUpdate": "2024-05-28T15:32:30+01:00",
     "created": "2024-05-15T08:54:41+00:00"
   },
   {
