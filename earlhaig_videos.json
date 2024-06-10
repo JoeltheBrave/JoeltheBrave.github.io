@@ -40,6 +40,11 @@
     "publishedAt": "2024-03-25T17:46:25Z"
   },
   {
+    "title": "Jedis: Itchycoo Park",
+    "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
+    "publishedAt": "2024-03-23T09:15:51Z"
+  },
+  {
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
@@ -170,19 +175,9 @@
     "publishedAt": "2023-10-05T21:14:55Z"
   },
   {
-    "title": "Sweatbox: Bark, Joey in Third Gear and Loose Cannon",
-    "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
-    "publishedAt": "2023-09-29T15:23:23Z"
-  },
-  {
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
     "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
     "publishedAt": "2023-09-04T11:47:22Z"
-  },
-  {
-    "title": "Outback: Best Of You",
-    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
-    "publishedAt": "2023-09-04T11:47:27Z"
   },
   {
     "title": "Dansette: Take Me To The River",
@@ -193,6 +188,11 @@
     "title": "Stone Free: Live at The Point June 2003",
     "url": "https://www.youtube.com/watch?v=LLyOAC9oNDM",
     "publishedAt": "2023-08-11T09:11:05Z"
+  },
+  {
+    "title": "Dizzy Lizzy: The Boys Are Back In Town",
+    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
+    "publishedAt": "2023-07-28T17:00:54Z"
   },
   {
     "title": "Revolver: Let there Be Rock",
@@ -500,21 +500,6 @@
     "publishedAt": "2022-12-02T09:57:03Z"
   },
   {
-    "title": "The Worried Men: Nova",
-    "url": "https://www.youtube.com/watch?v=6H9sNBBX0GY",
-    "publishedAt": "2022-12-02T09:57:03Z"
-  },
-  {
-    "title": "The S'punkles: The Harper & Walk On The Wild Side",
-    "url": "https://www.youtube.com/watch?v=OMY6oZoqs9w",
-    "publishedAt": "2022-11-25T09:25:40Z"
-  },
-  {
-    "title": "The S'punkles: Babylon's Burning",
-    "url": "https://www.youtube.com/watch?v=w97U9JVSIt8",
-    "publishedAt": "2022-11-25T09:25:35Z"
-  },
-  {
     "title": "Outback: Go Your Own Way",
     "url": "https://www.youtube.com/watch?v=226wS1VnQQI",
     "publishedAt": "2022-11-24T09:46:18Z"
@@ -745,9 +730,24 @@
     "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "publishedAt": "2022-08-28T11:07:15Z"
+  },
+  {
     "title": "Bluesfire Blues Band: So Many Roads",
     "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
     "publishedAt": "2022-08-22T17:51:21Z"
+  },
+  {
+    "title": "The Fugitives: SWLABR",
+    "url": "https://www.youtube.com/watch?v=5Fhq0aSck7A",
+    "publishedAt": "2022-08-21T10:01:30Z"
+  },
+  {
+    "title": "The Fugitives: Gary's Drum Solo",
+    "url": "https://www.youtube.com/watch?v=QXlNMAf7y8M",
+    "publishedAt": "2022-08-20T17:08:02Z"
   },
   {
     "title": "The Fugitives: Gary's Drum Solo",
@@ -1000,11 +1000,6 @@
     "publishedAt": "2022-04-15T07:46:54Z"
   },
   {
-    "title": "Kerosene Lane: War Pigs",
-    "url": "https://www.youtube.com/watch?v=_hEYvD_yOZA",
-    "publishedAt": "2022-04-12T18:32:46Z"
-  },
-  {
     "title": "Capital City Jazz Orchestra: La Fiesta",
     "url": "https://www.youtube.com/watch?v=p99R1ZU2Wmc",
     "publishedAt": "2022-04-08T13:48:43Z"
@@ -1255,11 +1250,6 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
-    "title": "Roosevelt: Hold on Tight",
-    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
-    "publishedAt": "2021-12-14T11:58:00Z"
-  },
-  {
     "title": "Roosevelt: Heaven's Gate",
     "url": "https://www.youtube.com/watch?v=J8HsIonp-Cs",
     "publishedAt": "2021-12-14T11:56:23Z"
@@ -1385,6 +1375,11 @@
     "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
+    "title": "Neil Lockwood - Rock Me Baby",
+    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
+    "publishedAt": "2020-05-22T22:30:03Z"
+  },
+  {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
     "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
     "publishedAt": "2020-05-06T23:03:51Z"
@@ -1460,11 +1455,6 @@
     "publishedAt": "2019-04-25T09:14:37Z"
   },
   {
-    "title": "Bluesters - Riders on the Storm",
-    "url": "https://www.youtube.com/watch?v=4pObOVzC4uI",
-    "publishedAt": "2019-03-30T16:42:27Z"
-  },
-  {
     "title": "Kerosene Lane - Day of the Eagle",
     "url": "https://www.youtube.com/watch?v=TUhMAK7-nh0",
     "publishedAt": "2019-03-17T00:53:22Z"
@@ -1488,16 +1478,6 @@
     "title": "Focus Live at the Earl Haig Club Cardiff",
     "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
     "publishedAt": "2018-09-11T18:38:36Z"
-  },
-  {
-    "title": "The Marc Davies Band: Ball & Chain",
-    "url": "https://www.youtube.com/watch?v=_wf1eom1yxM",
-    "publishedAt": "2018-07-21T10:35:10Z"
-  },
-  {
-    "title": "Pearl Jam: Even Flow - Live at the O2 17 July 2018",
-    "url": "https://www.youtube.com/watch?v=ZFSafQdiSwc",
-    "publishedAt": "2018-07-19T12:58:18Z"
   },
   {
     "title": "The Marc Davies Band: Ball & Chain",
@@ -1568,6 +1548,11 @@
     "title": "Nut Crack Boogie",
     "url": "https://www.youtube.com/watch?v=dtF8LMVninU",
     "publishedAt": "2017-08-03T00:32:55Z"
+  },
+  {
+    "title": "Stuart Bartley - Reelin' and a Rockin' at Miss Jones Live Jam",
+    "url": "https://www.youtube.com/watch?v=wbwp_Fs_dAc",
+    "publishedAt": "2017-06-23T23:25:31Z"
   },
   {
     "title": "The Kenny Driscoll Band - Runnin' Down A Dream",
@@ -1745,6 +1730,26 @@
     "publishedAt": "2014-10-24T11:29:51Z"
   },
   {
+    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
+    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
+    "publishedAt": "2014-10-19T16:59:37Z"
+  },
+  {
+    "title": "It's a circle",
+    "url": "https://www.youtube.com/watch?v=wdhmFVV5hlA",
+    "publishedAt": "2014-10-07T12:22:09Z"
+  },
+  {
+    "title": "Tin Spirits - Little Eyes",
+    "url": "https://www.youtube.com/watch?v=YsjMaPep3jk",
+    "publishedAt": "2014-10-04T19:58:50Z"
+  },
+  {
+    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
+    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
+    "publishedAt": "2014-10-19T16:59:37Z"
+  },
+  {
     "title": "It's a circle",
     "url": "https://www.youtube.com/watch?v=wdhmFVV5hlA",
     "publishedAt": "2014-10-07T12:22:09Z"
@@ -1783,6 +1788,11 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
+  },
+  {
+    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
+    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1865,11 +1875,6 @@
     "publishedAt": "2014-07-21T07:12:51Z"
   },
   {
-    "title": "Paint It Black - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=Sqf7QDtx9Fw",
-    "publishedAt": "2014-07-21T07:12:51Z"
-  },
-  {
     "title": "Honky Tonk Woman - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=WVF0wqGuaY0",
     "publishedAt": "2014-07-21T07:12:51Z"
@@ -1900,8 +1905,8 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
-    "title": "The Middle - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=9ptvaBGPqlg",
+    "title": "Hard To Handle - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
     "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
@@ -1990,8 +1995,18 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
+    "title": "Strange Brew - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
     "title": "Cocaine - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "The Thrill Is Gone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
     "publishedAt": "2014-07-16T08:27:54Z"
   },
   {
@@ -2008,6 +2023,11 @@
     "title": "Riding Along In My Automobile and Route 66 - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=y3cm3qoC9gk",
     "publishedAt": "2014-07-15T16:48:35Z"
+  },
+  {
+    "title": "Red House - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=zd7NCLS5vt0",
+    "publishedAt": "2014-07-15T16:49:00Z"
   },
   {
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
@@ -2098,6 +2118,11 @@
     "title": "The Sneakers with Micky Gee Newport gig - 2",
     "url": "https://www.youtube.com/watch?v=RR2hoDkhf_0",
     "publishedAt": "2012-02-24T19:34:19Z"
+  },
+  {
+    "title": "The Sneakers with Micky Gee Newport gig - 1",
+    "url": "https://www.youtube.com/watch?v=ZAs04U2yp1M",
+    "publishedAt": "2012-02-24T19:30:58Z"
   },
   {
     "title": "Micky Gee with The Sneakers - How Long She Been Gone?",
