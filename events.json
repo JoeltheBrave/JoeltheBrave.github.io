@@ -1342,8 +1342,8 @@
   },
   {
     "id": "Wg5P8Z",
-    "headline": "Stone Free",
-    "title": "Sunday Special",
+    "headline": "Expecting Company",
+    "title": "Expecting Company",
     "startDate": "2024-07-14",
     "endDate": "2024-07-14",
     "startTimeString": "5:00pm",
@@ -1356,9 +1356,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": "£3 on the door",
-    "description": "The Earl Haig is hosting a rare and special performance by the Cardiff-based band, Stonefree....",
+    "description": "\"Expecting Company at The Earl Haig Club Concert Room.\nDoors open at 5pm.\nBand starts at 6pm.\n\nDon't...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/498/558/c594cb7931cc0dacbc42d0623ca0e740e18a6be3.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/5cb1c926-f180-4e39-a2e5-e7ef0b1178eb.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1368,7 +1368,8 @@
     },
     "artists": [
       {
-        "name": "Stone Free"
+        "id": "q5aPD",
+        "name": "Expecting Company"
       }
     ],
     "tickets": [
@@ -1391,11 +1392,12 @@
     ],
     "genre": [
       "music",
-      "rock"
+      "rock",
+      "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stone-free/7042580",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-04-16T17:27:28+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7042580",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-06-10T17:20:27+01:00",
     "created": "2024-03-06T18:30:51+00:00"
   },
   {
