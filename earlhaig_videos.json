@@ -40,11 +40,6 @@
     "publishedAt": "2024-03-25T17:46:25Z"
   },
   {
-    "title": "Jedis: Itchycoo Park",
-    "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
-    "publishedAt": "2024-03-23T09:15:51Z"
-  },
-  {
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
@@ -93,6 +88,11 @@
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
+  },
+  {
+    "title": "Five Points Gang: Let's Stay Together",
+    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
+    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -175,6 +175,11 @@
     "publishedAt": "2023-10-05T21:14:55Z"
   },
   {
+    "title": "Sweatbox: Bark, Joey in Third Gear and Loose Cannon",
+    "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
+    "publishedAt": "2023-09-29T15:23:23Z"
+  },
+  {
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
     "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
     "publishedAt": "2023-09-04T11:47:22Z"
@@ -195,6 +200,11 @@
     "publishedAt": "2023-07-28T17:00:54Z"
   },
   {
+    "title": "Treacherous Cretins: Magic Fingers & Peaches En Regalia",
+    "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
+    "publishedAt": "2023-07-18T13:58:08Z"
+  },
+  {
     "title": "Revolver: Let there Be Rock",
     "url": "https://www.youtube.com/watch?v=8rAlR3PtgRc",
     "publishedAt": "2023-07-17T15:35:40Z"
@@ -213,11 +223,6 @@
     "title": "John Otway & Wild Willy Barrett: Really Free",
     "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
     "publishedAt": "2023-07-12T13:07:15Z"
-  },
-  {
-    "title": "The Sandboys: Sell Out",
-    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
-    "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
     "title": "Stone Free: Live at the Point, Cardiff.",
@@ -245,9 +250,9 @@
     "publishedAt": "2023-05-15T14:52:46Z"
   },
   {
-    "title": "Bryony Sier: Personal Monster",
-    "url": "https://www.youtube.com/watch?v=ZR7AFlr10kU",
-    "publishedAt": "2023-05-13T12:23:50Z"
+    "title": "Laurence Kench: Borderline",
+    "url": "https://www.youtube.com/watch?v=15t-IAQbQnk",
+    "publishedAt": "2023-05-15T14:52:46Z"
   },
   {
     "title": "Bryony Sier: Personal Monster",
@@ -500,6 +505,16 @@
     "publishedAt": "2022-12-02T09:57:03Z"
   },
   {
+    "title": "The S'punkles: The Harper & Walk On The Wild Side",
+    "url": "https://www.youtube.com/watch?v=OMY6oZoqs9w",
+    "publishedAt": "2022-11-25T09:25:40Z"
+  },
+  {
+    "title": "The S'punkles: Babylon's Burning",
+    "url": "https://www.youtube.com/watch?v=w97U9JVSIt8",
+    "publishedAt": "2022-11-25T09:25:35Z"
+  },
+  {
     "title": "Outback: Go Your Own Way",
     "url": "https://www.youtube.com/watch?v=226wS1VnQQI",
     "publishedAt": "2022-11-24T09:46:18Z"
@@ -630,6 +645,11 @@
     "publishedAt": "2022-10-17T10:27:38Z"
   },
   {
+    "title": "Letz Zep: Since I Been Loving You",
+    "url": "https://www.youtube.com/watch?v=vNStz3pgEDk",
+    "publishedAt": "2022-10-15T18:41:52Z"
+  },
+  {
     "title": "Roosevelt: Thanks for the Giving",
     "url": "https://www.youtube.com/watch?v=IDUHVtqG5N8",
     "publishedAt": "2022-10-15T18:39:40Z"
@@ -730,11 +750,6 @@
     "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
-    "title": "A Parcel of Rogues: Part of the Union",
-    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
-    "publishedAt": "2022-08-28T11:07:15Z"
-  },
-  {
     "title": "Bluesfire Blues Band: So Many Roads",
     "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
     "publishedAt": "2022-08-22T17:51:21Z"
@@ -743,11 +758,6 @@
     "title": "The Fugitives: SWLABR",
     "url": "https://www.youtube.com/watch?v=5Fhq0aSck7A",
     "publishedAt": "2022-08-21T10:01:30Z"
-  },
-  {
-    "title": "The Fugitives: Gary's Drum Solo",
-    "url": "https://www.youtube.com/watch?v=QXlNMAf7y8M",
-    "publishedAt": "2022-08-20T17:08:02Z"
   },
   {
     "title": "The Fugitives: Gary's Drum Solo",
@@ -990,14 +1000,14 @@
     "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
-    "title": "Thin Ice: Dogs",
-    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
-    "publishedAt": "2022-04-15T07:47:00Z"
-  },
-  {
     "title": "Thin Ice: Have A Cigar",
     "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
     "publishedAt": "2022-04-15T07:46:54Z"
+  },
+  {
+    "title": "Kerosene Lane: War Pigs",
+    "url": "https://www.youtube.com/watch?v=_hEYvD_yOZA",
+    "publishedAt": "2022-04-12T18:32:46Z"
   },
   {
     "title": "Capital City Jazz Orchestra: La Fiesta",
@@ -1250,6 +1260,11 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
+    "title": "Roosevelt: Hold on Tight",
+    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
+    "publishedAt": "2021-12-14T11:58:00Z"
+  },
+  {
     "title": "Roosevelt: Heaven's Gate",
     "url": "https://www.youtube.com/watch?v=J8HsIonp-Cs",
     "publishedAt": "2021-12-14T11:56:23Z"
@@ -1365,6 +1380,11 @@
     "publishedAt": "2021-10-01T10:00:47Z"
   },
   {
+    "title": "The Jug Band",
+    "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
+    "publishedAt": "2021-10-01T09:54:25Z"
+  },
+  {
     "title": "The Heavy Quartet: Which Dreamt It?",
     "url": "https://www.youtube.com/watch?v=LYxSV_5H-do",
     "publishedAt": "2020-10-18T00:07:47Z"
@@ -1375,14 +1395,14 @@
     "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
-    "title": "Neil Lockwood - Rock Me Baby",
-    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
-    "publishedAt": "2020-05-22T22:30:03Z"
-  },
-  {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
     "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
     "publishedAt": "2020-05-06T23:03:51Z"
+  },
+  {
+    "title": "Bob, Mugsy and Bob",
+    "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
+    "publishedAt": "2020-02-21T20:16:40Z"
   },
   {
     "title": "Disco Wonderland - Band unknown to me",
@@ -1745,21 +1765,6 @@
     "publishedAt": "2014-10-04T19:58:50Z"
   },
   {
-    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
-    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
-    "publishedAt": "2014-10-19T16:59:37Z"
-  },
-  {
-    "title": "It's a circle",
-    "url": "https://www.youtube.com/watch?v=wdhmFVV5hlA",
-    "publishedAt": "2014-10-07T12:22:09Z"
-  },
-  {
-    "title": "Tin Spirits - Little Eyes",
-    "url": "https://www.youtube.com/watch?v=YsjMaPep3jk",
-    "publishedAt": "2014-10-04T19:58:50Z"
-  },
-  {
     "title": "Tin Spirits - Red",
     "url": "https://www.youtube.com/watch?v=3M-RQ8E5sww",
     "publishedAt": "2014-10-04T19:59:19Z"
@@ -1773,6 +1778,11 @@
     "title": "Magenta - Demons",
     "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
     "publishedAt": "2014-10-02T09:49:44Z"
+  },
+  {
+    "title": "Magenta - Anger",
+    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
+    "publishedAt": "2014-10-01T20:41:40Z"
   },
   {
     "title": "Magenta - The White Witch",
@@ -1875,6 +1885,11 @@
     "publishedAt": "2014-07-21T07:12:51Z"
   },
   {
+    "title": "Paint It Black - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=Sqf7QDtx9Fw",
+    "publishedAt": "2014-07-21T07:12:51Z"
+  },
+  {
     "title": "Honky Tonk Woman - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=WVF0wqGuaY0",
     "publishedAt": "2014-07-21T07:12:51Z"
@@ -1907,6 +1922,11 @@
   {
     "title": "Hard To Handle - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
+    "publishedAt": "2014-07-20T22:33:30Z"
+  },
+  {
+    "title": "The Middle - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=9ptvaBGPqlg",
     "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
@@ -1995,11 +2015,6 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
-    "title": "Strange Brew - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
     "title": "Cocaine - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
     "publishedAt": "2014-07-16T08:27:54Z"
@@ -2023,11 +2038,6 @@
     "title": "Riding Along In My Automobile and Route 66 - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=y3cm3qoC9gk",
     "publishedAt": "2014-07-15T16:48:35Z"
-  },
-  {
-    "title": "Red House - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=zd7NCLS5vt0",
-    "publishedAt": "2014-07-15T16:49:00Z"
   },
   {
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
