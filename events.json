@@ -2996,6 +2996,68 @@
     "created": "2024-06-18T11:18:35+00:00"
   },
   {
+    "id": "dDo4rw",
+    "headline": "The Brew - A Tribute to Bad Manners",
+    "title": null,
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-25",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "baArz",
+        "name": "The Brew - A Tribute to Bad Manners"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-10-25T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£18.00",
+        "totalPrice": "£18.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-06-18T00:00:00+01:00",
+        "onSaleUntil": "2024-10-26T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLWJyZXctYS10cmlidXRlLXRvLWJhZC1tYW5uZXJzL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMDc4MzM1P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzA3ODMzNQ/ticketid/7353778/checksum/47db0f62554e215ca3d820c438e9995f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "ska",
+      "reggae",
+      "tribute",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-brew-a-tribute-to-bad-manners/7144094",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-06-21T20:05:20+01:00",
+    "created": "2024-06-18T11:18:35+00:00"
+  },
+  {
     "id": "GoRmjy",
     "headline": "Jim Jones Allstars",
     "title": "Jim Jones Allstars",
