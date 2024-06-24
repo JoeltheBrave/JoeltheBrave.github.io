@@ -10,11 +10,6 @@
     "publishedAt": "2024-06-18T18:43:29Z"
   },
   {
-    "title": "Deadedz: Shakedown Street",
-    "url": "https://www.youtube.com/watch?v=TiJbOP5shU4",
-    "publishedAt": "2024-06-05T03:35:32Z"
-  },
-  {
     "title": "ReGenesis: The Musical Box",
     "url": "https://www.youtube.com/watch?v=TfXD1VQbq_c",
     "publishedAt": "2024-05-10T18:49:18Z"
@@ -48,6 +43,11 @@
     "title": "ReGenesis: Supper's Ready",
     "url": "https://www.youtube.com/watch?v=c6Q4dbknDnE",
     "publishedAt": "2024-03-25T17:46:25Z"
+  },
+  {
+    "title": "Jedis: Itchycoo Park",
+    "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
+    "publishedAt": "2024-03-23T09:15:51Z"
   },
   {
     "title": "Stereoironics: The Bartender and the Thief",
@@ -98,11 +98,6 @@
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
-  },
-  {
-    "title": "Five Points Gang: Let's Stay Together",
-    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
-    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -165,6 +160,11 @@
     "publishedAt": "2023-11-02T10:45:17Z"
   },
   {
+    "title": "ReGenesis: Firth of Fifth",
+    "url": "https://www.youtube.com/watch?v=eCe3fuz9X6Y",
+    "publishedAt": "2023-10-23T18:35:52Z"
+  },
+  {
     "title": "The Bluesters: Messy Bessie",
     "url": "https://www.youtube.com/watch?v=d_aG14OdkFE",
     "publishedAt": "2023-10-16T11:28:38Z"
@@ -180,14 +180,9 @@
     "publishedAt": "2023-10-05T21:14:55Z"
   },
   {
-    "title": "Sweatbox: Bark, Joey in Third Gear and Loose Cannon",
-    "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
-    "publishedAt": "2023-09-29T15:23:23Z"
-  },
-  {
-    "title": "The Blues Sisters: Lipstick, Powder and Paint",
-    "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
-    "publishedAt": "2023-09-04T11:47:22Z"
+    "title": "Outback: Best Of You",
+    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
+    "publishedAt": "2023-09-04T11:47:27Z"
   },
   {
     "title": "Dansette: Take Me To The River",
@@ -248,6 +243,16 @@
     "title": "Laurence Kench: Borderline",
     "url": "https://www.youtube.com/watch?v=15t-IAQbQnk",
     "publishedAt": "2023-05-15T14:52:46Z"
+  },
+  {
+    "title": "Bryony Sier: Personal Monster",
+    "url": "https://www.youtube.com/watch?v=ZR7AFlr10kU",
+    "publishedAt": "2023-05-13T12:23:50Z"
+  },
+  {
+    "title": "Sun Dogs: Thank You",
+    "url": "https://www.youtube.com/watch?v=hBlXYZSnX9U",
+    "publishedAt": "2023-05-13T12:24:01Z"
   },
   {
     "title": "Capital City Jazz Orchestra: Blue",
@@ -500,11 +505,6 @@
     "publishedAt": "2022-11-25T09:25:35Z"
   },
   {
-    "title": "The S'punkles: Babylon's Burning",
-    "url": "https://www.youtube.com/watch?v=w97U9JVSIt8",
-    "publishedAt": "2022-11-25T09:25:35Z"
-  },
-  {
     "title": "Outback: Go Your Own Way",
     "url": "https://www.youtube.com/watch?v=226wS1VnQQI",
     "publishedAt": "2022-11-24T09:46:18Z"
@@ -750,6 +750,11 @@
     "publishedAt": "2022-08-22T17:51:21Z"
   },
   {
+    "title": "Bluesfire Blues Band: So Many Roads",
+    "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
+    "publishedAt": "2022-08-22T17:51:21Z"
+  },
+  {
     "title": "The Fugitives: SWLABR",
     "url": "https://www.youtube.com/watch?v=5Fhq0aSck7A",
     "publishedAt": "2022-08-21T10:01:30Z"
@@ -838,6 +843,11 @@
     "title": "Sassafras: Moonshine",
     "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
     "publishedAt": "2022-06-26T10:21:08Z"
+  },
+  {
+    "title": "Sassafras: I Am The Walrus",
+    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
+    "publishedAt": "2022-06-26T10:21:03Z"
   },
   {
     "title": "Son Of Man: Call Down The Moon",
@@ -990,21 +1000,6 @@
     "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
-    "title": "Thin Ice: Dogs",
-    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
-    "publishedAt": "2022-04-15T07:47:00Z"
-  },
-  {
-    "title": "Thin Ice: Have A Cigar",
-    "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
-    "publishedAt": "2022-04-15T07:46:54Z"
-  },
-  {
-    "title": "Thin Ice: Have A Cigar",
-    "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
-    "publishedAt": "2022-04-15T07:46:54Z"
-  },
-  {
     "title": "Kerosene Lane: War Pigs",
     "url": "https://www.youtube.com/watch?v=_hEYvD_yOZA",
     "publishedAt": "2022-04-12T18:32:46Z"
@@ -1078,11 +1073,6 @@
     "title": "Albino Frogs: Simply Love Somebody",
     "url": "https://www.youtube.com/watch?v=kthLQuFeQww",
     "publishedAt": "2022-03-13T12:40:44Z"
-  },
-  {
-    "title": "Time-lapse Snow 1st March 2018 - 4th March 2018",
-    "url": "https://www.youtube.com/watch?v=EsnhsCWRB8M",
-    "publishedAt": "2022-03-01T10:30:30Z"
   },
   {
     "title": "Freshly Cut Grass: Let Me Roll It",
@@ -1248,6 +1238,21 @@
     "title": "Moonstorm: Learning To Fly",
     "url": "https://www.youtube.com/watch?v=MVktqJjRv38",
     "publishedAt": "2022-01-01T00:38:25Z"
+  },
+  {
+    "title": "The Fugitives: You Don't Love Me",
+    "url": "https://www.youtube.com/watch?v=BmihpYBam6I",
+    "publishedAt": "2021-12-22T14:24:11Z"
+  },
+  {
+    "title": "The Fugitives: Little Red Rooster",
+    "url": "https://www.youtube.com/watch?v=WYdJahC_GIA",
+    "publishedAt": "2021-12-22T09:02:33Z"
+  },
+  {
+    "title": "Roosevelt: Hold on Tight",
+    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
+    "publishedAt": "2021-12-14T11:58:00Z"
   },
   {
     "title": "Roosevelt: Heaven's Gate",
@@ -1423,11 +1428,6 @@
     "title": "James Oliver Band - Misirlou",
     "url": "https://www.youtube.com/watch?v=kUMzkRxpDks",
     "publishedAt": "2019-11-13T11:19:38Z"
-  },
-  {
-    "title": "James Oliver Band - She's The One",
-    "url": "https://www.youtube.com/watch?v=ThFudyiaoZ8",
-    "publishedAt": "2019-11-13T11:11:13Z"
   },
   {
     "title": "James Oliver Band - Stay Out of Trouble",
@@ -1770,6 +1770,11 @@
     "publishedAt": "2014-10-02T09:49:44Z"
   },
   {
+    "title": "Magenta - Anger",
+    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
+    "publishedAt": "2014-10-01T20:41:40Z"
+  },
+  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1985,29 +1990,9 @@
     "publishedAt": "2014-07-17T09:07:44Z"
   },
   {
-    "title": "All Or Nothing - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
     "title": "Whole Lotta Rosie - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
     "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
-    "title": "Cocaine - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
-    "publishedAt": "2014-07-16T08:27:54Z"
-  },
-  {
-    "title": "The Thrill Is Gone - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
-    "publishedAt": "2014-07-16T08:27:54Z"
-  },
-  {
-    "title": "Bad To The Bone - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=BPeHXjpcsvM",
-    "publishedAt": "2014-07-15T16:52:20Z"
   },
   {
     "title": "Master of Disaster - Tiger Bay",
@@ -2163,6 +2148,11 @@
     "title": "Stan Kenton - Artistry in Rhythm (9)",
     "url": "https://www.youtube.com/watch?v=x3EkI3ISz28",
     "publishedAt": "2008-01-13T16:28:30Z"
+  },
+  {
+    "title": "Stan Kenton - The Peanut Vendor",
+    "url": "https://www.youtube.com/watch?v=1_okd-n42p0",
+    "publishedAt": "2008-01-13T16:20:23Z"
   },
   {
     "title": "Stan Kenton - Malaga (5)",
