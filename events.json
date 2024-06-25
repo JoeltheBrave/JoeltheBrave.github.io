@@ -3167,24 +3167,6 @@
         "name": "Are You Experienced?"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-11-22T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£18.00",
-        "totalPrice": "£18.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-03-05T14:00:00+00:00",
-        "onSaleUntil": "2024-11-23T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYXJlLXlvdS1leHBlcmllbmNlZC0vdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI5NjczMzI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjk2NzMzMg/ticketid/7150746/checksum/be0ab0f400d666b1556b32bd348d71dc/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -3193,8 +3175,8 @@
       "1960s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/are-you-experienced/7053152",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-05-10T07:22:42+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-06-24T08:50:13+01:00",
     "created": "2024-03-07T16:02:00+00:00"
   },
   {
