@@ -25,11 +25,6 @@
     "publishedAt": "2024-05-03T09:38:28Z"
   },
   {
-    "title": "Focus: Sylvia",
-    "url": "https://www.youtube.com/watch?v=xiEwQdrC41U",
-    "publishedAt": "2024-04-27T13:37:02Z"
-  },
-  {
     "title": "James, Ash, James & Steve: Somebody's Gonna Get Their Head Kicked In Tonight",
     "url": "https://www.youtube.com/watch?v=Npfefcq4trE",
     "publishedAt": "2024-04-26T15:30:56Z"
@@ -53,6 +48,11 @@
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
+  },
+  {
+    "title": "ReGenesis: Get 'Em Out By Friday",
+    "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
+    "publishedAt": "2024-03-19T18:57:39Z"
   },
   {
     "title": "Claire & Chris: Libertango",
@@ -98,11 +98,6 @@
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
-  },
-  {
-    "title": "Five Points Gang: Let's Stay Together",
-    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
-    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -205,11 +200,6 @@
     "publishedAt": "2023-08-11T17:50:22Z"
   },
   {
-    "title": "Stone Free: Live at The Point June 2003",
-    "url": "https://www.youtube.com/watch?v=LLyOAC9oNDM",
-    "publishedAt": "2023-08-11T09:11:05Z"
-  },
-  {
     "title": "Dizzy Lizzy: The Boys Are Back In Town",
     "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
     "publishedAt": "2023-07-28T17:00:54Z"
@@ -240,14 +230,24 @@
     "publishedAt": "2023-07-12T13:07:15Z"
   },
   {
-    "title": "The Sandboys: Sell Out",
-    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
-    "publishedAt": "2023-07-12T13:07:06Z"
-  },
-  {
     "title": "Stone Free: Live at the Point, Cardiff.",
     "url": "https://www.youtube.com/watch?v=uJ8qQ5DCjxI",
     "publishedAt": "2023-05-28T15:07:58Z"
+  },
+  {
+    "title": "Expecting Company: Hey Joe",
+    "url": "https://www.youtube.com/watch?v=z4GbRP5jTww",
+    "publishedAt": "2023-05-26T09:02:42Z"
+  },
+  {
+    "title": "Snatch It Back: Hot Stuff",
+    "url": "https://www.youtube.com/watch?v=oNT8M8PcA0A",
+    "publishedAt": "2023-05-20T09:43:37Z"
+  },
+  {
+    "title": "Dave Bowen and Phil Allen: Thank You",
+    "url": "https://www.youtube.com/watch?v=gRJhBYW0YZ4",
+    "publishedAt": "2023-05-17T10:48:36Z"
   },
   {
     "title": "Laurence Kench: Borderline",
@@ -500,11 +500,6 @@
     "publishedAt": "2022-12-06T10:25:22Z"
   },
   {
-    "title": "Small Fakers: All Or Nothing",
-    "url": "https://www.youtube.com/watch?v=g4Fi2enOrOc",
-    "publishedAt": "2022-12-06T10:25:22Z"
-  },
-  {
     "title": "The Worried Men: Nova",
     "url": "https://www.youtube.com/watch?v=6H9sNBBX0GY",
     "publishedAt": "2022-12-02T09:57:03Z"
@@ -650,11 +645,6 @@
     "publishedAt": "2022-10-17T10:27:38Z"
   },
   {
-    "title": "Letz Zep: Since I Been Loving You",
-    "url": "https://www.youtube.com/watch?v=vNStz3pgEDk",
-    "publishedAt": "2022-10-15T18:41:52Z"
-  },
-  {
     "title": "Roosevelt: Thanks for the Giving",
     "url": "https://www.youtube.com/watch?v=IDUHVtqG5N8",
     "publishedAt": "2022-10-15T18:39:40Z"
@@ -750,6 +740,26 @@
     "publishedAt": "2022-09-05T18:26:21Z"
   },
   {
+    "title": "Parcel of Rogues: All Around My Hat",
+    "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
+    "publishedAt": "2022-09-04T13:37:15Z"
+  },
+  {
+    "title": "Bluesfire Blues Band: So Many Roads",
+    "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
+    "publishedAt": "2022-08-22T17:51:21Z"
+  },
+  {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "publishedAt": "2022-08-28T11:07:15Z"
+  },
+  {
+    "title": "Bluesfire Blues Band: So Many Roads",
+    "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
+    "publishedAt": "2022-08-22T17:51:21Z"
+  },
+  {
     "title": "The Fugitives: SWLABR",
     "url": "https://www.youtube.com/watch?v=5Fhq0aSck7A",
     "publishedAt": "2022-08-21T10:01:30Z"
@@ -838,6 +848,11 @@
     "title": "Sassafras: Moonshine",
     "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
     "publishedAt": "2022-06-26T10:21:08Z"
+  },
+  {
+    "title": "Sassafras: I Am The Walrus",
+    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
+    "publishedAt": "2022-06-26T10:21:03Z"
   },
   {
     "title": "Son Of Man: Call Down The Moon",
@@ -985,31 +1000,6 @@
     "publishedAt": "2022-04-16T17:12:18Z"
   },
   {
-    "title": "Thin Ice: Coming Back To Life",
-    "url": "https://www.youtube.com/watch?v=YAXu3pG2XvU",
-    "publishedAt": "2022-04-15T12:53:33Z"
-  },
-  {
-    "title": "Thin Ice: Dogs",
-    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
-    "publishedAt": "2022-04-15T07:47:00Z"
-  },
-  {
-    "title": "Thin Ice: Have A Cigar",
-    "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
-    "publishedAt": "2022-04-15T07:46:54Z"
-  },
-  {
-    "title": "Thin Ice: Coming Back To Life",
-    "url": "https://www.youtube.com/watch?v=YAXu3pG2XvU",
-    "publishedAt": "2022-04-15T12:53:33Z"
-  },
-  {
-    "title": "Thin Ice: Dogs",
-    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
-    "publishedAt": "2022-04-15T07:47:00Z"
-  },
-  {
     "title": "Thin Ice: Have A Cigar",
     "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
     "publishedAt": "2022-04-15T07:46:54Z"
@@ -1090,11 +1080,6 @@
     "publishedAt": "2022-03-13T12:40:44Z"
   },
   {
-    "title": "Time-lapse Snow 1st March 2018 - 4th March 2018",
-    "url": "https://www.youtube.com/watch?v=EsnhsCWRB8M",
-    "publishedAt": "2022-03-01T10:30:30Z"
-  },
-  {
     "title": "Freshly Cut Grass: Let Me Roll It",
     "url": "https://www.youtube.com/watch?v=KijHSFQQ-qE",
     "publishedAt": "2022-02-27T10:22:23Z"
@@ -1173,11 +1158,6 @@
     "title": "Neil Lockwood and the Blue Lights: The Same Old Blues Again",
     "url": "https://www.youtube.com/watch?v=ECBkbq3hMns",
     "publishedAt": "2022-02-07T12:55:55Z"
-  },
-  {
-    "title": "Neil Lockwood and the Blue Lights: The Sky is Crying",
-    "url": "https://www.youtube.com/watch?v=muRNBbS6WN4",
-    "publishedAt": "2022-02-07T12:55:36Z"
   },
   {
     "title": "Freshly Cut Grass: People Get Ready",
@@ -1270,6 +1250,11 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
+    "title": "The Fugitives: Little Red Rooster",
+    "url": "https://www.youtube.com/watch?v=WYdJahC_GIA",
+    "publishedAt": "2021-12-22T09:02:33Z"
+  },
+  {
     "title": "Roosevelt: Hold on Tight",
     "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
     "publishedAt": "2021-12-14T11:58:00Z"
@@ -1323,6 +1308,11 @@
     "title": "Live Dead '69: New Speedway Boogie & Truckin'",
     "url": "https://www.youtube.com/watch?v=sKYG5xX85CM",
     "publishedAt": "2021-11-17T15:10:41Z"
+  },
+  {
+    "title": "Jedis: My Sharona",
+    "url": "https://www.youtube.com/watch?v=tekXL954Buc",
+    "publishedAt": "2021-11-17T14:30:08Z"
   },
   {
     "title": "Firewater: Roll Over Lay Down",
@@ -1405,19 +1395,14 @@
     "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
-    "title": "Neil Lockwood - Rock Me Baby",
-    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
-    "publishedAt": "2020-05-22T22:30:03Z"
-  },
-  {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
     "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
     "publishedAt": "2020-05-06T23:03:51Z"
   },
   {
-    "title": "Bob, Mugsy and Bob",
-    "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
-    "publishedAt": "2020-02-21T20:16:40Z"
+    "title": "Disco Wonderland - Band unknown to me",
+    "url": "https://www.youtube.com/watch?v=xOG5PMWLJ8w",
+    "publishedAt": "2019-12-22T19:20:03Z"
   },
   {
     "title": "James Oliver Band  - It's My Own Business",
@@ -1438,6 +1423,11 @@
     "title": "James Oliver Band - Misirlou",
     "url": "https://www.youtube.com/watch?v=kUMzkRxpDks",
     "publishedAt": "2019-11-13T11:19:38Z"
+  },
+  {
+    "title": "James Oliver Band - She's The One",
+    "url": "https://www.youtube.com/watch?v=ThFudyiaoZ8",
+    "publishedAt": "2019-11-13T11:11:13Z"
   },
   {
     "title": "James Oliver Band - Stay Out of Trouble",
@@ -1645,11 +1635,6 @@
     "publishedAt": "2015-11-25T23:02:16Z"
   },
   {
-    "title": "Aquatarkus Cluny 30 July 2015 - Drum Cam",
-    "url": "https://www.youtube.com/watch?v=6_aCh02Bjok",
-    "publishedAt": "2015-09-11T14:55:27Z"
-  },
-  {
     "title": "Low Profile @ Royal Oak, Whitchurch, Cardiff",
     "url": "https://www.youtube.com/watch?v=ekF_rqwaKOM",
     "publishedAt": "2015-08-22T15:05:06Z"
@@ -1745,6 +1730,26 @@
     "publishedAt": "2014-11-20T12:01:02Z"
   },
   {
+    "title": "Godsticks at Monnow Valley Studio: Drums set-up",
+    "url": "https://www.youtube.com/watch?v=b4PTqBKeRxk",
+    "publishedAt": "2014-11-17T14:58:32Z"
+  },
+  {
+    "title": "Steve Roberts The Bells - Version 2",
+    "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
+    "publishedAt": "2014-10-24T11:29:51Z"
+  },
+  {
+    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
+    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
+    "publishedAt": "2014-10-19T16:59:37Z"
+  },
+  {
+    "title": "Steve Roberts The Bells - Version 2",
+    "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
+    "publishedAt": "2014-10-24T11:29:51Z"
+  },
+  {
     "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
     "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
     "publishedAt": "2014-10-19T16:59:37Z"
@@ -1793,6 +1798,11 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
+  },
+  {
+    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
+    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1853,6 +1863,11 @@
     "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Pathetique/Rondo/Drum Solo",
     "url": "https://www.youtube.com/watch?v=-6aNpbVncOY",
     "publishedAt": "2014-08-11T07:43:27Z"
+  },
+  {
+    "title": "Stan Kenton In Concert - London 1972",
+    "url": "https://www.youtube.com/watch?v=Q5L0TS3V91Y",
+    "publishedAt": "2014-07-24T01:41:47Z"
   },
   {
     "title": "Turning Japanese - The Kenny Driscoll Band",
@@ -1980,19 +1995,19 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
-    "title": "Whole Lotta Rosie - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
-    "title": "Strange Brew - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
     "title": "Cocaine - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
     "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "The Thrill Is Gone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "Bad To The Bone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=BPeHXjpcsvM",
+    "publishedAt": "2014-07-15T16:52:20Z"
   },
   {
     "title": "Master of Disaster - Tiger Bay",
