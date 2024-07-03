@@ -1542,8 +1542,8 @@
   },
   {
     "id": "pgkZ6W",
-    "headline": "The Jug Band",
-    "title": "The Jug Band",
+    "headline": "Elk Redemption",
+    "title": "Elk Redemption",
     "startDate": "2024-08-03",
     "endDate": "2024-08-03",
     "startTimeString": "9:00pm",
@@ -1556,9 +1556,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Hey there! Are you in search of a unique and unforgettable musical experience? Look no...",
+    "description": "Elk Redemption at The Earl Haig Club Bar.\nSaturday, August 3rd, 2024.\nA 5-piece band will perform...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/024/573/871c44c9da94fa91cfcbdd5e8880b4779e49992f.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/170/220/9c4a1bf327cf8f9207fae29e5c56c0a4b849e200.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1568,8 +1568,8 @@
     },
     "artists": [
       {
-        "id": "PnmR",
-        "name": "The Jug Band"
+        "id": "nKaYX",
+        "name": "Elk Redemption"
       }
     ],
     "tickets": [
@@ -1592,11 +1592,13 @@
     ],
     "genre": [
       "music",
+      "rock",
+      "acoustic",
       "folk"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jug-band/7145678",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/elk-redemption/7145678",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-06-19T13:32:44+01:00",
+    "lastUpdate": "2024-07-02T08:48:30+01:00",
     "created": "2024-06-19T12:32:32+00:00"
   },
   {
