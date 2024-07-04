@@ -1620,6 +1620,45 @@
     "created": "2024-06-19T11:58:34+00:00"
   },
   {
+    "id": "DwNp8Q",
+    "headline": "Monday Open Muic/ Jam Session",
+    "title": "Monday Open Muic/ Jam Session",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-05",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for the Monday Jam Session with The Sundogs!\n\nEvery Monday evening, we warmly invite...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/fd59b543-cf1b-4a7e-a48b-af79595764d6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Sundogs"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-open-muic-jam-session/7157384",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:05+01:00",
+    "created": "2024-07-03T11:32:52+00:00"
+  },
+  {
     "id": "ymWY8A",
     "headline": "Creedence Clearwater Review",
     "title": "Global Promotions Live",
@@ -1683,6 +1722,64 @@
     "created": "2024-03-05T07:47:20+00:00"
   },
   {
+    "id": "74j9RL",
+    "headline": "The Sundogs",
+    "title": "The Sundogs",
+    "startDate": "2024-08-10",
+    "endDate": "2024-08-10",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Sundogs are a dynamic rock band specializing in classic rock hits that get the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/13eb36e3-d067-4963-af88-edef06b905b5.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Sundogs"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-10T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:32:58+01:00",
+        "onSaleUntil": "2024-08-10T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sundogs/7157386",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:09+01:00",
+    "created": "2024-07-03T11:32:58+00:00"
+  },
+  {
     "id": "DwEl2N",
     "headline": "Palm Tree Antics",
     "title": "Palm Tree Antics",
@@ -1722,6 +1819,110 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-06-19T13:32:46+01:00",
     "created": "2024-06-19T12:32:35+00:00"
+  },
+  {
+    "id": "mDAL0A",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-12",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session.\n\n\nJoin us for the Monday Jam Session with The Sundogs!\n\nEvery Monday evening, we...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/903de5a5-0ef5-4402-a3a6-44ca068ae6af.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-08-12T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:01+01:00",
+        "onSaleUntil": "2024-08-12T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7157388",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:13+01:00",
+    "created": "2024-07-03T11:33:01+00:00"
+  },
+  {
+    "id": "LzXz0d",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2024-08-13",
+    "endDate": "2024-08-13",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "? The Old Cardiff Rockers Reunion Night ?\n\nGet ready to rock out with the legends!...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/8007cdea-e299-421c-ba9f-4bbac52cbeec.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-08-13T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:12+01:00",
+        "onSaleUntil": "2024-08-13T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7157396",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:23+01:00",
+    "created": "2024-07-03T11:33:11+00:00"
   },
   {
     "id": "oBjmOW",
@@ -1788,6 +1989,118 @@
     "created": "2024-04-22T10:52:25+00:00"
   },
   {
+    "id": "NL2La7",
+    "headline": "The Semantics",
+    "title": "The Semantics",
+    "startDate": "2024-08-17",
+    "endDate": "2024-08-17",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Semantics Live",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4b4178b0-e937-4a28-9295-299e9af736d5.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pglO0",
+        "name": "The Semantics"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-17T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:16+01:00",
+        "onSaleUntil": "2024-08-17T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7157398",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:27+01:00",
+    "created": "2024-07-03T11:33:15+00:00"
+  },
+  {
+    "id": "K9v9GG",
+    "headline": "Monday Night Open Mic and Jam Session.",
+    "title": "Monday Night Open Mic and Jam Session.",
+    "startDate": "2024-08-19",
+    "endDate": "2024-08-19",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Every Monday evening, we warmly invite musicians of all skill levels to our Monday Night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/cf3ce968-4c84-41e2-b2d2-6f9e306506a2.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-08-19T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:06+01:00",
+        "onSaleUntil": "2024-08-19T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session/7157392",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:17+01:00",
+    "created": "2024-07-03T11:33:05+00:00"
+  },
+  {
     "id": "2K0X2v",
     "headline": "A Band Called Malice - Tribute to The Jam",
     "title": "Global Promotions Live",
@@ -1849,6 +2162,63 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-05-10T07:22:42+01:00",
     "created": "2024-03-05T07:47:20+00:00"
+  },
+  {
+    "id": "mDADLd",
+    "headline": "String Fellows",
+    "title": "String Fellows",
+    "startDate": "2024-08-23",
+    "endDate": "2024-08-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "? The String Fellows Live at The Earl Haig Club Bar! ?\n\nPrepare for an unforgettable...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "String Fellows"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-23T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:19+01:00",
+        "onSaleUntil": "2024-08-23T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/string-fellows/7157400",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:30+01:00",
+    "created": "2024-07-03T11:33:19+00:00"
   },
   {
     "id": "mDQd4d",
@@ -1920,6 +2290,117 @@
     "created": "2024-04-22T10:52:32+00:00"
   },
   {
+    "id": "pgygY8",
+    "headline": "Bus Pass",
+    "title": "Bus Pass",
+    "startDate": "2024-08-25",
+    "endDate": "2024-08-25",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:22pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "? Bus Pass Blues Rock Band Live! ?\n\nGet ready to groove with the Bus Pass...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/966b00d7-5cc1-4942-b05c-e6bf3b3f04b0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Bus Pass"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-25T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:23+01:00",
+        "onSaleUntil": "2024-08-25T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bus-pass/7157434",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:34+01:00",
+    "created": "2024-07-03T11:33:22+00:00"
+  },
+  {
+    "id": "dDGD85",
+    "headline": "Monday Night Open Mic and Jam Session",
+    "title": "Monday Night Open Mic and Jam Session",
+    "startDate": "2024-08-26",
+    "endDate": "2024-08-26",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Every Monday evening, we warmly invite musicians of all skill levels to our Monday Night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b8212823-5021-46b3-8d2e-40b57dcbbfdc.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-08-26T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:08+01:00",
+        "onSaleUntil": "2024-08-26T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session/7157394",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:19+01:00",
+    "created": "2024-07-03T11:33:08+00:00"
+  },
+  {
     "id": "K91rwk",
     "headline": "Dizzy Lizzy",
     "title": null,
@@ -1980,6 +2461,66 @@
     "fansOnEnts24": 5,
     "lastUpdate": "2024-05-10T07:22:30+01:00",
     "created": "2024-03-07T13:00:44+00:00"
+  },
+  {
+    "id": "PaPaxv",
+    "headline": "Rockin 58",
+    "title": "Rockin 58",
+    "startDate": "2024-08-31",
+    "endDate": "2024-08-31",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Ro? Rockin' 58 Live! ?\n\nRockin' 58, the sensational rock 'n' roll band from Barry, South...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rockin 58"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-31T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-03T12:33:26+01:00",
+        "onSaleUntil": "2024-08-31T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "1950s",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockin-58/7157522",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-03T12:33:38+01:00",
+    "created": "2024-07-03T11:33:26+00:00"
   },
   {
     "id": "LzGYPq",
