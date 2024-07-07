@@ -30,11 +30,6 @@
     "publishedAt": "2024-05-03T09:38:28Z"
   },
   {
-    "title": "Focus: Sylvia",
-    "url": "https://www.youtube.com/watch?v=xiEwQdrC41U",
-    "publishedAt": "2024-04-27T13:37:02Z"
-  },
-  {
     "title": "James, Ash, James & Steve: Somebody's Gonna Get Their Head Kicked In Tonight",
     "url": "https://www.youtube.com/watch?v=Npfefcq4trE",
     "publishedAt": "2024-04-26T15:30:56Z"
@@ -63,6 +58,11 @@
     "title": "ReGenesis: Get 'Em Out By Friday",
     "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
     "publishedAt": "2024-03-19T18:57:39Z"
+  },
+  {
+    "title": "Claire & Chris: Libertango",
+    "url": "https://www.youtube.com/watch?v=LuTK7gfNLqM",
+    "publishedAt": "2024-03-17T11:56:58Z"
   },
   {
     "title": "Maniac Street Preachers: Motorcycle Emptiness",
@@ -125,6 +125,11 @@
     "publishedAt": "2024-01-15T08:33:28Z"
   },
   {
+    "title": "The Soul Miners: Ain't No Mountain High Enough",
+    "url": "https://www.youtube.com/watch?v=6VwiM_r3efs",
+    "publishedAt": "2024-01-14T20:20:45Z"
+  },
+  {
     "title": "James Davies: Ain't No Sunshine",
     "url": "https://www.youtube.com/watch?v=Rip7EESwoTw",
     "publishedAt": "2023-12-18T10:02:21Z"
@@ -163,11 +168,6 @@
     "title": "Lucie Flowers: Time After Time",
     "url": "https://www.youtube.com/watch?v=4wjJSeILLlc",
     "publishedAt": "2023-11-02T10:45:17Z"
-  },
-  {
-    "title": "ReGenesis: Firth of Fifth",
-    "url": "https://www.youtube.com/watch?v=eCe3fuz9X6Y",
-    "publishedAt": "2023-10-23T18:35:52Z"
   },
   {
     "title": "The Bluesters: Messy Bessie",
@@ -215,11 +215,6 @@
     "publishedAt": "2023-07-28T17:00:58Z"
   },
   {
-    "title": "Dizzy Lizzy: The Boys Are Back In Town",
-    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
-    "publishedAt": "2023-07-28T17:00:54Z"
-  },
-  {
     "title": "Treacherous Cretins: Magic Fingers & Peaches En Regalia",
     "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
     "publishedAt": "2023-07-18T13:58:08Z"
@@ -248,6 +243,16 @@
     "title": "The Sandboys: Sell Out",
     "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
     "publishedAt": "2023-07-12T13:07:06Z"
+  },
+  {
+    "title": "Stone Free: Live at the Point, Cardiff.",
+    "url": "https://www.youtube.com/watch?v=uJ8qQ5DCjxI",
+    "publishedAt": "2023-05-28T15:07:58Z"
+  },
+  {
+    "title": "Dave Bowen and Phil Allen: Thank You",
+    "url": "https://www.youtube.com/watch?v=gRJhBYW0YZ4",
+    "publishedAt": "2023-05-17T10:48:36Z"
   },
   {
     "title": "Laurence Kench: Borderline",
@@ -745,9 +750,24 @@
     "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
-    "title": "Bluesfire Blues Band: So Many Roads",
-    "url": "https://www.youtube.com/watch?v=w7X3KorA5F8",
-    "publishedAt": "2022-08-22T17:51:21Z"
+    "title": "Outback: Running Down A Dream",
+    "url": "https://www.youtube.com/watch?v=t1yHbejkLrQ",
+    "publishedAt": "2022-09-12T17:54:07Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: Never-ending Journey",
+    "url": "https://www.youtube.com/watch?v=8e0FaC03dq0",
+    "publishedAt": "2022-09-05T18:26:21Z"
+  },
+  {
+    "title": "Parcel of Rogues: All Around My Hat",
+    "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
+    "publishedAt": "2022-09-04T13:37:15Z"
+  },
+  {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "publishedAt": "2022-08-28T11:07:15Z"
   },
   {
     "title": "Bluesfire Blues Band: So Many Roads",
@@ -1000,6 +1020,16 @@
     "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
+    "title": "Thin Ice: Dogs",
+    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
+    "publishedAt": "2022-04-15T07:47:00Z"
+  },
+  {
+    "title": "Thin Ice: Have A Cigar",
+    "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
+    "publishedAt": "2022-04-15T07:46:54Z"
+  },
+  {
     "title": "Kerosene Lane: War Pigs",
     "url": "https://www.youtube.com/watch?v=_hEYvD_yOZA",
     "publishedAt": "2022-04-12T18:32:46Z"
@@ -1215,9 +1245,9 @@
     "publishedAt": "2022-01-19T09:51:39Z"
   },
   {
-    "title": "The Troubadours: Third Stone From The Sun & Tomorrow Never Knows (Medley)",
-    "url": "https://www.youtube.com/watch?v=jLyh3khn1uI",
-    "publishedAt": "2022-01-15T23:05:33Z"
+    "title": "The Troubadours: No Quarter",
+    "url": "https://www.youtube.com/watch?v=64mBeiKOdDE",
+    "publishedAt": "2022-01-17T17:43:53Z"
   },
   {
     "title": "When Amanda Seed called 'Time' just before Gong's drum solo.",
@@ -1228,26 +1258,6 @@
     "title": "The Red Hot Pokers: Gangster of Love",
     "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
     "publishedAt": "2022-01-04T18:45:00Z"
-  },
-  {
-    "title": "Moonstorm: Learning To Fly",
-    "url": "https://www.youtube.com/watch?v=MVktqJjRv38",
-    "publishedAt": "2022-01-01T00:38:25Z"
-  },
-  {
-    "title": "The Fugitives: You Don't Love Me",
-    "url": "https://www.youtube.com/watch?v=BmihpYBam6I",
-    "publishedAt": "2021-12-22T14:24:11Z"
-  },
-  {
-    "title": "The Fugitives: Little Red Rooster",
-    "url": "https://www.youtube.com/watch?v=WYdJahC_GIA",
-    "publishedAt": "2021-12-22T09:02:33Z"
-  },
-  {
-    "title": "Roosevelt: Hold on Tight",
-    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
-    "publishedAt": "2021-12-14T11:58:00Z"
   },
   {
     "title": "Moonstorm: Learning To Fly",
@@ -1318,6 +1328,11 @@
     "title": "Live Dead '69: New Speedway Boogie & Truckin'",
     "url": "https://www.youtube.com/watch?v=sKYG5xX85CM",
     "publishedAt": "2021-11-17T15:10:41Z"
+  },
+  {
+    "title": "Jedis: My Sharona",
+    "url": "https://www.youtube.com/watch?v=tekXL954Buc",
+    "publishedAt": "2021-11-17T14:30:08Z"
   },
   {
     "title": "Firewater: Roll Over Lay Down",
@@ -1410,6 +1425,11 @@
     "publishedAt": "2020-05-06T23:03:51Z"
   },
   {
+    "title": "Bob, Mugsy and Bob",
+    "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
+    "publishedAt": "2020-02-21T20:16:40Z"
+  },
+  {
     "title": "Disco Wonderland - Band unknown to me",
     "url": "https://www.youtube.com/watch?v=xOG5PMWLJ8w",
     "publishedAt": "2019-12-22T19:20:03Z"
@@ -1475,24 +1495,9 @@
     "publishedAt": "2019-04-25T09:14:37Z"
   },
   {
-    "title": "Bluesters - Riders on the Storm",
-    "url": "https://www.youtube.com/watch?v=4pObOVzC4uI",
-    "publishedAt": "2019-03-30T16:42:27Z"
-  },
-  {
-    "title": "Kerosene Lane - Day of the Eagle",
-    "url": "https://www.youtube.com/watch?v=TUhMAK7-nh0",
-    "publishedAt": "2019-03-17T00:53:22Z"
-  },
-  {
-    "title": "Rattlesnake - Rosalie",
-    "url": "https://www.youtube.com/watch?v=LwpLsD925wU",
-    "publishedAt": "2019-02-07T22:29:02Z"
-  },
-  {
-    "title": "A Couple of Bob and Gong - Whipping Post",
-    "url": "https://www.youtube.com/watch?v=OD4ghCPo-OE",
-    "publishedAt": "2019-01-29T09:23:48Z"
+    "title": "Unboxing The Tangent Proxy CD",
+    "url": "https://www.youtube.com/watch?v=VGnv1T6TXLE",
+    "publishedAt": "2018-11-22T16:35:47Z"
   },
   {
     "title": "Focus Live at the Earl Haig Club Cardiff",
@@ -1540,11 +1545,6 @@
     "publishedAt": "2017-11-25T17:03:32Z"
   },
   {
-    "title": "Theo and Steve with TangeKanic at Chepstow 2017",
-    "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
-    "publishedAt": "2017-10-12T16:44:09Z"
-  },
-  {
     "title": "Some Drum Foolery from the Whitchurch Jam #100",
     "url": "https://www.youtube.com/watch?v=H3m7qSYuzMI",
     "publishedAt": "2017-09-25T14:26:00Z"
@@ -1568,11 +1568,6 @@
     "title": "Nut Crack Boogie",
     "url": "https://www.youtube.com/watch?v=dtF8LMVninU",
     "publishedAt": "2017-08-03T00:32:55Z"
-  },
-  {
-    "title": "Stuart Bartley - Reelin' and a Rockin' at Miss Jones Live Jam",
-    "url": "https://www.youtube.com/watch?v=wbwp_Fs_dAc",
-    "publishedAt": "2017-06-23T23:25:31Z"
   },
   {
     "title": "The Kenny Driscoll Band - Runnin' Down A Dream",
@@ -1745,21 +1740,6 @@
     "publishedAt": "2014-11-20T12:01:02Z"
   },
   {
-    "title": "Steve Roberts The Bells - Version 2",
-    "url": "https://www.youtube.com/watch?v=p7aw_hJPN3o",
-    "publishedAt": "2014-10-24T11:29:51Z"
-  },
-  {
-    "title": "Lone Star She Said, She Said on the Alan (Fluff) Freeman Saturday Rock Show",
-    "url": "https://www.youtube.com/watch?v=NOwuBDIxVvQ",
-    "publishedAt": "2014-10-19T16:59:37Z"
-  },
-  {
-    "title": "It's a circle",
-    "url": "https://www.youtube.com/watch?v=wdhmFVV5hlA",
-    "publishedAt": "2014-10-07T12:22:09Z"
-  },
-  {
     "title": "Tin Spirits - Little Eyes",
     "url": "https://www.youtube.com/watch?v=YsjMaPep3jk",
     "publishedAt": "2014-10-04T19:58:50Z"
@@ -1775,11 +1755,6 @@
     "publishedAt": "2014-10-02T09:50:07Z"
   },
   {
-    "title": "Magenta - Demons",
-    "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
-    "publishedAt": "2014-10-02T09:49:44Z"
-  },
-  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1793,6 +1768,11 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
+  },
+  {
+    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
+    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1990,9 +1970,29 @@
     "publishedAt": "2014-07-17T09:07:44Z"
   },
   {
-    "title": "My Best friend's Girl - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
-    "publishedAt": "2014-07-17T09:07:44Z"
+    "title": "Whole Lotta Rosie - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Strange Brew - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Cocaine - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "The Thrill Is Gone - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "All Or Nothing - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
     "title": "Whole Lotta Rosie - Tiger Bay",
