@@ -1,10 +1,5 @@
 [
   {
-    "title": "Tai Chi Demonstration",
-    "url": "https://www.youtube.com/watch?v=fIFd-cIPEKQ",
-    "publishedAt": "2024-07-03T17:38:32Z"
-  },
-  {
     "title": "Keeran & Lucie: How To Be Me",
     "url": "https://www.youtube.com/watch?v=ZBSRNeqpR9s",
     "publishedAt": "2024-06-19T09:13:07Z"
@@ -28,11 +23,6 @@
     "title": "Earl Haig Monday Jam Compilation Video",
     "url": "https://www.youtube.com/watch?v=zmlyR8ULg_E",
     "publishedAt": "2024-05-03T09:38:28Z"
-  },
-  {
-    "title": "Focus: Sylvia",
-    "url": "https://www.youtube.com/watch?v=xiEwQdrC41U",
-    "publishedAt": "2024-04-27T13:37:02Z"
   },
   {
     "title": "James, Ash, James & Steve: Somebody's Gonna Get Their Head Kicked In Tonight",
@@ -103,6 +93,11 @@
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
+  },
+  {
+    "title": "Five Points Gang: Let's Stay Together",
+    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
+    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -185,6 +180,11 @@
     "publishedAt": "2023-10-05T21:14:55Z"
   },
   {
+    "title": "Sweatbox: Bark, Joey in Third Gear and Loose Cannon",
+    "url": "https://www.youtube.com/watch?v=cSKEzUkt7Xk",
+    "publishedAt": "2023-09-29T15:23:23Z"
+  },
+  {
     "title": "The Blues Sisters: Lipstick, Powder and Paint",
     "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
     "publishedAt": "2023-09-04T11:47:22Z"
@@ -208,11 +208,6 @@
     "title": "Dirty DC: For Those About To Rock (We Salute You)",
     "url": "https://www.youtube.com/watch?v=q6tuYD-oVnk",
     "publishedAt": "2023-07-28T17:00:58Z"
-  },
-  {
-    "title": "Dizzy Lizzy: The Boys Are Back In Town",
-    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
-    "publishedAt": "2023-07-28T17:00:54Z"
   },
   {
     "title": "Revolver: Let there Be Rock",
@@ -845,11 +840,6 @@
     "publishedAt": "2022-06-26T10:21:08Z"
   },
   {
-    "title": "Sassafras: I Am The Walrus",
-    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
-    "publishedAt": "2022-06-26T10:21:03Z"
-  },
-  {
     "title": "Son Of Man: Call Down The Moon",
     "url": "https://www.youtube.com/watch?v=WOFG7R4TYRo",
     "publishedAt": "2022-06-26T08:46:25Z"
@@ -1000,14 +990,14 @@
     "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
-    "title": "Scrapple from the Apple",
-    "url": "https://www.youtube.com/watch?v=6kyHEt2_aHA",
-    "publishedAt": "2022-04-16T17:12:18Z"
+    "title": "Thin Ice: Dogs",
+    "url": "https://www.youtube.com/watch?v=R9kHkHjlp6s",
+    "publishedAt": "2022-04-15T07:47:00Z"
   },
   {
-    "title": "Thin Ice: Coming Back To Life",
-    "url": "https://www.youtube.com/watch?v=YAXu3pG2XvU",
-    "publishedAt": "2022-04-15T12:53:33Z"
+    "title": "Thin Ice: Have A Cigar",
+    "url": "https://www.youtube.com/watch?v=JeVzEpQYoNw",
+    "publishedAt": "2022-04-15T07:46:54Z"
   },
   {
     "title": "Thin Ice: Dogs",
@@ -1248,6 +1238,26 @@
     "title": "When Amanda Seed called 'Time' just before Gong's drum solo.",
     "url": "https://www.youtube.com/watch?v=y1J8yuUhMWg",
     "publishedAt": "2022-01-13T11:05:17Z"
+  },
+  {
+    "title": "The Red Hot Pokers: Gangster of Love",
+    "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
+    "publishedAt": "2022-01-04T18:45:00Z"
+  },
+  {
+    "title": "Moonstorm: Learning To Fly",
+    "url": "https://www.youtube.com/watch?v=MVktqJjRv38",
+    "publishedAt": "2022-01-01T00:38:25Z"
+  },
+  {
+    "title": "When Amanda Seed called 'Time' just before Gong's drum solo.",
+    "url": "https://www.youtube.com/watch?v=y1J8yuUhMWg",
+    "publishedAt": "2022-01-13T11:05:17Z"
+  },
+  {
+    "title": "The Red Hot Pokers: Gangster of Love",
+    "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
+    "publishedAt": "2022-01-04T18:45:00Z"
   },
   {
     "title": "Moonstorm: Learning To Fly",
@@ -1495,16 +1505,6 @@
     "publishedAt": "2018-09-11T18:38:36Z"
   },
   {
-    "title": "Unboxing The Tangent Proxy CD",
-    "url": "https://www.youtube.com/watch?v=VGnv1T6TXLE",
-    "publishedAt": "2018-11-22T16:35:47Z"
-  },
-  {
-    "title": "Focus Live at the Earl Haig Club Cardiff",
-    "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
-    "publishedAt": "2018-09-11T18:38:36Z"
-  },
-  {
     "title": "The Marc Davies Band: Ball & Chain",
     "url": "https://www.youtube.com/watch?v=_wf1eom1yxM",
     "publishedAt": "2018-07-21T10:35:10Z"
@@ -1548,11 +1548,6 @@
     "title": "Theo and Steve with TangeKanic at Chepstow 2017",
     "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
     "publishedAt": "2017-10-12T16:44:09Z"
-  },
-  {
-    "title": "Some Drum Foolery from the Whitchurch Jam #100",
-    "url": "https://www.youtube.com/watch?v=H3m7qSYuzMI",
-    "publishedAt": "2017-09-25T14:26:00Z"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -1645,6 +1640,11 @@
     "publishedAt": "2015-11-25T23:02:16Z"
   },
   {
+    "title": "Aquatarkus Cluny 30 July 2015 - Drum Cam",
+    "url": "https://www.youtube.com/watch?v=6_aCh02Bjok",
+    "publishedAt": "2015-09-11T14:55:27Z"
+  },
+  {
     "title": "Low Profile @ Royal Oak, Whitchurch, Cardiff",
     "url": "https://www.youtube.com/watch?v=ekF_rqwaKOM",
     "publishedAt": "2015-08-22T15:05:06Z"
@@ -1725,11 +1725,6 @@
     "publishedAt": "2015-02-24T09:04:10Z"
   },
   {
-    "title": "Kerry Shacklett & Steve Barber - Toccata",
-    "url": "https://www.youtube.com/watch?v=gmnU95bEQS4",
-    "publishedAt": "2015-02-10T21:59:52Z"
-  },
-  {
     "title": "The Kenny Driscoll Band in the recording studio.",
     "url": "https://www.youtube.com/watch?v=Y2TA3uhemfw",
     "publishedAt": "2014-12-21T15:08:36Z"
@@ -1738,6 +1733,16 @@
     "title": "The Kenny Driscoll Band Drum Quiz",
     "url": "https://www.youtube.com/watch?v=jfJO76f5qL4",
     "publishedAt": "2014-12-09T14:53:17Z"
+  },
+  {
+    "title": "drumsmixingdesk",
+    "url": "https://www.youtube.com/watch?v=vMEnw7RgRmk",
+    "publishedAt": "2014-11-20T12:01:02Z"
+  },
+  {
+    "title": "Godsticks at Monnow Valley Studio: Drums set-up",
+    "url": "https://www.youtube.com/watch?v=b4PTqBKeRxk",
+    "publishedAt": "2014-11-17T14:58:32Z"
   },
   {
     "title": "Steve Roberts The Bells - Version 2",
@@ -1775,6 +1780,11 @@
     "publishedAt": "2014-10-02T09:49:44Z"
   },
   {
+    "title": "Magenta - Anger",
+    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
+    "publishedAt": "2014-10-01T20:41:40Z"
+  },
+  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1788,11 +1798,6 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1910,6 +1915,11 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
+    "title": "Hard To Handle - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
+    "publishedAt": "2014-07-20T22:33:30Z"
+  },
+  {
     "title": "The Middle - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=9ptvaBGPqlg",
     "publishedAt": "2014-07-20T22:33:30Z"
@@ -1977,16 +1987,6 @@
   {
     "title": "Tequila - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
-    "title": "My Best friend's Girl - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
-    "publishedAt": "2014-07-17T09:07:44Z"
-  },
-  {
-    "title": "All Or Nothing - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
