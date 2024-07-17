@@ -1,63 +1,5 @@
 [
   {
-    "id": "ymLWbo",
-    "headline": "Strictly Acoustic",
-    "title": "Strictly Acoustic",
-    "startDate": "2024-07-16",
-    "endDate": "2024-07-16",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for a fantastic night of live acoustic music at The Earl Haig Club...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/64f3f06b-ce47-4676-a56b-8d807f00a0b6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Jounson"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-07-16T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-06-19T13:32:19+01:00",
-        "onSaleUntil": "2024-07-16T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic/7145658",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-06-19T13:32:30+01:00",
-    "created": "2024-06-19T12:32:18+00:00"
-  },
-  {
     "id": "bk59q7",
     "headline": "BC 60's",
     "title": "BC 60's",
@@ -1289,7 +1231,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "? The Old Cardiff Rockers Reunion Night ?\n\nGet ready to rock out with the legends!...",
+    "description": "? The Old Cardiff Rockers Reunion Night ?\n\nLive Music from The Sunsets.\n\nGet ready to rock...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/8007cdea-e299-421c-ba9f-4bbac52cbeec.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1299,6 +1241,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Sunsets"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2024-08-13T20:00:00+01:00",
@@ -1322,7 +1269,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7157396",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-08T13:06:29+01:00",
+    "lastUpdate": "2024-07-16T09:15:00+01:00",
     "created": "2024-07-03T11:33:11+00:00"
   },
   {
@@ -1450,6 +1397,48 @@
     "created": "2024-07-03T11:33:15+00:00"
   },
   {
+    "id": "ym6yNk",
+    "headline": "The Flares",
+    "title": "The Flares",
+    "startDate": "2024-08-18",
+    "endDate": "2024-08-18",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:24pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Flares",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Flares"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-flares/7167458",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-16T09:15:04+01:00",
+    "created": "2024-07-16T08:14:53+00:00"
+  },
+  {
     "id": "K9v9GG",
     "headline": "Monday Night Open Mic and Jam Session.",
     "title": "Monday Night Open Mic and Jam Session.",
@@ -1500,6 +1489,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-07-03T12:33:17+01:00",
     "created": "2024-07-03T11:33:05+00:00"
+  },
+  {
+    "id": "nKB687",
+    "headline": "Strictly Acoustic",
+    "title": "Strictly Acoustic",
+    "startDate": "2024-08-20",
+    "endDate": "2024-08-20",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join Us for a Fantastic Night of Live Acoustic Music! ?\nHead over to The Earl...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/84cd0df5-f58a-4d97-b0b1-f9de79ba3461.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-20T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-16T09:14:59+01:00",
+        "onSaleUntil": "2024-08-20T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic/7167460",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-16T09:15:11+01:00",
+    "created": "2024-07-16T08:14:57+00:00"
   },
   {
     "id": "2K0X2v",
@@ -1689,6 +1736,64 @@
     "fansOnEnts24": 6,
     "lastUpdate": "2024-07-15T15:55:52+01:00",
     "created": "2024-04-22T10:52:32+00:00"
+  },
+  {
+    "id": "XXzwe0",
+    "headline": "Shameless",
+    "title": "Shameless",
+    "startDate": "2024-08-24",
+    "endDate": "2024-08-24",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Shameless ",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b35dea87-1f6a-4ab0-b64c-9e38fba1664a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Shameless"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-24T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-07-16T09:15:03+01:00",
+        "onSaleUntil": "2024-08-24T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/shameless/7167462",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-07-16T09:15:15+01:00",
+    "created": "2024-07-16T08:15:03+00:00"
   },
   {
     "id": "pgygY8",
