@@ -100,19 +100,9 @@
     "publishedAt": "2024-01-27T15:51:16Z"
   },
   {
-    "title": "Rhiannon: Dreams",
-    "url": "https://www.youtube.com/watch?v=Ga19d6WSxRc",
-    "publishedAt": "2024-01-25T16:01:43Z"
-  },
-  {
     "title": "ReGenesis: The Return Of The Giant Hogweed",
     "url": "https://www.youtube.com/watch?v=jGfrqS9BYNo",
     "publishedAt": "2024-01-25T15:04:40Z"
-  },
-  {
-    "title": "Five Points Gang: Let's Stay Together",
-    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
-    "publishedAt": "2024-01-19T17:02:44Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -205,6 +195,11 @@
     "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
+    "title": "Outback: Best Of You",
+    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
+    "publishedAt": "2023-09-04T11:47:27Z"
+  },
+  {
     "title": "Dansette: Take Me To The River",
     "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
     "publishedAt": "2023-08-11T17:50:22Z"
@@ -215,9 +210,19 @@
     "publishedAt": "2023-08-11T09:11:05Z"
   },
   {
+    "title": "Dirty DC: For Those About To Rock (We Salute You)",
+    "url": "https://www.youtube.com/watch?v=q6tuYD-oVnk",
+    "publishedAt": "2023-07-28T17:00:58Z"
+  },
+  {
     "title": "Dizzy Lizzy: The Boys Are Back In Town",
     "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
     "publishedAt": "2023-07-28T17:00:54Z"
+  },
+  {
+    "title": "Treacherous Cretins: Magic Fingers & Peaches En Regalia",
+    "url": "https://www.youtube.com/watch?v=mh1D8FZ8608",
+    "publishedAt": "2023-07-18T13:58:08Z"
   },
   {
     "title": "Revolver: Let there Be Rock",
@@ -235,6 +240,11 @@
     "publishedAt": "2023-07-12T16:19:47Z"
   },
   {
+    "title": "John Otway & Wild Willy Barrett: Really Free",
+    "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
+    "publishedAt": "2023-07-12T13:07:15Z"
+  },
+  {
     "title": "The Sandboys: Sell Out",
     "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
     "publishedAt": "2023-07-12T13:07:06Z"
@@ -248,6 +258,16 @@
     "title": "Expecting Company: Hey Joe",
     "url": "https://www.youtube.com/watch?v=z4GbRP5jTww",
     "publishedAt": "2023-05-26T09:02:42Z"
+  },
+  {
+    "title": "Snatch It Back: Hot Stuff",
+    "url": "https://www.youtube.com/watch?v=oNT8M8PcA0A",
+    "publishedAt": "2023-05-20T09:43:37Z"
+  },
+  {
+    "title": "Dave Bowen and Phil Allen: Thank You",
+    "url": "https://www.youtube.com/watch?v=gRJhBYW0YZ4",
+    "publishedAt": "2023-05-17T10:48:36Z"
   },
   {
     "title": "Laurence Kench: Borderline",
@@ -478,21 +498,6 @@
     "title": "The S'punkles: New Rose",
     "url": "https://www.youtube.com/watch?v=wKTXSSpvyCQ",
     "publishedAt": "2022-12-08T13:22:16Z"
-  },
-  {
-    "title": "Anonymous Iconoclasts: Long Way Down",
-    "url": "https://www.youtube.com/watch?v=zYHyjBibrS8",
-    "publishedAt": "2022-12-08T11:38:01Z"
-  },
-  {
-    "title": "Expecting Company: While My Guitar Gently Weeps",
-    "url": "https://www.youtube.com/watch?v=5QICXTJ5TVM",
-    "publishedAt": "2022-12-06T23:04:23Z"
-  },
-  {
-    "title": "Country Stormz: Down By The River",
-    "url": "https://www.youtube.com/watch?v=5e2C0_kmOeg",
-    "publishedAt": "2022-12-06T10:25:27Z"
   },
   {
     "title": "Small Fakers: All Or Nothing",
@@ -745,11 +750,6 @@
     "publishedAt": "2022-09-05T18:26:21Z"
   },
   {
-    "title": "Parcel of Rogues: All Around My Hat",
-    "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
-    "publishedAt": "2022-09-04T13:37:15Z"
-  },
-  {
     "title": "ACAB: Lovely Day",
     "url": "https://www.youtube.com/watch?v=mu5dWgyE7iU",
     "publishedAt": "2022-09-14T12:56:39Z"
@@ -998,6 +998,21 @@
     "title": "Thin Ice: Shine On You Crazy Diamond",
     "url": "https://www.youtube.com/watch?v=WxTB6-mTZBQ",
     "publishedAt": "2022-04-22T23:34:45Z"
+  },
+  {
+    "title": "Thin Ice: Wish You Were Here",
+    "url": "https://www.youtube.com/watch?v=y_2siWLRUAE",
+    "publishedAt": "2022-04-21T12:59:09Z"
+  },
+  {
+    "title": "Thin Ice: Pigs",
+    "url": "https://www.youtube.com/watch?v=6bSdrGP_09s",
+    "publishedAt": "2022-04-17T14:44:37Z"
+  },
+  {
+    "title": "Scrapple from the Apple",
+    "url": "https://www.youtube.com/watch?v=6kyHEt2_aHA",
+    "publishedAt": "2022-04-16T17:12:18Z"
   },
   {
     "title": "Thin Ice: Coming Back To Life",
@@ -1250,11 +1265,6 @@
     "publishedAt": "2022-01-13T11:05:17Z"
   },
   {
-    "title": "When Amanda Seed called 'Time' just before Gong's drum solo.",
-    "url": "https://www.youtube.com/watch?v=y1J8yuUhMWg",
-    "publishedAt": "2022-01-13T11:05:17Z"
-  },
-  {
     "title": "The Red Hot Pokers: Gangster of Love",
     "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
     "publishedAt": "2022-01-04T18:45:00Z"
@@ -1410,6 +1420,11 @@
     "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
+    "title": "Neil Lockwood - Rock Me Baby",
+    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
+    "publishedAt": "2020-05-22T22:30:03Z"
+  },
+  {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
     "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
     "publishedAt": "2020-05-06T23:03:51Z"
@@ -1418,11 +1433,6 @@
     "title": "Bob, Mugsy and Bob",
     "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
     "publishedAt": "2020-02-21T20:16:40Z"
-  },
-  {
-    "title": "Disco Wonderland - Band unknown to me",
-    "url": "https://www.youtube.com/watch?v=xOG5PMWLJ8w",
-    "publishedAt": "2019-12-22T19:20:03Z"
   },
   {
     "title": "James Oliver Band  - It's My Own Business",
@@ -1485,14 +1495,24 @@
     "publishedAt": "2019-04-25T09:14:37Z"
   },
   {
-    "title": "Kerosene Lane - Day of the Eagle",
-    "url": "https://www.youtube.com/watch?v=TUhMAK7-nh0",
-    "publishedAt": "2019-03-17T00:53:22Z"
-  },
-  {
     "title": "Rattlesnake - Rosalie",
     "url": "https://www.youtube.com/watch?v=LwpLsD925wU",
     "publishedAt": "2019-02-07T22:29:02Z"
+  },
+  {
+    "title": "A Couple of Bob and Gong - Whipping Post",
+    "url": "https://www.youtube.com/watch?v=OD4ghCPo-OE",
+    "publishedAt": "2019-01-29T09:23:48Z"
+  },
+  {
+    "title": "Unboxing The Tangent Proxy CD",
+    "url": "https://www.youtube.com/watch?v=VGnv1T6TXLE",
+    "publishedAt": "2018-11-22T16:35:47Z"
+  },
+  {
+    "title": "Focus Live at the Earl Haig Club Cardiff",
+    "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
+    "publishedAt": "2018-09-11T18:38:36Z"
   },
   {
     "title": "The Marc Davies Band: Ball & Chain",
@@ -1533,6 +1553,16 @@
     "title": "The Octave Doctors - The Needle and the Spoon",
     "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
     "publishedAt": "2017-11-25T17:03:32Z"
+  },
+  {
+    "title": "Theo and Steve with TangeKanic at Chepstow 2017",
+    "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
+    "publishedAt": "2017-10-12T16:44:09Z"
+  },
+  {
+    "title": "Some Drum Foolery from the Whitchurch Jam #100",
+    "url": "https://www.youtube.com/watch?v=H3m7qSYuzMI",
+    "publishedAt": "2017-09-25T14:26:00Z"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -1603,6 +1633,11 @@
     "title": "The Kenny Driscoll Band - Boulevard of Broken Dreams",
     "url": "https://www.youtube.com/watch?v=lrbL7VXapy0",
     "publishedAt": "2016-05-30T09:18:40Z"
+  },
+  {
+    "title": "Mark Isham - Spanish Key",
+    "url": "https://www.youtube.com/watch?v=TigxHK-AgS8",
+    "publishedAt": "2016-04-14T17:09:18Z"
   },
   {
     "title": "Classic Intensions: I'm Still In Love With You",
@@ -1765,11 +1800,6 @@
     "publishedAt": "2014-10-02T09:49:44Z"
   },
   {
-    "title": "Magenta - Anger",
-    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
-    "publishedAt": "2014-10-01T20:41:40Z"
-  },
-  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1905,11 +1935,6 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
-    "title": "Hard To Handle - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
-    "publishedAt": "2014-07-20T22:33:30Z"
-  },
-  {
     "title": "The Middle - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=9ptvaBGPqlg",
     "publishedAt": "2014-07-20T22:33:30Z"
@@ -1983,6 +2008,11 @@
     "title": "My Best friend's Girl - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
     "publishedAt": "2014-07-17T09:07:44Z"
+  },
+  {
+    "title": "All Or Nothing - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
     "title": "Whole Lotta Rosie - Tiger Bay",
@@ -2158,6 +2188,11 @@
     "title": "Craig Burton at the Heathcock Wednesday Jam Session, Cardiff.",
     "url": "https://www.youtube.com/watch?v=xM2oHCvyt4g",
     "publishedAt": "2010-11-02T18:45:22Z"
+  },
+  {
+    "title": "Stan Kenton - Artistry in Rhythm (9)",
+    "url": "https://www.youtube.com/watch?v=x3EkI3ISz28",
+    "publishedAt": "2008-01-13T16:28:30Z"
   },
   {
     "title": "Stan Kenton - The Peanut Vendor",
