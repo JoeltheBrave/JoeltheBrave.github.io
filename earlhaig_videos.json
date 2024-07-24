@@ -55,6 +55,11 @@
     "publishedAt": "2024-03-25T17:46:25Z"
   },
   {
+    "title": "Jedis: Itchycoo Park",
+    "url": "https://www.youtube.com/watch?v=tZSU9RDqKrI",
+    "publishedAt": "2024-03-23T09:15:51Z"
+  },
+  {
     "title": "Stereoironics: The Bartender and the Thief",
     "url": "https://www.youtube.com/watch?v=YUF5qyyW2lE",
     "publishedAt": "2024-03-22T15:57:39Z"
@@ -105,6 +110,11 @@
     "publishedAt": "2024-01-25T15:04:40Z"
   },
   {
+    "title": "Five Points Gang: Let's Stay Together",
+    "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
+    "publishedAt": "2024-01-19T17:02:44Z"
+  },
+  {
     "title": "The Soul Miners: Hit The Road Jack",
     "url": "https://www.youtube.com/watch?v=-lhVHGo_fK4",
     "publishedAt": "2024-01-16T21:04:31Z"
@@ -118,11 +128,6 @@
     "title": "The Jug Band: The Midnight Special",
     "url": "https://www.youtube.com/watch?v=zFn_jcTsa_Y",
     "publishedAt": "2024-01-15T08:33:28Z"
-  },
-  {
-    "title": "The Soul Miners: Ain't No Mountain High Enough",
-    "url": "https://www.youtube.com/watch?v=6VwiM_r3efs",
-    "publishedAt": "2024-01-14T20:20:45Z"
   },
   {
     "title": "James Davies: Ain't No Sunshine",
@@ -190,14 +195,19 @@
     "publishedAt": "2023-09-29T15:23:23Z"
   },
   {
-    "title": "Outback: Best Of You",
-    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
-    "publishedAt": "2023-09-04T11:47:27Z"
+    "title": "The Blues Sisters: Lipstick, Powder and Paint",
+    "url": "https://www.youtube.com/watch?v=15Fux8-S2do",
+    "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
     "title": "Dansette: Take Me To The River",
     "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
     "publishedAt": "2023-08-11T17:50:22Z"
+  },
+  {
+    "title": "Stone Free: Live at The Point June 2003",
+    "url": "https://www.youtube.com/watch?v=LLyOAC9oNDM",
+    "publishedAt": "2023-08-11T09:11:05Z"
   },
   {
     "title": "Dirty DC: For Those About To Rock (We Salute You)",
@@ -235,19 +245,9 @@
     "publishedAt": "2023-07-12T13:07:15Z"
   },
   {
-    "title": "Stone Free: Live at the Point, Cardiff.",
-    "url": "https://www.youtube.com/watch?v=uJ8qQ5DCjxI",
-    "publishedAt": "2023-05-28T15:07:58Z"
-  },
-  {
-    "title": "Expecting Company: Hey Joe",
-    "url": "https://www.youtube.com/watch?v=z4GbRP5jTww",
-    "publishedAt": "2023-05-26T09:02:42Z"
-  },
-  {
-    "title": "Snatch It Back: Hot Stuff",
-    "url": "https://www.youtube.com/watch?v=oNT8M8PcA0A",
-    "publishedAt": "2023-05-20T09:43:37Z"
+    "title": "The Sandboys: Sell Out",
+    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
+    "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
     "title": "Bryony Sier: Personal Monster",
@@ -500,26 +500,6 @@
     "publishedAt": "2022-12-02T09:57:03Z"
   },
   {
-    "title": "Anonymous Iconoclasts: Long Way Down",
-    "url": "https://www.youtube.com/watch?v=zYHyjBibrS8",
-    "publishedAt": "2022-12-08T11:38:01Z"
-  },
-  {
-    "title": "Expecting Company: While My Guitar Gently Weeps",
-    "url": "https://www.youtube.com/watch?v=5QICXTJ5TVM",
-    "publishedAt": "2022-12-06T23:04:23Z"
-  },
-  {
-    "title": "Country Stormz: Down By The River",
-    "url": "https://www.youtube.com/watch?v=5e2C0_kmOeg",
-    "publishedAt": "2022-12-06T10:25:27Z"
-  },
-  {
-    "title": "Small Fakers: All Or Nothing",
-    "url": "https://www.youtube.com/watch?v=g4Fi2enOrOc",
-    "publishedAt": "2022-12-06T10:25:22Z"
-  },
-  {
     "title": "The Worried Men: Nova",
     "url": "https://www.youtube.com/watch?v=6H9sNBBX0GY",
     "publishedAt": "2022-12-02T09:57:03Z"
@@ -748,6 +728,46 @@
     "title": "Tri-City Fanfare: Mosquito Medley",
     "url": "https://www.youtube.com/watch?v=mlRa0tYf2oQ",
     "publishedAt": "2022-09-14T14:43:18Z"
+  },
+  {
+    "title": "ACAB: Lovely Day",
+    "url": "https://www.youtube.com/watch?v=mu5dWgyE7iU",
+    "publishedAt": "2022-09-14T12:56:39Z"
+  },
+  {
+    "title": "Outback: Running Down A Dream",
+    "url": "https://www.youtube.com/watch?v=t1yHbejkLrQ",
+    "publishedAt": "2022-09-12T17:54:07Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: Never-ending Journey",
+    "url": "https://www.youtube.com/watch?v=8e0FaC03dq0",
+    "publishedAt": "2022-09-05T18:26:21Z"
+  },
+  {
+    "title": "Parcel of Rogues: All Around My Hat",
+    "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
+    "publishedAt": "2022-09-04T13:37:15Z"
+  },
+  {
+    "title": "ACAB: Lovely Day",
+    "url": "https://www.youtube.com/watch?v=mu5dWgyE7iU",
+    "publishedAt": "2022-09-14T12:56:39Z"
+  },
+  {
+    "title": "Outback: Running Down A Dream",
+    "url": "https://www.youtube.com/watch?v=t1yHbejkLrQ",
+    "publishedAt": "2022-09-12T17:54:07Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: Never-ending Journey",
+    "url": "https://www.youtube.com/watch?v=8e0FaC03dq0",
+    "publishedAt": "2022-09-05T18:26:21Z"
+  },
+  {
+    "title": "Parcel of Rogues: All Around My Hat",
+    "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
+    "publishedAt": "2022-09-04T13:37:15Z"
   },
   {
     "title": "A Parcel of Rogues: Part of the Union",
@@ -980,16 +1000,6 @@
     "publishedAt": "2022-04-23T16:31:29Z"
   },
   {
-    "title": "Thin Ice: Shine On You Crazy Diamond",
-    "url": "https://www.youtube.com/watch?v=WxTB6-mTZBQ",
-    "publishedAt": "2022-04-22T23:34:45Z"
-  },
-  {
-    "title": "Thin Ice: Wish You Were Here",
-    "url": "https://www.youtube.com/watch?v=y_2siWLRUAE",
-    "publishedAt": "2022-04-21T12:59:09Z"
-  },
-  {
     "title": "Thin Ice: Pigs",
     "url": "https://www.youtube.com/watch?v=6bSdrGP_09s",
     "publishedAt": "2022-04-17T14:44:37Z"
@@ -998,6 +1008,11 @@
     "title": "Scrapple from the Apple",
     "url": "https://www.youtube.com/watch?v=6kyHEt2_aHA",
     "publishedAt": "2022-04-16T17:12:18Z"
+  },
+  {
+    "title": "Thin Ice: Coming Back To Life",
+    "url": "https://www.youtube.com/watch?v=YAXu3pG2XvU",
+    "publishedAt": "2022-04-15T12:53:33Z"
   },
   {
     "title": "Thin Ice: Dogs",
@@ -1170,11 +1185,6 @@
     "publishedAt": "2022-02-07T12:55:55Z"
   },
   {
-    "title": "Neil Lockwood and the Blue Lights: The Sky is Crying",
-    "url": "https://www.youtube.com/watch?v=muRNBbS6WN4",
-    "publishedAt": "2022-02-07T12:55:36Z"
-  },
-  {
     "title": "Freshly Cut Grass: People Get Ready",
     "url": "https://www.youtube.com/watch?v=gjO-JQPU-rM",
     "publishedAt": "2022-02-03T11:53:41Z"
@@ -1238,21 +1248,6 @@
     "title": "The Troubadours: Third Stone From The Sun & Tomorrow Never Knows (Medley)",
     "url": "https://www.youtube.com/watch?v=jLyh3khn1uI",
     "publishedAt": "2022-01-15T23:05:33Z"
-  },
-  {
-    "title": "When Amanda Seed called 'Time' just before Gong's drum solo.",
-    "url": "https://www.youtube.com/watch?v=y1J8yuUhMWg",
-    "publishedAt": "2022-01-13T11:05:17Z"
-  },
-  {
-    "title": "The Red Hot Pokers: Gangster of Love",
-    "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
-    "publishedAt": "2022-01-04T18:45:00Z"
-  },
-  {
-    "title": "The Troubadours: Now I’m Here",
-    "url": "https://www.youtube.com/watch?v=8pTq3F6uUAU",
-    "publishedAt": "2022-01-20T20:56:25Z"
   },
   {
     "title": "VASTS: Radar Love",
@@ -1333,6 +1328,11 @@
     "title": "The Flares: Brown Sugar",
     "url": "https://www.youtube.com/watch?v=lWF9EBHxro0",
     "publishedAt": "2021-12-02T20:31:20Z"
+  },
+  {
+    "title": "Live Dead '69: Going Down The Road Feeling Bad",
+    "url": "https://www.youtube.com/watch?v=8C2_awgpehk",
+    "publishedAt": "2021-11-30T21:46:46Z"
   },
   {
     "title": "The Flares: Whole Lotta Love (Medley)",
@@ -1495,14 +1495,14 @@
     "publishedAt": "2019-09-13T11:27:31Z"
   },
   {
+    "title": "A Couple of Bob and Gong - Whipping Post",
+    "url": "https://www.youtube.com/watch?v=OD4ghCPo-OE",
+    "publishedAt": "2019-01-29T09:23:48Z"
+  },
+  {
     "title": "Unboxing The Tangent Proxy CD",
     "url": "https://www.youtube.com/watch?v=VGnv1T6TXLE",
     "publishedAt": "2018-11-22T16:35:47Z"
-  },
-  {
-    "title": "Focus Live at the Earl Haig Club Cardiff",
-    "url": "https://www.youtube.com/watch?v=5qxrsZPhQTM",
-    "publishedAt": "2018-09-11T18:38:36Z"
   },
   {
     "title": "The Marc Davies Band: Ball & Chain",
@@ -1548,11 +1548,6 @@
     "title": "Theo and Steve with TangeKanic at Chepstow 2017",
     "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
     "publishedAt": "2017-10-12T16:44:09Z"
-  },
-  {
-    "title": "Some Drum Foolery from the Whitchurch Jam #100",
-    "url": "https://www.youtube.com/watch?v=H3m7qSYuzMI",
-    "publishedAt": "2017-09-25T14:26:00Z"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -1740,19 +1735,14 @@
     "publishedAt": "2014-12-21T15:08:36Z"
   },
   {
-    "title": "The Kenny Driscoll Band in the recording studio.",
-    "url": "https://www.youtube.com/watch?v=Y2TA3uhemfw",
-    "publishedAt": "2014-12-21T15:08:36Z"
-  },
-  {
     "title": "The Kenny Driscoll Band Drum Quiz",
     "url": "https://www.youtube.com/watch?v=jfJO76f5qL4",
     "publishedAt": "2014-12-09T14:53:17Z"
   },
   {
-    "title": "drumsmixingdesk",
-    "url": "https://www.youtube.com/watch?v=vMEnw7RgRmk",
-    "publishedAt": "2014-11-20T12:01:02Z"
+    "title": "Godsticks at Monnow Valley Studio: Drums set-up",
+    "url": "https://www.youtube.com/watch?v=b4PTqBKeRxk",
+    "publishedAt": "2014-11-17T14:58:32Z"
   },
   {
     "title": "Steve Roberts The Bells - Version 2",
@@ -1790,11 +1780,6 @@
     "publishedAt": "2014-10-02T09:49:44Z"
   },
   {
-    "title": "Magenta - Anger",
-    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
-    "publishedAt": "2014-10-01T20:41:40Z"
-  },
-  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1808,6 +1793,11 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
+  },
+  {
+    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
+    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
+    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1925,11 +1915,6 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
-    "title": "Hard To Handle - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=_NNKV6gyiEg",
-    "publishedAt": "2014-07-20T22:33:30Z"
-  },
-  {
     "title": "The Middle - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=9ptvaBGPqlg",
     "publishedAt": "2014-07-20T22:33:30Z"
@@ -1990,6 +1975,46 @@
     "publishedAt": "2014-07-18T07:49:34Z"
   },
   {
+    "title": "Baby Please Don't Go - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Tequila - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "My Best friend's Girl - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
+    "publishedAt": "2014-07-17T09:07:44Z"
+  },
+  {
+    "title": "Start Me Up - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWMJWhWGuiw",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Baby Please Don't Go - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Tequila - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "My Best friend's Girl - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
+    "publishedAt": "2014-07-17T09:07:44Z"
+  },
+  {
+    "title": "All Or Nothing - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
     "title": "Whole Lotta Rosie - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=zRI_p9GDm9U",
     "publishedAt": "2014-07-17T09:07:43Z"
@@ -2023,11 +2048,6 @@
     "title": "Riding Along In My Automobile and Route 66 - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=y3cm3qoC9gk",
     "publishedAt": "2014-07-15T16:48:35Z"
-  },
-  {
-    "title": "Red House - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=zd7NCLS5vt0",
-    "publishedAt": "2014-07-15T16:49:00Z"
   },
   {
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
