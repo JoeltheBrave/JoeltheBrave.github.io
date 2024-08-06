@@ -1,44 +1,5 @@
 [
   {
-    "id": "DwNp8Q",
-    "headline": "Monday Open MIC/ Jam Session",
-    "title": "Monday Open MIC/ Jam Session",
-    "startDate": "2024-08-05",
-    "endDate": "2024-08-05",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for the Monday Jam Session with The Sundogs!\n\nEvery Monday evening, we warmly invite...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/fd59b543-cf1b-4a7e-a48b-af79595764d6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Sundogs"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-open-mic-jam-session/7157384",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-29T14:07:54+01:00",
-    "created": "2024-07-03T11:32:52+00:00"
-  },
-  {
     "id": "ymWY8A",
     "headline": "Creedence Clearwater Review",
     "title": "Global Promotions Live",
