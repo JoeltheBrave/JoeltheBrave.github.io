@@ -1,46 +1,5 @@
 [
   {
-    "id": "DwEl2N",
-    "headline": "Palm Tree Antics",
-    "title": "Palm Tree Antics",
-    "startDate": "2024-08-11",
-    "endDate": "2024-08-11",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:31pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Reggae five piece playing all the old skool reggae hit with a bit of ska...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/0756cc6c-2346-4791-9797-0d711f4fbc16.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5jBj",
-        "name": "Palm Tree Antics"
-      }
-    ],
-    "genre": [
-      "music",
-      "reggae"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics/7145684",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-06-19T13:32:46+01:00",
-    "created": "2024-06-19T12:32:35+00:00"
-  },
-  {
     "id": "mDAL0A",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
