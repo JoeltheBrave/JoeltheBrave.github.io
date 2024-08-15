@@ -470,6 +470,49 @@
     "created": "2024-04-22T10:52:32+00:00"
   },
   {
+    "id": "1Wgq0o",
+    "headline": "Marc Davies Band",
+    "title": "Marc Davies Band",
+    "startDate": "2024-08-24",
+    "endDate": "2024-08-24",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Experience the soulful and electrifying performance of Mark Davies Band, as they bring their blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bf59dcaf-a8f2-4939-92de-bbf86b914c01.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Marc Davies Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/marc-davies-band/7180728",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-14T16:06:23+01:00",
+    "created": "2024-08-14T15:06:12+00:00"
+  },
+  {
     "id": "XXzwe0",
     "headline": "Shameless",
     "title": "Shameless",
@@ -791,8 +834,8 @@
   },
   {
     "id": "oB9qg5",
-    "headline": "James Oliver Band",
-    "title": "James Oliver Band",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTimeString": "8:00pm",
@@ -826,9 +869,9 @@
       "blues",
       "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7177870",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T13:37:34+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7177870",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-08-14T16:06:21+01:00",
     "created": "2024-08-07T12:37:22+00:00"
   },
   {
@@ -1079,7 +1122,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7177938",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:37+01:00",
+    "lastUpdate": "2024-08-14T16:24:23+01:00",
     "created": "2024-08-07T14:32:26+00:00"
   },
   {
@@ -1373,7 +1416,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "Join us for our Monday Night Open Mic and Jam Session! We welcome musicians of...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/e3525264-cf20-4d73-b2ef-06312dae9b31.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1383,18 +1426,23 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Familiar Beers"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7177871",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T13:45:04+01:00",
+    "lastUpdate": "2024-08-14T16:40:07+01:00",
     "created": "2024-08-07T12:44:53+00:00"
   },
   {
     "id": "E9AkWW",
-    "headline": "Andy Johnson",
-    "title": "Andy Johnson",
+    "headline": "Strictly Acoustic Open Mic Session",
+    "title": "Strictly Acoustic Open Mic Session",
     "startDate": "2024-09-17",
     "endDate": "2024-09-17",
     "startTimeString": "8:00pm",
@@ -1426,15 +1474,15 @@
       "music",
       "acoustic"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7177877",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-open-mic-session/7177877",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:03+01:00",
+    "lastUpdate": "2024-08-14T16:46:01+01:00",
     "created": "2024-08-07T14:31:51+00:00"
   },
   {
     "id": "Aw8aLx",
-    "headline": "Junior Hacksaw",
-    "title": "Junior Hacksaw",
+    "headline": "The Godseys",
+    "title": "The Godseys",
     "startDate": "2024-09-20",
     "endDate": "2024-09-20",
     "startTimeString": "9:00pm",
@@ -1447,9 +1495,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Junior Hacksaw\nFree entry",
+    "description": "The Godseys at The Earl Haig Club Bar.\nThe Godseys are from the Wye Valley area,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/0d17e9b6-6062-449a-b3f2-34ebd4baaf40.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/5147ca00-a3cf-48d2-9a35-2e1ffc39d234.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1459,8 +1507,7 @@
     },
     "artists": [
       {
-        "id": "0EER",
-        "name": "Junior Hacksaw"
+        "name": "The Godseys"
       }
     ],
     "genre": [
@@ -1469,9 +1516,9 @@
       "blues",
       "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/junior-hacksaw/7177899",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:21+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-godseys/7177899",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-08-14T17:02:53+01:00",
     "created": "2024-08-07T14:32:09+00:00"
   },
   {
@@ -1599,6 +1646,48 @@
     "created": "2024-03-05T07:47:20+00:00"
   },
   {
+    "id": "PaPe7Z",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2024-09-21",
+    "endDate": "2024-09-21",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:01pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance at The Earl Haig Club Bar.\nSouth Wales' premier mod covers band playing classics...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a0dd0b55-d667-4207-9064-53938b8a228d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7180766",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-14T18:47:51+01:00",
+    "created": "2024-08-14T17:47:39+00:00"
+  },
+  {
     "id": "DwNayp",
     "headline": "Firewater",
     "title": "Firewater",
@@ -1652,8 +1741,8 @@
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/firewater/7177940",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:43+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-08-14T17:02:55+01:00",
     "created": "2024-08-07T14:32:32+00:00"
   },
   {
