@@ -1,47 +1,5 @@
 [
   {
-    "id": "ym6yNk",
-    "headline": "The Flares",
-    "title": "The Flares",
-    "startDate": "2024-08-18",
-    "endDate": "2024-08-18",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:24pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Flares",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e745d37a-8f54-4918-9a87-be52ff960fe8.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Flares"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-flares/7167458",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-22T09:41:14+01:00",
-    "created": "2024-07-16T08:14:53+00:00"
-  },
-  {
     "id": "K9v9GG",
     "headline": "Monday Night Open Mic and Jam Session.",
     "title": "Monday Night Open Mic and Jam Session.",
