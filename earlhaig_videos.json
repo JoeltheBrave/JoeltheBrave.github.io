@@ -495,31 +495,6 @@
     "publishedAt": "2022-12-08T13:23:15Z"
   },
   {
-    "title": "The Philo Beddoe Band: Stuck In The Middle With You & Oye Como Va",
-    "url": "https://www.youtube.com/watch?v=vW3ZammjlLk",
-    "publishedAt": "2023-01-03T10:28:53Z"
-  },
-  {
-    "title": "The James Oliver Band: Who Do You Love",
-    "url": "https://www.youtube.com/watch?v=pQmgFX4y-a0",
-    "publishedAt": "2022-12-31T14:02:40Z"
-  },
-  {
-    "title": "The Philo Beddoe Band: All That Glitters Ain't Gold",
-    "url": "https://www.youtube.com/watch?v=Z-vq3lMszqc",
-    "publishedAt": "2022-12-10T00:05:25Z"
-  },
-  {
-    "title": "The Karrots: Hideaway",
-    "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
-    "publishedAt": "2022-12-09T09:21:35Z"
-  },
-  {
-    "title": "Just Friends: I Get A Kick Out Of You",
-    "url": "https://www.youtube.com/watch?v=LXFTmBMNkCI",
-    "publishedAt": "2022-12-08T13:23:15Z"
-  },
-  {
     "title": "The S'punkles: New Rose",
     "url": "https://www.youtube.com/watch?v=wKTXSSpvyCQ",
     "publishedAt": "2022-12-08T13:22:16Z"
@@ -690,6 +665,11 @@
     "publishedAt": "2022-10-17T10:27:38Z"
   },
   {
+    "title": "Letz Zep: Since I Been Loving You",
+    "url": "https://www.youtube.com/watch?v=vNStz3pgEDk",
+    "publishedAt": "2022-10-15T18:41:52Z"
+  },
+  {
     "title": "Roosevelt: Thanks for the Giving",
     "url": "https://www.youtube.com/watch?v=IDUHVtqG5N8",
     "publishedAt": "2022-10-15T18:39:40Z"
@@ -788,6 +768,11 @@
     "title": "Parcel of Rogues: All Around My Hat",
     "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
     "publishedAt": "2022-09-04T13:37:15Z"
+  },
+  {
+    "title": "A Parcel of Rogues: Part of the Union",
+    "url": "https://www.youtube.com/watch?v=y1Bd20YkVX8",
+    "publishedAt": "2022-08-28T11:07:15Z"
   },
   {
     "title": "Bluesfire Blues Band: So Many Roads",
@@ -993,6 +978,21 @@
     "title": "Capital City Jazz Orchestra: Mueva Los Huesos (Shake Your Bones)",
     "url": "https://www.youtube.com/watch?v=s0Gv5bYhKn0",
     "publishedAt": "2022-05-04T21:27:34Z"
+  },
+  {
+    "title": "The Philo Beddoe Band: Green Shine",
+    "url": "https://www.youtube.com/watch?v=XcS9JDc6dY0",
+    "publishedAt": "2022-05-04T12:48:14Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: I Be Serious 'Bout Dem Blues",
+    "url": "https://www.youtube.com/watch?v=yBDoI78Nw60",
+    "publishedAt": "2022-05-04T12:48:21Z"
+  },
+  {
+    "title": "Philo Beddoe Band: Roadhouse Blues",
+    "url": "https://www.youtube.com/watch?v=uaRUB_1E3nA",
+    "publishedAt": "2022-05-03T20:40:33Z"
   },
   {
     "title": "Thin Ice: Money",
@@ -1245,21 +1245,6 @@
     "publishedAt": "2022-01-20T20:56:25Z"
   },
   {
-    "title": "Earl Haig Club Monday Jam Session",
-    "url": "https://www.youtube.com/watch?v=RS2yKumQznU",
-    "publishedAt": "2022-01-27T00:13:55Z"
-  },
-  {
-    "title": "Sweatbox",
-    "url": "https://www.youtube.com/watch?v=HpghLfbXuGA",
-    "publishedAt": "2022-01-25T22:23:22Z"
-  },
-  {
-    "title": "The Troubadours: Now I’m Here",
-    "url": "https://www.youtube.com/watch?v=8pTq3F6uUAU",
-    "publishedAt": "2022-01-20T20:56:25Z"
-  },
-  {
     "title": "VASTS: Radar Love",
     "url": "https://www.youtube.com/watch?v=3p-DsSavehc",
     "publishedAt": "2022-01-19T09:51:39Z"
@@ -1300,9 +1285,9 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
-    "title": "Roosevelt: Hold on Tight",
-    "url": "https://www.youtube.com/watch?v=KxSUlsc9NZM",
-    "publishedAt": "2021-12-14T11:58:00Z"
+    "title": "Roosevelt: Somewhere In The City",
+    "url": "https://www.youtube.com/watch?v=YE-6UjHxbqg",
+    "publishedAt": "2021-12-14T11:57:08Z"
   },
   {
     "title": "Roosevelt: Heaven's Gate",
@@ -1315,11 +1300,6 @@
     "publishedAt": "2021-12-07T10:42:19Z"
   },
   {
-    "title": "New Street Groove: Billie Jean",
-    "url": "https://www.youtube.com/watch?v=pYUd9BDNy1E",
-    "publishedAt": "2021-12-07T10:42:33Z"
-  },
-  {
     "title": "New Street Groove: Kiss",
     "url": "https://www.youtube.com/watch?v=k8npAxXaB-w",
     "publishedAt": "2021-12-07T10:42:27Z"
@@ -1328,11 +1308,6 @@
     "title": "The Flares: Back in the USSR",
     "url": "https://www.youtube.com/watch?v=XWAtrQwXqgM",
     "publishedAt": "2021-12-03T11:26:06Z"
-  },
-  {
-    "title": "The Flares: Pinball Wizard",
-    "url": "https://www.youtube.com/watch?v=06dHmrc9mGk",
-    "publishedAt": "2021-12-02T20:31:26Z"
   },
   {
     "title": "The Flares: Brown Sugar",
@@ -1415,6 +1390,11 @@
     "publishedAt": "2021-10-10T10:43:13Z"
   },
   {
+    "title": "Moonstorm playing \"You're No Good\"",
+    "url": "https://www.youtube.com/watch?v=zOSK9dUUL6A",
+    "publishedAt": "2021-10-01T10:00:47Z"
+  },
+  {
     "title": "The Jug Band",
     "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
     "publishedAt": "2021-10-01T09:54:25Z"
@@ -1428,11 +1408,6 @@
     "title": "James Oliver - It's My Own Business",
     "url": "https://www.youtube.com/watch?v=9UrCusRaFco",
     "publishedAt": "2020-05-24T14:19:21Z"
-  },
-  {
-    "title": "Neil Lockwood - Rock Me Baby",
-    "url": "https://www.youtube.com/watch?v=rVOPLnP8Iyk",
-    "publishedAt": "2020-05-22T22:30:03Z"
   },
   {
     "title": "Garden Bird Feeder, Lumix GH5 video test",
@@ -1465,6 +1440,11 @@
     "publishedAt": "2019-11-13T11:19:38Z"
   },
   {
+    "title": "James Oliver Band - She's The One",
+    "url": "https://www.youtube.com/watch?v=ThFudyiaoZ8",
+    "publishedAt": "2019-11-13T11:11:13Z"
+  },
+  {
     "title": "James Oliver Band - Stay Out of Trouble",
     "url": "https://www.youtube.com/watch?v=cjipy5cmQmI",
     "publishedAt": "2019-11-13T11:11:05Z"
@@ -1490,34 +1470,24 @@
     "publishedAt": "2019-10-19T14:35:31Z"
   },
   {
-    "title": "James Oliver Band - The Missing Link",
-    "url": "https://www.youtube.com/watch?v=ksOPLxowD0s",
-    "publishedAt": "2019-11-11T12:29:21Z"
-  },
-  {
-    "title": "The Philo Beddoe Band - On the Run",
-    "url": "https://www.youtube.com/watch?v=IBi5POw_sK8",
-    "publishedAt": "2019-11-10T10:37:27Z"
-  },
-  {
-    "title": "Marc Davies Band - Ball and Chain",
-    "url": "https://www.youtube.com/watch?v=IgO-71mf1Ww",
-    "publishedAt": "2019-10-19T14:35:31Z"
-  },
-  {
-    "title": "James Oliver: There's a Red House Up The Rhondda",
-    "url": "https://www.youtube.com/watch?v=Wc8MZwnuUd8",
-    "publishedAt": "2019-09-17T12:31:10Z"
-  },
-  {
     "title": "The Heavy Quartet - Walking Home at Midnight",
     "url": "https://www.youtube.com/watch?v=P2T4M0ajMZA",
     "publishedAt": "2019-09-13T11:27:31Z"
   },
   {
+    "title": "The Heavy Quartet: And Your Heart Beats",
+    "url": "https://www.youtube.com/watch?v=olmyyUcBtqk",
+    "publishedAt": "2019-07-22T16:14:32Z"
+  },
+  {
     "title": "The Heavy Quartet - Hardware",
     "url": "https://www.youtube.com/watch?v=jJUnAYFhSVA",
     "publishedAt": "2019-04-25T09:14:37Z"
+  },
+  {
+    "title": "Bluesters - Riders on the Storm",
+    "url": "https://www.youtube.com/watch?v=4pObOVzC4uI",
+    "publishedAt": "2019-03-30T16:42:27Z"
   },
   {
     "title": "Kerosene Lane - Day of the Eagle",
@@ -1565,6 +1535,11 @@
     "publishedAt": "2018-05-05T18:50:42Z"
   },
   {
+    "title": "The Marc Davies Band - Foxy Lady",
+    "url": "https://www.youtube.com/watch?v=CGG6LSZ-xWI",
+    "publishedAt": "2018-04-12T15:31:38Z"
+  },
+  {
     "title": "The Fugitives - Greyhound Bus",
     "url": "https://www.youtube.com/watch?v=_3rTrOVfHNE",
     "publishedAt": "2018-03-03T18:07:01Z"
@@ -1583,16 +1558,6 @@
     "title": "The Octave Doctors - The Needle and the Spoon",
     "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
     "publishedAt": "2017-11-25T17:03:32Z"
-  },
-  {
-    "title": "Theo and Steve with TangeKanic at Chepstow 2017",
-    "url": "https://www.youtube.com/watch?v=XVnVC_XTXLU",
-    "publishedAt": "2017-10-12T16:44:09Z"
-  },
-  {
-    "title": "Some Drum Foolery from the Whitchurch Jam #100",
-    "url": "https://www.youtube.com/watch?v=H3m7qSYuzMI",
-    "publishedAt": "2017-09-25T14:26:00Z"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -1620,6 +1585,11 @@
     "publishedAt": "2017-06-23T23:25:31Z"
   },
   {
+    "title": "The Kenny Driscoll Band - To Love Somebody",
+    "url": "https://www.youtube.com/watch?v=Io4nmkpoERE",
+    "publishedAt": "2017-06-23T23:25:31Z"
+  },
+  {
     "title": "The Kenny Driscoll Band - Runnin' Down A Dream",
     "url": "https://www.youtube.com/watch?v=Mfu32BnHNCM",
     "publishedAt": "2017-06-23T23:25:31Z"
@@ -1628,11 +1598,6 @@
     "title": "Jazz at Cardiff College of Music and Drama",
     "url": "https://www.youtube.com/watch?v=y13yBp972OE",
     "publishedAt": "2017-06-17T11:26:12Z"
-  },
-  {
-    "title": "East Wales vs West Wales Under 11 Rugby Union 1993",
-    "url": "https://www.youtube.com/watch?v=b3P6sNvG-Q0",
-    "publishedAt": "2017-03-28T22:33:53Z"
   },
   {
     "title": "East Wales vs West Wales Under 11 Rugby Union 1993",
@@ -1648,11 +1613,6 @@
     "title": "Stratus-Fear - Stratus",
     "url": "https://www.youtube.com/watch?v=4MARJAtVakw",
     "publishedAt": "2016-11-06T21:55:43Z"
-  },
-  {
-    "title": "Stratus-Fear - In A Broken Dream",
-    "url": "https://www.youtube.com/watch?v=DbOK8Ykjch8",
-    "publishedAt": "2016-10-24T19:39:07Z"
   },
   {
     "title": "Micky Gee and The Sneakers Brecon 2004",
@@ -1685,11 +1645,6 @@
     "publishedAt": "2015-11-25T23:02:16Z"
   },
   {
-    "title": "Aquatarkus Cluny 30 July 2015 - Drum Cam",
-    "url": "https://www.youtube.com/watch?v=6_aCh02Bjok",
-    "publishedAt": "2015-09-11T14:55:27Z"
-  },
-  {
     "title": "Low Profile @ Royal Oak, Whitchurch, Cardiff",
     "url": "https://www.youtube.com/watch?v=ekF_rqwaKOM",
     "publishedAt": "2015-08-22T15:05:06Z"
@@ -1720,29 +1675,49 @@
     "publishedAt": "2015-07-18T08:34:40Z"
   },
   {
-    "title": "The Billy Pezzack Trio - Dance Crazed",
-    "url": "https://www.youtube.com/watch?v=3_HQUunBXu4",
-    "publishedAt": "2015-06-24T22:22:58Z"
-  },
-  {
-    "title": "The Billy Pezzack Trio - Audiograph",
-    "url": "https://www.youtube.com/watch?v=7RgvvGbbggE",
-    "publishedAt": "2015-06-24T22:23:31Z"
-  },
-  {
     "title": "The Billy Pezzack Trio - Your Blue Sky",
     "url": "https://www.youtube.com/watch?v=_k3C1t5GoZg",
     "publishedAt": "2015-06-21T19:28:02Z"
   },
   {
+    "title": "Noddy's Puncture - Rondo",
+    "url": "https://www.youtube.com/watch?v=-iBQHiwX-5Y",
+    "publishedAt": "2015-06-13T23:32:25Z"
+  },
+  {
+    "title": "Godsticks: Recording 'Convergence' from ‘The Envisage Conundrum’.",
+    "url": "https://www.youtube.com/watch?v=NsV1MWhxjY8",
+    "publishedAt": "2015-06-04T16:52:07Z"
+  },
+  {
+    "title": "Emerson Lake & Palmer Tribute Noddy's Puncture - Tarkus",
+    "url": "https://www.youtube.com/watch?v=MUn-AvJRb-4",
+    "publishedAt": "2015-05-28T17:51:27Z"
+  },
+  {
+    "title": "MUVI No Proof No Glory Low Light Test",
+    "url": "https://www.youtube.com/watch?v=0GUd1wF-NGg",
+    "publishedAt": "2015-04-25T11:52:33Z"
+  },
+  {
+    "title": "Rebel Yell - The Kenny Driscoll Band 2014",
+    "url": "https://www.youtube.com/watch?v=03hr2zqvHIw",
+    "publishedAt": "2015-04-17T09:21:00Z"
+  },
+  {
+    "title": "Noddy's Puncture",
+    "url": "https://www.youtube.com/watch?v=PwHpKPOX7LQ",
+    "publishedAt": "2015-03-10T22:21:36Z"
+  },
+  {
+    "title": "Noddy's Puncture Promotional Video",
+    "url": "https://www.youtube.com/watch?v=ZlzOq_q3k_o",
+    "publishedAt": "2015-02-24T09:04:10Z"
+  },
+  {
     "title": "Kerry Shacklett & Steve Barber - Toccata",
     "url": "https://www.youtube.com/watch?v=gmnU95bEQS4",
     "publishedAt": "2015-02-10T21:59:52Z"
-  },
-  {
-    "title": "The Kenny Driscoll Band in the recording studio.",
-    "url": "https://www.youtube.com/watch?v=Y2TA3uhemfw",
-    "publishedAt": "2014-12-21T15:08:36Z"
   },
   {
     "title": "The Kenny Driscoll Band Drum Quiz",
@@ -1790,6 +1765,16 @@
     "publishedAt": "2014-10-02T09:50:07Z"
   },
   {
+    "title": "Magenta - Demons",
+    "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
+    "publishedAt": "2014-10-02T09:49:44Z"
+  },
+  {
+    "title": "Magenta - The Lizard King",
+    "url": "https://www.youtube.com/watch?v=3K6t15zuh4k",
+    "publishedAt": "2014-10-01T07:29:46Z"
+  },
+  {
     "title": "Magenta - The White Witch",
     "url": "https://www.youtube.com/watch?v=zONqbdqoPys",
     "publishedAt": "2014-10-01T02:00:19Z"
@@ -1803,11 +1788,6 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1855,11 +1835,6 @@
     "publishedAt": "2014-08-31T09:21:01Z"
   },
   {
-    "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Pictures At An Exhibition",
-    "url": "https://www.youtube.com/watch?v=qSo5Kdddxvc",
-    "publishedAt": "2014-08-22T15:28:36Z"
-  },
-  {
     "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Trilogy",
     "url": "https://www.youtube.com/watch?v=k6xGNuLfqz0",
     "publishedAt": "2014-08-20T07:16:10Z"
@@ -1887,11 +1862,6 @@
   {
     "title": "All The Small Things - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=4k7v9hYx9vY",
-    "publishedAt": "2014-07-21T07:12:51Z"
-  },
-  {
-    "title": "Paint It Black - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=Sqf7QDtx9Fw",
     "publishedAt": "2014-07-21T07:12:51Z"
   },
   {
@@ -1983,6 +1953,36 @@
     "title": "Reelin' and Rocking - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=PM7TRRudVIw",
     "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Start Me Up - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWMJWhWGuiw",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Baby Please Don't Go - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Tequila - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "My Best friend's Girl - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
+    "publishedAt": "2014-07-17T09:07:44Z"
+  },
+  {
+    "title": "All Or Nothing - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Train 'Round The Bend - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=n6h0zG24xsc",
+    "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
     "title": "Whole Lotta Rosie - Tiger Bay",
