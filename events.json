@@ -1,62 +1,5 @@
 [
   {
-    "id": "K9v9GG",
-    "headline": "Monday Night Open Mic and Jam Session.",
-    "title": "Monday Night Open Mic and Jam Session.",
-    "startDate": "2024-08-19",
-    "endDate": "2024-08-19",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday evening, we warmly invite musicians of all skill levels to our Monday Night...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/cf3ce968-4c84-41e2-b2d2-6f9e306506a2.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Ken Woods & Old Blue Gang"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-08-19T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-07-03T12:33:06+01:00",
-        "onSaleUntil": "2024-08-19T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session/7157392",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-29T14:07:56+01:00",
-    "created": "2024-07-03T11:33:05+00:00"
-  },
-  {
     "id": "nKB687",
     "headline": "Strictly Acoustic",
     "title": "Strictly Acoustic",
@@ -246,9 +189,9 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "@TheBigNiteOut Presents.. The Big Motown 'N'  Soul Nite with Gary D!\n\nWhen this event sells out...",
     "image": {
@@ -264,24 +207,6 @@
       {
         "id": "bDQw1",
         "name": "The Big Motown 'N' Soul Nite"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-08-24T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-04-22T11:52:32+01:00",
-        "onSaleUntil": "2024-08-24T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjIxNjU4/ticketid/7251380/checksum/fac4e3942ad847fba080ecbbf6bd779a/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
       }
     ],
     "genre": [
@@ -300,7 +225,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motown-n-soul-nite-with-gary-d/7087044",
     "fansOnEnts24": 6,
-    "lastUpdate": "2024-07-15T15:55:52+01:00",
+    "lastUpdate": "2024-08-19T10:05:51+01:00",
     "created": "2024-04-22T10:52:32+00:00"
   },
   {
@@ -316,7 +241,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": false,
+    "isFree": true,
     "ticketsAvailable": true,
     "price": null,
     "description": "Experience the soulful and electrifying performance of Mark Davies Band, as they bring their blues...",
@@ -334,6 +259,24 @@
         "name": "Marc Davies Band"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-08-24T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T17:09:51+01:00",
+        "onSaleUntil": "2024-08-24T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -343,7 +286,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/marc-davies-band/7180728",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-14T16:06:23+01:00",
+    "lastUpdate": "2024-08-19T17:44:32+01:00",
     "created": "2024-08-14T15:06:12+00:00"
   },
   {
@@ -1746,8 +1689,8 @@
   },
   {
     "id": "zaRAzA",
-    "headline": "Andy Crosbie's Rocketman",
-    "title": null,
+    "headline": "Elton John Tribute - Rocketman",
+    "title": "Elton John Tribute - Rocketman",
     "startDate": "2024-09-28",
     "endDate": "2024-09-28",
     "startTimeString": null,
@@ -1772,7 +1715,7 @@
     },
     "artists": [
       {
-        "name": "Andy Crosbie's Rocketman"
+        "name": "Elton John Tribute (Rocketman)"
       }
     ],
     "tickets": [
@@ -1800,9 +1743,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-crosbies-rocketman/7167430",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/elton-john-tribute-rocketman/7167430",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-15T18:31:01+01:00",
+    "lastUpdate": "2024-08-19T10:05:59+01:00",
     "created": "2024-07-15T14:55:45+00:00"
   },
   {
@@ -2052,6 +1995,54 @@
     "created": "2024-03-20T11:22:00+00:00"
   },
   {
+    "id": "g7Ynw9",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2024-10-04",
+    "endDate": "2024-10-04",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Experience an electrifying night with The Fugitives at The Earl Haig Club Bar. The South...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7182375",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:38+01:00",
+    "created": "2024-08-19T16:44:27+00:00"
+  },
+  {
     "id": "K9e1OD",
     "headline": "The Foos Fighters",
     "title": null,
@@ -2120,6 +2111,230 @@
     "created": "2024-06-18T11:18:35+00:00"
   },
   {
+    "id": "bkmg5w",
+    "headline": "Fortunate Sons",
+    "title": "Fortunate Sons",
+    "startDate": "2024-10-05",
+    "endDate": "2024-10-05",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Get ready to be transported back in time with an unforgettable evening of classic rock...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/23676ff9-1594-4add-8d9b-c8ee8ceecc27.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Fortunate Sons"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/fortunate-sons/7182376",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:42+01:00",
+    "created": "2024-08-19T16:44:30+00:00"
+  },
+  {
+    "id": "E9A6pX",
+    "headline": "The Worried Men",
+    "title": "The Worried Men",
+    "startDate": "2024-10-06",
+    "endDate": "2024-10-06",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Worried Men at The Earl Haig Club Concert Room\nDoors 5pm\nBand on 6pm\n£3 on the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/350/092/f04ed980028531c4122b3cc2a8535672dd3fd76a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "5BG2",
+        "name": "The Worried Men"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worried-men/7182377",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:44+01:00",
+    "created": "2024-08-19T16:44:33+00:00"
+  },
+  {
+    "id": "pgybkZ",
+    "headline": "JAMES OLIVER",
+    "title": "JAMES OLIVER",
+    "startDate": "2024-10-07",
+    "endDate": "2024-10-07",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Night Jam Session with James Oliver. Hey there! We're excited to invite you to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "JAMES OLIVER"
+      },
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver/7182378",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:54+01:00",
+    "created": "2024-08-19T16:44:36+00:00"
+  },
+  {
+    "id": "Qx6G88",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-08",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rockers Reunion with Live Music.\nGet ready to rock out with the legends! Most of us...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-10-08T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T17:44:39+01:00",
+        "onSaleUntil": "2024-10-08T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7182379",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:50+01:00",
+    "created": "2024-08-19T16:44:39+00:00"
+  },
+  {
+    "id": "WgwL9w",
+    "headline": "The Sand Boys",
+    "title": "The Sand Boys",
+    "startDate": "2024-10-11",
+    "endDate": "2024-10-11",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "\"The Sand Boys will be performing at The Earl Haig Club Bar. This highly acclaimed...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3dc52061-2b37-474d-bdf5-c1c12e7ba35e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Sand Boys"
+      }
+    ],
+    "genre": [
+      "music",
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sand-boys/7182380",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:54+01:00",
+    "created": "2024-08-19T16:44:41+00:00"
+  },
+  {
     "id": "6BWynb",
     "headline": "Royal Scam performing the music of Steely Dan",
     "title": "Royal Scam performing the music of Steely Dan",
@@ -2176,6 +2391,187 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-08-15T08:43:24+01:00",
     "created": "2024-08-15T07:43:11+00:00"
+  },
+  {
+    "id": "jYLPbv",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-14",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The BC 60's"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7182381",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:56+01:00",
+    "created": "2024-08-19T16:44:45+00:00"
+  },
+  {
+    "id": "kDqkEG",
+    "headline": "Strictly Acoustic Open Mic Session",
+    "title": "Strictly Acoustic Open Mic Session",
+    "startDate": "2024-10-15",
+    "endDate": "2024-10-15",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for a Fantastic Night of Live Acoustic Music! ?\nHead over to The Earl...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/331d2636-fc0b-4cb0-9f39-1faaa220b034.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-open-mic-session/7182382",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:44:58+01:00",
+    "created": "2024-08-19T16:44:47+00:00"
+  },
+  {
+    "id": "OdlmYw",
+    "headline": "The Leighton Jones Band",
+    "title": "The Leighton Jones Band",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-18",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Leighton Jones Band at The Earl Haig Club Bar.\nThe Leighton Jones Band, featuring Leighton...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/02daf465-41de-4ac3-8cef-83e0b352e78a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Leighton Jones Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "covers",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-leighton-jones-band/7182383",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:02+01:00",
+    "created": "2024-08-19T16:44:50+00:00"
+  },
+  {
+    "id": "DwN6Np",
+    "headline": "Dansette",
+    "title": "Dansette",
+    "startDate": "2024-10-20",
+    "endDate": "2024-10-20",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:25pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Dansette will be performing at The Earl Haig Club Concert Room, playing hip-shaking, love-making sweet...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3f6159bf-efb6-4649-ba4d-be0d25a1d9ea.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Godnr",
+        "name": "Dansette"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-10-20T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T17:44:54+01:00",
+        "onSaleUntil": "2024-10-20T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dansette/7182384",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:04+01:00",
+    "created": "2024-08-19T16:44:53+00:00"
   },
   {
     "id": "dDo4rw",
@@ -2240,6 +2636,48 @@
     "created": "2024-06-18T11:18:35+00:00"
   },
   {
+    "id": "xyPlPy",
+    "headline": "Rattlesnake",
+    "title": "Rattlesnake",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-25",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rattlesnake, a 4-piece classic rock band from South Wales, is set to perform in the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/1da45200-0a0b-48ed-bb20-07fd9aef0244.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rattlesnake"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rattlesnake/7182385",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:08+01:00",
+    "created": "2024-08-19T16:44:57+00:00"
+  },
+  {
     "id": "E9A7EW",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "Big Mac's Wholly Soul Band",
@@ -2300,6 +2738,110 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-07-29T14:41:31+01:00",
     "created": "2024-07-29T13:41:21+00:00"
+  },
+  {
+    "id": "74jyj1",
+    "headline": "Scotch Corner",
+    "title": "Scotch Corner",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Don't miss Scotch Corner, a dynamic 3-piece band that celebrates all genres of feel-good music,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ac5d1b8a-7e6d-45fd-a47d-426c29378d73.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Scotch Corner"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7182386",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:12+01:00",
+    "created": "2024-08-19T16:45:00+00:00"
+  },
+  {
+    "id": "mDArAG",
+    "headline": "Palm Tree Antics",
+    "title": "Palm Tree Antics",
+    "startDate": "2024-10-27",
+    "endDate": "2024-10-27",
+    "startTimeString": "6:00pm",
+    "endTimeString": "9:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Palm Tree Antics at The Earl Haig Concert Room are back on the big stage...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/1c9dee56-65bd-4edd-a050-c6515926e0e5.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Palm Tree Antics"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-10-27T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T17:45:03+01:00",
+        "onSaleUntil": "2024-10-27T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "ska",
+      "reggae"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics/7182388",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:14+01:00",
+    "created": "2024-08-19T16:45:02+00:00"
   },
   {
     "id": "GoRmjy",
@@ -2732,6 +3274,161 @@
     "created": "2024-03-05T07:47:21+00:00"
   },
   {
+    "id": "Qx6G4E",
+    "headline": "The Big Motown'N'Reggae Nite with The Soul Miners & Palm Tree Antics",
+    "title": "The Big Motown'N'Reggae Nite with The Soul Miners & Palm Tree Antics",
+    "startDate": "2024-11-30",
+    "endDate": "2024-11-30",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ec801d77-0eb3-493d-9818-1ade8540809d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Soul Miners"
+      },
+      {
+        "id": "d5jBj",
+        "name": "Palm Tree Antics"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-11-30T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£15.00",
+        "totalPrice": "£15.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:06:04+01:00",
+        "onSaleUntil": "2024-11-30T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjMx/ticketid/7426938/checksum/a26f9f8c36912bcb4f780e48b68a6ce7/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "ska",
+      "reggae",
+      "rocknroll",
+      "disco",
+      "blues",
+      "swing",
+      "bigband",
+      "easy",
+      "covers",
+      "tribute",
+      "1930s",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnreggae-nite-with-the-soul-miners-and-palm-tree-antics/7181679",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:15+01:00",
+    "created": "2024-08-19T09:06:03+00:00"
+  },
+  {
+    "id": "E9A60l",
+    "headline": "Soul In Motion",
+    "title": "Soul In Motion",
+    "startDate": "2024-12-06",
+    "endDate": "2024-12-06",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/89a482ba-455c-417d-b51f-71381b7bc822.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Soul In Motion"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-06T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£15.00",
+        "totalPrice": "£15.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:05:57+01:00",
+        "onSaleUntil": "2024-12-06T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjI5/ticketid/7426936/checksum/116accf3a063075d42d23fd4238599e5/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "dj",
+      "disco",
+      "blues",
+      "swing",
+      "easy",
+      "covers",
+      "tribute",
+      "1930s",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/soul-in-motion/7181677",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:07+01:00",
+    "created": "2024-08-19T09:05:56+00:00"
+  },
+  {
     "id": "LzGkl8",
     "headline": "MAETLIVE featuring Craig Halford as Meatloaf",
     "title": "MAETLIVE featuring Craig Halford as Meatloaf",
@@ -2790,6 +3487,241 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2024-05-10T07:18:24+01:00",
     "created": "2024-04-25T06:21:03+00:00"
+  },
+  {
+    "id": "g7Ynxw",
+    "headline": "Tom Jones & Elvis Presley Tribute Show",
+    "title": "Tom Jones & Elvis Presley Tribute Show",
+    "startDate": "2024-12-13",
+    "endDate": "2024-12-13",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. Tom Jones (Robb Dee) & Elvis Presely (Victor Andrews) award winning tribute show.\n\nThis...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ae960a45-3462-4c77-8caa-792f1dd2b9b3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Tom Jones & Elvis Presley Tribute Show (Robb Dee & Victor Andrews)"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-13T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£15.00",
+        "totalPrice": "£15.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:05:51+01:00",
+        "onSaleUntil": "2024-12-13T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjI2/ticketid/7426934/checksum/d997e0d3a0a6a15eb135405faba4a22e/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "rocknroll",
+      "disco",
+      "celtic",
+      "country",
+      "americana",
+      "blues",
+      "jazz",
+      "swing",
+      "bigband",
+      "easy",
+      "covers",
+      "tribute",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tom-jones-and-elvis-presley-tribute-show/7181675",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:01+01:00",
+    "created": "2024-08-19T09:05:50+00:00"
+  },
+  {
+    "id": "bkmgxm",
+    "headline": "Tom Jones & Elvis Presley Tribute Show",
+    "title": "Tom Jones & Elvis Presley Tribute Show",
+    "startDate": "2024-12-14",
+    "endDate": "2024-12-14",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ad185e86-1566-43a2-8165-6ff347781854.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Tom Jones & Elvis Presley Tribute Show (Robb Dee & Victor Andrews)"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-14T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£15.00",
+        "totalPrice": "£15.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:05:53+01:00",
+        "onSaleUntil": "2024-12-14T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjI3/ticketid/7426935/checksum/c7a3adfb0605504427bda01a315b8af3/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "rocknroll",
+      "disco",
+      "celtic",
+      "country",
+      "americana",
+      "blues",
+      "jazz",
+      "swing",
+      "bigband",
+      "easy",
+      "covers",
+      "tribute",
+      "1930s",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tom-jones-and-elvis-presley-tribute-show/7181676",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:05+01:00",
+    "created": "2024-08-19T09:05:53+00:00"
+  },
+  {
+    "id": "pgybm8",
+    "headline": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
+    "title": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
+    "startDate": "2024-12-20",
+    "endDate": "2024-12-20",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Lee St Lawrence"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-20T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:06:00+01:00",
+        "onSaleUntil": "2024-12-20T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjMw/ticketid/7426937/checksum/5b258e83ccc0ab0f7cee1b845893a1ce/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "reggae",
+      "rocknroll",
+      "dj",
+      "disco",
+      "country",
+      "blues",
+      "swing",
+      "bigband",
+      "easy",
+      "covers",
+      "tribute",
+      "1930s",
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnchristmas-nite-with-lee-st-lawrence/7181678",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:11+01:00",
+    "created": "2024-08-19T09:06:00+00:00"
   },
   {
     "id": "dDo4qe",
@@ -2916,6 +3848,58 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-06-19T08:24:59+01:00",
     "created": "2024-06-19T06:20:00+00:00"
+  },
+  {
+    "id": "WgwL2k",
+    "headline": "New Years Eve Party!",
+    "title": "New Years Eve Party!",
+    "startDate": "2024-12-31",
+    "endDate": "2024-12-31",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/189cf7d9-b151-42a9-a17e-2c079be2403b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2024-12-31T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-08-19T10:06:07+01:00",
+        "onSaleUntil": "2024-12-31T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjMy/ticketid/7426939/checksum/a30b68922cffcc8bc483ab68c2d976dc/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/new-years-eve-party/7181680",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T10:06:19+01:00",
+    "created": "2024-08-19T09:06:06+00:00"
   },
   {
     "id": "nKWxwZ",
