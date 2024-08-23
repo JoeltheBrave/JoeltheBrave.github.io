@@ -759,8 +759,8 @@
   },
   {
     "id": "1WgZE6",
-    "headline": "The Jedis",
-    "title": "The Jedis",
+    "headline": "Saturday Night Live",
+    "title": "Saturday Night Live",
     "startDate": "2024-09-07",
     "endDate": "2024-09-07",
     "startTimeString": "9:00pm",
@@ -773,9 +773,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Get ready for a local band The Jedis rocking out classic rock hits on stage!...",
+    "description": "Band to be confirmed.\n Free entry",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/2430dede-e8e0-4a2d-8a3a-403c2b5b9057.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/c02242f5-e4f9-46cc-912e-31a3c1027f59.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -783,11 +783,6 @@
         "caption": null
       }
     },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -795,9 +790,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/7177928",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7177928",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:27+01:00",
+    "lastUpdate": "2024-08-22T16:00:51+01:00",
     "created": "2024-08-07T14:32:15+00:00"
   },
   {
