@@ -245,29 +245,14 @@
     "publishedAt": "2023-07-15T09:12:34Z"
   },
   {
-    "title": "Revolver: Let there Be Rock",
-    "url": "https://www.youtube.com/watch?v=8rAlR3PtgRc",
-    "publishedAt": "2023-07-17T15:35:40Z"
-  },
-  {
     "title": "Legend: Three Little Birds",
     "url": "https://www.youtube.com/watch?v=k-INOScDDgU",
     "publishedAt": "2023-07-15T09:11:23Z"
   },
   {
-    "title": "Pearl Harbor: Spiders From Mars",
-    "url": "https://www.youtube.com/watch?v=gUZGUut7mxo",
-    "publishedAt": "2023-07-12T16:19:47Z"
-  },
-  {
     "title": "John Otway & Wild Willy Barrett: Really Free",
     "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
     "publishedAt": "2023-07-12T13:07:15Z"
-  },
-  {
-    "title": "The Sandboys: Sell Out",
-    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
-    "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
     "title": "Stone Free: Live at the Point, Cardiff.",
@@ -493,6 +478,21 @@
     "title": "The Philo Beddoe Band: Stuck In The Middle With You & Oye Como Va",
     "url": "https://www.youtube.com/watch?v=vW3ZammjlLk",
     "publishedAt": "2023-01-03T10:28:53Z"
+  },
+  {
+    "title": "The James Oliver Band: Who Do You Love",
+    "url": "https://www.youtube.com/watch?v=pQmgFX4y-a0",
+    "publishedAt": "2022-12-31T14:02:40Z"
+  },
+  {
+    "title": "The Philo Beddoe Band: All That Glitters Ain't Gold",
+    "url": "https://www.youtube.com/watch?v=Z-vq3lMszqc",
+    "publishedAt": "2022-12-10T00:05:25Z"
+  },
+  {
+    "title": "The Karrots: Hideaway",
+    "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
+    "publishedAt": "2022-12-09T09:21:35Z"
   },
   {
     "title": "Just Friends: I Get A Kick Out Of You",
@@ -1985,53 +1985,8 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
-    "title": "She Sells Sanctuary- The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=1gDobpfcFFk",
-    "publishedAt": "2014-07-20T12:15:34Z"
-  },
-  {
-    "title": "Human - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=88-UXumkSWw",
-    "publishedAt": "2014-07-20T12:15:34Z"
-  },
-  {
-    "title": "Runnin' Down A Dream  - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=CC7unKnOj3Y",
-    "publishedAt": "2014-07-20T10:07:43Z"
-  },
-  {
-    "title": "Sabre Dance - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=GMe4nP_ivyM",
-    "publishedAt": "2014-07-18T07:49:34Z"
-  },
-  {
-    "title": "Reelin' and Rocking - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=PM7TRRudVIw",
-    "publishedAt": "2014-07-18T07:49:34Z"
-  },
-  {
-    "title": "Start Me Up - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=QWMJWhWGuiw",
-    "publishedAt": "2014-07-18T07:49:34Z"
-  },
-  {
-    "title": "Baby Please Don't Go - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
-    "title": "Tequila - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
-    "title": "My Best friend's Girl - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
-    "publishedAt": "2014-07-17T09:07:44Z"
-  },
-  {
-    "title": "All Or Nothing - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=4ylBYMJ6rnE",
+    "title": "Train 'Round The Bend - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=n6h0zG24xsc",
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
@@ -2040,13 +1995,13 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
-    "title": "Strange Brew - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=Iygni4huxHQ",
-    "publishedAt": "2014-07-17T09:07:43Z"
-  },
-  {
     "title": "Cocaine - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=3h3p_lqjLSM",
+    "publishedAt": "2014-07-16T08:27:54Z"
+  },
+  {
+    "title": "Coming Back To Life - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=lxihfEuEOs8",
     "publishedAt": "2014-07-16T08:27:54Z"
   },
   {
@@ -2075,14 +2030,14 @@
     "publishedAt": "2014-07-15T16:49:00Z"
   },
   {
-    "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
-    "url": "https://www.youtube.com/watch?v=9Pt3cF6ylSo",
+    "title": "Purple Haze  - Glyn Knight's band \"Stone Free\"",
+    "url": "https://www.youtube.com/watch?v=H9Y1MKGxnnU",
     "publishedAt": "2014-07-14T19:26:21Z"
   },
   {
-    "title": "Kenny Driscoll Band Live at the JimJam open mic at the Claude, Cardiff",
-    "url": "https://www.youtube.com/watch?v=RuvBiZ3Hn0E",
-    "publishedAt": "2014-07-12T14:40:51Z"
+    "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
+    "url": "https://www.youtube.com/watch?v=9Pt3cF6ylSo",
+    "publishedAt": "2014-07-14T19:26:21Z"
   },
   {
     "title": "Kenny Driscoll Band Live at the Claude, Cardiff",
@@ -2165,11 +2120,6 @@
     "publishedAt": "2012-02-24T19:34:19Z"
   },
   {
-    "title": "The Sneakers with Micky Gee Newport gig - 1",
-    "url": "https://www.youtube.com/watch?v=ZAs04U2yp1M",
-    "publishedAt": "2012-02-24T19:30:58Z"
-  },
-  {
     "title": "Micky Gee with The Sneakers - How Long She Been Gone?",
     "url": "https://www.youtube.com/watch?v=PKKQyUzisnc",
     "publishedAt": "2012-02-22T21:20:24Z"
@@ -2233,6 +2183,11 @@
     "title": "Stan Kenton - Intermission Riff (6)",
     "url": "https://www.youtube.com/watch?v=Oax-u-X0G8E",
     "publishedAt": "2008-01-13T15:29:10Z"
+  },
+  {
+    "title": "Stan Kenton - MacArthur Park (4)",
+    "url": "https://www.youtube.com/watch?v=cA0Iat3AdN8",
+    "publishedAt": "2008-01-13T14:34:36Z"
   },
   {
     "title": "Stan Kenton -- Artistry In Percussion (3)",
