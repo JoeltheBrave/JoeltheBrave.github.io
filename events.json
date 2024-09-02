@@ -1,47 +1,5 @@
 [
   {
-    "id": "kDqlkZ",
-    "headline": "James Oliver Band",
-    "title": "James Oliver Band",
-    "startDate": "2024-09-01",
-    "endDate": "2024-09-01",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:25pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for an evening of exceptional music with the one and only James Oliver!\nThis...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7173482",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-29T14:08:02+01:00",
-    "created": "2024-07-29T13:07:51+00:00"
-  },
-  {
     "id": "oB9qg5",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
