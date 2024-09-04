@@ -1,45 +1,5 @@
 [
   {
-    "id": "g7YeOx",
-    "headline": "Just Friends",
-    "title": "Just Friends",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar.\nWe cordially invite you to attend...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/29c506b3-aa26-4851-be16-fd1ef8981d7f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends/7177875",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T14:54:38+01:00",
-    "created": "2024-08-07T13:54:27+00:00"
-  },
-  {
     "id": "LzGYPq",
     "headline": "Capital City Jazz Orchestra",
     "title": "Capital City Jazz Orchestra",
