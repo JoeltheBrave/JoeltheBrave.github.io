@@ -1900,68 +1900,6 @@
     "created": "2024-08-19T16:44:57+00:00"
   },
   {
-    "id": "E9A7EW",
-    "headline": "Big Mac's Wholly Soul Band",
-    "title": "Big Mac's Wholly Soul Band",
-    "startDate": "2024-10-26",
-    "endDate": "2024-10-26",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Nick Fowler Photography",
-        "caption": "Nick Fowler"
-      }
-    },
-    "artists": [
-      {
-        "id": "AwEN",
-        "name": "Big Mac's Wholly Soul Band"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-10-26T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£18.00",
-        "totalPrice": "£18.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-07-29T14:41:21+01:00",
-        "onSaleUntil": "2024-10-26T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy5UaGVCaWdOaXRlT3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjI5NTE5/ticketid/7412311/checksum/ec83e4ddb1aa9e1da51a2acf54defce4/track/true",
-        "email": "Info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "covers",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-07-29T14:41:31+01:00",
-    "created": "2024-07-29T13:41:21+00:00"
-  },
-  {
     "id": "74jyj1",
     "headline": "Scotch Corner",
     "title": "Scotch Corner",
@@ -2004,6 +1942,50 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-08-19T17:45:12+01:00",
     "created": "2024-08-19T16:45:00+00:00"
+  },
+  {
+    "id": "E9A7EW",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": "Big Mac's Wholly Soul Band",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": true,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-09-06T08:41:22+01:00",
+    "created": "2024-07-29T13:41:21+00:00"
   },
   {
     "id": "mDArAG",
@@ -2507,11 +2489,11 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This event is sold out - email info@thebigniteout.co.uk to join the waiting list",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/ec801d77-0eb3-493d-9818-1ade8540809d.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -2528,24 +2510,6 @@
       {
         "id": "d5jBj",
         "name": "Palm Tree Antics"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-11-30T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-08-19T10:06:04+01:00",
-        "onSaleUntil": "2024-11-30T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjMx/ticketid/7426938/checksum/a26f9f8c36912bcb4f780e48b68a6ce7/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
       }
     ],
     "genre": [
@@ -2573,8 +2537,8 @@
       "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnreggae-nite-with-the-soul-miners-and-palm-tree-antics/7181679",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T10:06:15+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-09-06T08:41:46+01:00",
     "created": "2024-08-19T09:06:03+00:00"
   },
   {
@@ -2799,11 +2763,11 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This event is sold out, email info@thebigniteout.co.uk to join a waiting list",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/ad185e86-1566-43a2-8165-6ff347781854.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -2816,24 +2780,6 @@
     "artists": [
       {
         "name": "Tom Jones & Elvis Presley Tribute Show (Robb Dee & Victor Andrews)"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-12-14T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-08-19T10:05:53+01:00",
-        "onSaleUntil": "2024-12-14T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjMwMjI3/ticketid/7426935/checksum/c7a3adfb0605504427bda01a315b8af3/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
       }
     ],
     "genre": [
@@ -2862,7 +2808,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tom-jones-and-elvis-presley-tribute-show/7181676",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T10:06:05+01:00",
+    "lastUpdate": "2024-09-06T08:41:34+01:00",
     "created": "2024-08-19T09:05:53+00:00"
   },
   {
@@ -3073,8 +3019,8 @@
   },
   {
     "id": "WgwL2k",
-    "headline": "New Years Eve Party!",
-    "title": "New Years Eve Party!",
+    "headline": "The Big New Years Eve'N'Motown Party with Gary D!",
+    "title": "The Big New Years Eve'N'Motown Party with Gary D!",
     "startDate": "2024-12-31",
     "endDate": "2024-12-31",
     "startTimeString": null,
@@ -3087,7 +3033,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "TheBigNiteOut Presents The Big New Years Eve'N'Motown Party with Gary D performing live.\n\nTickets available from...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/189cf7d9-b151-42a9-a17e-2c079be2403b.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -3119,9 +3065,9 @@
       "music",
       "nye"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/new-years-eve-party/7181680",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-new-years-evenmotown-party-with-gary-d/7181680",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-27T18:58:50+01:00",
+    "lastUpdate": "2024-09-06T08:41:48+01:00",
     "created": "2024-08-19T09:06:06+00:00"
   },
   {
