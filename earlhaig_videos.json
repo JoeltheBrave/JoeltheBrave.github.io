@@ -245,14 +245,19 @@
     "publishedAt": "2023-07-17T15:35:40Z"
   },
   {
+    "title": "Legend: Redemption Song",
+    "url": "https://www.youtube.com/watch?v=bQ_5qcY2rQs",
+    "publishedAt": "2023-07-15T09:12:34Z"
+  },
+  {
+    "title": "Legend: Three Little Birds",
+    "url": "https://www.youtube.com/watch?v=k-INOScDDgU",
+    "publishedAt": "2023-07-15T09:11:23Z"
+  },
+  {
     "title": "John Otway & Wild Willy Barrett: Really Free",
     "url": "https://www.youtube.com/watch?v=cAeubu9jKQ4",
     "publishedAt": "2023-07-12T13:07:15Z"
-  },
-  {
-    "title": "The Sandboys: Sell Out",
-    "url": "https://www.youtube.com/watch?v=hlSvxpDNzR8",
-    "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
     "title": "Stone Free: Live at the Point, Cardiff.",
@@ -495,16 +500,6 @@
     "publishedAt": "2022-12-09T09:21:35Z"
   },
   {
-    "title": "The Philo Beddoe Band: All That Glitters Ain't Gold",
-    "url": "https://www.youtube.com/watch?v=Z-vq3lMszqc",
-    "publishedAt": "2022-12-10T00:05:25Z"
-  },
-  {
-    "title": "The Karrots: Hideaway",
-    "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
-    "publishedAt": "2022-12-09T09:21:35Z"
-  },
-  {
     "title": "Just Friends: I Get A Kick Out Of You",
     "url": "https://www.youtube.com/watch?v=LXFTmBMNkCI",
     "publishedAt": "2022-12-08T13:23:15Z"
@@ -680,6 +675,11 @@
     "publishedAt": "2022-10-17T10:27:38Z"
   },
   {
+    "title": "Letz Zep: Since I Been Loving You",
+    "url": "https://www.youtube.com/watch?v=vNStz3pgEDk",
+    "publishedAt": "2022-10-15T18:41:52Z"
+  },
+  {
     "title": "Roosevelt: Thanks for the Giving",
     "url": "https://www.youtube.com/watch?v=IDUHVtqG5N8",
     "publishedAt": "2022-10-15T18:39:40Z"
@@ -743,11 +743,6 @@
     "title": "Jimmy Mac's Band: One Way Out",
     "url": "https://www.youtube.com/watch?v=wWdE8RjJCQw",
     "publishedAt": "2022-09-19T18:00:20Z"
-  },
-  {
-    "title": "Tri-City Fanfare: Dreams",
-    "url": "https://www.youtube.com/watch?v=BYfE1LnLSIY",
-    "publishedAt": "2022-09-14T17:43:17Z"
   },
   {
     "title": "Man: Spunk Rock",
@@ -993,6 +988,11 @@
     "title": "The Philo Beddoe Band: Green Shine",
     "url": "https://www.youtube.com/watch?v=XcS9JDc6dY0",
     "publishedAt": "2022-05-04T12:48:14Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: I Be Serious 'Bout Dem Blues",
+    "url": "https://www.youtube.com/watch?v=yBDoI78Nw60",
+    "publishedAt": "2022-05-04T12:48:21Z"
   },
   {
     "title": "Capital City Jazz Orchestra: I Be Serious 'Bout Dem Blues",
@@ -1735,31 +1735,6 @@
     "publishedAt": "2014-12-09T14:53:17Z"
   },
   {
-    "title": "Rebel Yell - The Kenny Driscoll Band 2014",
-    "url": "https://www.youtube.com/watch?v=03hr2zqvHIw",
-    "publishedAt": "2015-04-17T09:21:00Z"
-  },
-  {
-    "title": "Noddy's Puncture",
-    "url": "https://www.youtube.com/watch?v=PwHpKPOX7LQ",
-    "publishedAt": "2015-03-10T22:21:36Z"
-  },
-  {
-    "title": "Noddy's Puncture Promotional Video",
-    "url": "https://www.youtube.com/watch?v=ZlzOq_q3k_o",
-    "publishedAt": "2015-02-24T09:04:10Z"
-  },
-  {
-    "title": "The Kenny Driscoll Band in the recording studio.",
-    "url": "https://www.youtube.com/watch?v=Y2TA3uhemfw",
-    "publishedAt": "2014-12-21T15:08:36Z"
-  },
-  {
-    "title": "The Kenny Driscoll Band Drum Quiz",
-    "url": "https://www.youtube.com/watch?v=jfJO76f5qL4",
-    "publishedAt": "2014-12-09T14:53:17Z"
-  },
-  {
     "title": "drumsmixingdesk",
     "url": "https://www.youtube.com/watch?v=vMEnw7RgRmk",
     "publishedAt": "2014-11-20T12:01:02Z"
@@ -1800,9 +1775,14 @@
     "publishedAt": "2014-10-02T09:50:07Z"
   },
   {
-    "title": "Magenta - Anger",
-    "url": "https://www.youtube.com/watch?v=qRn18gE1yvc",
-    "publishedAt": "2014-10-01T20:41:40Z"
+    "title": "Magenta - Demons",
+    "url": "https://www.youtube.com/watch?v=V6bDXwZ-kY8",
+    "publishedAt": "2014-10-02T09:49:44Z"
+  },
+  {
+    "title": "Magenta - The Lizard King",
+    "url": "https://www.youtube.com/watch?v=3K6t15zuh4k",
+    "publishedAt": "2014-10-01T07:29:46Z"
   },
   {
     "title": "Magenta - The White Witch",
@@ -1818,11 +1798,6 @@
     "title": "Steve Roberts The Bells",
     "url": "https://www.youtube.com/watch?v=cLWFmN2EhBE",
     "publishedAt": "2014-09-29T17:04:32Z"
-  },
-  {
-    "title": "Foxy Lady - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=vmlUB_uatig",
-    "publishedAt": "2014-09-26T16:48:37Z"
   },
   {
     "title": "Manic Depression - Glyn Knight's 'Stone Free' Band",
@@ -1870,11 +1845,6 @@
     "publishedAt": "2014-08-31T09:21:01Z"
   },
   {
-    "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Pictures At An Exhibition",
-    "url": "https://www.youtube.com/watch?v=qSo5Kdddxvc",
-    "publishedAt": "2014-08-22T15:28:36Z"
-  },
-  {
     "title": "Noddy's Puncture Emerson Lake & Palmer Tribute - Trilogy",
     "url": "https://www.youtube.com/watch?v=k6xGNuLfqz0",
     "publishedAt": "2014-08-20T07:16:10Z"
@@ -1902,11 +1872,6 @@
   {
     "title": "All The Small Things - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=4k7v9hYx9vY",
-    "publishedAt": "2014-07-21T07:12:51Z"
-  },
-  {
-    "title": "Paint It Black - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=Sqf7QDtx9Fw",
     "publishedAt": "2014-07-21T07:12:51Z"
   },
   {
@@ -1983,6 +1948,41 @@
     "title": "Human - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=88-UXumkSWw",
     "publishedAt": "2014-07-20T12:15:34Z"
+  },
+  {
+    "title": "Runnin' Down A Dream  - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=CC7unKnOj3Y",
+    "publishedAt": "2014-07-20T10:07:43Z"
+  },
+  {
+    "title": "Sabre Dance - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=GMe4nP_ivyM",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Reelin' and Rocking - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=PM7TRRudVIw",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Start Me Up - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWMJWhWGuiw",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Baby Please Don't Go - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Tequila - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "My Best friend's Girl - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
+    "publishedAt": "2014-07-17T09:07:44Z"
   },
   {
     "title": "All Or Nothing - Tiger Bay",
