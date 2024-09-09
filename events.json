@@ -1,49 +1,5 @@
 [
   {
-    "id": "kDqYRG",
-    "headline": "Sunday Sessions",
-    "title": "Sunday Sessions",
-    "startDate": "2024-09-08",
-    "endDate": "2024-09-08",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:25pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Get ready to rock at The Earl Haig Club Concert Room! Doors open at 5...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/057d5fe9-f901-4152-9d9c-cf53b11b0ec0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Expecting Company"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1970s",
-      "1980s",
-      "1990s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7177938",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-14T16:24:23+01:00",
-    "created": "2024-08-07T14:32:26+00:00"
-  },
-  {
     "id": "walEme",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
