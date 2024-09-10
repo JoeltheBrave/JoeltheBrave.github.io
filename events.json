@@ -1,45 +1,5 @@
 [
   {
-    "id": "walEme",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-09-09",
-    "endDate": "2024-09-09",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This week's hosts are Sudden Impact.\nHey there! We're excited to invite you to our Monday...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d43b8a45-d471-40e6-91e0-6d28252a06d2.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sudden Impact"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7177873",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T13:45:02+01:00",
-    "created": "2024-08-07T12:44:50+00:00"
-  },
-  {
     "id": "bkmPW8",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -75,8 +35,8 @@
   },
   {
     "id": "NL2PlY",
-    "headline": "Little Giants",
-    "title": "Little Giants",
+    "headline": "Little Giants Live",
+    "title": "Little Giants Live",
     "startDate": "2024-09-13",
     "endDate": "2024-09-13",
     "startTimeString": "9:00pm",
@@ -107,9 +67,9 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/little-giants/7177898",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/little-giants-live/7177898",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:17+01:00",
+    "lastUpdate": "2024-09-09T09:45:02+01:00",
     "created": "2024-08-07T14:32:05+00:00"
   },
   {
@@ -201,6 +161,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -212,7 +177,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stonehouse-live/7177936",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:31+01:00",
+    "lastUpdate": "2024-09-09T09:45:08+01:00",
     "created": "2024-08-07T14:32:19+00:00"
   },
   {
@@ -355,8 +320,8 @@
   },
   {
     "id": "Aw8aLx",
-    "headline": "The Godseys",
-    "title": "The Godseys",
+    "headline": "The Godseys Live",
+    "title": "The Godseys Live",
     "startDate": "2024-09-20",
     "endDate": "2024-09-20",
     "startTimeString": "9:00pm",
@@ -390,9 +355,9 @@
       "blues",
       "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-godseys/7177899",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-godseys-live/7177899",
     "fansOnEnts24": 1,
-    "lastUpdate": "2024-08-14T17:02:53+01:00",
+    "lastUpdate": "2024-09-09T09:45:04+01:00",
     "created": "2024-08-07T14:32:09+00:00"
   },
   {
@@ -521,8 +486,8 @@
   },
   {
     "id": "PaPe7Z",
-    "headline": "Second Chance",
-    "title": "Second Chance",
+    "headline": "Second Chance Live",
+    "title": "Second Chance Live",
     "startDate": "2024-09-21",
     "endDate": "2024-09-21",
     "startTimeString": "9:00pm",
@@ -556,9 +521,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7180766",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance-live/7180766",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-14T18:47:51+01:00",
+    "lastUpdate": "2024-09-09T09:45:14+01:00",
     "created": "2024-08-14T17:47:39+00:00"
   },
   {
@@ -2688,7 +2653,7 @@
   },
   {
     "id": "pgybm8",
-    "headline": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
+    "headline": "Lee St Lawrence",
     "title": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
     "startDate": "2024-12-20",
     "endDate": "2024-12-20",
@@ -2759,11 +2724,12 @@
       "1990s",
       "2000s",
       "2010s",
+      "xmas",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnchristmas-nite-with-lee-st-lawrence/7181678",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/lee-st-lawrence/7181678",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T10:06:11+01:00",
+    "lastUpdate": "2024-09-09T19:40:31+01:00",
     "created": "2024-08-19T09:06:00+00:00"
   },
   {
