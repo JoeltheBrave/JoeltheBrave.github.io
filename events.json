@@ -1,39 +1,5 @@
 [
   {
-    "id": "bkmPW8",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
-    "startDate": "2024-09-10",
-    "endDate": "2024-09-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Rockers Reunion with Live Music.\nGet ready to rock out with the legends! Most of us...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7177876",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T14:54:41+01:00",
-    "created": "2024-08-07T13:54:30+00:00"
-  },
-  {
     "id": "NL2PlY",
     "headline": "Little Giants Live",
     "title": "Little Giants Live",
@@ -2913,8 +2879,8 @@
   },
   {
     "id": "nKWxwZ",
-    "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi..POSTPONED",
-    "title": "The World's Premier Bon Jovi Tribute: Bon Giovi..POSTPONED",
+    "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi",
+    "title": null,
     "startDate": "2025-02-15",
     "endDate": "2025-02-15",
     "startTimeString": "8:30pm",
@@ -2969,9 +2935,9 @@
       "1990s",
       "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worlds-premier-bon-jovi-tribute-bon-giovipostponed/7115916",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worlds-premier-bon-jovi-tribute-bon-giovi/7115916",
     "fansOnEnts24": 5,
-    "lastUpdate": "2024-05-21T09:13:41+01:00",
+    "lastUpdate": "2024-09-10T08:11:57+01:00",
     "created": "2023-11-27T07:21:52+00:00"
   },
   {
