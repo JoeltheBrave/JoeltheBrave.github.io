@@ -1,44 +1,5 @@
 [
   {
-    "id": "NL2PlY",
-    "headline": "Little Giants Live",
-    "title": "Little Giants Live",
-    "startDate": "2024-09-13",
-    "endDate": "2024-09-13",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Little Giants\nLittle Giants featuring Tony Morley bringing the party to The Earl Haig Club, Whitchurch\nAll...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/fa9ea177-b146-49ff-a570-001ffb401043.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Little Giants"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/little-giants-live/7177898",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-09T09:45:02+01:00",
-    "created": "2024-08-07T14:32:05+00:00"
-  },
-  {
     "id": "kDPjdL",
     "headline": "Who's Next",
     "title": "Global Promotions Live",
