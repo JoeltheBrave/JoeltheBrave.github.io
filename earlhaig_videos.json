@@ -245,24 +245,14 @@
     "publishedAt": "2023-07-17T15:35:40Z"
   },
   {
-    "title": "Stone Free: Live at The Point June 2003",
-    "url": "https://www.youtube.com/watch?v=LLyOAC9oNDM",
-    "publishedAt": "2023-08-11T09:11:05Z"
+    "title": "Legend: Redemption Song",
+    "url": "https://www.youtube.com/watch?v=bQ_5qcY2rQs",
+    "publishedAt": "2023-07-15T09:12:34Z"
   },
   {
-    "title": "Dizzy Lizzy: The Boys Are Back In Town",
-    "url": "https://www.youtube.com/watch?v=RE1LvGkNwQQ",
-    "publishedAt": "2023-07-28T17:00:54Z"
-  },
-  {
-    "title": "Revolver: Let there Be Rock",
-    "url": "https://www.youtube.com/watch?v=8rAlR3PtgRc",
-    "publishedAt": "2023-07-17T15:35:40Z"
-  },
-  {
-    "title": "Pearl Harbor: Spiders From Mars",
-    "url": "https://www.youtube.com/watch?v=gUZGUut7mxo",
-    "publishedAt": "2023-07-12T16:19:47Z"
+    "title": "Legend: Three Little Birds",
+    "url": "https://www.youtube.com/watch?v=k-INOScDDgU",
+    "publishedAt": "2023-07-15T09:11:23Z"
   },
   {
     "title": "John Otway & Wild Willy Barrett: Really Free",
@@ -495,9 +485,14 @@
     "publishedAt": "2023-01-03T10:28:53Z"
   },
   {
-    "title": "The Karrots: Hideaway",
-    "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
-    "publishedAt": "2022-12-09T09:21:35Z"
+    "title": "The James Oliver Band: Who Do You Love",
+    "url": "https://www.youtube.com/watch?v=pQmgFX4y-a0",
+    "publishedAt": "2022-12-31T14:02:40Z"
+  },
+  {
+    "title": "The Philo Beddoe Band: All That Glitters Ain't Gold",
+    "url": "https://www.youtube.com/watch?v=Z-vq3lMszqc",
+    "publishedAt": "2022-12-10T00:05:25Z"
   },
   {
     "title": "Just Friends: I Get A Kick Out Of You",
@@ -750,6 +745,11 @@
     "publishedAt": "2022-09-14T17:43:17Z"
   },
   {
+    "title": "Tri-City Fanfare: Dreams",
+    "url": "https://www.youtube.com/watch?v=BYfE1LnLSIY",
+    "publishedAt": "2022-09-14T17:43:17Z"
+  },
+  {
     "title": "Man: Spunk Rock",
     "url": "https://www.youtube.com/watch?v=yk0BOFcfmHE",
     "publishedAt": "2022-09-14T14:43:00Z"
@@ -995,16 +995,6 @@
     "publishedAt": "2022-05-04T12:48:14Z"
   },
   {
-    "title": "Capital City Jazz Orchestra: I Be Serious 'Bout Dem Blues",
-    "url": "https://www.youtube.com/watch?v=yBDoI78Nw60",
-    "publishedAt": "2022-05-04T12:48:21Z"
-  },
-  {
-    "title": "Philo Beddoe Band: Roadhouse Blues",
-    "url": "https://www.youtube.com/watch?v=uaRUB_1E3nA",
-    "publishedAt": "2022-05-03T20:40:33Z"
-  },
-  {
     "title": "Thin Ice: Money",
     "url": "https://www.youtube.com/watch?v=jwR5wHGLOcc",
     "publishedAt": "2022-04-23T16:31:29Z"
@@ -1175,11 +1165,6 @@
     "publishedAt": "2022-02-12T18:35:02Z"
   },
   {
-    "title": "Palm Tree Antics: Purple Rain",
-    "url": "https://www.youtube.com/watch?v=mC7tGcYo2B4",
-    "publishedAt": "2022-02-12T12:25:59Z"
-  },
-  {
     "title": "AbeStation with Ged: All Along The Watch Tower",
     "url": "https://www.youtube.com/watch?v=qzLjVwaB-1E",
     "publishedAt": "2022-02-09T08:58:43Z"
@@ -1198,11 +1183,6 @@
     "title": "Neil Lockwood and the Blue Lights: The Same Old Blues Again",
     "url": "https://www.youtube.com/watch?v=ECBkbq3hMns",
     "publishedAt": "2022-02-07T12:55:55Z"
-  },
-  {
-    "title": "Neil Lockwood and the Blue Lights: The Sky is Crying",
-    "url": "https://www.youtube.com/watch?v=muRNBbS6WN4",
-    "publishedAt": "2022-02-07T12:55:36Z"
   },
   {
     "title": "Freshly Cut Grass: People Get Ready",
@@ -1243,6 +1223,31 @@
     "title": "Earl Haig Club Monday Jam Session",
     "url": "https://www.youtube.com/watch?v=RS2yKumQznU",
     "publishedAt": "2022-01-27T00:13:55Z"
+  },
+  {
+    "title": "Sweatbox",
+    "url": "https://www.youtube.com/watch?v=HpghLfbXuGA",
+    "publishedAt": "2022-01-25T22:23:22Z"
+  },
+  {
+    "title": "The Troubadours: Now I’m Here",
+    "url": "https://www.youtube.com/watch?v=8pTq3F6uUAU",
+    "publishedAt": "2022-01-20T20:56:25Z"
+  },
+  {
+    "title": "VASTS: Radar Love",
+    "url": "https://www.youtube.com/watch?v=3p-DsSavehc",
+    "publishedAt": "2022-01-19T09:51:39Z"
+  },
+  {
+    "title": "The Troubadours: No Quarter",
+    "url": "https://www.youtube.com/watch?v=64mBeiKOdDE",
+    "publishedAt": "2022-01-17T17:43:53Z"
+  },
+  {
+    "title": "Sweatbox",
+    "url": "https://www.youtube.com/watch?v=HpghLfbXuGA",
+    "publishedAt": "2022-01-25T22:23:22Z"
   },
   {
     "title": "The Troubadours: Now I’m Here",
@@ -1290,6 +1295,11 @@
     "publishedAt": "2021-12-22T09:02:33Z"
   },
   {
+    "title": "Roosevelt: Somewhere In The City",
+    "url": "https://www.youtube.com/watch?v=YE-6UjHxbqg",
+    "publishedAt": "2021-12-14T11:57:08Z"
+  },
+  {
     "title": "Roosevelt: Heaven's Gate",
     "url": "https://www.youtube.com/watch?v=J8HsIonp-Cs",
     "publishedAt": "2021-12-14T11:56:23Z"
@@ -1300,11 +1310,6 @@
     "publishedAt": "2021-12-07T10:42:19Z"
   },
   {
-    "title": "New Street Groove: Billie Jean",
-    "url": "https://www.youtube.com/watch?v=pYUd9BDNy1E",
-    "publishedAt": "2021-12-07T10:42:33Z"
-  },
-  {
     "title": "New Street Groove: Kiss",
     "url": "https://www.youtube.com/watch?v=k8npAxXaB-w",
     "publishedAt": "2021-12-07T10:42:27Z"
@@ -1313,11 +1318,6 @@
     "title": "The Flares: Back in the USSR",
     "url": "https://www.youtube.com/watch?v=XWAtrQwXqgM",
     "publishedAt": "2021-12-03T11:26:06Z"
-  },
-  {
-    "title": "The Flares: Pinball Wizard",
-    "url": "https://www.youtube.com/watch?v=06dHmrc9mGk",
-    "publishedAt": "2021-12-02T20:31:26Z"
   },
   {
     "title": "The Flares: Brown Sugar",
@@ -1450,6 +1450,11 @@
     "publishedAt": "2019-11-13T11:19:38Z"
   },
   {
+    "title": "James Oliver Band - She's The One",
+    "url": "https://www.youtube.com/watch?v=ThFudyiaoZ8",
+    "publishedAt": "2019-11-13T11:11:13Z"
+  },
+  {
     "title": "James Oliver Band - Stay Out of Trouble",
     "url": "https://www.youtube.com/watch?v=cjipy5cmQmI",
     "publishedAt": "2019-11-13T11:11:05Z"
@@ -1475,19 +1480,14 @@
     "publishedAt": "2019-10-19T14:35:31Z"
   },
   {
-    "title": "James Oliver: There's a Red House Up The Rhondda",
-    "url": "https://www.youtube.com/watch?v=Wc8MZwnuUd8",
-    "publishedAt": "2019-09-17T12:31:10Z"
-  },
-  {
     "title": "The Heavy Quartet - Walking Home at Midnight",
     "url": "https://www.youtube.com/watch?v=P2T4M0ajMZA",
     "publishedAt": "2019-09-13T11:27:31Z"
   },
   {
-    "title": "The Heavy Quartet - Hardware",
-    "url": "https://www.youtube.com/watch?v=jJUnAYFhSVA",
-    "publishedAt": "2019-04-25T09:14:37Z"
+    "title": "The Heavy Quartet: And Your Heart Beats",
+    "url": "https://www.youtube.com/watch?v=olmyyUcBtqk",
+    "publishedAt": "2019-07-22T16:14:32Z"
   },
   {
     "title": "The Heavy Quartet - Hardware",
