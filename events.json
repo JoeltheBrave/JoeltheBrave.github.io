@@ -1,44 +1,5 @@
 [
   {
-    "id": "ZvbzW9",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-09-16",
-    "endDate": "2024-09-16",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for our Monday Night Open Mic and Jam Session! We welcome musicians of...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e3525264-cf20-4d73-b2ef-06312dae9b31.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Familiar Beers"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7177871",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-14T16:40:07+01:00",
-    "created": "2024-08-07T12:44:53+00:00"
-  },
-  {
     "id": "E9AkWW",
     "headline": "Strictly Acoustic Open Mic Session",
     "title": "Strictly Acoustic Open Mic Session",
