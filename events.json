@@ -1,46 +1,5 @@
 [
   {
-    "id": "1WgZY7",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-09-23",
-    "endDate": "2024-09-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This week's hosts are the Marc Davies Band.\nHey there! We're excited to invite you to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/7748257b-93aa-451f-8ee1-81729a5f4b7b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Marc Davies Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7177872",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T13:45:06+01:00",
-    "created": "2024-08-07T12:44:56+00:00"
-  },
-  {
     "id": "Qx6gWm",
     "headline": "The Chris Stapleton Experience",
     "title": "The Chris Stapleton Experience",
@@ -1273,50 +1232,6 @@
     "created": "2024-08-19T16:44:57+00:00"
   },
   {
-    "id": "E9A7EW",
-    "headline": "Big Mac's Wholly Soul Band",
-    "title": "Big Mac's Wholly Soul Band",
-    "startDate": "2024-10-26",
-    "endDate": "2024-10-26",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Nick Fowler Photography",
-        "caption": "Nick Fowler"
-      }
-    },
-    "artists": [
-      {
-        "id": "AwEN",
-        "name": "Big Mac's Wholly Soul Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "covers",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2024-09-06T08:41:22+01:00",
-    "created": "2024-07-29T13:41:21+00:00"
-  },
-  {
     "id": "74jyj1",
     "headline": "Scotch Corner",
     "title": "Scotch Corner",
@@ -1359,6 +1274,50 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-08-19T17:45:12+01:00",
     "created": "2024-08-19T16:45:00+00:00"
+  },
+  {
+    "id": "E9A7EW",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": "Big Mac's Wholly Soul Band",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": true,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-09-06T08:41:22+01:00",
+    "created": "2024-07-29T13:41:21+00:00"
   },
   {
     "id": "mDArAG",
@@ -1835,6 +1794,89 @@
     "created": "2024-06-18T11:18:35+00:00"
   },
   {
+    "id": "nKBRXQ",
+    "headline": "Rock n Roll Revival",
+    "title": "Rock n Roll Revival",
+    "startDate": "2024-11-09",
+    "endDate": "2024-11-09",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rock 'n' Roll Revival is a 4-piece band founded back in 2009.\nThey have built up...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/6de00dad-d91b-44c1-b3e3-98674da9eda1.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rock n Roll Revival"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "1950s",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rock-n-roll-revival/7198960",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T14:26:31+01:00",
+    "created": "2024-09-23T13:26:19+00:00"
+  },
+  {
+    "id": "bkmOEz",
+    "headline": "Troubadours",
+    "title": "Troubadours",
+    "startDate": "2024-11-10",
+    "endDate": "2024-11-10",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:19pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Step into the magic of the Woodstock era and beyond with The Troubadours! This dynamic...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Troubadours"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/troubadours/7198976",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:19+01:00",
+    "created": "2024-09-23T15:11:08+00:00"
+  },
+  {
     "id": "pgyE2L",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
@@ -1970,6 +2012,91 @@
     "created": "2024-03-07T13:00:45+00:00"
   },
   {
+    "id": "mDAkEg",
+    "headline": "Blues Central",
+    "title": "Blues Central",
+    "startDate": "2024-11-16",
+    "endDate": "2024-11-16",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Blues Central is a band of 4 to 6 members who play punchy, funky blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/041/608/aee249052bf8f05094ac71e650a721ff2fef8e4d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Blues Central",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "mmmv",
+        "name": "Blues Central"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/blues-central/7198988",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:21+01:00",
+    "created": "2024-09-23T15:11:10+00:00"
+  },
+  {
+    "id": "0Gzkyq",
+    "headline": "The S'punkles",
+    "title": "The S'punkles",
+    "startDate": "2024-11-17",
+    "endDate": "2024-11-17",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The S'punkles will be showcasing their distinctive punk rock sound at The Earl Haig Club...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/fa61970b-6560-4dbd-a0ac-dc4212765dd0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The S'punkles"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "punk",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7198991",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:25+01:00",
+    "created": "2024-09-23T15:11:13+00:00"
+  },
+  {
     "id": "Qx6Y0K",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
@@ -2010,8 +2137,8 @@
   },
   {
     "id": "em0Ed8",
-    "headline": "Andy Johnson",
-    "title": "Andy Johnson",
+    "headline": "Strictly Acoustic",
+    "title": "Strictly Acoustic",
     "startDate": "2024-11-19",
     "endDate": "2024-11-19",
     "startTimeString": "8:00pm",
@@ -2043,9 +2170,9 @@
       "music",
       "acoustic"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7196889",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic/7196889",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T14:38:55+01:00",
+    "lastUpdate": "2024-09-23T16:11:17+01:00",
     "created": "2024-09-18T13:38:45+00:00"
   },
   {
@@ -2151,6 +2278,91 @@
     "created": "2024-03-07T16:02:00+00:00"
   },
   {
+    "id": "dDGRER",
+    "headline": "Rockin 58",
+    "title": "Rockin 58",
+    "startDate": "2024-11-23",
+    "endDate": "2024-11-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rockin 58 are a rock'n'roll band from the Barry area, South Wales, UK",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/8d6001cd-1d4e-4676-8692-2fd4371dede0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rockin 58"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "1950s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockin-58/7198994",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:27+01:00",
+    "created": "2024-09-23T15:11:17+00:00"
+  },
+  {
+    "id": "akORRa",
+    "headline": "Expecting Company",
+    "title": "Expecting Company",
+    "startDate": "2024-11-24",
+    "endDate": "2024-11-24",
+    "startTimeString": "6:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Get ready to rock at The Earl Haig Club Concert Room! Doors open at 5...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Expecting Company"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7199019",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:33+01:00",
+    "created": "2024-09-23T15:11:23+00:00"
+  },
+  {
     "id": "WgwAq4",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
@@ -2248,6 +2460,47 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-06-19T09:01:49+01:00",
     "created": "2024-06-19T06:20:00+00:00"
+  },
+  {
+    "id": "8WkD71",
+    "headline": "The Semantics",
+    "title": "The Semantics",
+    "startDate": "2024-11-29",
+    "endDate": "2024-11-29",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Semantics at The Earl Haig Club Bar.\nTHE SEMANTICS were formed in 1996 as a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bc0c70aa-f01d-4ecd-a0f1-22d675a799ee.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pglO0",
+        "name": "The Semantics"
+      }
+    ],
+    "genre": [
+      "music",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7198995",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:31+01:00",
+    "created": "2024-09-23T15:11:20+00:00"
   },
   {
     "id": "74L67G",
@@ -2374,6 +2627,93 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2024-09-06T08:41:46+01:00",
     "created": "2024-08-19T09:06:03+00:00"
+  },
+  {
+    "id": "E9Ar0L",
+    "headline": "Moonstorm",
+    "title": "Moonstorm",
+    "startDate": "2024-11-30",
+    "endDate": "2024-11-30",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Earl Haig Memorial Club presents Classic Rock supergroup Moonstorm performing a variety of classic...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/25b50f84-080e-472d-9893-13b8046b676b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Moonstorm"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/moonstorm/7199077",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:39+01:00",
+    "created": "2024-09-23T15:11:27+00:00"
+  },
+  {
+    "id": "4QpkkX",
+    "headline": "THE SIDEWINDER BAND",
+    "title": "THE SIDEWINDER BAND",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-01",
+    "startTimeString": "6:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "⭐️THE SIDEWINDER BAND ARE A FIVE PIECE ROCK BAND BASED IN THE VALLEYS OF SOUTH...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b5196d02-7656-4b8c-8389-ab512b7f6830.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "THE SIDEWINDER BAND"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sidewinder-band/7199059",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-23T16:11:35+01:00",
+    "created": "2024-09-23T15:11:24+00:00"
   },
   {
     "id": "E9A60l",
