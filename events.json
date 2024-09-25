@@ -1128,6 +1128,45 @@
     "created": "2024-08-19T16:44:53+00:00"
   },
   {
+    "id": "XXz7mr",
+    "headline": "Monday Jam Session with San Jerome.",
+    "title": "Monday Jam Session with San Jerome.",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-21",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session with San Jerome.\nThis week's hosts are San Jerome.\nHey there! We're excited to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ea28b07f-eb97-4f89-949d-6bd4b57371c8.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "San Jerome"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-san-jerome/7199718",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-09-24T17:08:57+01:00",
+    "created": "2024-09-24T16:08:44+00:00"
+  },
+  {
     "id": "dDo4rw",
     "headline": "The Brew - A Tribute to Bad Manners",
     "title": null,
@@ -1232,50 +1271,6 @@
     "created": "2024-08-19T16:44:57+00:00"
   },
   {
-    "id": "74jyj1",
-    "headline": "Scotch Corner",
-    "title": "Scotch Corner",
-    "startDate": "2024-10-26",
-    "endDate": "2024-10-26",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Don't miss Scotch Corner, a dynamic 3-piece band that celebrates all genres of feel-good music,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ac5d1b8a-7e6d-45fd-a47d-426c29378d73.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Scotch Corner"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7182386",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T17:45:12+01:00",
-    "created": "2024-08-19T16:45:00+00:00"
-  },
-  {
     "id": "E9A7EW",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "Big Mac's Wholly Soul Band",
@@ -1318,6 +1313,50 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-09-06T08:41:22+01:00",
     "created": "2024-07-29T13:41:21+00:00"
+  },
+  {
+    "id": "74jyj1",
+    "headline": "Scotch Corner",
+    "title": "Scotch Corner",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Don't miss Scotch Corner, a dynamic 3-piece band that celebrates all genres of feel-good music,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ac5d1b8a-7e6d-45fd-a47d-426c29378d73.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Scotch Corner"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7182386",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:12+01:00",
+    "created": "2024-08-19T16:45:00+00:00"
   },
   {
     "id": "mDArAG",
