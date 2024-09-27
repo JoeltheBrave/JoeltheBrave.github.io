@@ -210,6 +210,11 @@
     "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
+    "title": "Outback: Best Of You",
+    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
+    "publishedAt": "2023-09-04T11:47:27Z"
+  },
+  {
     "title": "Miss Kitty: Better Place",
     "url": "https://www.youtube.com/watch?v=L5CS5BNbMIA",
     "publishedAt": "2023-08-16T15:12:25Z"
@@ -228,6 +233,11 @@
     "title": "The Philo Beddoe Band: Whipping Post",
     "url": "https://www.youtube.com/watch?v=6TDbRLBpSbc",
     "publishedAt": "2023-08-09T11:37:52Z"
+  },
+  {
+    "title": "Earl Haig Club Monday Jam Session Compilation July 2023",
+    "url": "https://www.youtube.com/watch?v=Of15K3OJ2to",
+    "publishedAt": "2023-08-05T18:10:51Z"
   },
   {
     "title": "Dizzy Lizzy: The Boys Are Back In Town",
@@ -1480,6 +1490,21 @@
     "publishedAt": "2019-10-19T14:35:31Z"
   },
   {
+    "title": "James Oliver Band - The Missing Link",
+    "url": "https://www.youtube.com/watch?v=ksOPLxowD0s",
+    "publishedAt": "2019-11-11T12:29:21Z"
+  },
+  {
+    "title": "The Philo Beddoe Band - On the Run",
+    "url": "https://www.youtube.com/watch?v=IBi5POw_sK8",
+    "publishedAt": "2019-11-10T10:37:27Z"
+  },
+  {
+    "title": "Marc Davies Band - Ball and Chain",
+    "url": "https://www.youtube.com/watch?v=IgO-71mf1Ww",
+    "publishedAt": "2019-10-19T14:35:31Z"
+  },
+  {
     "title": "The Heavy Quartet - Walking Home at Midnight",
     "url": "https://www.youtube.com/watch?v=P2T4M0ajMZA",
     "publishedAt": "2019-09-13T11:27:31Z"
@@ -1563,11 +1588,6 @@
     "title": "Whitchurch Jam #100 Compilation",
     "url": "https://www.youtube.com/watch?v=C_COmtPHk90",
     "publishedAt": "2017-11-26T18:03:36Z"
-  },
-  {
-    "title": "The Octave Doctors - The Needle and the Spoon",
-    "url": "https://www.youtube.com/watch?v=oE2M0sZ82w8",
-    "publishedAt": "2017-11-25T17:03:32Z"
   },
   {
     "title": "Mahogany Dog - Bathroom Wall",
@@ -1713,21 +1733,6 @@
     "title": "Rebel Yell - The Kenny Driscoll Band 2014",
     "url": "https://www.youtube.com/watch?v=03hr2zqvHIw",
     "publishedAt": "2015-04-17T09:21:00Z"
-  },
-  {
-    "title": "Noddy's Puncture",
-    "url": "https://www.youtube.com/watch?v=PwHpKPOX7LQ",
-    "publishedAt": "2015-03-10T22:21:36Z"
-  },
-  {
-    "title": "Noddy's Puncture Promotional Video",
-    "url": "https://www.youtube.com/watch?v=ZlzOq_q3k_o",
-    "publishedAt": "2015-02-24T09:04:10Z"
-  },
-  {
-    "title": "Kerry Shacklett & Steve Barber - Toccata",
-    "url": "https://www.youtube.com/watch?v=gmnU95bEQS4",
-    "publishedAt": "2015-02-10T21:59:52Z"
   },
   {
     "title": "The Kenny Driscoll Band Drum Quiz",
@@ -1980,6 +1985,21 @@
     "publishedAt": "2014-07-17T09:07:43Z"
   },
   {
+    "title": "Start Me Up - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWMJWhWGuiw",
+    "publishedAt": "2014-07-18T07:49:34Z"
+  },
+  {
+    "title": "Baby Please Don't Go - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=QWVa_EItKg4",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
+    "title": "Tequila - Tiger Bay",
+    "url": "https://www.youtube.com/watch?v=Gc38fNzcvJs",
+    "publishedAt": "2014-07-17T09:07:43Z"
+  },
+  {
     "title": "My Best friend's Girl - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=W616t2sh9SA",
     "publishedAt": "2014-07-17T09:07:44Z"
@@ -2005,11 +2025,6 @@
     "publishedAt": "2014-07-16T08:27:54Z"
   },
   {
-    "title": "Coming Back To Life - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=lxihfEuEOs8",
-    "publishedAt": "2014-07-16T08:27:54Z"
-  },
-  {
     "title": "The Thrill Is Gone - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
     "publishedAt": "2014-07-16T08:27:54Z"
@@ -2028,16 +2043,6 @@
     "title": "Riding Along In My Automobile and Route 66 - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=y3cm3qoC9gk",
     "publishedAt": "2014-07-15T16:48:35Z"
-  },
-  {
-    "title": "Red House - Glyn Knight's 'Stone Free' Band",
-    "url": "https://www.youtube.com/watch?v=zd7NCLS5vt0",
-    "publishedAt": "2014-07-15T16:49:00Z"
-  },
-  {
-    "title": "Purple Haze  - Glyn Knight's band \"Stone Free\"",
-    "url": "https://www.youtube.com/watch?v=H9Y1MKGxnnU",
-    "publishedAt": "2014-07-14T19:26:21Z"
   },
   {
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
@@ -2183,11 +2188,6 @@
     "title": "Stan Kenton - Tiare (7)",
     "url": "https://www.youtube.com/watch?v=Q2otwRHrDN0",
     "publishedAt": "2008-01-13T15:49:45Z"
-  },
-  {
-    "title": "Stan Kenton - Intermission Riff (6)",
-    "url": "https://www.youtube.com/watch?v=Oax-u-X0G8E",
-    "publishedAt": "2008-01-13T15:29:10Z"
   },
   {
     "title": "Stan Kenton - MacArthur Park (4)",
