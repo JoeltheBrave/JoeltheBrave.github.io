@@ -1,88 +1,5 @@
 [
   {
-    "id": "zaRAzA",
-    "headline": "Elton John Tribute - Rocketman",
-    "title": "Elton John Tribute - Rocketman",
-    "startDate": "2024-09-28",
-    "endDate": "2024-09-28",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "@TheBigNiteOut Presents... ROCKETMAN! A tribute to Sir Elton John (Andy Crosbie)",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/10b21247-0c37-4b61-8b3a-068e07545931.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Elton John Tribute (Rocketman)"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "tribute",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/elton-john-tribute-rocketman/7167430",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-09-17T15:59:49+01:00",
-    "created": "2024-07-15T14:55:45+00:00"
-  },
-  {
-    "id": "jYLK6v",
-    "headline": "State Of Fame",
-    "title": "State Of Fame",
-    "startDate": "2024-09-28",
-    "endDate": "2024-09-28",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Get ready to experience the electric atmosphere of State of Fame, as they bring their...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/525456cd-d521-48a6-b8ca-5fbea317a1a8.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "State Of Fame"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/state-of-fame/7177937",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:33+01:00",
-    "created": "2024-08-07T14:32:22+00:00"
-  },
-  {
     "id": "xyPDBy",
     "headline": "The Red Hot Pokers",
     "title": "The Red Hot Pokers",
@@ -1147,50 +1064,6 @@
     "created": "2024-08-19T16:44:57+00:00"
   },
   {
-    "id": "74jyj1",
-    "headline": "Scotch Corner",
-    "title": "Scotch Corner",
-    "startDate": "2024-10-26",
-    "endDate": "2024-10-26",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Don't miss Scotch Corner, a dynamic 3-piece band that celebrates all genres of feel-good music,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ac5d1b8a-7e6d-45fd-a47d-426c29378d73.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Scotch Corner"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7182386",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T17:45:12+01:00",
-    "created": "2024-08-19T16:45:00+00:00"
-  },
-  {
     "id": "E9A7EW",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "Big Mac's Wholly Soul Band",
@@ -1233,6 +1106,50 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2024-09-06T08:41:22+01:00",
     "created": "2024-07-29T13:41:21+00:00"
+  },
+  {
+    "id": "74jyj1",
+    "headline": "Scotch Corner",
+    "title": "Scotch Corner",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Don't miss Scotch Corner, a dynamic 3-piece band that celebrates all genres of feel-good music,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ac5d1b8a-7e6d-45fd-a47d-426c29378d73.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Scotch Corner"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/scotch-corner/7182386",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-08-19T17:45:12+01:00",
+    "created": "2024-08-19T16:45:00+00:00"
   },
   {
     "id": "mDArAG",
