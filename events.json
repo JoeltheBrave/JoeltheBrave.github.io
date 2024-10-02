@@ -1,45 +1,5 @@
 [
   {
-    "id": "pgyNw0",
-    "headline": "Just Friends",
-    "title": "Just Friends",
-    "startDate": "2024-10-01",
-    "endDate": "2024-10-01",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar.\nWe cordially invite you to attend...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/cf1ff5f5-f42e-4cf4-9395-7406a7bc80df.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends/7177878",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-07T15:32:07+01:00",
-    "created": "2024-08-07T14:31:56+00:00"
-  },
-  {
     "id": "NLg5n7",
     "headline": "Arthur Brown",
     "title": null,
