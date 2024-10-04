@@ -60,6 +60,11 @@
     "publishedAt": "2024-06-18T18:43:29Z"
   },
   {
+    "title": "Deadedz: Shakedown Street",
+    "url": "https://www.youtube.com/watch?v=TiJbOP5shU4",
+    "publishedAt": "2024-06-05T03:35:32Z"
+  },
+  {
     "title": "ReGenesis: The Musical Box",
     "url": "https://www.youtube.com/watch?v=TfXD1VQbq_c",
     "publishedAt": "2024-05-10T18:49:18Z"
@@ -605,6 +610,11 @@
     "publishedAt": "2022-12-08T11:38:01Z"
   },
   {
+    "title": "Anonymous Iconoclasts: Let's Take A Trip",
+    "url": "https://www.youtube.com/watch?v=lB0ZEqfPTcM",
+    "publishedAt": "2022-12-08T11:38:10Z"
+  },
+  {
     "title": "Expecting Company: While My Guitar Gently Weeps",
     "url": "https://www.youtube.com/watch?v=5QICXTJ5TVM",
     "publishedAt": "2022-12-06T23:04:23Z"
@@ -733,21 +743,6 @@
     "title": "The Navarones: Ghost Town",
     "url": "https://www.youtube.com/watch?v=QwITNg-oW4M",
     "publishedAt": "2022-10-31T11:49:57Z"
-  },
-  {
-    "title": "The Navarones: Grand Entrance",
-    "url": "https://www.youtube.com/watch?v=M4g9TruKkxc",
-    "publishedAt": "2022-10-31T09:05:44Z"
-  },
-  {
-    "title": "The Bella Collins Band: On My Way",
-    "url": "https://www.youtube.com/watch?v=8XAPgXvEaJE",
-    "publishedAt": "2022-10-30T08:57:02Z"
-  },
-  {
-    "title": "Sun Dogs: Radar Love",
-    "url": "https://www.youtube.com/watch?v=-9t5VTLAB4A",
-    "publishedAt": "2022-10-27T21:04:41Z"
   },
   {
     "title": "Skalet: One Step Beyond & On My Radio",
@@ -1000,6 +995,21 @@
     "publishedAt": "2022-06-08T22:20:18Z"
   },
   {
+    "title": "Son Of Man: C'mon",
+    "url": "https://www.youtube.com/watch?v=16938cbA1a8",
+    "publishedAt": "2022-06-25T09:11:01Z"
+  },
+  {
+    "title": "Sassafras: Schooldays",
+    "url": "https://www.youtube.com/watch?v=eXIaJPL_GCo",
+    "publishedAt": "2022-06-18T07:34:28Z"
+  },
+  {
+    "title": "Sassafras: Ohio",
+    "url": "https://www.youtube.com/watch?v=XAyDulp19Ww",
+    "publishedAt": "2022-06-08T22:20:18Z"
+  },
+  {
     "title": "LucieAnn: Why",
     "url": "https://www.youtube.com/watch?v=vLJoX5CJ-yQ",
     "publishedAt": "2022-05-31T20:33:52Z"
@@ -1235,21 +1245,6 @@
     "publishedAt": "2022-02-18T14:41:14Z"
   },
   {
-    "title": "The Marc Davies Band: Messin’ With The Kid",
-    "url": "https://www.youtube.com/watch?v=8Xq4WiMLXFU",
-    "publishedAt": "2022-02-15T14:21:51Z"
-  },
-  {
-    "title": "The Philo Beddoe Band: Whipping Post",
-    "url": "https://www.youtube.com/watch?v=THepatpHTdM",
-    "publishedAt": "2022-02-14T08:03:58Z"
-  },
-  {
-    "title": "Palm Tree Antics: Kingston Town",
-    "url": "https://www.youtube.com/watch?v=cAmnBWIohcc",
-    "publishedAt": "2022-02-12T18:57:39Z"
-  },
-  {
     "title": "Palm Tree Antics Hotel California",
     "url": "https://www.youtube.com/watch?v=3OuD508t0d8",
     "publishedAt": "2022-02-12T18:35:02Z"
@@ -1358,6 +1353,11 @@
     "title": "The Red Hot Pokers: Gangster of Love",
     "url": "https://www.youtube.com/watch?v=Zc74T_0W29I",
     "publishedAt": "2022-01-04T18:45:00Z"
+  },
+  {
+    "title": "Moonstorm: Learning To Fly",
+    "url": "https://www.youtube.com/watch?v=MVktqJjRv38",
+    "publishedAt": "2022-01-01T00:38:25Z"
   },
   {
     "title": "The Fugitives: You Don't Love Me",
@@ -1483,6 +1483,16 @@
     "title": "The Jug Band",
     "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
     "publishedAt": "2021-10-01T09:54:25Z"
+  },
+  {
+    "title": "The Heavy Quartet: Which Dreamt It?",
+    "url": "https://www.youtube.com/watch?v=LYxSV_5H-do",
+    "publishedAt": "2020-10-18T00:07:47Z"
+  },
+  {
+    "title": "James Oliver - It's My Own Business",
+    "url": "https://www.youtube.com/watch?v=9UrCusRaFco",
+    "publishedAt": "2020-05-24T14:19:21Z"
   },
   {
     "title": "The Heavy Quartet: Which Dreamt It?",
@@ -1623,11 +1633,6 @@
     "title": "The Fugitives - Greyhound Bus",
     "url": "https://www.youtube.com/watch?v=_3rTrOVfHNE",
     "publishedAt": "2018-03-03T18:07:01Z"
-  },
-  {
-    "title": "Kerosene Lane: War Pigs",
-    "url": "https://www.youtube.com/watch?v=5FvOqG8rSo4",
-    "publishedAt": "2017-12-10T10:21:02Z"
   },
   {
     "title": "Whitchurch Jam #100 Compilation",
@@ -1773,11 +1778,6 @@
     "title": "Rebel Yell - The Kenny Driscoll Band 2014",
     "url": "https://www.youtube.com/watch?v=03hr2zqvHIw",
     "publishedAt": "2015-04-17T09:21:00Z"
-  },
-  {
-    "title": "Noddy's Puncture",
-    "url": "https://www.youtube.com/watch?v=PwHpKPOX7LQ",
-    "publishedAt": "2015-03-10T22:21:36Z"
   },
   {
     "title": "Noddy's Puncture Promotional Video",
