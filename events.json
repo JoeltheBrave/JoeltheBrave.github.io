@@ -858,50 +858,6 @@
     "created": "2024-08-19T16:44:57+00:00"
   },
   {
-    "id": "E9A7EW",
-    "headline": "Big Mac's Wholly Soul Band",
-    "title": "Big Mac's Wholly Soul Band",
-    "startDate": "2024-10-26",
-    "endDate": "2024-10-26",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Nick Fowler Photography",
-        "caption": "Nick Fowler"
-      }
-    },
-    "artists": [
-      {
-        "id": "AwEN",
-        "name": "Big Mac's Wholly Soul Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "covers",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2024-09-06T08:41:22+01:00",
-    "created": "2024-07-29T13:41:21+00:00"
-  },
-  {
     "id": "74jyj1",
     "headline": "Scotch Corner",
     "title": "Scotch Corner",
@@ -944,6 +900,50 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-08-19T17:45:12+01:00",
     "created": "2024-08-19T16:45:00+00:00"
+  },
+  {
+    "id": "E9A7EW",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": "Big Mac's Wholly Soul Band",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": true,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "@TheBigNiteOut Presents… Big Macs Wholly Soul Band!\n\nTickets available online only from www.TheBigNiteOut.co.uk\n\nIf tickets are sold...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7173433",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-09-06T08:41:22+01:00",
+    "created": "2024-07-29T13:41:21+00:00"
   },
   {
     "id": "mDArAG",
