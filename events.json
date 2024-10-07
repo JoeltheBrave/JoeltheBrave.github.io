@@ -1,47 +1,5 @@
 [
   {
-    "id": "E9A6pX",
-    "headline": "The Worried Men",
-    "title": "The Worried Men",
-    "startDate": "2024-10-06",
-    "endDate": "2024-10-06",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Worried Men at The Earl Haig Club Concert Room\nDoors 5pm\nBand on 6pm\n£3 on the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/350/092/f04ed980028531c4122b3cc2a8535672dd3fd76a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "5BG2",
-        "name": "The Worried Men"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worried-men/7182377",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-08-19T17:44:44+01:00",
-    "created": "2024-08-19T16:44:33+00:00"
-  },
-  {
     "id": "pgybkZ",
     "headline": "JAMES OLIVER",
     "title": "JAMES OLIVER",
