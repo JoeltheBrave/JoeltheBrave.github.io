@@ -2150,6 +2150,68 @@
     "created": "2024-06-19T06:20:00+00:00"
   },
   {
+    "id": "lGN1R9",
+    "headline": "Beatles For Sale",
+    "title": null,
+    "startDate": "2024-12-27",
+    "endDate": "2024-12-27",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/113/bf578d7e0fba1c39a132303c5776f0b90263e8aa.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "lGpN9",
+        "name": "Beatles For Sale"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-27T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£19.00",
+        "totalPrice": "£19.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-10-04T12:00:00+01:00",
+        "onSaleUntil": "2024-12-28T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvYmVhdGxlcy1mb3Itc2FsZS90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzE5NDU1MT9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzE5NDU1MQ/ticketid/7494358/checksum/459946c7206bc6d589d4c11415a5da5f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1960s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/beatles-for-sale/7214521",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-10-24T17:47:37+01:00",
+    "created": "2024-10-24T12:53:11+00:00"
+  },
+  {
     "id": "GoWRKB",
     "headline": "The Specials Ltd",
     "title": null,
@@ -2424,6 +2486,24 @@
         "name": "Children Of The Gravy"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-27T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£17.00",
+        "totalPrice": "£17.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-06-19T00:00:00+01:00",
+        "onSaleUntil": "2024-12-28T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvY2hpbGRyZW4tb2YtdGhlLWdyYXZ5LW1hc3RlcnMtb2Ytc2FiYmF0aC90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzA3ODU3Nj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzA3ODU3Ng/ticketid/7355706/checksum/173327d7f92c32a36c97cc360b1496cb/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -2434,8 +2514,8 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/children-of-the-gravy/7213937",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-10-23T18:42:56+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2024-10-24T13:53:40+01:00",
     "created": "2024-10-23T16:33:19+00:00"
   },
   {
