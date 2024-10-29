@@ -1,44 +1,5 @@
 [
   {
-    "id": "wale2D",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-10-28",
-    "endDate": "2024-10-28",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with The Jedis",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4daaba73-6bb4-4cc6-880a-6227c3d45438.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7196873",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T12:56:11+01:00",
-    "created": "2024-09-18T11:55:59+00:00"
-  },
-  {
     "id": "YYg9lr",
     "headline": "A Knights Memorial, featuring The Troubadours & special guests.",
     "title": "A Knights Memorial, featuring The Troubadours & special guests.",
@@ -1361,8 +1322,8 @@
   },
   {
     "id": "E9Ar0L",
-    "headline": "Moonstorm",
-    "title": "Moonstorm",
+    "headline": "Roosevelt",
+    "title": "Roosevelt",
     "startDate": "2024-11-30",
     "endDate": "2024-11-30",
     "startTimeString": "9:00pm",
@@ -1375,7 +1336,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Earl Haig Memorial Club presents Classic Rock supergroup Moonstorm performing a variety of classic...",
+    "description": "The Earl Haig Memorial Club presents Roosevelt",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/25b50f84-080e-472d-9893-13b8046b676b.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1387,7 +1348,7 @@
     },
     "artists": [
       {
-        "name": "Moonstorm"
+        "name": "Roosevelt"
       }
     ],
     "genre": [
@@ -1398,9 +1359,9 @@
       "1980s",
       "1990s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/moonstorm/7199077",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt/7199077",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-23T16:11:39+01:00",
+    "lastUpdate": "2024-10-28T10:06:20+00:00",
     "created": "2024-09-23T15:11:27+00:00"
   },
   {
