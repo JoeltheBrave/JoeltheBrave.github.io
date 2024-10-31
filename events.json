@@ -1,51 +1,5 @@
 [
   {
-    "id": "YYg9lr",
-    "headline": "A Knights Memorial, featuring The Troubadours & special guests.",
-    "title": "A Knights Memorial, featuring The Troubadours & special guests.",
-    "startDate": "2024-10-30",
-    "endDate": "2024-10-30",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "A Knights Memorial, featuring The Troubadours & special guests.\nWednesday October 30th, 2024\nEarl Haig Club, Whitchurch,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f067cc28-37c4-446c-af4c-9c753612c5c5.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Troubadours"
-      },
-      {
-        "name": "Glyn Knight"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-knights-memorial-featuring-the-troubadours-and-special-guests/7196849",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T12:55:59+01:00",
-    "created": "2024-09-18T11:55:48+00:00"
-  },
-  {
     "id": "oB9Enb",
     "headline": "NAVAWEEN V!",
     "title": "NAVAWEEN V!",
