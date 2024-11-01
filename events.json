@@ -627,24 +627,6 @@
         "name": "Electrik Live Orchestra"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-11-15T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£24.75",
-        "totalPrice": "£24.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-03-07T00:00:00+00:00",
-        "onSaleUntil": "2024-11-16T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZWxlY3RyaWstbGl2ZS1vcmNoZXN0cmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzI5NjkzMTA_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/Mjk2OTMxMA/ticketid/7155960/checksum/e568e9f46b211b7971f8a65ac9494a2c/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -654,7 +636,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/electrik-live-orchestra/7043510",
     "fansOnEnts24": 2,
-    "lastUpdate": "2024-10-25T11:02:39+01:00",
+    "lastUpdate": "2024-10-31T10:17:02+00:00",
     "created": "2024-03-07T13:00:45+00:00"
   },
   {
@@ -2323,8 +2305,8 @@
   },
   {
     "id": "4QpGrb",
-    "headline": "Celebrate Zappa With Treacherous Cretins",
-    "title": "Celebrate Zappa With Treacherous Cretins",
+    "headline": "Zappa Night with Treacherous Cretins",
+    "title": "Zappa Night with Treacherous Cretins",
     "startDate": "2025-04-19",
     "endDate": "2025-04-19",
     "startTimeString": "8:30pm",
@@ -2339,7 +2321,7 @@
     "price": null,
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/b7dbae31-933b-48fa-995d-9ce34244fbf6.png?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/94d98055-b1fa-4a4f-b4f9-36b4a9697570.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -2381,9 +2363,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/celebrate-zappa-with-treacherous-cretins/7214759",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-10-25T16:06:15+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/zappa-night-with-treacherous-cretins/7214759",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2024-10-31T13:12:23+00:00",
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
