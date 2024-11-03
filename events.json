@@ -1,50 +1,5 @@
 [
   {
-    "id": "em0827",
-    "headline": "The Vanderbilts",
-    "title": "The Vanderbilts",
-    "startDate": "2024-11-02",
-    "endDate": "2024-11-02",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Vanderbilts are a rock cover band hailing from Rhondda, Wales. They perform a diverse...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/6ccbc40d-33c9-4ed1-9744-1776ad8bc8a0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Vanderbilts"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie",
-      "1970s",
-      "1980s",
-      "1990s",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-vanderbilts/7212801",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-10-21T16:11:06+01:00",
-    "created": "2024-10-21T15:10:55+00:00"
-  },
-  {
     "id": "Go5dvk",
     "headline": "Cold Shot",
     "title": "Cold Shot",
