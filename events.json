@@ -1,45 +1,5 @@
 [
   {
-    "id": "59Qaro",
-    "headline": "Just Friends Jazz Club",
-    "title": "Just Friends Jazz Club",
-    "startDate": "2024-11-05",
-    "endDate": "2024-11-05",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar.\nWe cordially invite you to attend...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/86364409-233b-4c7e-a400-9e855dde96f4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7196887",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T14:38:51+01:00",
-    "created": "2024-09-18T13:38:41+00:00"
-  },
-  {
     "id": "GoRmjy",
     "headline": "Jim Jones Allstars",
     "title": "Jim Jones Allstars",
@@ -1193,6 +1153,240 @@
     "created": "2024-09-23T15:11:24+00:00"
   },
   {
+    "id": "E9AY1K",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2024-12-02",
+    "endDate": "2024-12-02",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f8ea7811-1d76-4936-a590-0ca26c34945a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Sudden Impact"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-02T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:29+00:00",
+        "onSaleUntil": "2024-12-02T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7220077",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:39+00:00",
+    "created": "2024-11-05T14:41:28+00:00"
+  },
+  {
+    "id": "pgy4OG",
+    "headline": "Just Friends",
+    "title": "Just Friends",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-03",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Just Friends Jazz at The Earl Haig Club Bar. Acoustic jazz session. All are welcome....",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-03T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:30+00:00",
+        "onSaleUntil": "2024-12-03T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends/7220078",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:41+00:00",
+    "created": "2024-11-05T14:41:30+00:00"
+  },
+  {
+    "id": "dDG0YO",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Capital City Jazz Orchestra",
+    "startDate": "2024-12-05",
+    "endDate": "2024-12-05",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9d64306a-06af-4131-8678-51b7b91e867d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-05T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:42:16+00:00",
+        "onSaleUntil": "2024-12-05T23:59:59+00:00",
+        "url": null,
+        "email": "info@ccjo.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7220106",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:28+00:00",
+    "created": "2024-11-05T14:42:16+00:00"
+  },
+  {
+    "id": "Qx6v1j",
+    "headline": "Leighton Jones Band",
+    "title": "Leighton Jones Band",
+    "startDate": "2024-12-06",
+    "endDate": "2024-12-06",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Leighton Jones Band at The Earl Haig Club Bar.\nThe Leighton Jones Band, featuring Leighton...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f931f9aa-1590-4817-96cc-d698b797f4bb.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "kebvR",
+        "name": "Leighton Jones Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-06T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:34+00:00",
+        "onSaleUntil": "2024-12-06T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/leighton-jones-band/7220079",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:45+00:00",
+    "created": "2024-11-05T14:41:33+00:00"
+  },
+  {
     "id": "E9A60l",
     "headline": "Soul In Motion",
     "title": "Soul In Motion",
@@ -1264,6 +1458,68 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-08-19T10:06:07+01:00",
     "created": "2024-08-19T09:05:56+00:00"
+  },
+  {
+    "id": "Wgw6ED",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2024-12-07",
+    "endDate": "2024-12-07",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "\"Second Chance\" will be performing at The Earl Haig Club Bar. South Wales' premier mod...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/720df0ba-5f98-4f49-867c-7f17844a834d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-07T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:36+00:00",
+        "onSaleUntil": "2024-12-07T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "ska",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7220080",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:47+00:00",
+    "created": "2024-11-05T14:41:36+00:00"
   },
   {
     "id": "LzGkl8",
@@ -1386,6 +1642,137 @@
     "created": "2024-10-10T07:50:27+00:00"
   },
   {
+    "id": "jYLq2q",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2024-12-09",
+    "endDate": "2024-12-09",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/e7f3ec35-cab2-4256-aac5-a8409a92077c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Sundogs"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-09T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:39+00:00",
+        "onSaleUntil": "2024-12-09T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "indie",
+      "metal",
+      "punk",
+      "reggae",
+      "rocknroll",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7220081",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:49+00:00",
+    "created": "2024-11-05T14:41:39+00:00"
+  },
+  {
+    "id": "kDqN2W",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2024-12-10",
+    "endDate": "2024-12-10",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:01pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "**Rockers Reunion with Live Music from The Fugitives!**\n\nGet ready to rock out with the legends!...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5d452d06-2123-45d1-a10c-870a09876aac.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-10T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:42+00:00",
+        "onSaleUntil": "2024-12-10T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7220082",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:53+00:00",
+    "created": "2024-11-05T14:41:41+00:00"
+  },
+  {
     "id": "g7Ynxw",
     "headline": "Tom Jones & Elvis Presley Tribute Show",
     "title": "Tom Jones & Elvis Presley Tribute Show",
@@ -1443,6 +1830,64 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2024-10-15T09:17:42+01:00",
     "created": "2024-08-19T09:05:50+00:00"
+  },
+  {
+    "id": "Odl4kR",
+    "headline": "Parcel Of Rogues",
+    "title": "Parcel Of Rogues",
+    "startDate": "2024-12-14",
+    "endDate": "2024-12-14",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-14T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:44+00:00",
+        "onSaleUntil": "2024-12-14T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parcel-of-rogues/7220083",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:56+00:00",
+    "created": "2024-11-05T14:41:44+00:00"
   },
   {
     "id": "bkmgxm",
@@ -1503,6 +1948,282 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-09-06T08:41:34+01:00",
     "created": "2024-08-19T09:05:53+00:00"
+  },
+  {
+    "id": "xyP6Zb",
+    "headline": "Stonehouse",
+    "title": "Stonehouse",
+    "startDate": "2024-12-15",
+    "endDate": "2024-12-15",
+    "startTimeString": "5:00pm",
+    "endTimeString": "8:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Stonehouse, the renowned rock 'n' roll band, is set to make a highly anticipated return...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-15T17:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:46+00:00",
+        "onSaleUntil": "2024-12-15T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stonehouse/7220085",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:41:58+00:00",
+    "created": "2024-11-05T14:41:46+00:00"
+  },
+  {
+    "id": "74j5vL",
+    "headline": "James Oliver Band",
+    "title": "James Oliver Band",
+    "startDate": "2024-12-16",
+    "endDate": "2024-12-16",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "This week's hosts are the amazing James Oliver Band! Hello there! We're thrilled to invite...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3d79c439-5b61-4b1e-8910-2b9c204fa0ac.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "James Oliver Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-16T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:49+00:00",
+        "onSaleUntil": "2024-12-16T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7220086",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:00+00:00",
+    "created": "2024-11-05T14:41:49+00:00"
+  },
+  {
+    "id": "59QPwX",
+    "headline": "Andy Johnson",
+    "title": "Andy Johnson",
+    "startDate": "2024-12-17",
+    "endDate": "2024-12-17",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for a Fantastic Night of Live Acoustic Music! ?\n\nHead over to The Earl...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7220087",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:02+00:00",
+    "created": "2024-11-05T14:41:51+00:00"
+  },
+  {
+    "id": "mDABgA",
+    "headline": "The S'punkles",
+    "title": "The S'punkles",
+    "startDate": "2024-12-19",
+    "endDate": "2024-12-19",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The S'punkles will be presenting their unique punk rock sound at The Earl Haig Club...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/196f8a4d-4545-4818-b713-2a764bf479c0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The S'punkles"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-19T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:54+00:00",
+        "onSaleUntil": "2024-12-19T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "punk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7220088",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:06+00:00",
+    "created": "2024-11-05T14:41:54+00:00"
+  },
+  {
+    "id": "em0KOB",
+    "headline": "Snatch It Back",
+    "title": "Snatch It Back",
+    "startDate": "2024-12-20",
+    "endDate": "2024-12-20",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for an unforgettable evening of live music at The Earl Haig Club on...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/dc691cad-dca5-402a-a7a1-f23cb8339b5c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Snatch It Back"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-20T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:57+00:00",
+        "onSaleUntil": "2024-12-20T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/snatch-it-back/7220089",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:08+00:00",
+    "created": "2024-11-05T14:41:56+00:00"
   },
   {
     "id": "pgybm8",
@@ -1566,6 +2287,247 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2024-10-15T09:17:54+01:00",
     "created": "2024-08-19T09:06:00+00:00"
+  },
+  {
+    "id": "0GzvoN",
+    "headline": "The Red Hot Pokers",
+    "title": "The Red Hot Pokers",
+    "startDate": "2024-12-22",
+    "endDate": "2024-12-22",
+    "startTimeString": "5:00pm",
+    "endTimeString": "8:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Red Hot Pokers at The Earl Haig Club Concert Room\nDoors open 5pm\nBand on at...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/264/929/0ad5c0ad15e09a3d4267d5c452520e4b91ca12b8.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "vayx",
+        "name": "The Red Hot Pokers"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-22T17:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:41:59+00:00",
+        "onSaleUntil": "2024-12-22T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-red-hot-pokers/7220091",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:10+00:00",
+    "created": "2024-11-05T14:41:59+00:00"
+  },
+  {
+    "id": "K9vAyG",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2024-12-23",
+    "endDate": "2024-12-23",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! We are absolutely thrilled to extend an invitation to you for our Monday...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ecf98781-bbe2-423e-a746-fbe3eb8a8ae2.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Octave Doctors"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-23T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:42:03+00:00",
+        "onSaleUntil": "2024-12-23T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7220092",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:14+00:00",
+    "created": "2024-11-05T14:42:02+00:00"
+  },
+  {
+    "id": "LzXB4d",
+    "headline": "The Jedis",
+    "title": "The Jedis",
+    "startDate": "2024-12-24",
+    "endDate": "2024-12-24",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Jedis Christmas Eve Special at The Earl Haig Club Bar\nCardiff\nBand on around 8pm",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/d363a4b2-5d3b-40a1-90f4-c69c21716d4f.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Jedis"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-24T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:42:09+00:00",
+        "onSaleUntil": "2024-12-24T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/7220096",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:20+00:00",
+    "created": "2024-11-05T14:42:08+00:00"
+  },
+  {
+    "id": "dDG0Y5",
+    "headline": "James Oliver Band",
+    "title": "James Oliver Band",
+    "startDate": "2024-12-24",
+    "endDate": "2024-12-24",
+    "startTimeString": "5:00pm",
+    "endTimeString": "7:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "James Oliver Band Christmas Eve Special at The Earl Haig Club Bar\nBand on at 5pm\n",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/39931a67-c40c-4145-92a7-eee8c07eec42.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2024-12-24T17:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:42:06+00:00",
+        "onSaleUntil": "2024-12-24T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7220094",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:16+00:00",
+    "created": "2024-11-05T14:42:05+00:00"
   },
   {
     "id": "pgyjeL",
@@ -1837,6 +2799,106 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-09-06T08:41:48+01:00",
     "created": "2024-08-19T09:06:06+00:00"
+  },
+  {
+    "id": "Aw85K0",
+    "headline": "Cold Shot",
+    "title": "Cold Shot",
+    "startDate": "2025-01-03",
+    "endDate": "2025-01-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Cold Shot are a South Wales-based four-piece classic rock cover band established in 2021. Comprised...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Cold Shot"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-01-03T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-05T14:42:11+00:00",
+        "onSaleUntil": "2025-01-03T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7220099",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:22+00:00",
+    "created": "2024-11-05T14:42:11+00:00"
+  },
+  {
+    "id": "em0Kdo",
+    "headline": "Helter Skelter",
+    "title": "Helter Skelter",
+    "startDate": "2025-01-04",
+    "endDate": "2025-01-04",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7220101",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-05T14:42:24+00:00",
+    "created": "2024-11-05T14:42:13+00:00"
   },
   {
     "id": "nKWxwZ",
