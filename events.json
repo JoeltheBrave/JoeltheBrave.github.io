@@ -1,44 +1,5 @@
 [
   {
-    "id": "pgyE2L",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-11-11",
-    "endDate": "2024-11-11",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This week's host is Mark Pontin & his band\nHey there! We're excited to invite you...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ab34a37a-f9c7-4e46-aa7d-6e5e520989a8.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7196878",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T14:38:41+01:00",
-    "created": "2024-09-18T13:38:29+00:00"
-  },
-  {
     "id": "DwNW5e",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -2637,6 +2598,54 @@
     "created": "2023-11-27T07:21:52+00:00"
   },
   {
+    "id": "NL28gY",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-02-28",
+    "endDate": "2025-02-28",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222954",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-11T21:42:14+00:00",
+    "created": "2024-11-11T21:42:03+00:00"
+  },
+  {
     "id": "8WkZPo",
     "headline": "The Small Fakers",
     "title": null,
@@ -2953,6 +2962,54 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "Aw81Xx",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-05-02",
+    "endDate": "2025-05-02",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222955",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-11T21:42:16+00:00",
+    "created": "2024-11-11T21:42:05+00:00"
+  },
+  {
     "id": "vb2LNz",
     "headline": "StereoIronics, Maniac Street Preachers",
     "title": null,
@@ -3019,5 +3076,101 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-10-25T16:06:15+01:00",
     "created": "2024-10-25T07:43:48+00:00"
+  },
+  {
+    "id": "BvLwaO",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-09-19",
+    "endDate": "2025-09-19",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222956",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-11T21:42:18+00:00",
+    "created": "2024-11-11T21:42:07+00:00"
+  },
+  {
+    "id": "94O2Nx",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-12-26",
+    "endDate": "2025-12-26",
+    "startTimeString": "6:00pm",
+    "endTimeString": "9:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222957",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-11T21:42:20+00:00",
+    "created": "2024-11-11T21:42:09+00:00"
   }
 ]
