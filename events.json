@@ -1,47 +1,5 @@
 [
   {
-    "id": "mDAkEg",
-    "headline": "Blues Central",
-    "title": "Blues Central",
-    "startDate": "2024-11-16",
-    "endDate": "2024-11-16",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Blues Central is a band of 4 to 6 members who play punchy, funky blues...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/041/608/aee249052bf8f05094ac71e650a721ff2fef8e4d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Blues Central",
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "mmmv",
-        "name": "Blues Central"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/blues-central/7198988",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-23T16:11:21+01:00",
-    "created": "2024-09-23T15:11:10+00:00"
-  },
-  {
     "id": "0Gzkyq",
     "headline": "The S'punkles",
     "title": "The S'punkles",
