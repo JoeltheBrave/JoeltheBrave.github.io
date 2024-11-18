@@ -1,48 +1,5 @@
 [
   {
-    "id": "0Gzkyq",
-    "headline": "The S'punkles",
-    "title": "The S'punkles",
-    "startDate": "2024-11-17",
-    "endDate": "2024-11-17",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The S'punkles will be showcasing their distinctive punk rock sound at The Earl Haig Club...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/fa61970b-6560-4dbd-a0ac-dc4212765dd0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The S'punkles"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-spunkles/7198991",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-23T16:11:25+01:00",
-    "created": "2024-09-23T15:11:13+00:00"
-  },
-  {
     "id": "Qx6Y0K",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
