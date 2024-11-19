@@ -1,44 +1,5 @@
 [
   {
-    "id": "Qx6Y0K",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-18",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This week's hosts are the awesome Moonstorm\nHey there! We're excited to invite you to our...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/550a0376-e598-4308-82cd-16c573dea08d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Moonstorm"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7196879",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T14:38:43+01:00",
-    "created": "2024-09-18T13:38:31+00:00"
-  },
-  {
     "id": "em0Ed8",
     "headline": "Strictly Acoustic",
     "title": "Strictly Acoustic",
@@ -3024,6 +2985,67 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "nKB7Z0",
+    "headline": "Solstice",
+    "title": null,
+    "startDate": "2025-04-10",
+    "endDate": "2025-04-10",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/515/104/facc76b638082b7006761704739ca05104dc35ca.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Gq1L",
+        "name": "Solstice"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-10T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£21.25",
+        "totalPrice": "£21.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-17T17:00:00+00:00",
+        "onSaleUntil": "2025-04-11T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvc29sc3RpY2UvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyMzg2OTQ_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzIzODY5NA/ticketid/7517668/checksum/4acb401909123338448e11853490fd36/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/solstice/7225860",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-18T14:58:46+00:00",
+    "created": "2024-11-18T07:23:39+00:00"
+  },
+  {
     "id": "4QpGrb",
     "headline": "Zappa Night with Treacherous Cretins",
     "title": "Zappa Night with Treacherous Cretins",
@@ -3087,6 +3109,68 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2024-10-31T13:12:23+00:00",
     "created": "2024-10-25T07:43:48+00:00"
+  },
+  {
+    "id": "PaPAlZ",
+    "headline": "Letz Zep",
+    "title": null,
+    "startDate": "2025-04-26",
+    "endDate": "2025-04-26",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a1d9ba8b-f793-4a26-b7c2-a76bd9cbcb02.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rzKv",
+        "name": "Letz Zep"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-26T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£21.25",
+        "totalPrice": "£21.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-17T19:50:00+00:00",
+        "onSaleUntil": "2025-04-27T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGV0ei16ZXAvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyMzg3MTI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzIzODcxMg/ticketid/7517674/checksum/8709adbc62e107d6a14071e87e56952e/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/letz-zep/7225866",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-18T13:49:34+00:00",
+    "created": "2024-11-18T07:23:39+00:00"
   },
   {
     "id": "Aw81Xx",
@@ -3223,6 +3307,69 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "rBn78D",
+    "headline": "The Vintage Explosion",
+    "title": null,
+    "startDate": "2025-08-23",
+    "endDate": "2025-08-23",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/449/514/bdcf392435a8c656a88e2e3d37de19afb801dd7f.jpg?auto=format&fp-x=0.455&fp-y=0.609&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "0dYZb",
+        "name": "The Vintage Explosion"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-08-23T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£33.75",
+        "totalPrice": "£33.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-17T12:00:00+00:00",
+        "onSaleUntil": "2025-08-24T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXZpbnRhZ2UtZXhwbG9zaW9uL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMjM4Njk2P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzIzODY5Ng/ticketid/7517726/checksum/0f4af83decbd9daf8775456a1c032024/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rocknroll",
+      "swing",
+      "covers",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-vintage-explosion/7225425",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-18T10:31:23+00:00",
+    "created": "2024-11-15T13:25:56+00:00"
+  },
+  {
     "id": "BvLwaO",
     "headline": "The Fugitives - Cardiff",
     "title": "The Fugitives - Cardiff",
@@ -3269,6 +3416,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-11T21:42:18+00:00",
     "created": "2024-11-11T21:42:07+00:00"
+  },
+  {
+    "id": "oB97Zk",
+    "headline": "Curved Air",
+    "title": null,
+    "startDate": "2025-11-21",
+    "endDate": "2025-11-21",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/067/485/0755e8ddfb8bff079c8d6e28bc758d90d31261a6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "NL0Y4",
+        "name": "Curved Air"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-11-21T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-17T20:40:00+00:00",
+        "onSaleUntil": "2025-11-22T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvY3VydmVkLWFpci90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzIzODcyND9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzIzODcyNA/ticketid/7517678/checksum/e0e58c448e2af49ac11f5b326cfd39f5/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/curved-air/7225870",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-11-18T10:39:05+00:00",
+    "created": "2024-11-18T07:23:39+00:00"
   },
   {
     "id": "94O2Nx",
