@@ -1,44 +1,5 @@
 [
   {
-    "id": "WgwAq4",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-11-25",
-    "endDate": "2024-11-25",
-    "startTimeString": "8:01pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This week's hosts are Midnight Riders\nHey there! We're excited to invite you to our Monday...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/51a78f36-1438-4d74-830f-4fa137053674.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Midnight Riders"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7196880",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-09-18T14:38:45+01:00",
-    "created": "2024-09-18T13:38:34+00:00"
-  },
-  {
     "id": "K9e1qv",
     "headline": "Mark Stanway's Kingdom of Madness: Classic Magnum",
     "title": null,
