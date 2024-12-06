@@ -1,64 +1,5 @@
 [
   {
-    "id": "dDG0YO",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Capital City Jazz Orchestra",
-    "startDate": "2024-12-05",
-    "endDate": "2024-12-05",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9d64306a-06af-4131-8678-51b7b91e867d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-12-05T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-05T14:42:16+00:00",
-        "onSaleUntil": "2024-12-05T23:59:59+00:00",
-        "url": null,
-        "email": "info@ccjo.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7220106",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-05T14:42:28+00:00",
-    "created": "2024-11-05T14:42:16+00:00"
-  },
-  {
     "id": "Qx6v1j",
     "headline": "Leighton Jones Band",
     "title": "Leighton Jones Band",
@@ -1021,7 +962,7 @@
   },
   {
     "id": "pgybm8",
-    "headline": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
+    "headline": "Lee St Lawrence",
     "title": "The Big Motown'N'Christmas Nite with Lee St Lawrence",
     "startDate": "2024-12-20",
     "endDate": "2024-12-20",
@@ -1077,9 +1018,9 @@
       "xmas",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnchristmas-nite-with-lee-st-lawrence/7181678",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2024-10-15T09:17:54+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/lee-st-lawrence/7181678",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2024-12-05T18:18:16+00:00",
     "created": "2024-08-19T09:06:00+00:00"
   },
   {
@@ -1886,12 +1827,12 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": false,
+    "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "? Helter Skelter\n? Saturday, January 4th, 2025\n? The Earl Haig Club, Whitchurch, Cardiff\n\nAbout the Band\nHelter...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/4c86c929-5911-4e5a-a983-2a6c768075b4.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1904,6 +1845,24 @@
         "name": "Helter Skelter"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2025-01-04T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-12-05T16:45:45+00:00",
+        "onSaleUntil": "2025-01-04T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -1911,7 +1870,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/helter-skelter/7220101",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-05T14:42:24+00:00",
+    "lastUpdate": "2024-12-05T18:15:48+00:00",
     "created": "2024-11-05T14:42:13+00:00"
   },
   {
