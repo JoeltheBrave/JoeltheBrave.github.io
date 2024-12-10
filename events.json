@@ -1,70 +1,5 @@
 [
   {
-    "id": "jYLq2q",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-12-09",
-    "endDate": "2024-12-09",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Hey there! We're excited to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e7f3ec35-cab2-4256-aac5-a8409a92077c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sundogs"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-12-09T21:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-05T14:41:39+00:00",
-        "onSaleUntil": "2024-12-09T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "indie",
-      "metal",
-      "punk",
-      "reggae",
-      "rocknroll",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7220081",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-05T14:41:49+00:00",
-    "created": "2024-11-05T14:41:39+00:00"
-  },
-  {
     "id": "kDqN2W",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -1498,6 +1433,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-05T14:42:22+00:00",
     "created": "2024-11-05T14:42:11+00:00"
+  },
+  {
+    "id": "em0kG9",
+    "headline": "MAETLIVE featuring Craig Halford as Meatloaf",
+    "title": "MAETLIVE featuring Craig Halford as Meatloaf",
+    "startDate": "2025-01-04",
+    "endDate": "2025-01-04",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Z2g8L",
+        "name": "Craig Halford"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-01-04T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-04-25T00:00:00+01:00",
+        "onSaleUntil": "2025-01-05T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFldGxpdmUtZmVhdC1jcmFpZy1oYWxmb3JkLWFzLW1lYXRsb2FmL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMDA0MDUwP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzAwNDA1MA/ticketid/7261454/checksum/cce61b2a46083372ff61991e308eb29f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/maetlive-featuring-craig-halford-as-meatloaf/7237245",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-12-09T09:36:08+00:00",
+    "created": "2024-04-25T06:21:03+00:00"
   },
   {
     "id": "em0Kdo",
@@ -3202,12 +3197,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This show has been rescheduled to 27th April 2026.",
     "image": {
       "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -3223,32 +3218,14 @@
         "name": "Focus"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-28T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£25.75",
-        "totalPrice": "£25.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-17T20:10:00+00:00",
-        "onSaleUntil": "2025-04-29T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZm9jdXMtMjUvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyMzg3MTk_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzIzODcxOQ/ticketid/7517677/checksum/40c4be9935fe71d1e3fc9527f77bf6fd/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
       "1970s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7225869",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-20T09:56:59+00:00",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2024-12-09T14:48:07+00:00",
     "created": "2024-11-18T07:23:39+00:00"
   },
   {
@@ -3683,5 +3660,65 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-13T14:45:47+00:00",
     "created": "2024-11-11T21:42:09+00:00"
+  },
+  {
+    "id": "walyxz",
+    "headline": "Focus",
+    "title": null,
+    "startDate": "2026-04-27",
+    "endDate": "2026-04-27",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "This show was rescheduled from 28th April 2025.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rYGE",
+        "name": "Focus"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-27T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£25.75",
+        "totalPrice": "£25.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-17T20:10:00+00:00",
+        "onSaleUntil": "2026-04-28T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZm9jdXMtMjUvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyMzg3MTk_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzIzODcxOQ/ticketid/7517677/checksum/40c4be9935fe71d1e3fc9527f77bf6fd/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7237073",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2024-12-09T14:48:09+00:00",
+    "created": "2024-11-18T07:23:39+00:00"
   }
 ]
