@@ -1,45 +1,5 @@
 [
   {
-    "id": "59QPwX",
-    "headline": "Andy Johnson",
-    "title": "Andy Johnson",
-    "startDate": "2024-12-17",
-    "endDate": "2024-12-17",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for a Fantastic Night of Live Acoustic Music! ?\n\nHead over to The Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/andy-johnson/7220087",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-05T14:42:02+00:00",
-    "created": "2024-11-05T14:41:51+00:00"
-  },
-  {
     "id": "mDABgA",
     "headline": "The S'punkles",
     "title": "The S'punkles",
@@ -3061,6 +3021,68 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-18T10:31:23+00:00",
     "created": "2024-11-15T13:25:56+00:00"
+  },
+  {
+    "id": "Lz105X",
+    "headline": "Oye Santana",
+    "title": null,
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/372/918/5280ba31c3aa6a1474f3090b0436ca528488e806.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "a9KZl",
+        "name": "Oye Santana"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-12T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-12-16T19:10:00+00:00",
+        "onSaleUntil": "2025-09-13T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3llLXNhbnRhbmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyNTk3OTY_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI1OTc5Ng/ticketid/7549769/checksum/216186549c0fde1a04520806f0136f27/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "latin",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oye-santana/7241252",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2024-12-17T08:05:09+00:00",
+    "created": "2024-12-17T07:09:29+00:00"
   },
   {
     "id": "BvLwaO",
