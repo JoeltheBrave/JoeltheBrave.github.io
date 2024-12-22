@@ -1,51 +1,5 @@
 [
   {
-    "id": "xyPzLl",
-    "headline": "Rhiannon - A Tribute To Fleetwood Mac",
-    "title": "Rhiannon - A Tribute To Fleetwood Mac",
-    "startDate": "2024-12-21",
-    "endDate": "2024-12-21",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "SOLD OUT \nRhiannon, the Fleetwood Mac Tribute Band, is eagerly anticipating our Christmas Special on...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "BNydE",
-        "name": "Rhiannon - A Tribute To Fleetwood Mac"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "folk",
-      "tribute",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rhiannon-a-tribute-to-fleetwood-mac/7224241",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-13T16:59:10+00:00",
-    "created": "2024-11-13T16:58:59+00:00"
-  },
-  {
     "id": "0GzvoN",
     "headline": "The Red Hot Pokers",
     "title": "The Red Hot Pokers",
