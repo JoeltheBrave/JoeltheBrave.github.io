@@ -1,64 +1,5 @@
 [
   {
-    "id": "K9vAyG",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2024-12-23",
-    "endDate": "2024-12-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Hey there! We are absolutely thrilled to extend an invitation to you for our Monday...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ecf98781-bbe2-423e-a746-fbe3eb8a8ae2.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Octave Doctors"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2024-12-23T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-05T14:42:03+00:00",
-        "onSaleUntil": "2024-12-23T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7220092",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-05T14:42:14+00:00",
-    "created": "2024-11-05T14:42:02+00:00"
-  },
-  {
     "id": "LzXB4d",
     "headline": "The Jedis",
     "title": "The Jedis",
@@ -448,24 +389,6 @@
         "name": "The Specials Ltd"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2024-12-28T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-06-19T00:00:00+01:00",
-        "onSaleUntil": "2024-12-29T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXNwZWNpYWxzLWx0ZC1kai1saWFtLWN1cnRpbi90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzA3ODU3Mj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzA3ODU3Mg/ticketid/7355702/checksum/9486df9608b7b0f51af22e77cab23dec/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -475,7 +398,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-specials-ltd/7144902",
     "fansOnEnts24": 3,
-    "lastUpdate": "2024-10-25T10:58:23+01:00",
+    "lastUpdate": "2024-12-23T08:13:00+00:00",
     "created": "2024-06-19T06:20:00+00:00"
   },
   {
