@@ -1,39 +1,5 @@
 [
   {
-    "id": "XXzyn7",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-01-06",
-    "endDate": "2025-01-06",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 17th February 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7231862",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-12-30T20:34:10+00:00",
-    "created": "2024-11-28T15:25:30+00:00"
-  },
-  {
     "id": "akO6Yx",
     "headline": "Just Friends Jazz Night",
     "title": "Just Friends Jazz Night",
@@ -92,49 +58,6 @@
     "created": "2024-11-28T15:25:34+00:00"
   },
   {
-    "id": "94OG7l",
-    "headline": "The Bluesters",
-    "title": "The Bluesters",
-    "startDate": "2025-01-10",
-    "endDate": "2025-01-10",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 11th January 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e35b7dbf-0b0b-4550-8b59-e128cddf5921.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Bluesters"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "jazz",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-bluesters/7224257",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-28T15:25:35+00:00",
-    "created": "2024-11-13T16:59:02+00:00"
-  },
-  {
     "id": "lGNpnw",
     "headline": "Roosevelt",
     "title": "Roosevelt",
@@ -150,7 +73,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Roosevelt.\nThe Earl Haig Memorial Club presents Roosevelt",
+    "description": "Roosevelt.\n\n\nRoosevelt Live at The Earl Haig Club Front Bar\n? Get ready for an unforgettable night...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/e35b7dbf-0b0b-4550-8b59-e128cddf5921.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -192,7 +115,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt/7231865",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-05T22:26:24+00:00",
+    "lastUpdate": "2025-01-06T09:40:28+00:00",
     "created": "2024-11-28T15:25:23+00:00"
   },
   {
@@ -1526,7 +1449,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": true,
+    "isFree": false,
     "ticketsAvailable": true,
     "price": null,
     "description": "Hello there! We're thrilled to invite you to our Monday Night Open Mic and Jam...",
@@ -1539,30 +1462,12 @@
         "caption": null
       }
     },
-    "tickets": [
-      {
-        "dateTime": "2025-01-06T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-28T15:25:31+00:00",
-        "onSaleUntil": "2025-01-06T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7244506",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-12-30T20:34:10+00:00",
+    "lastUpdate": "2025-01-07T00:00:01+00:00",
     "created": "2024-12-30T20:33:58+00:00"
   },
   {
