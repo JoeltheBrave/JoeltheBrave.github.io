@@ -252,9 +252,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "? Junior Hacksaw Live at the Earl Haig Club Bar! ?\nBack by very popular demand,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/7719c997-3d05-4282-828b-f35d25da5aea.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -288,13 +288,13 @@
     ],
     "genre": [
       "music",
-      "rock",
+      "rocknroll",
       "blues",
-      "2000s"
+      "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/junior-hacksaw/7247582",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-07T17:03:15+00:00",
+    "lastUpdate": "2025-01-08T09:34:10+00:00",
     "created": "2025-01-07T17:03:04+00:00"
   },
   {
@@ -684,6 +684,63 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-28T16:37:21+00:00",
     "created": "2024-11-28T16:37:09+00:00"
+  },
+  {
+    "id": "Go6gv4",
+    "headline": "Proper Crackin' Comedy Club",
+    "title": "Proper Crackin' Comedy Club",
+    "startDate": "2025-01-30",
+    "endDate": "2025-01-30",
+    "startTimeString": "8:00pm",
+    "endTimeString": "9:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "? Proper Crackin' Comedy Club ?\nA lot of you have been asking for something a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c214b63f-08a5-4048-bf04-fd9bb8eab72c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Proper Crackin' Comedy Club"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-01-30T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-01-08T09:34:02+00:00",
+        "onSaleUntil": "2025-01-30T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "comedy"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/proper-crackin-comedy-club/7247646",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-01-08T09:34:12+00:00",
+    "created": "2025-01-08T09:34:01+00:00"
   },
   {
     "id": "0Gz9yx",
