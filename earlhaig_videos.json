@@ -405,11 +405,6 @@
     "publishedAt": "2023-05-15T14:52:46Z"
   },
   {
-    "title": "Bryony Sier: Personal Monster",
-    "url": "https://www.youtube.com/watch?v=ZR7AFlr10kU",
-    "publishedAt": "2023-05-13T12:23:50Z"
-  },
-  {
     "title": "Sun Dogs: Thank You",
     "url": "https://www.youtube.com/watch?v=hBlXYZSnX9U",
     "publishedAt": "2023-05-13T12:24:01Z"
@@ -493,6 +488,11 @@
     "title": "G&T OTR: I Don't Know Where I'm Going",
     "url": "https://www.youtube.com/watch?v=xHzxGiNRH6U",
     "publishedAt": "2023-02-24T15:24:58Z"
+  },
+  {
+    "title": "Lucieann: Rhiannon",
+    "url": "https://www.youtube.com/watch?v=2vTknLSdMX0",
+    "publishedAt": "2023-02-24T14:26:49Z"
   },
   {
     "title": "Lucieann: Rhiannon",
@@ -745,16 +745,6 @@
     "publishedAt": "2022-11-09T09:15:29Z"
   },
   {
-    "title": "The Bluesters: Cold Duck Time",
-    "url": "https://www.youtube.com/watch?v=w-5TBzSievI",
-    "publishedAt": "2022-11-08T12:03:48Z"
-  },
-  {
-    "title": "Sun Dogs: Sharp Dressed Man",
-    "url": "https://www.youtube.com/watch?v=Xy_W1aUcxJQ",
-    "publishedAt": "2022-11-05T00:38:23Z"
-  },
-  {
     "title": "Tumbling Dice: Hot Legs",
     "url": "https://www.youtube.com/watch?v=nWwYmLmpLy0",
     "publishedAt": "2022-11-05T00:38:15Z"
@@ -845,19 +835,9 @@
     "publishedAt": "2022-10-07T09:06:35Z"
   },
   {
-    "title": "Thin Ice (Pink Floyd Tribute): Lucifer Sam",
-    "url": "https://www.youtube.com/watch?v=NeXnW4WiD5A",
-    "publishedAt": "2022-10-06T18:04:06Z"
-  },
-  {
     "title": "The S'punkles: Is Vic There?",
     "url": "https://www.youtube.com/watch?v=nFQ88HsivSw",
     "publishedAt": "2022-09-28T08:32:03Z"
-  },
-  {
-    "title": "The S'punkles: Anarchy In The UK",
-    "url": "https://www.youtube.com/watch?v=MaklPQnfp2Y",
-    "publishedAt": "2022-09-28T08:31:58Z"
   },
   {
     "title": "Fortunate Sons: I Heard It Through The Grapevine",
@@ -930,11 +910,6 @@
     "publishedAt": "2022-08-15T17:27:45Z"
   },
   {
-    "title": "Kinky Wizzards: Caffeine Overdose",
-    "url": "https://www.youtube.com/watch?v=AXmoVXqLIBQ",
-    "publishedAt": "2022-08-11T09:45:21Z"
-  },
-  {
     "title": "Neil Lockwood: Let The Good Times Roll",
     "url": "https://www.youtube.com/watch?v=6d30CKarohw",
     "publishedAt": "2022-08-11T09:45:27Z"
@@ -993,6 +968,31 @@
     "title": "Sassafras: Expecting Company",
     "url": "https://www.youtube.com/watch?v=Fhczgyk73h4",
     "publishedAt": "2022-06-26T10:20:59Z"
+  },
+  {
+    "title": "Sassafras: Moonshine",
+    "url": "https://www.youtube.com/watch?v=ExyBrFXnyOI",
+    "publishedAt": "2022-06-26T10:21:08Z"
+  },
+  {
+    "title": "Sassafras: I Am The Walrus",
+    "url": "https://www.youtube.com/watch?v=dQfdNI6USEM",
+    "publishedAt": "2022-06-26T10:21:03Z"
+  },
+  {
+    "title": "Son Of Man: Call Down The Moon",
+    "url": "https://www.youtube.com/watch?v=WOFG7R4TYRo",
+    "publishedAt": "2022-06-26T08:46:25Z"
+  },
+  {
+    "title": "Hand of Dimes: Jacob's Ladder",
+    "url": "https://www.youtube.com/watch?v=gNLy3uHWrOo",
+    "publishedAt": "2022-06-25T21:08:08Z"
+  },
+  {
+    "title": "Son Of Man: Soul To The Road",
+    "url": "https://www.youtube.com/watch?v=7eMxQxXBsXI",
+    "publishedAt": "2022-06-25T09:11:07Z"
   },
   {
     "title": "Sassafras: Moonshine",
@@ -1495,31 +1495,6 @@
     "publishedAt": "2021-10-01T10:00:47Z"
   },
   {
-    "title": "The Jug Band",
-    "url": "https://www.youtube.com/watch?v=sZN030nf6xc",
-    "publishedAt": "2021-10-01T09:54:25Z"
-  },
-  {
-    "title": "The Heavy Quartet: Which Dreamt It?",
-    "url": "https://www.youtube.com/watch?v=LYxSV_5H-do",
-    "publishedAt": "2020-10-18T00:07:47Z"
-  },
-  {
-    "title": "James Oliver - It's My Own Business",
-    "url": "https://www.youtube.com/watch?v=9UrCusRaFco",
-    "publishedAt": "2020-05-24T14:19:21Z"
-  },
-  {
-    "title": "Garden Bird Feeder, Lumix GH5 video test",
-    "url": "https://www.youtube.com/watch?v=0mHUib1U9_w",
-    "publishedAt": "2020-05-06T23:03:51Z"
-  },
-  {
-    "title": "Bob, Mugsy and Bob",
-    "url": "https://www.youtube.com/watch?v=xhU2sI01SAc",
-    "publishedAt": "2020-02-21T20:16:40Z"
-  },
-  {
     "title": "James Oliver Band  - It's My Own Business",
     "url": "https://www.youtube.com/watch?v=T3c1MbmWKZ8",
     "publishedAt": "2019-11-13T14:08:58Z"
@@ -1738,6 +1713,26 @@
     "title": "Noddy's Puncture -  Rondo Cluny 2015",
     "url": "https://www.youtube.com/watch?v=3X59t3eoQtE",
     "publishedAt": "2015-08-11T16:55:22Z"
+  },
+  {
+    "title": "Steve's Drum Solo from Rondo at the Cluny, Newcastle.",
+    "url": "https://www.youtube.com/watch?v=4qCJX3ASK-0",
+    "publishedAt": "2015-08-09T11:32:26Z"
+  },
+  {
+    "title": "The Billy Pezzack Trio - You Speak My Language",
+    "url": "https://www.youtube.com/watch?v=m_s_KI97x-8",
+    "publishedAt": "2015-07-27T11:49:48Z"
+  },
+  {
+    "title": "The Billy Pezzack Trio - Another Way",
+    "url": "https://www.youtube.com/watch?v=g7sdiZoRwp0",
+    "publishedAt": "2015-07-23T18:57:28Z"
+  },
+  {
+    "title": "The Billy Pezzack Trio -  Demeter",
+    "url": "https://www.youtube.com/watch?v=678aHh8bpto",
+    "publishedAt": "2015-07-18T08:34:40Z"
   },
   {
     "title": "Steve's Drum Solo from Rondo at the Cluny, Newcastle.",
