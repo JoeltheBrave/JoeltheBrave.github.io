@@ -1,48 +1,5 @@
 [
   {
-    "id": "lGNpnw",
-    "headline": "Roosevelt",
-    "title": "Roosevelt",
-    "startDate": "2025-01-11",
-    "endDate": "2025-01-11",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Roosevelt.\n\n\nRoosevelt Live at The Earl Haig Club Front Bar\n? Get ready for an unforgettable night...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e35b7dbf-0b0b-4550-8b59-e128cddf5921.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Roosevelt"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "jazz",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt/7231865",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-11T00:00:06+00:00",
-    "created": "2024-11-28T15:25:23+00:00"
-  },
-  {
     "id": "6BWaGm",
     "headline": "Outback",
     "title": "Outback",
