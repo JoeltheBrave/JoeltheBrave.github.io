@@ -1,66 +1,5 @@
 [
   {
-    "id": "E9ApvX",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-01-13",
-    "endDate": "2025-01-13",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Hello there! We are excited to invite you to our Monday Night Open Mic and...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/067/095/c0d66724327bf783caa4c17b7c873e4b106a105d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Mark Pontin Group",
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "gZ76g",
-        "name": "Mark Pontin Group"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-01-13T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-11-28T16:36:53+00:00",
-        "onSaleUntil": "2025-01-13T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7231877",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-28T16:37:04+00:00",
-    "created": "2024-11-28T16:36:53+00:00"
-  },
-  {
     "id": "pgykxZ",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -2365,7 +2304,7 @@
   {
     "id": "94qaK6",
     "headline": "The Worried Men",
-    "title": "The Worried Men",
+    "title": null,
     "startDate": "2025-03-09",
     "endDate": "2025-03-09",
     "startTimeString": "6:00pm",
@@ -2421,7 +2360,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-worried-men/7249013",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T16:02:06+00:00",
+    "lastUpdate": "2025-01-13T16:17:35+00:00",
     "created": "2025-01-09T16:01:55+00:00"
   },
   {
@@ -2537,7 +2476,7 @@
   {
     "id": "jYLKgA",
     "headline": "Martin Turner (ex Wishbone Ash)",
-    "title": "Martin Turner (ex Wishbone Ash)",
+    "title": null,
     "startDate": "2025-03-13",
     "endDate": "2025-03-13",
     "startTimeString": "8:00pm",
@@ -2552,7 +2491,7 @@
     "price": null,
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/000/453/270/1da1d1de45832ee9526cc6ba0d5367e56b0ddfd2.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/ea67667d-f81f-4e0b-921e-b8e93cab2fa5.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -2591,7 +2530,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/martin-turner-ex-wishbone-ash/7177737",
     "fansOnEnts24": 12,
-    "lastUpdate": "2024-10-25T15:51:14+01:00",
+    "lastUpdate": "2025-01-13T15:38:57+00:00",
     "created": "2024-08-07T08:54:39+00:00"
   },
   {
@@ -3920,6 +3859,68 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "emBLeB",
+    "headline": "Oye Santana",
+    "title": null,
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-06",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "This show was rescheduled from 12th September 2025.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/372/918/5280ba31c3aa6a1474f3090b0436ca528488e806.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "a9KZl",
+        "name": "Oye Santana"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-06-06T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-12-16T19:10:00+00:00",
+        "onSaleUntil": "2025-06-07T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3llLXNhbnRhbmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyNTk3OTY_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI1OTc5Ng/ticketid/7549769/checksum/216186549c0fde1a04520806f0136f27/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "latin",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oye-santana/7250889",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-01-13T16:21:00+00:00",
+    "created": "2024-12-17T07:09:29+00:00"
+  },
+  {
     "id": "6BW8am",
     "headline": "Dirty DC",
     "title": null,
@@ -4055,12 +4056,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This show has been rescheduled to 6th June 2025.",
     "image": {
       "url": "https://ents24.imgix.net/image/000/372/918/5280ba31c3aa6a1474f3090b0436ca528488e806.png?auto=format&w=150&h=112",
       "width": 150,
@@ -4076,24 +4077,6 @@
         "name": "Oye Santana"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-12T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£23.75",
-        "totalPrice": "£23.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2024-12-16T19:10:00+00:00",
-        "onSaleUntil": "2025-09-13T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3llLXNhbnRhbmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyNTk3OTY_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI1OTc5Ng/ticketid/7549769/checksum/216186549c0fde1a04520806f0136f27/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -4102,8 +4085,8 @@
       "tribute"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oye-santana/7241252",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-12-17T08:05:09+00:00",
+    "fansOnEnts24": 4,
+    "lastUpdate": "2025-01-13T16:21:02+00:00",
     "created": "2024-12-17T07:09:29+00:00"
   },
   {
