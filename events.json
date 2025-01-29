@@ -580,6 +580,58 @@
     "created": "2025-01-03T08:53:42+00:00"
   },
   {
+    "id": "vbw8Gb",
+    "headline": "The Big Motown'N'Soul Nite with Dave Bowen",
+    "title": "The Big Motown'N'Soul Nite with Dave Bowen",
+    "startDate": "2025-02-14",
+    "endDate": "2025-02-14",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Dave Bowen\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4964d7b6-66ce-4dc3-85c4-ff4a41f611a7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-02-14T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-01-26T20:05:59+00:00",
+        "onSaleUntil": "2025-02-14T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg0/ticketid/7580543/checksum/fca8282b646a0a16ee7ba57473a38889/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-dave-bowen/7257361",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-01-26T20:06:11+00:00",
+    "created": "2025-01-26T20:05:58+00:00"
+  },
+  {
     "id": "xygd1o",
     "headline": "Dean & The Blues Bros",
     "title": "Dean & The Blues Bros",
@@ -637,58 +689,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-03T08:53:56+00:00",
     "created": "2025-01-03T08:53:44+00:00"
-  },
-  {
-    "id": "vbw8Gb",
-    "headline": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "title": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Dave Bowen\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4964d7b6-66ce-4dc3-85c4-ff4a41f611a7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "tickets": [
-      {
-        "dateTime": "2025-02-14T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:05:59+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg0/ticketid/7580543/checksum/fca8282b646a0a16ee7ba57473a38889/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-dave-bowen/7257361",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:06:11+00:00",
-    "created": "2025-01-26T20:05:58+00:00"
   },
   {
     "id": "74819Y",
@@ -3945,8 +3945,8 @@
   },
   {
     "id": "6BdovP",
-    "headline": "The Days Between - The  Music of Jerry Garcia",
-    "title": "The Days Between - The  Music of Jerry Garcia",
+    "headline": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
+    "title": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
     "startDate": "2025-08-09",
     "endDate": "2025-08-09",
     "startTimeString": "7:30pm",
@@ -4003,9 +4003,9 @@
       "1970s",
       "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-days-between-the-music-of-jerry-garcia/7257667",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-celebration-of-the-life-and-music-of-jerry-garcia-and-the-grateful-dead/7257667",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-27T10:10:56+00:00",
+    "lastUpdate": "2025-01-28T17:51:46+00:00",
     "created": "2025-01-27T07:31:31+00:00"
   },
   {
