@@ -58,8 +58,8 @@
   },
   {
     "id": "0Gz9yx",
-    "headline": "Elk Redemption",
-    "title": "Elk Redemption",
+    "headline": "Panic Station",
+    "title": "Panic Station",
     "startDate": "2025-02-01",
     "endDate": "2025-02-01",
     "startTimeString": "9:00pm",
@@ -72,9 +72,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Elk Redemption at The Earl Haig Club Bar\nFree entry\nA 5-piece band will perform an eclectic...",
+    "description": "? Live Music Alert: Panic Station Rhythm & Blues Band! ?\nGet ready for a night...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/1d26bf52-5810-45dc-921e-99a2b4878a77.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/856757df-8e5c-4c09-a137-4ea2bce8d594.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -84,7 +84,8 @@
     },
     "artists": [
       {
-        "name": "Elk Redemption"
+        "id": "eXXE",
+        "name": "Panic Station"
       }
     ],
     "tickets": [
@@ -109,11 +110,13 @@
       "music",
       "rock",
       "country",
-      "blues"
+      "blues",
+      "covers",
+      "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/elk-redemption/7231891",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/panic-station/7231891",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-28T16:37:33+00:00",
+    "lastUpdate": "2025-01-29T16:08:32+00:00",
     "created": "2024-11-28T16:37:22+00:00"
   },
   {
@@ -297,12 +300,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "The Capital City Jazz Orchestra (CCJO) will be returning to the Earl Haig for their...",
+    "description": "This event has been rescheduled to 13th February 2025.",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -318,31 +321,13 @@
         "name": "Capital City Jazz Orchestra"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-06T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-03T08:53:37+00:00",
-        "onSaleUntil": "2025-02-06T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "jazz"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7244538",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-03T08:53:48+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-01-29T16:08:34+00:00",
     "created": "2025-01-03T08:53:37+00:00"
   },
   {
@@ -580,13 +565,13 @@
     "created": "2025-01-03T08:53:42+00:00"
   },
   {
-    "id": "vbw8Gb",
-    "headline": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "title": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": null,
-    "endTimeString": null,
+    "id": "Dw279Q",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Capital City Jazz Orchestra",
+    "startDate": "2025-02-13",
+    "endDate": "2025-02-13",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -595,9 +580,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Dave Bowen\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
+    "description": "The Capital City Jazz Orchestra (CCJO) will be returning to the Earl Haig for their...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/4964d7b6-66ce-4dc3-85c4-ff4a41f611a7.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -605,9 +590,15 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
     "tickets": [
       {
-        "dateTime": "2025-02-14T00:00:00+00:00",
+        "dateTime": "2025-02-06T20:00:00+00:00",
         "supplier": "Miscellaneous",
         "price": "£10.00",
         "totalPrice": "£10.00",
@@ -616,20 +607,21 @@
         "isAvailable": true,
         "isPresaleTicket": false,
         "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:05:59+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg0/ticketid/7580543/checksum/fca8282b646a0a16ee7ba57473a38889/track/true",
-        "email": "info@thebigniteout.co.uk",
+        "onSaleFrom": "2025-01-03T08:53:37+00:00",
+        "onSaleUntil": "2025-02-06T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
         "telephone": null
       }
     ],
     "genre": [
-      "music"
+      "music",
+      "jazz"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-dave-bowen/7257361",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7259640",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:06:11+00:00",
-    "created": "2025-01-26T20:05:58+00:00"
+    "lastUpdate": "2025-01-29T16:08:34+00:00",
+    "created": "2025-01-29T16:08:21+00:00"
   },
   {
     "id": "xygd1o",
@@ -689,6 +681,58 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-03T08:53:56+00:00",
     "created": "2025-01-03T08:53:44+00:00"
+  },
+  {
+    "id": "vbw8Gb",
+    "headline": "The Big Motown'N'Soul Nite with Dave Bowen",
+    "title": "The Big Motown'N'Soul Nite with Dave Bowen",
+    "startDate": "2025-02-14",
+    "endDate": "2025-02-14",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Dave Bowen\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4964d7b6-66ce-4dc3-85c4-ff4a41f611a7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-02-14T00:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-01-26T20:05:59+00:00",
+        "onSaleUntil": "2025-02-14T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg0/ticketid/7580543/checksum/fca8282b646a0a16ee7ba57473a38889/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-dave-bowen/7257361",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-01-26T20:06:11+00:00",
+    "created": "2025-01-26T20:05:58+00:00"
   },
   {
     "id": "74819Y",
@@ -1427,12 +1471,12 @@
     "startTimeString": "9:00pm",
     "endTimeString": "11:00pm",
     "hasMoved": false,
-    "isCancelled": false,
+    "isCancelled": true,
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
+    "isFree": false,
+    "ticketsAvailable": false,
     "price": null,
     "description": "? Marc Davies Band – Live at The Earl Haig Club Bar ?\n? Friday, 28th...",
     "image": {
@@ -1449,31 +1493,13 @@
         "name": "Marc Davies Band"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-28T21:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-03T08:54:08+00:00",
-        "onSaleUntil": "2025-02-28T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "blues"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/marc-davies-band/7244549",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-03T08:54:20+00:00",
+    "lastUpdate": "2025-01-29T16:08:34+00:00",
     "created": "2025-01-03T08:54:08+00:00"
   },
   {
