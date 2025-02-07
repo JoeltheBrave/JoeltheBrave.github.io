@@ -1,46 +1,5 @@
 [
   {
-    "id": "kDXe1R",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Capital City Jazz Orchestra",
-    "startDate": "2025-02-06",
-    "endDate": "2025-02-06",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 13th February 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7244538",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-01-29T16:08:34+00:00",
-    "created": "2025-01-03T08:53:37+00:00"
-  },
-  {
     "id": "dDGoEe",
     "headline": "Leighton Jones Band",
     "title": "Leighton Jones Band",
@@ -288,31 +247,13 @@
         "name": "Capital City Jazz Orchestra"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-06T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-03T08:53:37+00:00",
-        "onSaleUntil": "2025-02-06T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "jazz"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7259640",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-29T16:08:34+00:00",
+    "lastUpdate": "2025-02-07T00:00:06+00:00",
     "created": "2025-01-29T16:08:21+00:00"
   },
   {
