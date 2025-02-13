@@ -2166,9 +2166,9 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "@TheBigNiteOut Presents.. Big Macs Wholly Soul Band\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the waiting list...",
     "image": {
@@ -2186,24 +2186,6 @@
         "name": "Big Mac's Wholly Soul Band"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-28T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£18.00",
-        "totalPrice": "£18.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:08:16+00:00",
-        "onSaleUntil": "2025-03-28T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg4/ticketid/7580564/checksum/65b3e460c5e9158587d47f1ea4e29472/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "blues",
@@ -2212,8 +2194,8 @@
       "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7257367",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:08:27+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-02-12T17:57:01+00:00",
     "created": "2025-01-26T20:08:16+00:00"
   },
   {
