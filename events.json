@@ -1,216 +1,5 @@
 [
   {
-    "id": "xygd1o",
-    "headline": "Dean & The Blues Bros",
-    "title": "Dean & The Blues Bros",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "https://dean-and-the-blue-bros.jimdosite.com/gig-dates/\n\nAbout the Band: Dean Newman & the Blue Bros Trio\nIn the summer of 2022, a...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bf5b85b7-ccde-463f-bef1-cbbf243e4f61.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dean & The Blues Bros"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-14T21:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-03T08:53:44+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dean-and-the-blues-bros/7244541",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-03T08:53:56+00:00",
-    "created": "2025-01-03T08:53:44+00:00"
-  },
-  {
-    "id": "vbw8Gb",
-    "headline": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "title": "The Big Motown'N'Soul Nite with Dave Bowen",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Dave Bowen\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4964d7b6-66ce-4dc3-85c4-ff4a41f611a7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "tickets": [
-      {
-        "dateTime": "2025-02-14T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:05:59+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg0/ticketid/7580543/checksum/fca8282b646a0a16ee7ba57473a38889/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-dave-bowen/7257361",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:06:11+00:00",
-    "created": "2025-01-26T20:05:58+00:00"
-  },
-  {
-    "id": "74819Y",
-    "headline": "Rattlesnake",
-    "title": "Rattlesnake",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 15th February 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bd24d5e8-fb58-4948-a8ce-a98831cc6537.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rattlesnake"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rattlesnake/7244542",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-01-09T15:33:20+00:00",
-    "created": "2025-01-03T08:53:47+00:00"
-  },
-  {
-    "id": "8WLOGe",
-    "headline": "Big Nite Out",
-    "title": "Big Nite Out",
-    "startDate": "2025-02-14",
-    "endDate": "2025-02-14",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "? Big Nite Out with Dave Bowen & Central Line Disco! ?\n? Valentine’s Day Special...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/2184ee4c-53d9-49e6-9b9c-2f9c5041bedc.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "dave bowen"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-14T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:09:52+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "showsandevents",
-      "cabaret",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-nite-out/7257351",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:10:04+00:00",
-    "created": "2025-01-26T20:09:52+00:00"
-  },
-  {
     "id": "nKWxwZ",
     "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi",
     "title": null,
@@ -286,7 +75,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": true,
+    "isFree": false,
     "ticketsAvailable": true,
     "price": null,
     "description": "Live Music: Rattlesnake\nGet ready for a night of classic rock as Rattlesnake, a powerhouse 4-piece...",
@@ -304,31 +93,13 @@
         "name": "Rattlesnake"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-02-14T21:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-03T08:53:47+00:00",
-        "onSaleUntil": "2025-02-14T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rattlesnake/7249005",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:22+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-02-15T00:00:06+00:00",
     "created": "2025-01-09T15:33:07+00:00"
   },
   {
@@ -623,8 +394,8 @@
     "title": "The Flares",
     "startDate": "2025-02-22",
     "endDate": "2025-02-22",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -671,8 +442,8 @@
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-flares/7244546",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-03T08:54:12+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-02-14T14:57:26+00:00",
     "created": "2025-01-03T08:54:00+00:00"
   },
   {
@@ -949,8 +720,8 @@
     "title": "The Sand Boys",
     "startDate": "2025-03-01",
     "endDate": "2025-03-01",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -999,7 +770,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sand-boys/7248974",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:44+00:00",
+    "lastUpdate": "2025-02-14T14:57:38+00:00",
     "created": "2025-01-09T15:33:32+00:00"
   },
   {
@@ -1160,24 +931,24 @@
     "created": "2025-01-09T15:33:16+00:00"
   },
   {
-    "id": "XXDgqw",
-    "headline": "The Bluesters",
-    "title": "The Bluesters",
-    "startDate": "2025-03-07",
-    "endDate": "2025-03-07",
-    "startTimeString": "9:00pm",
+    "id": "bkqpBm",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Capital City Jazz Orchestra",
+    "startDate": "2025-03-06",
+    "endDate": "2025-03-06",
+    "startTimeString": "8:00pm",
     "endTimeString": "11:00pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": true,
+    "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Bluesters at The Earl Haig Club",
+    "description": "The Capital City Jazz Orchestra (CCJO) will be returning to the Earl Haig for their...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1187,34 +958,36 @@
     },
     "artists": [
       {
-        "name": "The Bluesters"
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
       }
     ],
     "tickets": [
       {
-        "dateTime": "2025-03-07T21:00:00+00:00",
+        "dateTime": "2025-03-06T20:00:00+00:00",
         "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
+        "price": "£10.00",
+        "totalPrice": "£10.00",
         "inclBookingFee": false,
         "isOnSale": true,
         "isAvailable": true,
         "isPresaleTicket": false,
         "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T15:33:24+00:00",
-        "onSaleUntil": "2025-03-07T23:59:59+00:00",
+        "onSaleFrom": "2025-02-14T14:57:41+00:00",
+        "onSaleUntil": "2025-03-06T23:59:59+00:00",
         "url": null,
         "email": "contact@earlhaigclub.com",
         "telephone": null
       }
     ],
     "genre": [
-      "music"
+      "music",
+      "jazz"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-bluesters/7248962",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7268576",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:34+00:00",
-    "created": "2025-01-09T15:33:24+00:00"
+    "lastUpdate": "2025-02-14T14:57:52+00:00",
+    "created": "2025-02-14T14:57:41+00:00"
   },
   {
     "id": "jYLoak",
@@ -1263,13 +1036,70 @@
     "created": "2024-10-23T16:33:19+00:00"
   },
   {
+    "id": "XXDgqw",
+    "headline": "The Bluesters",
+    "title": "The Bluesters",
+    "startDate": "2025-03-07",
+    "endDate": "2025-03-07",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Bluesters at The Earl Haig Club",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Bluesters"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-03-07T21:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-01-09T15:33:24+00:00",
+        "onSaleUntil": "2025-03-07T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-bluesters/7248962",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:57:30+00:00",
+    "created": "2025-01-09T15:33:24+00:00"
+  },
+  {
     "id": "pg6db1",
     "headline": "Stonehouse",
     "title": "Stonehouse",
     "startDate": "2025-03-08",
     "endDate": "2025-03-08",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -1316,8 +1146,8 @@
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stonehouse/7248978",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:48+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-02-14T14:57:40+00:00",
     "created": "2025-01-09T15:33:35+00:00"
   },
   {
@@ -1466,6 +1296,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Then & Now"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-03-11T20:00:00+00:00",
@@ -1489,7 +1324,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7249025",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T16:42:01+00:00",
+    "lastUpdate": "2025-02-14T14:57:48+00:00",
     "created": "2025-01-09T16:41:47+00:00"
   },
   {
@@ -1558,8 +1393,8 @@
     "title": "Snatch it Back",
     "startDate": "2025-03-14",
     "endDate": "2025-03-14",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -1606,8 +1441,8 @@
       "blues"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/snatch-it-back/7248967",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:38+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-02-14T14:57:32+00:00",
     "created": "2025-01-09T15:33:26+00:00"
   },
   {
@@ -1616,8 +1451,8 @@
     "title": "The Jedis",
     "startDate": "2025-03-15",
     "endDate": "2025-03-15",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -1665,7 +1500,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/7248982",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:50+00:00",
+    "lastUpdate": "2025-02-14T14:57:40+00:00",
     "created": "2025-01-09T15:33:38+00:00"
   },
   {
@@ -1752,6 +1587,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "kEN wOODS"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-03-17T20:00:00+00:00",
@@ -1775,7 +1615,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7248947",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:22+00:00",
+    "lastUpdate": "2025-02-14T14:57:28+00:00",
     "created": "2025-01-09T15:33:11+00:00"
   },
   {
@@ -1903,8 +1743,8 @@
     "title": "Junior Hacksaw",
     "startDate": "2025-03-21",
     "endDate": "2025-03-21",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -1955,7 +1795,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/junior-hacksaw/7248970",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-21T16:58:00+00:00",
+    "lastUpdate": "2025-02-14T14:57:36+00:00",
     "created": "2025-01-09T15:33:29+00:00"
   },
   {
@@ -1964,8 +1804,8 @@
     "title": "Bendericks Rock",
     "startDate": "2025-03-22",
     "endDate": "2025-03-22",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -2013,7 +1853,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bendericks-rock/7248987",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:52+00:00",
+    "lastUpdate": "2025-02-14T14:57:42+00:00",
     "created": "2025-01-09T15:33:40+00:00"
   },
   {
@@ -2112,6 +1952,58 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-26T20:10:08+00:00",
     "created": "2025-01-09T16:41:52+00:00"
+  },
+  {
+    "id": "q5Rova",
+    "headline": "Proper Crackin' Comedy Club!",
+    "title": "Proper Crackin' Comedy Club!",
+    "startDate": "2025-03-27",
+    "endDate": "2025-03-27",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Proper Crackin' Comedy Club! \nYou've been asking for something different, and here it is! Get...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f3d5f66c-e179-4c31-8991-d993a09dace0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-03-27T20:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:57:46+00:00",
+        "onSaleUntil": "2025-03-27T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "comedy"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/proper-crackin-comedy-club/7268609",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:57:58+00:00",
+    "created": "2025-02-14T14:57:46+00:00"
   },
   {
     "id": "6Bdo5x",
@@ -2216,8 +2108,8 @@
     "title": "Late Shift",
     "startDate": "2025-03-29",
     "endDate": "2025-03-29",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:31pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -2264,7 +2156,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/late-shift/7249008",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:38:24+00:00",
+    "lastUpdate": "2025-02-14T14:57:44+00:00",
     "created": "2025-01-09T15:38:14+00:00"
   },
   {
@@ -2447,13 +2339,72 @@
     "created": "2025-01-09T15:33:18+00:00"
   },
   {
+    "id": "vbworz",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Capital City Jazz Orchestra",
+    "startDate": "2025-04-03",
+    "endDate": "2025-04-03",
+    "startTimeString": "8:15pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Capital City Jazz Orchestra (CCJO) will be returning to the Earl Haig for their...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-03T20:15:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:57:49+00:00",
+        "onSaleUntil": "2025-04-03T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7268617",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:00+00:00",
+    "created": "2025-02-14T14:57:49+00:00"
+  },
+  {
     "id": "g7yzkl",
     "headline": "Parcel Of Rogues",
     "title": "Parcel Of Rogues",
     "startDate": "2025-04-04",
     "endDate": "2025-04-04",
-    "startTimeString": "9:01pm",
-    "endTimeString": "11:00pm",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -2502,9 +2453,70 @@
       "folk"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parcel-of-rogues/7249031",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T16:42:01+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-02-14T14:57:50+00:00",
     "created": "2025-01-09T16:41:50+00:00"
+  },
+  {
+    "id": "bkqpdy",
+    "headline": "The Hindenburgs",
+    "title": "The Hindenburgs",
+    "startDate": "2025-04-05",
+    "endDate": "2025-04-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Hindenburgs, Wales' premier Led Zeppelin tribute band, are scheduled to perform on Saturday, April...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Hindenburgs"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-05T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:34+00:00",
+        "onSaleUntil": "2025-04-05T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-hindenburgs/7268632",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:44+00:00",
+    "created": "2025-02-14T14:58:34+00:00"
   },
   {
     "id": "ym6A9k",
@@ -2627,6 +2639,58 @@
     "created": "2025-01-09T16:02:04+00:00"
   },
   {
+    "id": "lGaPBa",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-07",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session with James Oliver \n The Earl Haig Club\nHello there! We’re excited to invite...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4343c453-16b6-46e5-af15-a9b46b62b1ab.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-04-07T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:19+00:00",
+        "onSaleUntil": "2025-04-07T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7268621",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:30+00:00",
+    "created": "2025-02-14T14:58:19+00:00"
+  },
+  {
     "id": "nKB7Z0",
     "headline": "Solstice",
     "title": null,
@@ -2686,6 +2750,63 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2024-11-18T14:58:46+00:00",
     "created": "2024-11-18T07:23:39+00:00"
+  },
+  {
+    "id": "E9lRv7",
+    "headline": "Trade Street",
+    "title": "Trade Street",
+    "startDate": "2025-04-11",
+    "endDate": "2025-04-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Live Music at The Earl Haig Club Bar with Trade Street",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Trade Street"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-11T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:37+00:00",
+        "onSaleUntil": "2025-04-11T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/trade-street/7268633",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:48+00:00",
+    "created": "2025-02-14T14:58:36+00:00"
   },
   {
     "id": "XXDX42",
@@ -2756,6 +2877,46 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "1Wea7L",
+    "headline": "Sundogs",
+    "title": "Sundogs",
+    "startDate": "2025-04-14",
+    "endDate": "2025-04-14",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club! \n When: Every Monday...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/017aa59d-6560-4643-9d2b-6dd8cb59f2ba.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Sundogs"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sundogs/7268628",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:34+00:00",
+    "created": "2025-02-14T14:58:22+00:00"
+  },
+  {
     "id": "NLzpRg",
     "headline": "Big Nite Out",
     "title": "Big Nite Out",
@@ -2813,6 +2974,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-26T20:10:12+00:00",
     "created": "2025-01-26T20:10:01+00:00"
+  },
+  {
+    "id": "pg6oxD",
+    "headline": "Leighton Jones Band",
+    "title": "Leighton Jones Band",
+    "startDate": "2025-04-18",
+    "endDate": "2025-04-18",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Experience an unforgettable evening of soulful music! \nJoin us for a captivating performance by the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f3d1783d-0a07-440a-a36a-d3641376507b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "kebvR",
+        "name": "Leighton Jones Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-18T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:42+00:00",
+        "onSaleUntil": "2025-04-18T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/leighton-jones-band/7268634",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:52+00:00",
+    "created": "2025-02-14T14:58:42+00:00"
   },
   {
     "id": "Rxp2P2",
@@ -2932,6 +3153,120 @@
     "created": "2024-10-25T07:43:48+00:00"
   },
   {
+    "id": "wazo5L",
+    "headline": "Mid Life Crisis",
+    "title": "Mid Life Crisis",
+    "startDate": "2025-04-21",
+    "endDate": "2025-04-21",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club! \n When: Every Monday...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b6c3f906-0626-48c8-aa33-83b63103477c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Mid Life Crisis"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-21T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:26+00:00",
+        "onSaleUntil": "2025-04-21T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/mid-life-crisis/7268629",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:36+00:00",
+    "created": "2025-02-14T14:58:26+00:00"
+  },
+  {
+    "id": "Qx5Zqg",
+    "headline": "Jane Williams Band",
+    "title": "Jane Williams Band",
+    "startDate": "2025-04-25",
+    "endDate": "2025-04-25",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Jane Williams Band at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Jane Williams Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-25T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:45+00:00",
+        "onSaleUntil": "2025-04-25T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jane-williams-band/7268635",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:56+00:00",
+    "created": "2025-02-14T14:58:44+00:00"
+  },
+  {
     "id": "PaPAlZ",
     "headline": "Letz Zep",
     "title": null,
@@ -3034,6 +3369,66 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2024-12-09T14:48:07+00:00",
     "created": "2024-11-18T07:23:39+00:00"
+  },
+  {
+    "id": "g7ykAg",
+    "headline": "James Oliver Band",
+    "title": "James Oliver Band",
+    "startDate": "2025-04-28",
+    "endDate": "2025-04-28",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club! \n When: Every Monday...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/1f4bb4c1-ae1d-4670-a62c-faa942fe4c76.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-28T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:31+00:00",
+        "onSaleUntil": "2025-04-28T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7268631",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-14T14:58:42+00:00",
+    "created": "2025-02-14T14:58:30+00:00"
   },
   {
     "id": "Aw81Xx",
