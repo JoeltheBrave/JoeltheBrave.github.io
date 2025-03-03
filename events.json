@@ -1,65 +1,5 @@
 [
   {
-    "id": "AwvrBa",
-    "headline": "The Semantics",
-    "title": "The Semantics",
-    "startDate": "2025-03-02",
-    "endDate": "2025-03-02",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "? The Semantics Live at The Earl Haig Club Concert Room ?\n\n\n? Where: The Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d26db130-b3e1-48f1-bdff-a63da20fb3e4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "pglO0",
-        "name": "The Semantics"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-02T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T16:01:54+00:00",
-        "onSaleUntil": "2025-03-02T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-semantics/7249011",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T16:02:04+00:00",
-    "created": "2025-01-09T16:01:53+00:00"
-  },
-  {
     "id": "K9Zogo",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
@@ -3575,7 +3515,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "Put this in your diary! AUGUST 9TH 2025 at The Earl Haig Club with deadedz...",
     "image": {
       "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -3587,11 +3527,12 @@
     },
     "artists": [
       {
-        "name": "DEADENZ"
-      },
-      {
         "id": "nzzGQ",
         "name": "The Terrapins"
+      },
+      {
+        "id": "Rj9E2",
+        "name": "deadedz"
       }
     ],
     "tickets": [
@@ -3615,13 +3556,20 @@
     "genre": [
       "music",
       "rock",
+      "acoustic",
+      "experimental",
+      "rocknroll",
+      "folk",
+      "americana",
+      "blues",
       "covers",
+      "tribute",
       "1970s",
       "1980s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-celebration-of-the-life-and-music-of-jerry-garcia-and-the-grateful-dead/7257667",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-28T17:51:46+00:00",
+    "lastUpdate": "2025-03-02T16:17:11+00:00",
     "created": "2025-01-27T07:31:31+00:00"
   },
   {
