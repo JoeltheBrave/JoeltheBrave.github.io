@@ -1,44 +1,5 @@
 [
   {
-    "id": "K9Zogo",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-03-03",
-    "endDate": "2025-03-03",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with GREEN TANGERINE at The Earl Haig Club.\nHello there! We're thrilled to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/344e4b5c-6876-49da-9f0a-a9620ff1c1ae.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "GREEN TANGERINE"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7249004",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:16+00:00",
-    "created": "2025-01-09T15:33:02+00:00"
-  },
-  {
     "id": "q5RdkR",
     "headline": "Just Friends Jazz",
     "title": "Just Friends Jazz",
@@ -3124,6 +3085,69 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-02-14T14:58:42+00:00",
     "created": "2025-02-14T14:58:30+00:00"
+  },
+  {
+    "id": "94qz99",
+    "headline": "Capital City Jazz Orchestra",
+    "title": "Capital City Jazz Orchestra",
+    "startDate": "2025-05-01",
+    "endDate": "2025-05-01",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Capital City Jazz Orchestra are joined by guest artist Steve Waterman for a very...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3d38de26-85a5-4682-8c90-59b5a577fd1f.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      },
+      {
+        "id": "RBB2",
+        "name": "Steve Waterman"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-05-01T20:00:00+01:00",
+        "supplier": "Ents24",
+        "price": "£16.50",
+        "totalPrice": "£16.50",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-01T10:22:00+00:00",
+        "onSaleUntil": "2025-05-01T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGlja2V0cy9ldmVudGlkLzMzNjQ5Mjg_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzM2NDkyOA/ticketid/7629089/checksum/5f739f9aad8d9bf0588991ce35b24edc/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7276613",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-03T17:23:15+00:00",
+    "created": "2025-03-03T17:23:04+00:00"
   },
   {
     "id": "Aw81Xx",
