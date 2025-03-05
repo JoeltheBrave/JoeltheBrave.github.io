@@ -1,63 +1,5 @@
 [
   {
-    "id": "q5RdkR",
-    "headline": "Just Friends Jazz",
-    "title": "Just Friends Jazz",
-    "startDate": "2025-03-04",
-    "endDate": "2025-03-04",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for our monthly jazz session featuring the incredible Just Friends Jazz Band!\n? Venue:...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4d3cc5b2-915e-4daa-ad3a-9597e5b7e22d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-04T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T15:33:16+00:00",
-        "onSaleUntil": "2025-03-04T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/7248953",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:28+00:00",
-    "created": "2025-01-09T15:33:16+00:00"
-  },
-  {
     "id": "bkqpBm",
     "headline": "Capital City Jazz Orchestra",
     "title": "Capital City Jazz Orchestra",
@@ -817,12 +759,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This show has been rescheduled to 9th May 2025.",
     "image": {
       "url": "https://ents24.imgix.net/image/000/305/876/8b8eaad9148dc2ab49e326a963e967ac64fdaf8d.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -838,24 +780,6 @@
         "name": "The Oasis Experience"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-21T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-22T11:15:00+00:00",
-        "onSaleUntil": "2025-03-22T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLW9hc2lzLWV4cGVyaWVuY2UvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyOTEyNjU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI5MTI2NQ/ticketid/7577979/checksum/98e3df0fade544ddbfea5abd232a98f7/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "indie",
@@ -863,8 +787,8 @@
       "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-oasis-experience/7255821",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-22T11:50:34+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-03-04T17:35:59+00:00",
     "created": "2025-01-22T11:28:00+00:00"
   },
   {
@@ -3146,7 +3070,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7276613",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-03T17:23:15+00:00",
+    "lastUpdate": "2025-03-04T07:21:13+00:00",
     "created": "2025-03-03T17:23:04+00:00"
   },
   {
@@ -3278,6 +3202,67 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-30T11:43:22+00:00",
     "created": "2025-01-30T11:36:20+00:00"
+  },
+  {
+    "id": "lGaBB8",
+    "headline": "The Oasis Experience",
+    "title": null,
+    "startDate": "2025-05-09",
+    "endDate": "2025-05-09",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "This show was rescheduled from 21st March 2025.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/305/876/8b8eaad9148dc2ab49e326a963e967ac64fdaf8d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "22KR7",
+        "name": "The Oasis Experience"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-05-09T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-01-22T11:15:00+00:00",
+        "onSaleUntil": "2025-05-10T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLW9hc2lzLWV4cGVyaWVuY2UvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyOTEyNjU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI5MTI2NQ/ticketid/7577979/checksum/98e3df0fade544ddbfea5abd232a98f7/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "indie",
+      "tribute",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-oasis-experience/7278265",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-04T17:35:59+00:00",
+    "created": "2025-01-22T11:28:00+00:00"
   },
   {
     "id": "vb2LNz",
@@ -3723,6 +3708,68 @@
     "created": "2025-01-30T12:12:23+00:00"
   },
   {
+    "id": "K9Zb8D",
+    "headline": "Faux Fighters UK",
+    "title": null,
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-06",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/313/840/42c3ac60942fcb7a1b13d0dd8f0eaac2368e865a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "maXj",
+        "name": "Faux Fighters UK"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-06T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£22.75",
+        "totalPrice": "£22.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-04T14:30:00+00:00",
+        "onSaleUntil": "2025-09-07T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZmF1eC1maWdodGVycy11ay90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzM2NjU5Mj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzM2NjU5Mg/ticketid/7630160/checksum/153500819b4a87002eecbdddfa777441/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "alternative",
+      "tribute",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/faux-fighters-uk/7278248",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-04T15:26:42+00:00",
+    "created": "2025-03-04T15:20:12+00:00"
+  },
+  {
     "id": "Lz105X",
     "headline": "Oye Santana",
     "title": null,
@@ -3827,6 +3874,70 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-30T13:00:31+00:00",
     "created": "2025-01-30T12:12:23+00:00"
+  },
+  {
+    "id": "2KGAAL",
+    "headline": "Flash: A Tribute To Queen",
+    "title": null,
+    "startDate": "2025-09-19",
+    "endDate": "2025-09-19",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/236/169/ba1ce31690c0471b85e1cc5b568396991ce34aef.png?auto=format&fp-x=0.515&fp-y=0.597&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "llK1y",
+        "name": "Flash: A Tribute To Queen"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-19T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£24.75",
+        "totalPrice": "£24.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-04T15:15:00+00:00",
+        "onSaleUntil": "2025-09-20T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZmxhc2gtYS10cmlidXRlLXRvLXF1ZWVuL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMzY2NjM1P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzM2NjYzNQ/ticketid/7630170/checksum/68c96da0f104666f45c2a82839c86222/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/flash-a-tribute-to-queen/7278264",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-04T17:41:24+00:00",
+    "created": "2025-03-04T15:27:27+00:00"
   },
   {
     "id": "BvLwaO",
@@ -4121,6 +4232,69 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-30T15:50:50+00:00",
     "created": "2025-01-30T15:21:19+00:00"
+  },
+  {
+    "id": "dDAKyw",
+    "headline": "Maet Live and The Never Neverland Express",
+    "title": null,
+    "startDate": "2025-11-08",
+    "endDate": "2025-11-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/330/480/40ea6b19ec09f2c6e7f375f92020a609cc3416fd.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "749lg",
+        "name": "Maet Live and The Never Neverland Express"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-11-08T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-04T15:00:00+00:00",
+        "onSaleUntil": "2025-11-09T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFldGxpdmUtZmVhdHVyaW5nLWNyYWlnLWhhbGZvcmQtYXMtbWVhdGxvYWYvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMzNjY2MDA_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzM2NjYwMA/ticketid/7630162/checksum/ba258ede07bebee58a43540d223c5196/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers",
+      "tribute",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/maet-live-and-the-never-neverland-express/7278250",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-04T15:27:04+00:00",
+    "created": "2025-03-04T15:20:12+00:00"
   },
   {
     "id": "xyg5XG",
