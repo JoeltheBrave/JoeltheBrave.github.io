@@ -3708,68 +3708,6 @@
     "created": "2025-01-30T12:12:23+00:00"
   },
   {
-    "id": "K9Zb8D",
-    "headline": "Faux Fighters UK",
-    "title": null,
-    "startDate": "2025-09-06",
-    "endDate": "2025-09-06",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/313/840/42c3ac60942fcb7a1b13d0dd8f0eaac2368e865a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "maXj",
-        "name": "Faux Fighters UK"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-06T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£22.75",
-        "totalPrice": "£22.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-03-04T14:30:00+00:00",
-        "onSaleUntil": "2025-09-07T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZmF1eC1maWdodGVycy11ay90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzM2NjU5Mj9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzM2NjU5Mg/ticketid/7630160/checksum/153500819b4a87002eecbdddfa777441/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "alternative",
-      "tribute",
-      "1990s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/faux-fighters-uk/7278248",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-04T15:26:42+00:00",
-    "created": "2025-03-04T15:20:12+00:00"
-  },
-  {
     "id": "Lz105X",
     "headline": "Oye Santana",
     "title": null,
