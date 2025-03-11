@@ -1,66 +1,5 @@
 [
   {
-    "id": "Go6qEm",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-03-10",
-    "endDate": "2025-03-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Hello there! We're thrilled to invite you to our Monday Night Open Mic and Jam...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9530b8a0-2cd0-4d16-91ba-99afa0941ded.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "gZ76g",
-        "name": "Mark Pontin Group"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-10T20:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T15:33:10+00:00",
-        "onSaleUntil": "2025-03-10T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7248946",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-02-23T11:13:02+00:00",
-    "created": "2025-01-09T15:33:09+00:00"
-  },
-  {
     "id": "rBr51k",
     "headline": "rOCKERS rEUNION",
     "title": "rOCKERS rEUNION",
@@ -1700,6 +1639,63 @@
     "created": "2025-02-14T14:58:36+00:00"
   },
   {
+    "id": "Go61Ol",
+    "headline": "Alnino Frogs",
+    "title": "Alnino Frogs",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-12",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Albino Frogs at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Alnino Frogs"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-12T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-23T13:53:32+00:00",
+        "onSaleUntil": "2025-04-12T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/alnino-frogs/7272746",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-02-23T13:53:34+00:00",
+    "created": "2025-02-23T12:15:47+00:00"
+  },
+  {
     "id": "XXDX42",
     "headline": "StereoIronics, Maniac Street Preachers",
     "title": null,
@@ -1763,66 +1759,9 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/stereoironics-maniac-street-preachers/7243018",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2024-12-20T08:29:21+00:00",
+    "fansOnEnts24": 11,
+    "lastUpdate": "2025-03-10T07:52:38+00:00",
     "created": "2024-10-25T07:43:48+00:00"
-  },
-  {
-    "id": "Go61Ol",
-    "headline": "Alnino Frogs",
-    "title": "Alnino Frogs",
-    "startDate": "2025-04-12",
-    "endDate": "2025-04-12",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:30pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Albino Frogs at The Earl Haig Club Bar",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Alnino Frogs"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-12T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-02-23T13:53:32+00:00",
-        "onSaleUntil": "2025-04-12T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/alnino-frogs/7272746",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-02-23T13:53:34+00:00",
-    "created": "2025-02-23T12:15:47+00:00"
   },
   {
     "id": "0GmoKQ",
