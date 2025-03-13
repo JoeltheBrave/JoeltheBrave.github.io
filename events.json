@@ -3772,6 +3772,69 @@
     "created": "2025-01-30T15:21:19+00:00"
   },
   {
+    "id": "mD2EmG",
+    "headline": "Desperado - The UK's Premier LIVE 'Eagles' Tribute",
+    "title": null,
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-01",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/042/373/153c7ade53f0e7e93e38512ec888b0cde4a6c2ff.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Desperado",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "1WpOA",
+        "name": "Desperado - The UK's Premier LIVE 'Eagles' Tribute"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-11-01T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£24.75",
+        "totalPrice": "£24.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-12T11:20:00+00:00",
+        "onSaleUntil": "2025-11-02T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZGVzcGVyYWRvLWhlYXJ0LW9mLXRoZS1lYWdsZXMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMzNzg0ODc_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzM3ODQ4Nw/ticketid/7641037/checksum/2fd0604539135d026df2dc995c94bd23/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "country",
+      "covers",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/desperado-the-uks-premier-live-eagles-tribute/7282444",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-12T12:51:06+00:00",
+    "created": "2025-03-12T12:12:18+00:00"
+  },
+  {
     "id": "dDAKyw",
     "headline": "Maet Live and The Never Neverland Express",
     "title": null,
