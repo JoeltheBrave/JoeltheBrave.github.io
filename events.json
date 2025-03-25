@@ -1,44 +1,5 @@
 [
   {
-    "id": "WgOv1X",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-03-24",
-    "endDate": "2025-03-24",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic and Jam Session! ?\n\nWhether you're a seasoned musician or just starting...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/036f7828-e1f0-4ed6-b7cd-349e9b91c823.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7249036",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-26T20:10:08+00:00",
-    "created": "2025-01-09T16:41:52+00:00"
-  },
-  {
     "id": "q5Rova",
     "headline": "Proper Crackin' Comedy Club!",
     "title": "Proper Crackin' Comedy Club!",
@@ -2329,24 +2290,6 @@
         "name": "The Oasis Experience"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-05-09T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-22T11:15:00+00:00",
-        "onSaleUntil": "2025-05-10T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLW9hc2lzLWV4cGVyaWVuY2UvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyOTEyNjU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI5MTI2NQ/ticketid/7577979/checksum/98e3df0fade544ddbfea5abd232a98f7/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "indie",
@@ -2354,8 +2297,8 @@
       "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-oasis-experience/7278265",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-04T17:35:59+00:00",
+    "fansOnEnts24": 6,
+    "lastUpdate": "2025-03-24T08:05:10+00:00",
     "created": "2025-01-22T11:28:00+00:00"
   },
   {
