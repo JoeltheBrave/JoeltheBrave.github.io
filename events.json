@@ -2546,6 +2546,69 @@
     "created": "2025-01-20T14:47:05+00:00"
   },
   {
+    "id": "OdgWqo",
+    "headline": "Green Haze",
+    "title": null,
+    "startDate": "2025-07-25",
+    "endDate": "2025-07-25",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/284/217/cfca7ee22d0284b7d7f1d65c3119e3d52038401c.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "nzkOj",
+        "name": "Green Haze"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-07-25T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-26T14:10:00+00:00",
+        "onSaleUntil": "2025-07-26T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZ3JlZW5oYXplLWRqLWxpYW0tY3VydGluL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMzg3NTUyP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzM4NzU1Mg/ticketid/7657458/checksum/f015e6f389afe880893e7cceb02c4f96/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "punk",
+      "tribute",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/green-haze/7289139",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-26T18:17:52+00:00",
+    "created": "2025-03-26T14:51:15+00:00"
+  },
+  {
     "id": "6BdovP",
     "headline": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
     "title": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
