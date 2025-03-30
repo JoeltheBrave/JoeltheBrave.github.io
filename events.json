@@ -1,122 +1,5 @@
 [
   {
-    "id": "Odgk9o",
-    "headline": "March of the Mods Convention at the Earl Haig Club",
-    "title": "March of the Mods Convention at the Earl Haig Club",
-    "startDate": "2025-03-29",
-    "endDate": "2025-03-29",
-    "startTimeString": "4:30pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "March of the Mods Convention at the Earl Haig Club\nAttention all those who love a...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b9ac6b01-f20f-4abd-be63-73b7f47c8b5d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      },
-      {
-        "name": "The Shameless"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-29T16:30:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.45",
-        "totalPrice": "£15.45",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-02-21T14:06:00+00:00",
-        "onSaleUntil": "2025-03-29T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly93d3cuZXZlbnRib29raW5ncy5jb20vYi9ldmVudC9tYXJjaC1vZi10aGUtbW9kcy1jYXJkaWZm/supplier/Miscellaneous/suppliedid/MjM4NzA1/ticketid/7618416/checksum/6695143d7838ad8fc3b5f116dff48a77/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/march-of-the-mods-convention-at-the-earl-haig-club/7272639",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-02-21T14:06:11+00:00",
-    "created": "2025-02-21T14:05:59+00:00"
-  },
-  {
-    "id": "Lz1dRp",
-    "headline": "Late Shift",
-    "title": "Late Shift",
-    "startDate": "2025-03-29",
-    "endDate": "2025-03-29",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:31pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Late Shift paly the Earl Haig Club",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Late Shift"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-29T21:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T15:38:14+00:00",
-        "onSaleUntil": "2025-03-29T23:59:59+00:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/late-shift/7249008",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-02-14T14:57:44+00:00",
-    "created": "2025-01-09T15:38:14+00:00"
-  },
-  {
     "id": "akLNze",
     "headline": "The Red Hot Pokers",
     "title": "The Red Hot Pokers",
@@ -1165,8 +1048,8 @@
   },
   {
     "id": "pg6oxD",
-    "headline": "Leighton Jones Band",
-    "title": "Leighton Jones Band",
+    "headline": "expecting Company",
+    "title": "expecting Company",
     "startDate": "2025-04-18",
     "endDate": "2025-04-18",
     "startTimeString": "8:30pm",
@@ -1174,14 +1057,14 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
+    "isFree": false,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "Experience an unforgettable evening of soulful music! \nJoin us for a captivating performance by the...",
+    "description": "This event has been rescheduled to 8th June 2025.",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/f3d1783d-0a07-440a-a36a-d3641376507b.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/b00e957f-9682-45aa-a27d-7663d5f1e666.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1191,26 +1074,7 @@
     },
     "artists": [
       {
-        "id": "kebvR",
-        "name": "Leighton Jones Band"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-18T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-02-14T14:58:42+00:00",
-        "onSaleUntil": "2025-04-18T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
+        "name": "expecting Company"
       }
     ],
     "genre": [
@@ -1218,9 +1082,9 @@
       "pop",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/leighton-jones-band/7268634",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7268634",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-02-14T14:58:52+00:00",
+    "lastUpdate": "2025-03-29T18:20:29+00:00",
     "created": "2025-02-14T14:58:42+00:00"
   },
   {
@@ -3365,6 +3229,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-13T16:21:00+00:00",
     "created": "2024-12-17T07:09:29+00:00"
+  },
+  {
+    "id": "8WLBrA",
+    "headline": "expecting Company",
+    "title": "expecting Company",
+    "startDate": "2025-06-08",
+    "endDate": "2025-06-08",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Expecting Company Live at The Earl Haig Club Concert Room\n Join us for a night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b00e957f-9682-45aa-a27d-7663d5f1e666.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "expecting Company"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-04-18T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-02-14T14:58:42+00:00",
+        "onSaleUntil": "2025-04-18T23:59:59+01:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7290507",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-29T18:20:59+00:00",
+    "created": "2025-03-29T18:20:16+00:00"
   },
   {
     "id": "6BW8am",
