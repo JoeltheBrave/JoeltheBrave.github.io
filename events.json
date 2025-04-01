@@ -1,65 +1,5 @@
 [
   {
-    "id": "dDA9m4",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-03-31",
-    "endDate": "2025-03-31",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4962c670-c9bb-4fa0-8e16-04d11c5756ea.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-03-31T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-09T15:33:14+00:00",
-        "onSaleUntil": "2025-03-31T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7248950",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-01-09T15:33:26+00:00",
-    "created": "2025-01-09T15:33:14+00:00"
-  },
-  {
     "id": "AwvrEe",
     "headline": "Just Friends Jazz",
     "title": "Just Friends Jazz",
@@ -4395,6 +4335,73 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-01-30T15:50:52+00:00",
     "created": "2025-01-30T15:21:19+00:00"
+  },
+  {
+    "id": "q5RwQN",
+    "headline": "Ozric Tentacles",
+    "title": null,
+    "startDate": "2025-12-03",
+    "endDate": "2025-12-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3e119ccb-a7c0-40d1-b3f2-f56800bae67c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "oDqd",
+        "name": "Ozric Tentacles"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-12-03T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£25.75",
+        "totalPrice": "£25.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-03-28T12:40:00+00:00",
+        "onSaleUntil": "2025-12-04T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3pyaWMtdGVudGFjbGVzLWRqLWxpYW0tY3VydGluL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMzg4NzM5P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzM4ODczOQ/ticketid/7660934/checksum/f669673e721957b9d2e43bf52dd708f2/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "alternative",
+      "experimental",
+      "electronic",
+      "jazz",
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ozric-tentacles/7290453",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-03-31T17:04:34+01:00",
+    "created": "2025-03-28T14:24:17+00:00"
   },
   {
     "id": "mD26NX",
