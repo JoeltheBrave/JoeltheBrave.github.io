@@ -1,45 +1,5 @@
 [
   {
-    "id": "AwvrEe",
-    "headline": "Just Friends Jazz",
-    "title": "Just Friends Jazz",
-    "startDate": "2025-04-01",
-    "endDate": "2025-04-01",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": true,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been pulled due to band member being on holidays, see you in...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b5c8796a-5022-4c26-885f-6bd790251435.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz/7248955",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2025-03-28T14:36:03+00:00",
-    "created": "2025-01-09T15:33:18+00:00"
-  },
-  {
     "id": "vbworz",
     "headline": "Capital City Jazz Orchestra",
     "title": "Capital City Jazz Orchestra",
