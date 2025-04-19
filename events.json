@@ -1,171 +1,5 @@
 [
   {
-    "id": "NLzpRg",
-    "headline": "Big Nite Out",
-    "title": "Big Nite Out",
-    "startDate": "2025-04-18",
-    "endDate": "2025-04-18",
-    "startTimeString": "8:00pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Big Nite Out with Ruby Kay & Central Line Disco! A Night of Classic Soul...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3a3794fb-9d8d-49b3-b4d2-cf59a5561b79.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "aakP6",
-        "name": "Ruby Kay"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-18T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:10:01+00:00",
-        "onSaleUntil": "2025-04-18T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "showsandevents",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-nite-out/7257354",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-04-11T12:33:23+01:00",
-    "created": "2025-01-26T20:10:01+00:00"
-  },
-  {
-    "id": "pg6oxD",
-    "headline": "expecting Company",
-    "title": "expecting Company",
-    "startDate": "2025-04-18",
-    "endDate": "2025-04-18",
-    "startTimeString": "8:30pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 8th June 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b00e957f-9682-45aa-a27d-7663d5f1e666.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "expecting Company"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7268634",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-29T18:20:29+00:00",
-    "created": "2025-02-14T14:58:42+00:00"
-  },
-  {
-    "id": "Rxp2P2",
-    "headline": "The Big Motown'N'Soul Nite with Ruby Kay",
-    "title": "The Big Motown'N'Soul Nite with Ruby Kay",
-    "startDate": "2025-04-18",
-    "endDate": "2025-04-18",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "@TheBigNiteOut Presents.. The Big Motown'N'Soul Nite with Ruby Kay\n\nGet your tickets now from www.TheBigNiteOut.co.uk\n\nJoin the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f3f30d21-feef-4d6d-9cad-412b2786a934.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "aakP6",
-        "name": "Ruby Kay"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-18T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T20:08:26+00:00",
-        "onSaleUntil": "2025-04-18T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjM3Mjg5/ticketid/7580565/checksum/6c29ffbc131ad765ae97606d4a443480/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "reggae",
-      "disco",
-      "easy",
-      "covers",
-      "tribute",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-ruby-kay/7257368",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2025-04-11T12:33:49+01:00",
-    "created": "2025-01-26T20:08:26+00:00"
-  },
-  {
     "id": "4QpGrb",
     "headline": "Zappa Night with Treacherous Cretins",
     "title": "Zappa Night with Treacherous Cretins",
@@ -2379,7 +2213,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": true,
+    "isFree": false,
     "ticketsAvailable": true,
     "price": null,
     "description": "Expecting Company Live at The Earl Haig Club Concert Room\n Join us for a night...",
@@ -2397,31 +2231,13 @@
         "name": "expecting Company"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-04-18T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-02-14T14:58:42+00:00",
-        "onSaleUntil": "2025-04-18T23:59:59+01:00",
-        "url": null,
-        "email": "contact@earlhaigclub.com",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7290507",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-29T18:20:59+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-04-19T00:00:06+01:00",
     "created": "2025-03-29T18:20:16+00:00"
   },
   {
