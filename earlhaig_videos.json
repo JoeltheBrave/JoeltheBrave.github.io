@@ -1,8 +1,18 @@
 [
   {
+    "title": "Rainyday Rainbow: Undergrowth",
+    "url": "https://www.youtube.com/watch?v=4Bi_DSrhEfA",
+    "publishedAt": "2025-03-04T19:27:01Z"
+  },
+  {
     "title": "Rainyday Rainbow: Baby in the Basement",
     "url": "https://www.youtube.com/watch?v=EBFdViqV_XM",
     "publishedAt": "2025-03-04T19:26:54Z"
+  },
+  {
+    "title": "The S'Punkles: New Rose",
+    "url": "https://www.youtube.com/watch?v=6RUpd6pa-sA",
+    "publishedAt": "2025-03-04T16:59:10Z"
   },
   {
     "title": "Zana Billionara: Masque",
@@ -20,6 +30,11 @@
     "publishedAt": "2025-02-17T16:39:37Z"
   },
   {
+    "title": "Monday Jam Session at the Earl Haig 3rd February 2025",
+    "url": "https://www.youtube.com/watch?v=9tJyPtWh4vM",
+    "publishedAt": "2025-02-10T16:40:17Z"
+  },
+  {
     "title": "Familiar Beers & Cathays Brass Band: Seven Nation Army",
     "url": "https://www.youtube.com/watch?v=nteweexREYg",
     "publishedAt": "2025-02-06T10:27:12Z"
@@ -28,6 +43,11 @@
     "title": "The S'Punkles: Is Vic There?",
     "url": "https://www.youtube.com/watch?v=1ejbbSUIEH4",
     "publishedAt": "2024-12-13T12:18:24Z"
+  },
+  {
+    "title": "Stone Free: Red House",
+    "url": "https://www.youtube.com/watch?v=9Zj7swFT_eI",
+    "publishedAt": "2024-12-02T15:32:29Z"
   },
   {
     "title": "Are You Experienced? Hear My Train A Comin'",
@@ -43,6 +63,11 @@
     "title": "Glyn Knight: A Knight's Tale",
     "url": "https://www.youtube.com/watch?v=3BQTiopYA-A",
     "publishedAt": "2024-10-04T18:19:30Z"
+  },
+  {
+    "title": "Familiar Beers: Killing In The Name (Explicit)",
+    "url": "https://www.youtube.com/watch?v=tmogSu0cfDA",
+    "publishedAt": "2024-10-01T19:24:44Z"
   },
   {
     "title": "Palm Tree Antics: Compilation",
@@ -68,6 +93,11 @@
     "title": "The S'punkles: Young Parisians",
     "url": "https://www.youtube.com/watch?v=_bFfGEK9wyg",
     "publishedAt": "2024-08-11T09:51:19Z"
+  },
+  {
+    "title": "ReGenesis: The Lamb Lies Down on Broadway Medley",
+    "url": "https://www.youtube.com/watch?v=LxMHy5vZsVs",
+    "publishedAt": "2024-07-28T15:34:21Z"
   },
   {
     "title": "ReGenesis: Back In N.Y.C.",
@@ -150,6 +180,11 @@
     "publishedAt": "2024-03-22T15:57:39Z"
   },
   {
+    "title": "Thin Ice: Another Brick In The Wall (Part II)",
+    "url": "https://www.youtube.com/watch?v=VhoP-dH9-yk",
+    "publishedAt": "2024-03-21T06:19:08Z"
+  },
+  {
     "title": "ReGenesis: Get 'Em Out By Friday",
     "url": "https://www.youtube.com/watch?v=5HjhiQYjluk",
     "publishedAt": "2024-03-19T18:57:39Z"
@@ -203,6 +238,11 @@
     "title": "Five Points Gang: Let's Stay Together",
     "url": "https://www.youtube.com/watch?v=N2JfcfeJXyk",
     "publishedAt": "2024-01-19T17:02:44Z"
+  },
+  {
+    "title": "The Fugitives & Friends: Pills",
+    "url": "https://www.youtube.com/watch?v=VngXjpdr4_Q",
+    "publishedAt": "2024-01-19T15:44:56Z"
   },
   {
     "title": "The Soul Miners: Hit The Road Jack",
@@ -275,9 +315,19 @@
     "publishedAt": "2023-10-16T11:28:38Z"
   },
   {
+    "title": "The Bluesters: Kansas City",
+    "url": "https://www.youtube.com/watch?v=f2OYJgq-r7k",
+    "publishedAt": "2023-10-16T11:28:43Z"
+  },
+  {
     "title": "The Bluesters: The Sermon",
     "url": "https://www.youtube.com/watch?v=zebAODdwjCM",
     "publishedAt": "2023-10-16T11:28:34Z"
+  },
+  {
+    "title": "The S'punkles: Ghost Town",
+    "url": "https://www.youtube.com/watch?v=rFC9-zcuyIA",
+    "publishedAt": "2023-10-12T12:32:51Z"
   },
   {
     "title": "Earl Haig Strictly Acoustic Jam Session Compilation",
@@ -295,6 +345,16 @@
     "publishedAt": "2023-09-04T11:47:22Z"
   },
   {
+    "title": "Outback: Best Of You",
+    "url": "https://www.youtube.com/watch?v=_NR6cGM1t7M",
+    "publishedAt": "2023-09-04T11:47:27Z"
+  },
+  {
+    "title": "Miss Kitty: Better Place",
+    "url": "https://www.youtube.com/watch?v=L5CS5BNbMIA",
+    "publishedAt": "2023-08-16T15:12:25Z"
+  },
+  {
     "title": "Dansette: Take Me To The River",
     "url": "https://www.youtube.com/watch?v=B53TVpbUutM",
     "publishedAt": "2023-08-11T17:50:22Z"
@@ -308,6 +368,16 @@
     "title": "The Philo Beddoe Band: Whipping Post",
     "url": "https://www.youtube.com/watch?v=6TDbRLBpSbc",
     "publishedAt": "2023-08-09T11:37:52Z"
+  },
+  {
+    "title": "Love: Alone Again Or",
+    "url": "https://www.youtube.com/watch?v=F_cAJNHdkdY",
+    "publishedAt": "2023-08-07T18:38:50Z"
+  },
+  {
+    "title": "Earl Haig Club Monday Jam Session Compilation July 2023",
+    "url": "https://www.youtube.com/watch?v=Of15K3OJ2to",
+    "publishedAt": "2023-08-05T18:10:51Z"
   },
   {
     "title": "Dirty DC: For Those About To Rock (We Salute You)",
@@ -355,6 +425,11 @@
     "publishedAt": "2023-07-12T13:07:06Z"
   },
   {
+    "title": "Stone Free: Live at the Point, Cardiff.",
+    "url": "https://www.youtube.com/watch?v=uJ8qQ5DCjxI",
+    "publishedAt": "2023-05-28T15:07:58Z"
+  },
+  {
     "title": "Expecting Company: Hey Joe",
     "url": "https://www.youtube.com/watch?v=z4GbRP5jTww",
     "publishedAt": "2023-05-26T09:02:42Z"
@@ -365,9 +440,19 @@
     "publishedAt": "2023-05-20T09:43:37Z"
   },
   {
+    "title": "Dave Bowen and Phil Allen: Thank You",
+    "url": "https://www.youtube.com/watch?v=gRJhBYW0YZ4",
+    "publishedAt": "2023-05-17T10:48:36Z"
+  },
+  {
     "title": "Laurence Kench: Borderline",
     "url": "https://www.youtube.com/watch?v=15t-IAQbQnk",
     "publishedAt": "2023-05-15T14:52:46Z"
+  },
+  {
+    "title": "Bryony Sier: Personal Monster",
+    "url": "https://www.youtube.com/watch?v=ZR7AFlr10kU",
+    "publishedAt": "2023-05-13T12:23:50Z"
   },
   {
     "title": "Sun Dogs: Thank You",
@@ -408,91 +493,6 @@
     "title": "Treacherous Cretins: Bamboozled By Love",
     "url": "https://www.youtube.com/watch?v=cYAjyrCN0zE",
     "publishedAt": "2023-03-26T09:57:48Z"
-  },
-  {
-    "title": "Charlie & Andy: Because The Night",
-    "url": "https://www.youtube.com/watch?v=1rg0Ah7auEA",
-    "publishedAt": "2023-03-23T22:16:43Z"
-  },
-  {
-    "title": "Brian Hayter: I Married A Monster From Outer Space",
-    "url": "https://www.youtube.com/watch?v=XWbjWD8kvqA",
-    "publishedAt": "2023-03-23T11:41:11Z"
-  },
-  {
-    "title": "Capital City Jazz Orchestra: Two O'Clock Jump",
-    "url": "https://www.youtube.com/watch?v=MT21En_4C2s",
-    "publishedAt": "2023-03-11T13:29:06Z"
-  },
-  {
-    "title": "Treacherous Cretins: What's New In Baltimore?",
-    "url": "https://www.youtube.com/watch?v=1bh1MomZEwg",
-    "publishedAt": "2023-03-09T15:53:19Z"
-  },
-  {
-    "title": "Les Jenkins: I Want To Know What Love Is",
-    "url": "https://www.youtube.com/watch?v=Omt5VGuEfbI",
-    "publishedAt": "2023-02-28T01:02:35Z"
-  },
-  {
-    "title": "The Flares / Hindenburgs: Whole Lotta Love (Medley)",
-    "url": "https://www.youtube.com/watch?v=L2mTJZuP-Rw",
-    "publishedAt": "2023-02-25T23:25:02Z"
-  },
-  {
-    "title": "Andy & Charlie: Ain't No Sunshine",
-    "url": "https://www.youtube.com/watch?v=YZzHNmm9XMI",
-    "publishedAt": "2023-02-24T15:29:20Z"
-  },
-  {
-    "title": "G&T OTR: I Don't Know Where I'm Going",
-    "url": "https://www.youtube.com/watch?v=xHzxGiNRH6U",
-    "publishedAt": "2023-02-24T15:24:58Z"
-  },
-  {
-    "title": "Lucieann: Rhiannon",
-    "url": "https://www.youtube.com/watch?v=2vTknLSdMX0",
-    "publishedAt": "2023-02-24T14:26:49Z"
-  },
-  {
-    "title": "Who's Next: Join Together",
-    "url": "https://www.youtube.com/watch?v=vF5uRGbTUvA",
-    "publishedAt": "2023-02-24T08:48:35Z"
-  },
-  {
-    "title": "Oasis fundraising gig on 21st January 2023.",
-    "url": "https://www.youtube.com/watch?v=66TA9ohv2vI",
-    "publishedAt": "2023-02-21T13:01:49Z"
-  },
-  {
-    "title": "Heather, Siân & Sioned: Cwsg Osian",
-    "url": "https://www.youtube.com/watch?v=goFUup3n0Y0",
-    "publishedAt": "2023-02-20T13:11:26Z"
-  },
-  {
-    "title": "Robert Jon & The Wreck: Rescue Train",
-    "url": "https://www.youtube.com/watch?v=gI0LtlOkLqU",
-    "publishedAt": "2023-02-15T16:01:11Z"
-  },
-  {
-    "title": "Snatch It Back: Rock This House",
-    "url": "https://www.youtube.com/watch?v=1JC9uq-9Vvs",
-    "publishedAt": "2023-02-15T10:44:10Z"
-  },
-  {
-    "title": "The Old Age Punk Band: Is Vic There?",
-    "url": "https://www.youtube.com/watch?v=wrU6FKPTBjo",
-    "publishedAt": "2023-02-09T01:20:45Z"
-  },
-  {
-    "title": "Who's Next: My Generation",
-    "url": "https://www.youtube.com/watch?v=QQ9LHZf2vfU",
-    "publishedAt": "2023-02-05T14:02:47Z"
-  },
-  {
-    "title": "The Semantics: Motor Runnin'",
-    "url": "https://www.youtube.com/watch?v=dnkHFgzKIbU",
-    "publishedAt": "2023-02-03T15:36:28Z"
   },
   {
     "title": "The Weld Band: Rockin' in the Free World",
