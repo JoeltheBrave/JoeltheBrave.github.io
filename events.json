@@ -1,45 +1,5 @@
 [
   {
-    "id": "bkqXd7",
-    "headline": "Rock n Roll Revival",
-    "title": "Rock n Roll Revival",
-    "startDate": "2025-05-04",
-    "endDate": "2025-05-04",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Rock' n Roll Revival at The Earl Haig Club Concert Room\nDoors open 5 pm\nBand on...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rock n Roll Revival"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rock-n-roll-revival/7299632",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-19T09:06:51+01:00",
-    "created": "2025-04-19T08:06:40+00:00"
-  },
-  {
     "id": "Lz1Wo8",
     "headline": "Monday Jam Session",
     "title": "Monday Jam Session",
