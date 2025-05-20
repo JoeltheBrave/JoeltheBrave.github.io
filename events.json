@@ -1,45 +1,5 @@
 [
   {
-    "id": "NLzW1g",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-05-19",
-    "endDate": "2025-05-19",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session\nTime: Music kicks off at 8:15 PM (Arrive by 8 PM to sign...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/2adfc841-6de2-447e-9f7d-86d95f48b543.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "wYxe",
-        "name": "James Oliver"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7290398",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-19T09:09:23+01:00",
-    "created": "2025-03-28T13:01:53+00:00"
-  },
-  {
     "id": "Go6OlL",
     "headline": "Strictly Acoustic",
     "title": "Strictly Acoustic",
