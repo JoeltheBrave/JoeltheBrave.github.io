@@ -1,46 +1,5 @@
 [
   {
-    "id": "8WLBrA",
-    "headline": "Expecting Company",
-    "title": "Expecting Company",
-    "startDate": "2025-06-08",
-    "endDate": "2025-06-08",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Expecting Company Live at The Earl Haig Club Concert Room\n Join us for a night...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b00e957f-9682-45aa-a27d-7663d5f1e666.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Expecting Company"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/expecting-company/7290507",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2025-06-05T12:48:06+01:00",
-    "created": "2025-03-29T18:20:16+00:00"
-  },
-  {
     "id": "q5ROv2",
     "headline": "Monday Night Open Mic & Jam Session with FAMILIAR BEERZ",
     "title": "Monday Night Open Mic & Jam Session with FAMILIAR BEERZ",
