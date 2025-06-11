@@ -1,53 +1,5 @@
 [
   {
-    "id": "2KG5qj",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
-    "startDate": "2025-06-10",
-    "endDate": "2025-06-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Fugitives – Live at Rockers Reunion \nFree Entry\n\nGet ready for a night of electrifying...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "D92n",
-        "name": "The Fugitives - Cardiff"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "blues",
-      "covers",
-      "1950s",
-      "1960s",
-      "1970s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7297064",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-06-05T12:49:56+01:00",
-    "created": "2025-04-13T16:45:35+00:00"
-  },
-  {
     "id": "OdgRPY",
     "headline": "The Oppressed",
     "title": "The Oppressed",
