@@ -1,5 +1,10 @@
 [
   {
+    "title": "Neil Lockwood: Still Got the Blues (For You)",
+    "url": "https://www.youtube.com/watch?v=c_4dRcIRK5o",
+    "publishedAt": "2025-05-07T08:01:23Z"
+  },
+  {
     "title": "Rainyday Rainbow: Baby in the Basement",
     "url": "https://www.youtube.com/watch?v=EBFdViqV_XM",
     "publishedAt": "2025-03-04T19:26:54Z"
@@ -238,21 +243,6 @@
     "title": "Son Of Man: Stuck",
     "url": "https://www.youtube.com/watch?v=APmFkFPGkRM",
     "publishedAt": "2023-12-10T15:13:24Z"
-  },
-  {
-    "title": "The S'punkles: The S'punkles Are Coming",
-    "url": "https://www.youtube.com/watch?v=2K-mj8Ho5Xc",
-    "publishedAt": "2023-12-08T17:49:23Z"
-  },
-  {
-    "title": "The S'punkles: The S'punkles Are Coming",
-    "url": "https://www.youtube.com/watch?v=2K-mj8Ho5Xc",
-    "publishedAt": "2023-12-08T17:49:23Z"
-  },
-  {
-    "title": "James Oliver Band: Roxette",
-    "url": "https://www.youtube.com/watch?v=TAuR8BtQ1GQ",
-    "publishedAt": "2023-11-29T13:59:58Z"
   },
   {
     "title": "Palm Tree Antics: Little Wing",
@@ -743,6 +733,16 @@
     "title": "Thin Ice (Pink Floyd Tribute): Echoes",
     "url": "https://www.youtube.com/watch?v=VeRFo7VXMAg",
     "publishedAt": "2022-10-07T09:16:24Z"
+  },
+  {
+    "title": "Just Friends: A Night In Tunisia",
+    "url": "https://www.youtube.com/watch?v=L8oIL-Gqm8Q",
+    "publishedAt": "2022-10-07T09:06:35Z"
+  },
+  {
+    "title": "The S'punkles: Is Vic There?",
+    "url": "https://www.youtube.com/watch?v=nFQ88HsivSw",
+    "publishedAt": "2022-09-28T08:32:03Z"
   },
   {
     "title": "Just Friends: A Night In Tunisia",
@@ -1735,6 +1735,21 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
+    "title": "Hey Jude - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=MrFttb1jt8k",
+    "publishedAt": "2014-07-20T16:01:09Z"
+  },
+  {
+    "title": "All Right Now - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=hQQ7hDlrCB4",
+    "publishedAt": "2014-07-20T13:56:08Z"
+  },
+  {
+    "title": "Rebel Yell - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=_mK6T6k8K8w",
+    "publishedAt": "2014-07-20T12:15:34Z"
+  },
+  {
     "title": "Human - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=88-UXumkSWw",
     "publishedAt": "2014-07-20T12:15:34Z"
@@ -1845,6 +1860,11 @@
     "publishedAt": "2014-06-22T11:30:54Z"
   },
   {
+    "title": "Kenny Driscoll Band: Runnin' Down A Dream",
+    "url": "https://www.youtube.com/watch?v=pKO5B9G89Vk",
+    "publishedAt": "2014-06-22T11:30:56Z"
+  },
+  {
     "title": "Mrs Hugget Live 2004",
     "url": "https://www.youtube.com/watch?v=yS9iLX0jnC0",
     "publishedAt": "2014-05-09T19:23:12Z"
@@ -1923,6 +1943,11 @@
     "title": "The Sneakers with Micky Gee",
     "url": "https://www.youtube.com/watch?v=byDsb6oq3Pc",
     "publishedAt": "2012-02-02T20:24:40Z"
+  },
+  {
+    "title": "Craig Burton at the Heathcock Wednesday Jam Session, Cardiff.",
+    "url": "https://www.youtube.com/watch?v=xM2oHCvyt4g",
+    "publishedAt": "2010-11-02T18:45:22Z"
   },
   {
     "title": "Stan Kenton - Artistry in Rhythm (9)",
