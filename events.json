@@ -1,126 +1,5 @@
 [
   {
-    "id": "AwvjWW",
-    "headline": "Tony Morley And The Little Giants",
-    "title": "Tony Morley And The Little Giants",
-    "startDate": "2025-06-14",
-    "endDate": "2025-06-14",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Tony Morley The Little Giants at The Earl Haig Club\nFree entry",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "0GvKQ",
-        "name": "Tony Morley And The Little Giants"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-06-14T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-23T15:34:02+01:00",
-        "onSaleUntil": "2025-06-14T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tony-morley-and-the-little-giants/7301511",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-23T15:34:12+01:00",
-    "created": "2025-04-23T14:34:02+00:00"
-  },
-  {
-    "id": "BvXjby",
-    "headline": "The Jedis",
-    "title": "The Jedis",
-    "startDate": "2025-06-15",
-    "endDate": "2025-06-15",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Jedis at The Earl Haig Club Concert Room.\n The Jedis Live at The Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-06-15T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-23T15:35:47+01:00",
-        "onSaleUntil": "2025-06-15T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/7301512",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-23T15:37:03+01:00",
-    "created": "2025-04-23T14:35:47+00:00"
-  },
-  {
     "id": "pg6GxW",
     "headline": "Monday Night Open Mic & Jam Session",
     "title": "Monday Night Open Mic & Jam Session",
@@ -3435,11 +3314,11 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "www.TheBigNiteOut.co.uk for tickets",
+    "description": "** THIS EVENT IS SOLD OUT - PLEASE EMAIL INFO@THEBIGNITEOUT.CO.UK TO JOIN A WAITING LIST...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/58e86e96-922a-44fe-9cbf-8834e8e9382c.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -3455,24 +3334,6 @@
         "name": "Central Line Disco"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-12-19T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£8.00",
-        "totalPrice": "£8.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-11T12:28:34+01:00",
-        "onSaleUntil": "2025-12-19T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy5UaGVCaWdOaXRlT3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjQwNzY5/ticketid/7677360/checksum/ff2b9101f17620e06e5452b70bc3964e/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "disco",
@@ -3480,7 +3341,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/central-line-disco/7296854",
     "fansOnEnts24": 1,
-    "lastUpdate": "2025-05-13T18:52:56+01:00",
+    "lastUpdate": "2025-06-14T19:25:49+01:00",
     "created": "2025-04-11T11:28:33+00:00"
   },
   {
