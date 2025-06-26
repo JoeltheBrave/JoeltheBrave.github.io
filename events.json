@@ -183,7 +183,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": false,
+    "isFree": true,
     "ticketsAvailable": true,
     "price": null,
     "description": "Join us for our monthly jazz session featuring the incredible Just Friends Jazz Band\n Venue:...",
@@ -225,7 +225,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-band/7329839",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:06:11+01:00",
+    "lastUpdate": "2025-06-25T15:45:02+01:00",
     "created": "2025-06-23T15:05:59+00:00"
   },
   {
@@ -284,7 +284,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7329855",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:08:05+01:00",
+    "lastUpdate": "2025-06-25T15:45:52+01:00",
     "created": "2025-06-23T15:07:54+00:00"
   },
   {
