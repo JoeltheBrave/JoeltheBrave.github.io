@@ -1,44 +1,5 @@
 [
   {
-    "id": "rBqzar",
-    "headline": "Monday Jam Session at The Earl Haig Club Bar",
-    "title": "Monday Jam Session at The Earl Haig Club Bar",
-    "startDate": "2025-07-14",
-    "endDate": "2025-07-14",
-    "startTimeString": "8:00pm",
-    "endTimeString": "8:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session at The Earl Haig Club Bar.\n\nVenue: The Earl Haig Club, Whitchurch, Cardiff\nTime:...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-at-the-earl-haig-club-bar/7329869",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-08T17:49:14+01:00",
-    "created": "2025-06-23T15:11:21+00:00"
-  },
-  {
     "id": "1W10Lb",
     "headline": "Strictly Acoustic Open Mic at The Earl Haig Club with Andy Johnson",
     "title": "Strictly Acoustic Open Mic at The Earl Haig Club with Andy Johnson",
