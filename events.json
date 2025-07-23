@@ -99,7 +99,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sundogs-featuring-emma-ruiz/7317500",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-05-28T18:29:02+01:00",
+    "lastUpdate": "2025-07-22T12:51:33+01:00",
     "created": "2025-05-28T17:28:37+00:00"
   },
   {
@@ -128,6 +128,12 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "10RNg",
+        "name": "The Electric 80s Band"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-07-26T20:15:00+01:00",
@@ -149,6 +155,7 @@
     "genre": [
       "music",
       "pop",
+      "electronic",
       "disco",
       "covers",
       "tribute",
@@ -156,7 +163,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-electric-80s-uk/7337155",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-08T17:48:18+01:00",
+    "lastUpdate": "2025-07-22T12:57:26+01:00",
     "created": "2025-07-08T16:48:06+00:00"
   },
   {
@@ -214,14 +221,14 @@
       "metal"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-mother-truckers/7338356",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-10T16:57:31+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-07-22T17:13:14+01:00",
     "created": "2025-07-10T15:57:19+00:00"
   },
   {
     "id": "NL4O5r",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with James Oliver",
+    "title": "Monday Jam Session with James Oliver",
     "startDate": "2025-07-28",
     "endDate": "2025-07-28",
     "startTimeString": "8:00pm",
@@ -273,15 +280,15 @@
       "blues",
       "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7337154",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7337154",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-08T17:45:20+01:00",
+    "lastUpdate": "2025-07-22T17:13:36+01:00",
     "created": "2025-07-08T16:45:08+00:00"
   },
   {
     "id": "mD2aeL",
-    "headline": "Junior Hacksaw",
-    "title": "Junior Hacksaw",
+    "headline": "Friday Night Live In The Bar with Jnr Hacksaw",
+    "title": "Friday Night Live In The Bar with Jnr Hacksaw",
     "startDate": "2025-08-01",
     "endDate": "2025-08-01",
     "startTimeString": "8:30pm",
@@ -334,15 +341,15 @@
       "blues",
       "2000s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/junior-hacksaw/7309588",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-jnr-hacksaw/7309588",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-05-11T12:09:04+01:00",
+    "lastUpdate": "2025-07-22T17:14:10+01:00",
     "created": "2025-05-11T11:08:53+00:00"
   },
   {
     "id": "wayBYa",
-    "headline": "Roosevelt – Live at The Earl Haig Club (Front Bar)",
-    "title": "Roosevelt – Live at The Earl Haig Club (Front Bar)",
+    "headline": "Friday Night Live In The Bar, Band  TBC",
+    "title": "Friday Night Live In The Bar, Band  TBC",
     "startDate": "2025-08-02",
     "endDate": "2025-08-02",
     "startTimeString": "8:30pm",
@@ -355,9 +362,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Roosevelt – Live at The Earl Haig Club (Front Bar)\nLocation: The Earl Haig Club –...",
+    "description": "Live Music at The Earl Haig Club (Front Bar)\nLocation: The Earl Haig Club – Front...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/2be235c1-ef82-48fd-b114-ee5a2f2166c3.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/17add094-52eb-4ada-b529-9cf1fe37829a.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -365,11 +372,6 @@
         "caption": null
       }
     },
-    "artists": [
-      {
-        "name": "Roosevelt"
-      }
-    ],
     "tickets": [
       {
         "dateTime": "2025-08-02T20:30:00+01:00",
@@ -389,18 +391,17 @@
       }
     ],
     "genre": [
-      "music",
-      "americana"
+      "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt-live-at-the-earl-haig-club-front-bar/7329873",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-band-tbc/7329873",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:17:15+01:00",
+    "lastUpdate": "2025-07-22T17:15:27+01:00",
     "created": "2025-06-23T15:17:04+00:00"
   },
   {
     "id": "zavX5X",
-    "headline": "The Red Hot Pokers",
-    "title": "The Red Hot Pokers",
+    "headline": "Sunday Sessions With The Pokers",
+    "title": "Sunday Sessions With The Pokers",
     "startDate": "2025-08-03",
     "endDate": "2025-08-03",
     "startTimeString": "6:00pm",
@@ -453,15 +454,15 @@
       "blues",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-red-hot-pokers/7329874",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-pokers/7329874",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:20:23+01:00",
+    "lastUpdate": "2025-07-22T14:36:06+01:00",
     "created": "2025-06-23T15:20:11+00:00"
   },
   {
     "id": "94Wxd9",
-    "headline": "Monday Night Open Mic & Jam Session at The Earl Haig Club with Familiar Beerz",
-    "title": "Monday Night Open Mic & Jam Session at The Earl Haig Club with Familiar Beerz",
+    "headline": "Monday Jam Session with Familiar Beerz",
+    "title": "Monday Jam Session with Familiar Beerz",
     "startDate": "2025-08-04",
     "endDate": "2025-08-04",
     "startTimeString": "8:00pm",
@@ -510,15 +511,15 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-at-the-earl-haig-club-with-familiar-beerz/7337157",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-familiar-beerz/7337157",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-08T17:55:37+01:00",
+    "lastUpdate": "2025-07-22T17:15:53+01:00",
     "created": "2025-07-08T16:55:26+00:00"
   },
   {
     "id": "bkQDzz",
-    "headline": "Cold Shot",
-    "title": "Cold Shot",
+    "headline": "Friday Night Live In The Bar with Cold Shot",
+    "title": "Friday Night Live In The Bar with Cold Shot",
     "startDate": "2025-08-08",
     "endDate": "2025-08-08",
     "startTimeString": "8:30pm",
@@ -568,15 +569,15 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7329876",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-cold-shot/7329876",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:25:02+01:00",
+    "lastUpdate": "2025-07-22T17:16:15+01:00",
     "created": "2025-06-23T15:24:50+00:00"
   },
   {
     "id": "E9dgx2",
-    "headline": "Palm Tree Antics live in the bar",
-    "title": "Palm Tree Antics live in the bar",
+    "headline": "Friday Night Live In The Bar with Palm Tree Antics",
+    "title": "Friday Night Live In The Bar with Palm Tree Antics",
     "startDate": "2025-08-09",
     "endDate": "2025-08-09",
     "startTimeString": "8:30pm",
@@ -627,9 +628,9 @@
       "ska",
       "reggae"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/palm-tree-antics-live-in-the-bar/7329877",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-palm-tree-antics/7329877",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:38:54+01:00",
+    "lastUpdate": "2025-07-22T15:23:09+01:00",
     "created": "2025-06-23T15:38:42+00:00"
   },
   {
@@ -707,8 +708,8 @@
   },
   {
     "id": "pg8Bd9",
-    "headline": "Monday Jam Session at The Earl Haig Club Bar",
-    "title": "Monday Jam Session at The Earl Haig Club Bar",
+    "headline": "Monday Jam Session with Sudden Impact",
+    "title": "Monday Jam Session with Sudden Impact",
     "startDate": "2025-08-11",
     "endDate": "2025-08-11",
     "startTimeString": "8:00pm",
@@ -757,15 +758,15 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-at-the-earl-haig-club-bar/7329878",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-sudden-impact/7329878",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:45:52+01:00",
+    "lastUpdate": "2025-07-22T17:17:17+01:00",
     "created": "2025-06-23T15:40:44+00:00"
   },
   {
     "id": "QxXAOP",
-    "headline": "Rockers",
-    "title": "Rockers",
+    "headline": "Rockers Reunion with The Lonely Hearts Band.",
+    "title": "Rockers Reunion with The Lonely Hearts Band.",
     "startDate": "2025-08-12",
     "endDate": "2025-08-12",
     "startTimeString": "8:00pm",
@@ -778,9 +779,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Rockers Reunion at The Earl Haig Club Bar.\nEarl Haig Club, Whitchurch, Cardiff\nFree entry.\nThe Rockers Reunion...",
+    "description": "Rockers Reunion at The Earl Haig Club Bar. with The Lonely Hearts Band.\nEarl Haig Club,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/f0bde945-3baf-44d8-a4d7-2cfc859ae3d6.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -788,6 +789,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Lonely Hearts Band."
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-08-12T20:00:00+01:00",
@@ -809,9 +815,9 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers/7329879",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-the-lonely-hearts-band/7329879",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:42:44+01:00",
+    "lastUpdate": "2025-07-22T17:17:39+01:00",
     "created": "2025-06-23T15:42:34+00:00"
   },
   {
@@ -860,8 +866,8 @@
   },
   {
     "id": "WgRQvm",
-    "headline": "The Raiders",
-    "title": "The Raiders",
+    "headline": "Friday Night Live In The Bar with The Raiders",
+    "title": "Friday Night Live In The Bar with The Raiders",
     "startDate": "2025-08-15",
     "endDate": "2025-08-15",
     "startTimeString": "8:30pm",
@@ -893,15 +899,15 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-raiders/7329880",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-the-raiders/7329880",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:48:12+01:00",
+    "lastUpdate": "2025-07-22T17:17:59+01:00",
     "created": "2025-06-23T15:45:12+00:00"
   },
   {
     "id": "lG0gb9",
-    "headline": "Monday Night Open Mic & Jam Session",
-    "title": "Monday Night Open Mic & Jam Session",
+    "headline": "Monday Jam Session with James Oliver",
+    "title": "Monday Jam Session with James Oliver",
     "startDate": "2025-08-18",
     "endDate": "2025-08-18",
     "startTimeString": "8:00pm",
@@ -914,7 +920,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club!\nWhen: Every Monday Night\nVenue:...",
+    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club!\nTonighs host. The James...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/446ace45-b228-4f9e-b5ee-338b97e76599.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -924,6 +930,12 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-08-18T20:00:00+01:00",
@@ -943,17 +955,19 @@
       }
     ],
     "genre": [
-      "music"
+      "music",
+      "blues",
+      "2010s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session/7337765",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7337765",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:48:24+01:00",
+    "lastUpdate": "2025-07-22T17:18:49+01:00",
     "created": "2025-07-09T13:48:12+00:00"
   },
   {
     "id": "Pav5XB",
-    "headline": "The Troubadours",
-    "title": "The Troubadours",
+    "headline": "Friday Night Live In The Bar with The Troubadours",
+    "title": "Friday Night Live In The Bar with The Troubadours",
     "startDate": "2025-08-22",
     "endDate": "2025-08-22",
     "startTimeString": "8:30pm",
@@ -1004,9 +1018,9 @@
       "rock",
       "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-troubadours/7337766",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-the-troubadours/7337766",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:51:24+01:00",
+    "lastUpdate": "2025-07-22T17:18:19+01:00",
     "created": "2025-07-09T13:51:12+00:00"
   },
   {
@@ -1074,8 +1088,8 @@
   },
   {
     "id": "6BEgx4",
-    "headline": "Trade Street",
-    "title": "Trade Street",
+    "headline": "Friday Night Live In The Bar with Trade Street",
+    "title": "Friday Night Live In The Bar with Trade Street",
     "startDate": "2025-08-23",
     "endDate": "2025-08-23",
     "startTimeString": "8:30pm",
@@ -1130,9 +1144,9 @@
       "covers",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/trade-street/7337767",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-trade-street/7337767",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:54:22+01:00",
+    "lastUpdate": "2025-07-22T17:19:13+01:00",
     "created": "2025-07-09T13:54:11+00:00"
   },
   {
@@ -1200,8 +1214,8 @@
   },
   {
     "id": "OdnqOo",
-    "headline": "Parcel Of Rogues",
-    "title": "Parcel Of Rogues",
+    "headline": "Sunday Sessions with Parcel Of Rogues",
+    "title": "Sunday Sessions with Parcel Of Rogues",
     "startDate": "2025-08-24",
     "endDate": "2025-08-24",
     "startTimeString": "6:00pm",
@@ -1255,15 +1269,15 @@
       "blues",
       "easy"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parcel-of-rogues/7329883",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-parcel-of-rogues/7329883",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:55:37+01:00",
+    "lastUpdate": "2025-07-22T17:19:37+01:00",
     "created": "2025-06-23T15:55:16+00:00"
   },
   {
     "id": "RxaqBN",
-    "headline": "Monday Night Open Mic & Jam Session",
-    "title": "Monday Night Open Mic & Jam Session",
+    "headline": "Monday Night Jam Session with Horizons",
+    "title": "Monday Night Jam Session with Horizons",
     "startDate": "2025-08-25",
     "endDate": "2025-08-25",
     "startTimeString": "8:00pm",
@@ -1276,7 +1290,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club!\nWhen: Every Monday Night\nVenue:...",
+    "description": "Monday Night Open Mic & Jam Session at The Earl Haig Club!\nTonights hosts are Horizons.\nWhen:...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/7baa84e8-d164-4003-b878-c71c558960b8.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1286,6 +1300,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Horizons"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-08-25T20:00:00+01:00",
@@ -1307,9 +1326,9 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session/7337768",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-jam-session-with-horizons/7337768",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:55:59+01:00",
+    "lastUpdate": "2025-07-22T17:20:05+01:00",
     "created": "2025-07-09T13:55:47+00:00"
   },
   {
@@ -1352,8 +1371,8 @@
   },
   {
     "id": "rBq8LE",
-    "headline": "ROCKIN' 58 – Live at The Earl Haig Club",
-    "title": "ROCKIN' 58 – Live at The Earl Haig Club",
+    "headline": "Friday Night Live In The Bar with ROCKIN' 58",
+    "title": "Friday Night Live In The Bar with ROCKIN' 58",
     "startDate": "2025-08-29",
     "endDate": "2025-08-29",
     "startTimeString": "8:30pm",
@@ -1404,9 +1423,9 @@
       "rocknroll",
       "covers"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockin-58-live-at-the-earl-haig-club/7337769",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-rockin-58/7337769",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-09T14:59:07+01:00",
+    "lastUpdate": "2025-07-22T14:38:51+01:00",
     "created": "2025-07-09T13:57:19+00:00"
   },
   {
@@ -1478,8 +1497,8 @@
   },
   {
     "id": "DwYzZO",
-    "headline": "Buttonsville",
-    "title": "Buttonsville",
+    "headline": "Saturday Night Live with Buttonsville",
+    "title": "Saturday Night Live with Buttonsville",
     "startDate": "2025-08-30",
     "endDate": "2025-08-30",
     "startTimeString": "8:30pm",
@@ -1534,10 +1553,186 @@
       "1970s",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/buttonsville/7329884",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-buttonsville/7329884",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T16:58:46+01:00",
+    "lastUpdate": "2025-07-22T17:20:29+01:00",
     "created": "2025-06-23T15:58:34+00:00"
+  },
+  {
+    "id": "oBdm6e",
+    "headline": "Monday Jam Session with Mark Pontin",
+    "title": "Monday Jam Session with Mark Pontin",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-01",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session with Mark Pontin",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/7a6880c9-421e-47ae-b25a-dfa1ac605e65.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "gZ76g",
+        "name": "Mark Pontin Group"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-01T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T14:42:20+01:00",
+        "onSaleUntil": "2025-09-01T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-mark-pontin/7342970",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:20:57+01:00",
+    "created": "2025-07-22T13:42:19+00:00"
+  },
+  {
+    "id": "ZvZ0G5",
+    "headline": "Jazz Club with Just Friends Jazz Band",
+    "title": "Jazz Club with Just Friends Jazz Band",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-02",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Just Friends Jazz club at The Earl Haig Club",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3f06683f-26cb-4d89-a9be-b259e915967e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-02T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T14:44:10+01:00",
+        "onSaleUntil": "2025-09-02T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jazz-club-with-just-friends-jazz-band/7342971",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:21:29+01:00",
+    "created": "2025-07-22T13:44:10+00:00"
+  },
+  {
+    "id": "1W1AQ6",
+    "headline": "Friday Night Live with The Jedis",
+    "title": "Friday Night Live with The Jedis",
+    "startDate": "2025-09-05",
+    "endDate": "2025-09-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Jedis at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4f00f926-eca2-402e-be41-854e6308452e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Jedis"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-05T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T14:45:45+01:00",
+        "onSaleUntil": "2025-09-05T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-jedis/7342972",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:21:51+01:00",
+    "created": "2025-07-22T13:45:44+00:00"
   },
   {
     "id": "g7yKZp",
@@ -1603,6 +1798,58 @@
     "created": "2025-01-30T12:12:23+00:00"
   },
   {
+    "id": "zavzpW",
+    "headline": "Monday Jam Session at The Earl Haig Club Bar",
+    "title": "Monday Jam Session at The Earl Haig Club Bar",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c2084b97-d35d-4dc9-9985-6f22de96037c.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-09-08T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T14:57:37+01:00",
+        "onSaleUntil": "2025-09-08T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-at-the-earl-haig-club-bar/7342974",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T16:59:37+01:00",
+    "created": "2025-07-22T13:57:36+00:00"
+  },
+  {
     "id": "Lz105X",
     "headline": "Oye Santana",
     "title": null,
@@ -1645,6 +1892,65 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2025-01-13T16:21:02+00:00",
     "created": "2024-12-17T07:09:29+00:00"
+  },
+  {
+    "id": "YYoGeO",
+    "headline": "Friday Night Live In The Bar with The Vanderbilts",
+    "title": "Friday Night Live In The Bar with The Vanderbilts",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Vanderbilts – Live at the Earl Haig Club!\n Friday, 12th September\n Live in the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Vanderbilts"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-12T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T13:27:36+01:00",
+        "onSaleUntil": "2025-09-12T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-the-vanderbilts/7342949",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:23:19+01:00",
+    "created": "2025-07-22T12:27:36+00:00"
   },
   {
     "id": "bkqN97",
@@ -1770,6 +2076,165 @@
     "created": "2025-01-30T12:12:23+00:00"
   },
   {
+    "id": "g7Dm49",
+    "headline": "Saturday Night Live with Late Shift",
+    "title": "Saturday Night Live with Late Shift",
+    "startDate": "2025-09-13",
+    "endDate": "2025-09-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Late Shift at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/21436303-d4a2-402c-8fd9-b7c30f2d8b41.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Late Shift"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "disco",
+      "covers",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-late-shift/7342975",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:22:41+01:00",
+    "created": "2025-07-22T13:59:41+00:00"
+  },
+  {
+    "id": "E9dZXX",
+    "headline": "Sunday Sessions with Moonstorm",
+    "title": "Sunday Sessions with Moonstorm",
+    "startDate": "2025-09-14",
+    "endDate": "2025-09-14",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Moonstorm live at The Earl Haig Club Concert Room\n£3 on the door\nDoors open 5pm\nBand on...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/782c2805-b8ba-4be3-b636-3f6d00f23b5f.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Moonstorm"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-14T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T17:00:46+01:00",
+        "onSaleUntil": "2025-09-14T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-moonstorm/7342977",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:24:35+01:00",
+    "created": "2025-07-22T14:01:50+00:00"
+  },
+  {
+    "id": "pg8eRZ",
+    "headline": "Strictly Acoustic with Andy Johnson",
+    "title": "Strictly Acoustic with Andy Johnson",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-16",
+    "startTimeString": "7:45pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Strictly Acoustic at The Earl Haig Club Bar.\nStrictly Acoustic with Andy Johnson Open Mic Session...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c97b8633-a2b7-4bed-aa73-a010f6368717.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-16T19:45:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T15:04:27+01:00",
+        "onSaleUntil": "2025-09-16T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7342978",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:25:01+01:00",
+    "created": "2025-07-22T14:04:26+00:00"
+  },
+  {
     "id": "2KGAAL",
     "headline": "Flash: A Tribute To Queen",
     "title": null,
@@ -1835,8 +2300,8 @@
   },
   {
     "id": "BvLwaO",
-    "headline": "The Fugitives - Cardiff",
-    "title": "The Fugitives - Cardiff",
+    "headline": "Friday Night Live with The Fugitives",
+    "title": "Friday Night Live with The Fugitives",
     "startDate": "2025-09-19",
     "endDate": "2025-09-19",
     "startTimeString": "9:00pm",
@@ -1846,7 +2311,7 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": false,
+    "isFree": true,
     "ticketsAvailable": true,
     "price": null,
     "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
@@ -1865,6 +2330,24 @@
         "name": "The Fugitives - Cardiff"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-19T21:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T17:01:19+01:00",
+        "onSaleUntil": "2025-09-19T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -1876,10 +2359,180 @@
       "1970s",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222956",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-fugitives/7222956",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-11T21:42:18+00:00",
+    "lastUpdate": "2025-07-22T17:25:21+01:00",
     "created": "2024-11-11T21:42:07+00:00"
+  },
+  {
+    "id": "QxXkz8",
+    "headline": "Saturday Night Live with Rattlesnake",
+    "title": "Saturday Night Live with Rattlesnake",
+    "startDate": "2025-09-20",
+    "endDate": "2025-09-20",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rattlesnake – Live at The Earl Haig Club Bar\nSaturday, September 20th | 8:30 PM\nThe Bar,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/fa25a805-faca-4a75-84e0-99bf9d987aae.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rattlesnake"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-20T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T15:07:23+01:00",
+        "onSaleUntil": "2025-09-20T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-rattlesnake/7342979",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:25:47+01:00",
+    "created": "2025-07-22T14:07:22+00:00"
+  },
+  {
+    "id": "WgRmWw",
+    "headline": "Sunday Sessions with the James Oliver Band",
+    "title": "Sunday Sessions with the James Oliver Band",
+    "startDate": "2025-09-21",
+    "endDate": "2025-09-21",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "James Oliver Band at The Earl Haig Club Concert Room\n\nDoors 5pm\nBand 6pm\n£3 on trhe door",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bbfbfdfd-9a5d-4c1a-ab82-35a584dd7234.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-09-21T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T15:10:37+01:00",
+        "onSaleUntil": "2025-09-21T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-james-oliver-band/7342980",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:26:16+01:00",
+    "created": "2025-07-22T14:10:36+00:00"
+  },
+  {
+    "id": "jYe0Xv",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2025-09-22",
+    "endDate": "2025-09-22",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/34983993-4a43-4737-b36b-a44368a76cd4.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2025-09-22T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-07-22T15:13:10+01:00",
+        "onSaleUntil": "2025-09-22T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7342981",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:04:16+01:00",
+    "created": "2025-07-22T14:13:09+00:00"
   },
   {
     "id": "YYmRY9",
@@ -1950,8 +2603,8 @@
   },
   {
     "id": "dDj59w",
-    "headline": "The Sand Boys",
-    "title": "The Sand Boys",
+    "headline": "Saturday Night Live in the Bar with The Sand Boys",
+    "title": "Saturday Night Live in the Bar with The Sand Boys",
     "startDate": "2025-09-27",
     "endDate": "2025-09-27",
     "startTimeString": "8:30pm",
@@ -2002,9 +2655,9 @@
       "rock",
       "indie"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-sand-boys/7329906",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-06-23T18:03:09+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-in-the-bar-with-the-sand-boys/7329906",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-07-22T17:26:52+01:00",
     "created": "2025-06-23T17:02:56+00:00"
   },
   {
@@ -3064,8 +3717,8 @@
   },
   {
     "id": "94O2Nx",
-    "headline": "The Fugitives - Cardiff",
-    "title": "The Fugitives - Cardiff",
+    "headline": "Boxing Dy with The Fugitives",
+    "title": "Boxing Dy with The Fugitives",
     "startDate": "2025-12-26",
     "endDate": "2025-12-26",
     "startTimeString": "6:00pm",
@@ -3123,9 +3776,9 @@
       "1970s",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7222957",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/boxing-dy-with-the-fugitives/7222957",
     "fansOnEnts24": 0,
-    "lastUpdate": "2024-11-13T14:45:47+00:00",
+    "lastUpdate": "2025-07-22T17:27:50+01:00",
     "created": "2024-11-11T21:42:09+00:00"
   },
   {
