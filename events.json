@@ -1,64 +1,5 @@
 [
   {
-    "id": "Bv5lyE",
-    "headline": "The Mother Truckers",
-    "title": "The Mother Truckers",
-    "startDate": "2025-07-27",
-    "endDate": "2025-07-27",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:25pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Live at The Earl Haig Club – Sunday, July 27th 2025\nA Brand-New Rock Power Trio...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ab710299-70aa-458c-b712-8471307da81a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Mother Truckers"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-07-27T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-07-10T16:57:20+01:00",
-        "onSaleUntil": "2025-07-27T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-mother-truckers/7338356",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2025-07-22T17:13:14+01:00",
-    "created": "2025-07-10T15:57:19+00:00"
-  },
-  {
     "id": "NL4O5r",
     "headline": "Monday Jam Session with James Oliver",
     "title": "Monday Jam Session with James Oliver",
@@ -391,8 +332,8 @@
   },
   {
     "id": "E9dgx2",
-    "headline": "Friday Night Live In The Bar with Palm Tree Antics",
-    "title": "Friday Night Live In The Bar with Palm Tree Antics",
+    "headline": "Saturday Night Live In The Bar with Palm Tree Antics",
+    "title": "Saturday Night Live In The Bar with Palm Tree Antics",
     "startDate": "2025-08-09",
     "endDate": "2025-08-09",
     "startTimeString": "8:30pm",
@@ -443,9 +384,9 @@
       "ska",
       "reggae"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-palm-tree-antics/7329877",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-in-the-bar-with-palm-tree-antics/7329877",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T15:23:09+01:00",
+    "lastUpdate": "2025-07-27T22:21:50+01:00",
     "created": "2025-06-23T15:38:42+00:00"
   },
   {
@@ -896,7 +837,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Troubadours at the Earl Haig Club Bar.\n The Troubadours – Live at The Earl...",
+    "description": "The Troubadours at the Earl Haig Club Bar.\n\nFriday, August 22nd, 2025 |  FREE ENTRY\nStep into...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/4b86180d-4bfa-4435-afc1-fc134ff534a1.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -936,7 +877,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-the-troubadours/7337766",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T17:18:19+01:00",
+    "lastUpdate": "2025-07-27T22:31:39+01:00",
     "created": "2025-07-09T13:51:12+00:00"
   },
   {
