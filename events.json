@@ -1,216 +1,5 @@
 [
   {
-    "id": "E9dgx2",
-    "headline": "Saturday Night Live In The Bar with Palm Tree Antics",
-    "title": "Saturday Night Live In The Bar with Palm Tree Antics",
-    "startDate": "2025-08-09",
-    "endDate": "2025-08-09",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Palm Tree Antics – Live at The Earl Haig Club (Front Bar)\nSaturday 9th August 2025\nVenue:...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b73e2663-9ec9-4371-a376-1d8f9c177524.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Palm Tree Antics"
-      }
-    ],
-    "genre": [
-      "music",
-      "ska",
-      "reggae"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-in-the-bar-with-palm-tree-antics/7329877",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2025-08-10T00:00:06+01:00",
-    "created": "2025-06-23T15:38:42+00:00"
-  },
-  {
-    "id": "6BdovP",
-    "headline": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
-    "title": "A CELEBRATION OF THE LIFE AND MUSIC OF JERRY GARCIA AND THE GRATEFUL DEAD",
-    "startDate": "2025-08-09",
-    "endDate": "2025-08-09",
-    "startTimeString": "7:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Put this in your diary! AUGUST 9TH 2025 at The Earl Haig Club with deadedz...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "nzzGQ",
-        "name": "The Terrapins"
-      },
-      {
-        "id": "Rj9E2",
-        "name": "deadedz"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-08-09T19:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£19.00",
-        "totalPrice": "£19.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-26T18:45:00+00:00",
-        "onSaleUntil": "2025-08-10T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLWRheXMtYmV0d2Vlbi1hLWNlbGVicmF0aW9uLW9mLWplcnJ5LWdhcmNpYS90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzI5MzkwND9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzI5MzkwNA/ticketid/7581030/checksum/0a53fa2621f2988c30ee0c9e7fb59730/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "acoustic",
-      "experimental",
-      "rocknroll",
-      "folk",
-      "americana",
-      "blues",
-      "covers",
-      "tribute",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-celebration-of-the-life-and-music-of-jerry-garcia-and-the-grateful-dead/7257667",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-03-02T16:17:11+00:00",
-    "created": "2025-01-27T07:31:31+00:00"
-  },
-  {
-    "id": "4Qg1Q8",
-    "headline": "Sunday Sessions with Snatch It Back",
-    "title": "Sunday Sessions with Snatch It Back",
-    "startDate": "2025-08-10",
-    "endDate": "2025-08-10",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Sunday Blues Session: Snatch It Back – Live at The Earl Haig Club Concert Room\nGet...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/64ce94a6-0b08-41ff-9e3d-ff503ff81c29.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Snatch It Back"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-snatch-it-back/7349115",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-08-11T00:00:06+01:00",
-    "created": "2025-08-05T17:41:19+00:00"
-  },
-  {
-    "id": "pg8Bd9",
-    "headline": "Monday Jam Session with Sudden Impact",
-    "title": "Monday Jam Session with Sudden Impact",
-    "startDate": "2025-08-11",
-    "endDate": "2025-08-11",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session at The Earl Haig Club Bar, with Sudden Impact\n\nHello there! We’re excited...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/c0aaf38c-43c7-4a33-a6bb-fedb98acec9a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sudden Impact"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-08-11T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-06-23T16:40:44+01:00",
-        "onSaleUntil": "2025-08-11T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-sudden-impact/7329878",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T17:17:17+01:00",
-    "created": "2025-06-23T15:40:44+00:00"
-  },
-  {
     "id": "QxXAOP",
     "headline": "Rockers Reunion with The Lonely Hearts Band.",
     "title": "Rockers Reunion with The Lonely Hearts Band.",
@@ -1115,8 +904,8 @@
   },
   {
     "id": "wayGQ2",
-    "headline": "Sunday Sessions with Expecting Company",
-    "title": "Sunday Sessions with Expecting Company",
+    "headline": "Sunday Sessions with The S'punkles",
+    "title": "Sunday Sessions with The S'punkles",
     "startDate": "2025-08-31",
     "endDate": "2025-08-31",
     "startTimeString": "6:00pm",
@@ -1129,9 +918,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Sunday Sessions with Expecting Company. \n\n Expecting Company – Live at The Earl Haig Club Concert...",
+    "description": "THE S’PUNKLES – LIVE AT THE EARL HAIG CLUB CONCERT ROOM\nSunday, August 31st 2025\nDoors 5PM...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/01e8ef5c-8cbf-4df0-a866-3a947ce728f3.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/36fd42e3-4109-4ae0-a462-db3e52395183.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1141,7 +930,7 @@
     },
     "artists": [
       {
-        "name": "Expecting Company"
+        "name": "The S'punkles"
       }
     ],
     "tickets": [
@@ -1164,11 +953,14 @@
     ],
     "genre": [
       "music",
-      "rock"
+      "rock",
+      "punk",
+      "1970s",
+      "1980s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-expecting-company/7344673",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-spunkles/7344673",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-25T14:23:50+01:00",
+    "lastUpdate": "2025-08-11T13:01:39+01:00",
     "created": "2025-07-25T13:23:40+00:00"
   },
   {
