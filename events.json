@@ -1,48 +1,5 @@
 [
   {
-    "id": "6BEYGn",
-    "headline": "ACAB Live at Mark's Birthday Party",
-    "title": "ACAB Live at Mark's Birthday Party",
-    "startDate": "2025-08-16",
-    "endDate": "2025-08-16",
-    "startTimeString": "8:30pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "ACAB – Live at The Earl Haig Club Concert Room\nSaturday, August 16th, 2025\nDoors: 7:00 PM...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f12fdc15-1fff-4f4f-85e7-6f865867be4c.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "q5EAE",
-        "name": "ACAB"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/acab-live-at-marks-birthday-party/7346067",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-29T18:03:21+01:00",
-    "created": "2025-07-29T17:02:37+00:00"
-  },
-  {
     "id": "WgRyD2",
     "headline": "Sunday Sessions with  with Jnr Hacksaw",
     "title": "Sunday Sessions with  with Jnr Hacksaw",
