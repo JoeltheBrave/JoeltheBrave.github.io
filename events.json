@@ -1,48 +1,5 @@
 [
   {
-    "id": "WgRyD2",
-    "headline": "Sunday Sessions with  with Jnr Hacksaw",
-    "title": "Sunday Sessions with  with Jnr Hacksaw",
-    "startDate": "2025-08-17",
-    "endDate": "2025-08-17",
-    "startTimeString": "5:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Junior Hacksaw at The Earl Haig Club Concert Room\nLive Blues Night with Junior Hacksaw\nFriday, August...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/c44f6651-e493-4a66-81a9-5b3d7c1d3898.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "0EER",
-        "name": "Junior Hacksaw"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-with-jnr-hacksaw/7344680",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-08-02T00:00:06+01:00",
-    "created": "2025-07-25T13:55:36+00:00"
-  },
-  {
     "id": "lG0gb9",
     "headline": "Monday Jam Session with James Oliver",
     "title": "Monday Jam Session with James Oliver",
