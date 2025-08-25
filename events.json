@@ -1,67 +1,5 @@
 [
   {
-    "id": "OdnqOo",
-    "headline": "Sunday Sessions with Parcel Of Rogues",
-    "title": "Sunday Sessions with Parcel Of Rogues",
-    "startDate": "2025-08-24",
-    "endDate": "2025-08-24",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Parcel Of Rogues – Live at The Earl Haig Club (Concert Room)\nSunday 24th August 2025\nVenue:...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/21ba57a2-6cc4-414b-922b-9906542858aa.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-08-24T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-06-23T16:55:36+01:00",
-        "onSaleUntil": "2025-08-24T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk",
-      "celtic",
-      "blues",
-      "easy"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-parcel-of-rogues/7329883",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T17:19:37+01:00",
-    "created": "2025-06-23T15:55:16+00:00"
-  },
-  {
     "id": "RxaqBN",
     "headline": "Monday Night Jam Session with Horizons",
     "title": "Monday Night Jam Session with Horizons",
@@ -769,8 +707,8 @@
   },
   {
     "id": "DwY7DL",
-    "headline": "Sunday Sesions",
-    "title": "Sunday Sesions",
+    "headline": "Sunday Sesions with The Wildflowers",
+    "title": "Sunday Sesions with The Wildflowers",
     "startDate": "2025-09-07",
     "endDate": "2025-09-07",
     "startTimeString": "6:00pm",
@@ -783,9 +721,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Sunday Sessions at The Earl Haig Club. Band TBC",
+    "description": "Sunday Sessions at The Earl Haig lub.\n\nThe Wildflowers return to Whitchurch by popular demand –...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/06d40aa3-9522-4ad4-b165-e73a06db914d.png?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/e390fde4-6742-44f8-ac40-e174b16e2b8c.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -793,6 +731,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Wildflowers"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2025-09-07T18:00:00+01:00",
@@ -813,11 +756,13 @@
     ],
     "genre": [
       "music",
-      "blues"
+      "rock",
+      "punk",
+      "rocknroll"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sesions/7344684",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sesions-with-the-wildflowers/7344684",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-08-19T15:30:22+01:00",
+    "lastUpdate": "2025-08-24T17:42:36+01:00",
     "created": "2025-07-25T14:05:46+00:00"
   },
   {
