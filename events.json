@@ -1,66 +1,5 @@
 [
   {
-    "id": "wayGQ2",
-    "headline": "Sunday Sessions with The S'punkles",
-    "title": "Sunday Sessions with The S'punkles",
-    "startDate": "2025-08-31",
-    "endDate": "2025-08-31",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "THE S’PUNKLES – LIVE AT THE EARL HAIG CLUB CONCERT ROOM\nSunday, August 31st 2025\nDoors 5PM...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/36fd42e3-4109-4ae0-a462-db3e52395183.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The S'punkles"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-08-31T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-07-25T14:23:41+01:00",
-        "onSaleUntil": "2025-08-31T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-spunkles/7344673",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-08-11T13:01:39+01:00",
-    "created": "2025-07-25T13:23:40+00:00"
-  },
-  {
     "id": "oBdm6e",
     "headline": "Monday Jam Session with Mark Pontin",
     "title": "Monday Jam Session with Mark Pontin",
@@ -1372,8 +1311,8 @@
   },
   {
     "id": "YYmRY9",
-    "headline": "Big Nite Out presents The The Soul Miners",
-    "title": "Big Nite Out presents The The Soul Miners",
+    "headline": "The Soul Miners",
+    "title": "The Soul Miners",
     "startDate": "2025-09-26",
     "endDate": "2025-09-26",
     "startTimeString": null,
@@ -1386,7 +1325,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "Get your tickets from www.TheBigNiteOut.co.uk",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/bdfa0b43-cfd9-4c05-88e8-ab22bff07f71.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1432,9 +1371,9 @@
       "tribute",
       "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-nite-out-presents-the-the-soul-miners/7296849",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-soul-miners/7296849",
     "fansOnEnts24": 1,
-    "lastUpdate": "2025-08-20T14:51:44+01:00",
+    "lastUpdate": "2025-08-31T15:58:10+01:00",
     "created": "2025-04-11T11:22:02+00:00"
   },
   {
@@ -2702,11 +2641,11 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "www.TheBigNiteOut.co.uk for tickets",
+    "description": "THIS EVENT HAS SOLD OUT - EMAIL US INFO@THEBIGNITEOUT.CO.UK TO JOIN A WAITING LIST FOR...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/1c0a0e82-753e-4b97-b857-d664bcc3573d.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -2722,24 +2661,6 @@
         "name": "Night At The Opera"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-12-06T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-11T12:27:36+01:00",
-        "onSaleUntil": "2025-12-06T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy5UaGVCaWdOaXRlT3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjQwNzY4/ticketid/7677359/checksum/f3e4c6fb9b407e29decc057c35f9b2f4/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -2749,13 +2670,13 @@
       "1980s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/night-at-the-opera-queen-tribute-band/7296853",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-11T12:27:46+01:00",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2025-08-31T15:51:50+01:00",
     "created": "2025-04-11T11:27:35+00:00"
   },
   {
     "id": "NLz9Ll",
-    "headline": "Central Line Disco",
+    "headline": "The Big Motown'N'Christmas Disco",
     "title": "The Big Motown'N'Christmas Disco",
     "startDate": "2025-12-19",
     "endDate": "2025-12-19",
@@ -2790,9 +2711,9 @@
       "disco",
       "xmas"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/central-line-disco/7296854",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-06-14T19:25:49+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnchristmas-disco/7296854",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-08-31T16:00:50+01:00",
     "created": "2025-04-11T11:28:33+00:00"
   },
   {
@@ -2988,8 +2909,8 @@
   },
   {
     "id": "BvXevd",
-    "headline": "Central Line Disco",
-    "title": "TheBigNiteOut New Years Eve Party",
+    "headline": "New Years Eve Party!",
+    "title": "New Years Eve Party!",
     "startDate": "2025-12-31",
     "endDate": "2025-12-31",
     "startTimeString": null,
@@ -3041,9 +2962,9 @@
       "disco",
       "nye"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/central-line-disco/7296856",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-04-11T18:55:03+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/new-years-eve-party/7296856",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-08-31T15:59:22+01:00",
     "created": "2025-04-11T11:30:58+00:00"
   },
   {
