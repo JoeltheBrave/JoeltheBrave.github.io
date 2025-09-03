@@ -245,11 +245,6 @@
     "publishedAt": "2024-01-14T20:20:45Z"
   },
   {
-    "title": "James Davies: Ain't No Sunshine",
-    "url": "https://www.youtube.com/watch?v=Rip7EESwoTw",
-    "publishedAt": "2023-12-18T10:02:21Z"
-  },
-  {
     "title": "Thin Ice: Comfortably Numb",
     "url": "https://www.youtube.com/watch?v=vIMKCsLR8C8",
     "publishedAt": "2023-12-13T15:46:23Z"
@@ -493,6 +488,11 @@
     "title": "Snatch It Back: Rock This House",
     "url": "https://www.youtube.com/watch?v=1JC9uq-9Vvs",
     "publishedAt": "2023-02-15T10:44:10Z"
+  },
+  {
+    "title": "The Old Age Punk Band: Is Vic There?",
+    "url": "https://www.youtube.com/watch?v=wrU6FKPTBjo",
+    "publishedAt": "2023-02-09T01:20:45Z"
   },
   {
     "title": "The Old Age Punk Band: Is Vic There?",
@@ -1735,21 +1735,6 @@
     "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
-    "title": "It'll Be Me - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=hjqUhlaIkp8",
-    "publishedAt": "2014-07-20T22:33:30Z"
-  },
-  {
-    "title": "I Broke The Law And The Law Won - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=dGaCIEezDRw",
-    "publishedAt": "2014-07-20T22:33:31Z"
-  },
-  {
-    "title": "Hey Jude - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=MrFttb1jt8k",
-    "publishedAt": "2014-07-20T16:01:09Z"
-  },
-  {
     "title": "All Right Now - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=hQQ7hDlrCB4",
     "publishedAt": "2014-07-20T13:56:08Z"
@@ -1983,6 +1968,16 @@
     "title": "Stan Kenton -- Artistry In Percussion (3)",
     "url": "https://www.youtube.com/watch?v=Dqym9TRs2D0",
     "publishedAt": "2008-01-13T14:12:34Z"
+  },
+  {
+    "title": "Stan Kenton - Chiapas (2)",
+    "url": "https://www.youtube.com/watch?v=aBeCf1AkcXw",
+    "publishedAt": "2008-01-08T18:43:08Z"
+  },
+  {
+    "title": "Stan Kenton - Minor Booze 1972 (1)",
+    "url": "https://www.youtube.com/watch?v=Q4JgG8iyOyY",
+    "publishedAt": "2008-01-07T20:35:20Z"
   },
   {
     "title": "Stan Kenton - Chiapas (2)",
