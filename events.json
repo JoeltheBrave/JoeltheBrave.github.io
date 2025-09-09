@@ -1,71 +1,5 @@
 [
   {
-    "id": "zavzpW",
-    "headline": "Jam Session at The Earl Haig Club Bar",
-    "title": "Jam Session at The Earl Haig Club Bar",
-    "startDate": "2025-09-08",
-    "endDate": "2025-09-08",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session at The Earl Haig Club Bar with San Jerome.\nWhen: Every Monday Night\nVenue:...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/c2084b97-d35d-4dc9-9985-6f22de96037c.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "erml9",
-        "name": "San Jerome"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-08T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-07-22T14:57:37+01:00",
-        "onSaleUntil": "2025-09-08T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "folk",
-      "country",
-      "americana",
-      "blues",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jam-session-at-the-earl-haig-club-bar/7342974",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-05T12:54:04+01:00",
-    "created": "2025-07-22T13:57:36+00:00"
-  },
-  {
     "id": "jYepKq",
     "headline": "Rockers Reunion with Low Profile",
     "title": "Rockers Reunion with Low Profile",
@@ -1621,67 +1555,6 @@
     "created": "2025-01-30T15:21:19+00:00"
   },
   {
-    "id": "zav2QX",
-    "headline": "ACAB - Fundraiser for Whitchurch Hospital Bowls Club",
-    "title": "ACAB - Fundraiser for Whitchurch Hospital Bowls Club",
-    "startDate": "2025-10-11",
-    "endDate": "2025-10-11",
-    "startTimeString": "8:15pm",
-    "endTimeString": "11:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "ACAB – Live at The Earl Haig Club Concert Room\nSaturday 11th October 2025\nFundraiser for Whitchurch...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/54c73c7a-ab82-496b-9398-2fb75820a7f6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "q5EAE",
-        "name": "ACAB"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-10-11T20:15:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-08-29T17:26:57+01:00",
-        "onSaleUntil": "2025-10-11T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/acab-fundraiser-for-whitchurch-hospital-bowls-club/7359530",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-08-29T17:27:06+01:00",
-    "created": "2025-08-29T16:26:56+00:00"
-  },
-  {
     "id": "59byxo",
     "headline": "Saturday Night Live with The Flares",
     "title": "Saturday Night Live with The Flares",
@@ -1743,6 +1616,67 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-09-05T13:24:14+01:00",
     "created": "2025-09-05T12:24:03+00:00"
+  },
+  {
+    "id": "zav2QX",
+    "headline": "ACAB - Fundraiser for Whitchurch Hospital Bowls Club",
+    "title": "ACAB - Fundraiser for Whitchurch Hospital Bowls Club",
+    "startDate": "2025-10-11",
+    "endDate": "2025-10-11",
+    "startTimeString": "8:15pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "ACAB – Live at The Earl Haig Club Concert Room\nSaturday 11th October 2025\nFundraiser for Whitchurch...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/54c73c7a-ab82-496b-9398-2fb75820a7f6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "q5EAE",
+        "name": "ACAB"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-10-11T20:15:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-08-29T17:26:57+01:00",
+        "onSaleUntil": "2025-10-11T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/acab-fundraiser-for-whitchurch-hospital-bowls-club/7359530",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-08-29T17:27:06+01:00",
+    "created": "2025-08-29T16:26:56+00:00"
   },
   {
     "id": "mDK9Pj",
@@ -1967,6 +1901,48 @@
     "created": "2025-09-05T12:42:43+00:00"
   },
   {
+    "id": "K9BbwD",
+    "headline": "Saturday Night Live with The Semantics",
+    "title": "Saturday Night Live with The Semantics",
+    "startDate": "2025-10-18",
+    "endDate": "2025-10-18",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Semantics at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ffff3aa5-31c0-4f35-a2d2-09ac39129185.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pglO0",
+        "name": "The Semantics"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-semantics/7362948",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-05T13:45:31+01:00",
+    "created": "2025-09-05T12:45:20+00:00"
+  },
+  {
     "id": "Odg6pG",
     "headline": "Global Promotions Present  Legend - The Music Of Bob Marley",
     "title": "Global Promotions Present  Legend - The Music Of Bob Marley",
@@ -2025,48 +2001,6 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2025-08-19T15:43:38+01:00",
     "created": "2025-01-30T15:21:19+00:00"
-  },
-  {
-    "id": "K9BbwD",
-    "headline": "Saturday Night Live with The Semantics",
-    "title": "Saturday Night Live with The Semantics",
-    "startDate": "2025-10-18",
-    "endDate": "2025-10-18",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Semantics at The Earl Haig Club Bar",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ffff3aa5-31c0-4f35-a2d2-09ac39129185.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "pglO0",
-        "name": "The Semantics"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-semantics/7362948",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-05T13:45:31+01:00",
-    "created": "2025-09-05T12:45:20+00:00"
   },
   {
     "id": "YYoB7r",
