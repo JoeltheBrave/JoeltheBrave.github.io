@@ -1,169 +1,5 @@
 [
   {
-    "id": "Lz105X",
-    "headline": "Oye Santana",
-    "title": null,
-    "startDate": "2025-09-12",
-    "endDate": "2025-09-12",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This show has been rescheduled to 6th June 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/372/918/5280ba31c3aa6a1474f3090b0436ca528488e806.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "a9KZl",
-        "name": "Oye Santana"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "latin",
-      "tribute"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oye-santana/7241252",
-    "fansOnEnts24": 4,
-    "lastUpdate": "2025-01-13T16:21:02+00:00",
-    "created": "2024-12-17T07:09:29+00:00"
-  },
-  {
-    "id": "YYoGeO",
-    "headline": "Friday Night Live In The Bar with The Vanderbilts",
-    "title": "Friday Night Live In The Bar with The Vanderbilts",
-    "startDate": "2025-09-12",
-    "endDate": "2025-09-12",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Vanderbilts – Live at the Earl Haig Club!\n Friday, 12th September\n Live in the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Vanderbilts"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-12T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-07-22T13:27:36+01:00",
-        "onSaleUntil": "2025-09-12T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-in-the-bar-with-the-vanderbilts/7342949",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T17:23:19+01:00",
-    "created": "2025-07-22T12:27:36+00:00"
-  },
-  {
-    "id": "bkqN97",
-    "headline": "Global Promotions present Otway and Barrett",
-    "title": "Global Promotions present Otway and Barrett",
-    "startDate": "2025-09-12",
-    "endDate": "2025-09-12",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/224/115/c8e0e4516ab3a7d6b7f99602c1879bec341365e4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "71EXp",
-        "name": "Otway and Barrett"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-12T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-05-20T00:00:00+01:00",
-        "onSaleUntil": "2025-09-13T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvam9oLW90d2F5LXdpbGQtd2lsbHktYmFycmV0dC90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzQxNDcyMT9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzQxNDcyMQ/ticketid/7709718/checksum/c825885684fa22eb1399d2cccba7cef3/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-otway-and-barrett/7313976",
-    "fansOnEnts24": 5,
-    "lastUpdate": "2025-08-19T15:39:36+01:00",
-    "created": "2025-05-20T15:49:13+00:00"
-  },
-  {
     "id": "bkq6aA",
     "headline": "Global Promotions Present  U2 UK",
     "title": "Global Promotions Present  U2 UK",
@@ -1040,24 +876,6 @@
         "name": "Electrik Live Orchestra"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2025-10-03T19:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£25.75",
-        "totalPrice": "£25.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-30T12:10:00+00:00",
-        "onSaleUntil": "2025-10-04T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZWxlY3RyaWstbGl2ZS1vcmNoZXN0cmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzMyOTczNDU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzI5NzM0NQ/ticketid/7586857/checksum/36986f97053b03fb69cb1248c15bac78/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -1067,7 +885,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-electrik-live-orchestra/7260134",
     "fansOnEnts24": 4,
-    "lastUpdate": "2025-08-19T15:41:38+01:00",
+    "lastUpdate": "2025-09-12T11:00:53+01:00",
     "created": "2025-01-30T12:12:23+00:00"
   },
   {
