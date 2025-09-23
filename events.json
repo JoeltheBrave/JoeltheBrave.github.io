@@ -1,57 +1,5 @@
 [
   {
-    "id": "jYe0Xv",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-09-22",
-    "endDate": "2025-09-22",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session at The Earl Haig Club Bar",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/34983993-4a43-4737-b36b-a44368a76cd4.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "tickets": [
-      {
-        "dateTime": "2025-09-22T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-07-22T15:13:10+01:00",
-        "onSaleUntil": "2025-09-22T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7342981",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-07-22T17:04:16+01:00",
-    "created": "2025-07-22T14:13:09+00:00"
-  },
-  {
     "id": "YYmRY9",
     "headline": "The Soul Miners",
     "title": "The Soul Miners",
