@@ -1,130 +1,5 @@
 [
   {
-    "id": "YYmRY9",
-    "headline": "The Soul Miners",
-    "title": "The Soul Miners",
-    "startDate": "2025-09-26",
-    "endDate": "2025-09-26",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Get your tickets from www.TheBigNiteOut.co.uk",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bdfa0b43-cfd9-4c05-88e8-ab22bff07f71.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "vBblz",
-        "name": "The Soul Miners"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-26T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-11T12:22:03+01:00",
-        "onSaleUntil": "2025-09-26T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy5UaGVCaWdOaXRlT3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjQwNzY0/ticketid/7677355/checksum/1fd2d0dbe9608d9877f7f9ce5cde903d/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "reggae",
-      "rocknroll",
-      "disco",
-      "bigband",
-      "easy",
-      "covers",
-      "tribute",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-soul-miners/7296849",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-08-31T15:58:10+01:00",
-    "created": "2025-04-11T11:22:02+00:00"
-  },
-  {
-    "id": "8WQ0kx",
-    "headline": "Friday Night with Snatch It Back",
-    "title": "Friday Night with Snatch It Back",
-    "startDate": "2025-09-26",
-    "endDate": "2025-09-26",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Friday Blues Session: Snatch It Back – Live at The Earl Haig Club Bar\nGet ready...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d2f81741-298a-43b6-a469-25564d69fbc6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Snatch It Back"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-09-26T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-08-25T18:00:36+01:00",
-        "onSaleUntil": "2025-09-26T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-with-snatch-it-back/7354695",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-08-25T18:00:42+01:00",
-    "created": "2025-08-19T14:37:43+00:00"
-  },
-  {
     "id": "dDj59w",
     "headline": "Saturday Night Live in the Bar with The Sand Boys",
     "title": "Saturday Night Live in the Bar with The Sand Boys",
@@ -1901,6 +1776,47 @@
     "created": "2025-04-11T11:25:49+00:00"
   },
   {
+    "id": "1W14Lo",
+    "headline": "Saturday Night Live with Helter Skelter",
+    "title": "Saturday Night Live with Helter Skelter",
+    "startDate": "2025-11-08",
+    "endDate": "2025-11-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T14:32:28+01:00",
+    "created": "2025-09-13T13:27:18+00:00"
+  },
+  {
     "id": "dDAKyw",
     "headline": "Global Promotions Present Maet Live and The Never Neverland Express",
     "title": "Global Promotions Present Maet Live and The Never Neverland Express",
@@ -1962,47 +1878,6 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2025-08-19T15:44:26+01:00",
     "created": "2025-03-04T15:20:12+00:00"
-  },
-  {
-    "id": "1W14Lo",
-    "headline": "Saturday Night Live with Helter Skelter",
-    "title": "Saturday Night Live with Helter Skelter",
-    "startDate": "2025-11-08",
-    "endDate": "2025-11-08",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T14:32:28+01:00",
-    "created": "2025-09-13T13:27:18+00:00"
   },
   {
     "id": "wayeY2",
