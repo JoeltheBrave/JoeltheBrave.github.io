@@ -1,63 +1,5 @@
 [
   {
-    "id": "emkYp8",
-    "headline": "Monday Jam Session With Familiar Beers",
-    "title": "Monday Jam Session With Familiar Beers",
-    "startDate": "2025-10-13",
-    "endDate": "2025-10-13",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with Familiar Beers at The Earl Haig Club Bar.\nMonday Night Jam Session...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4c96c2b1-7f73-4d87-b261-88faa1a4f1d4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Familiar Beers"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-10-13T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-05T13:34:44+01:00",
-        "onSaleUntil": "2025-10-13T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-familiar-beers/7362945",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-05T13:34:54+01:00",
-    "created": "2025-09-05T12:34:43+00:00"
-  },
-  {
     "id": "GoLbZl",
     "headline": "Rockers Reunion with The Sunsets",
     "title": "Rockers Reunion with The Sunsets",
@@ -962,47 +904,6 @@
     "created": "2025-04-11T11:25:49+00:00"
   },
   {
-    "id": "1W14Lo",
-    "headline": "Saturday Night Live with Helter Skelter",
-    "title": "Saturday Night Live with Helter Skelter",
-    "startDate": "2025-11-08",
-    "endDate": "2025-11-08",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T14:32:28+01:00",
-    "created": "2025-09-13T13:27:18+00:00"
-  },
-  {
     "id": "dDAKyw",
     "headline": "Global Promotions Present Maet Live and The Never Neverland Express",
     "title": "Global Promotions Present Maet Live and The Never Neverland Express",
@@ -1064,6 +965,47 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2025-08-19T15:44:26+01:00",
     "created": "2025-03-04T15:20:12+00:00"
+  },
+  {
+    "id": "1W14Lo",
+    "headline": "Saturday Night Live with Helter Skelter",
+    "title": "Saturday Night Live with Helter Skelter",
+    "startDate": "2025-11-08",
+    "endDate": "2025-11-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T14:32:28+01:00",
+    "created": "2025-09-13T13:27:18+00:00"
   },
   {
     "id": "wayeY2",
@@ -2010,6 +1952,48 @@
     "created": "2025-03-28T14:24:17+00:00"
   },
   {
+    "id": "0GZyw1",
+    "headline": "Friday Night Live with Parcel Of Rogues",
+    "title": "Friday Night Live with Parcel Of Rogues",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Parcel Of Rogues",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OqoZz",
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T15:52:07+01:00",
+    "created": "2025-09-13T14:51:56+00:00"
+  },
+  {
     "id": "Lz9KmX",
     "headline": "Children Of The Gravy",
     "title": null,
@@ -2123,48 +2107,6 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2025-09-10T08:44:47+01:00",
     "created": "2025-01-30T15:21:19+00:00"
-  },
-  {
-    "id": "0GZyw1",
-    "headline": "Friday Night Live with Parcel Of Rogues",
-    "title": "Friday Night Live with Parcel Of Rogues",
-    "startDate": "2025-12-05",
-    "endDate": "2025-12-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Parcel Of Rogues",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OqoZz",
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:52:07+01:00",
-    "created": "2025-09-13T14:51:56+00:00"
   },
   {
     "id": "q5Ra5w",
