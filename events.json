@@ -1,62 +1,5 @@
 [
   {
-    "id": "YYoB7r",
-    "headline": "Jam Session with The Octave Doctors",
-    "title": "Jam Session with The Octave Doctors",
-    "startDate": "2025-10-20",
-    "endDate": "2025-10-20",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": true,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam with The Octave Doctors at The Earl Haig Club Bar.\nThe Octave Doctors\nWhen: Every...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9730f25d-7ccf-4210-a2e4-78dc8ff3e0a5.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Ocatve Doctors"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-10-20T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": null,
-        "totalPrice": null,
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-05T13:47:47+01:00",
-        "onSaleUntil": "2025-10-20T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jam-session-with-the-octave-doctors/7362949",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-15T18:40:29+01:00",
-    "created": "2025-09-05T12:47:46+00:00"
-  },
-  {
     "id": "94WXZZ",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
@@ -3020,6 +2963,66 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2025-09-10T08:44:47+01:00",
     "created": "2025-01-30T15:21:19+00:00"
+  },
+  {
+    "id": "ymnONx",
+    "headline": "Oliver Wakeman",
+    "title": "An Evening of YES and Original Work",
+    "startDate": "2026-04-10",
+    "endDate": "2026-04-10",
+    "startTimeString": "11:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pXyG",
+        "name": "Oliver Wakeman"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-10T23:00:00+01:00",
+        "supplier": "Ents24",
+        "price": "£25.75",
+        "totalPrice": "£25.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-10-20T00:00:00+01:00",
+        "onSaleUntil": "2026-04-11T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb2xpdmVyLXdha2VtYW4tYW4tZXZlbmluZy1vZi15ZXMtYW5kLW9yaWdpbmFsLXdvcmsvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MjQwNzc_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzUyNDA3Nw/ticketid/7849048/checksum/35f5a0c100b46a648cb4f86bf06985ff/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oliver-wakeman/7386214",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-20T17:12:43+01:00",
+    "created": "2025-10-20T14:34:38+00:00"
   },
   {
     "id": "mDKzRG",
