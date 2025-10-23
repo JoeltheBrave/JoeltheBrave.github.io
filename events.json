@@ -1665,6 +1665,48 @@
     "created": "2025-03-28T14:24:17+00:00"
   },
   {
+    "id": "0GZyw1",
+    "headline": "Friday Night Live with Parcel Of Rogues",
+    "title": "Friday Night Live with Parcel Of Rogues",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Parcel Of Rogues",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OqoZz",
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T15:52:07+01:00",
+    "created": "2025-09-13T14:51:56+00:00"
+  },
+  {
     "id": "Lz9KmX",
     "headline": "Children Of The Gravy",
     "title": null,
@@ -1778,48 +1820,6 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2025-09-10T08:44:47+01:00",
     "created": "2025-01-30T15:21:19+00:00"
-  },
-  {
-    "id": "0GZyw1",
-    "headline": "Friday Night Live with Parcel Of Rogues",
-    "title": "Friday Night Live with Parcel Of Rogues",
-    "startDate": "2025-12-05",
-    "endDate": "2025-12-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Parcel Of Rogues",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OqoZz",
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:52:07+01:00",
-    "created": "2025-09-13T14:51:56+00:00"
   },
   {
     "id": "q5Ra5w",
