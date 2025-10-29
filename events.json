@@ -2800,7 +2800,7 @@
     ],
     "tickets": [
       {
-        "dateTime": "2026-02-26T23:00:00+00:00",
+        "dateTime": "2026-02-26T20:00:00+00:00",
         "supplier": "Ents24",
         "price": "£26.75",
         "totalPrice": "£26.75",
@@ -2825,8 +2825,8 @@
       "tribute"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/hayseed-dixie/7389776",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-27T18:06:41+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2025-10-28T07:10:20+00:00",
     "created": "2025-10-27T17:39:56+00:00"
   },
   {
