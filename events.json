@@ -1590,48 +1590,6 @@
     "created": "2025-03-28T14:24:17+00:00"
   },
   {
-    "id": "0GZyw1",
-    "headline": "Friday Night Live with Parcel Of Rogues",
-    "title": "Friday Night Live with Parcel Of Rogues",
-    "startDate": "2025-12-05",
-    "endDate": "2025-12-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Parcel Of Rogues",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OqoZz",
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:52:07+01:00",
-    "created": "2025-09-13T14:51:56+00:00"
-  },
-  {
     "id": "Lz9KmX",
     "headline": "Children Of The Gravy",
     "title": null,
@@ -1745,6 +1703,48 @@
     "fansOnEnts24": 3,
     "lastUpdate": "2025-09-10T08:44:47+01:00",
     "created": "2025-01-30T15:21:19+00:00"
+  },
+  {
+    "id": "0GZyw1",
+    "headline": "Friday Night Live with Parcel Of Rogues",
+    "title": "Friday Night Live with Parcel Of Rogues",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Parcel Of Rogues",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OqoZz",
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T15:52:07+01:00",
+    "created": "2025-09-13T14:51:56+00:00"
   },
   {
     "id": "q5Ra5w",
@@ -1956,6 +1956,48 @@
     "created": "2025-09-13T15:17:44+00:00"
   },
   {
+    "id": "YYorDR",
+    "headline": "Thursday Night Special with The Palm Tree Antics",
+    "title": "Thursday Night Special with The Palm Tree Antics",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Palm Tree Antics – Christmas Special Live at The Earl Haig Club (Front Bar)\nThursday 11th...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bf63bd6c-9e7a-4ef8-8b08-68542e5f825a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5jBj",
+        "name": "Palm Tree Antics"
+      }
+    ],
+    "genre": [
+      "music",
+      "ska",
+      "reggae"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thursday-night-special-with-the-palm-tree-antics/7391149",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-29T14:23:06+00:00",
+    "created": "2025-10-29T14:22:12+00:00"
+  },
+  {
     "id": "q5LEdR",
     "headline": "Rhiannon - A Tribute To Fleetwood Mac",
     "title": "Rhiannon – The Ultimate Fleetwood Mac Tribute - Christmas Special",
@@ -2031,12 +2073,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "Palm Tree Antics – Christmas Special Live at The Earl Haig Club (Front Bar)\nFriday 12th...",
+    "description": "This event has been rescheduled to 11th December 2025.",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/bf63bd6c-9e7a-4ef8-8b08-68542e5f825a.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -2058,8 +2100,8 @@
       "reggae"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-with-the-palm-tree-antics/7366696",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T16:26:02+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-10-29T14:22:24+00:00",
     "created": "2025-09-13T15:25:51+00:00"
   },
   {
