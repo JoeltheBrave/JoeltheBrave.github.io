@@ -1,46 +1,5 @@
 [
   {
-    "id": "nK59A0",
-    "headline": "Tony & Dave's Acoustic Blues Night",
-    "title": "Tony & Dave's Acoustic Blues Night",
-    "startDate": "2025-10-30",
-    "endDate": "2025-10-30",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Acoustic Blues Night at The Haig\nWe’re excited to launch something new at The Earl Haig...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/359c1151-4f5c-47cb-9861-d55dab9f8881.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Tony & Dave"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/tony-and-daves-acoustic-blues-night/7389716",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-27T16:13:25+00:00",
-    "created": "2025-10-27T16:13:15+00:00"
-  },
-  {
     "id": "oBd4rR",
     "headline": "NAVAWEEN VI with The Navarones",
     "title": "NAVAWEEN VI with The Navarones",
@@ -531,47 +490,6 @@
     "created": "2025-04-11T11:25:49+00:00"
   },
   {
-    "id": "1W14Lo",
-    "headline": "Saturday Night Live with Helter Skelter",
-    "title": "Saturday Night Live with Helter Skelter",
-    "startDate": "2025-11-08",
-    "endDate": "2025-11-08",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T14:32:28+01:00",
-    "created": "2025-09-13T13:27:18+00:00"
-  },
-  {
     "id": "dDAKyw",
     "headline": "Global Promotions Present Maet Live and The Never Neverland Express",
     "title": "Global Promotions Present Maet Live and The Never Neverland Express",
@@ -633,6 +551,47 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2025-08-19T15:44:26+01:00",
     "created": "2025-03-04T15:20:12+00:00"
+  },
+  {
+    "id": "1W14Lo",
+    "headline": "Saturday Night Live with Helter Skelter",
+    "title": "Saturday Night Live with Helter Skelter",
+    "startDate": "2025-11-08",
+    "endDate": "2025-11-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Helter Skelter at The Earl Haig Club Bar.\n\nLive at the Earl Haig Club Bar –...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/45d93f7d-e8a7-4e70-a20d-679ce97161cc.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "indie"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7366672",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T14:32:28+01:00",
+    "created": "2025-09-13T13:27:18+00:00"
   },
   {
     "id": "wayeY2",
@@ -3175,5 +3134,67 @@
     "fansOnEnts24": 11,
     "lastUpdate": "2025-05-13T07:28:18+01:00",
     "created": "2024-11-18T07:23:39+00:00"
+  },
+  {
+    "id": "DwYKEO",
+    "headline": "Letz Zep",
+    "title": null,
+    "startDate": "2026-05-02",
+    "endDate": "2026-05-02",
+    "startTimeString": "11:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/22f21195-876c-4192-8cac-077aa25e4de9.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rzKv",
+        "name": "Letz Zep"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-05-02T23:00:00+01:00",
+        "supplier": "Ents24",
+        "price": "£22.75",
+        "totalPrice": "£22.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-10-30T00:00:00+00:00",
+        "onSaleUntil": "2026-05-03T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGV0ei16ZXAvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MzI0NDc_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzUzMjQ0Nw/ticketid/7858298/checksum/4db8076b736dc40a499dba44a1e750c7/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/letz-zep/7391440",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-30T09:00:58+00:00",
+    "created": "2025-10-30T07:17:30+00:00"
   }
 ]
