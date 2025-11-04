@@ -1,44 +1,5 @@
 [
   {
-    "id": "E9dQxQ",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-11-03",
-    "endDate": "2025-11-03",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/8d15e3b0-173f-4cb0-a3e8-b24bfccdf691.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Pearls"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7366677",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:03:37+01:00",
-    "created": "2025-09-13T14:03:26+00:00"
-  },
-  {
     "id": "oBdEDk",
     "headline": "Just Friends Jazz Club at The Earl Haig Club Bar",
     "title": "Just Friends Jazz Club at The Earl Haig Club Bar",
