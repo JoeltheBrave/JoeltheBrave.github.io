@@ -1472,7 +1472,7 @@
     },
     "artists": [
       {
-        "name": "expecting Company"
+        "name": "Expecting Company"
       }
     ],
     "tickets": [
@@ -1499,13 +1499,13 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-expecting-company/7366694",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T16:09:45+01:00",
+    "lastUpdate": "2025-11-05T13:54:31+00:00",
     "created": "2025-09-13T15:09:34+00:00"
   },
   {
     "id": "59bapj",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with The Dismantlerz",
+    "title": "Monday Jam Session with The Dismantlerz",
     "startDate": "2025-12-08",
     "endDate": "2025-12-08",
     "startTimeString": "8:00pm",
@@ -1528,12 +1528,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Dismantlerz"
+      }
+    ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7366687",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-dismantlerz/7366687",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:45:53+01:00",
+    "lastUpdate": "2025-11-05T13:56:29+00:00",
     "created": "2025-09-13T14:45:42+00:00"
   },
   {
@@ -1895,6 +1900,45 @@
     "created": "2025-09-13T15:56:02+00:00"
   },
   {
+    "id": "94WGrq",
+    "headline": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
+    "title": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
+    "startDate": "2025-12-18",
+    "endDate": "2025-12-18",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "\nRoosevelt,  Pete Davey Memorial Gig at The Earl Haig Club Bar\nFree entry",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a9a1bab9-9f31-448c-bfc6-c0a2fcdc22a7.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Roosevelt"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt-pete-davey-memorial-gig-at-the-earl-haig-club-bar/7394857",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-11-05T14:03:04+00:00",
+    "created": "2025-11-05T14:02:54+00:00"
+  },
+  {
     "id": "NLz9Ll",
     "headline": "The Big Motown'N'Christmas Disco",
     "title": "The Big Motown'N'Christmas Disco",
@@ -2147,8 +2191,8 @@
   },
   {
     "id": "emkEgK",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Christmas Jam Session eith The Octave Doctors",
+    "title": "Christmas Jam Session eith The Octave Doctors",
     "startDate": "2025-12-22",
     "endDate": "2025-12-22",
     "startTimeString": "8:00pm",
@@ -2161,7 +2205,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
+    "description": "Monday Jam with The Octave Doctors — Live at The Earl Haig Club Bar\nEvery Monday...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/12925ee7-e871-41a6-8084-ccb930765de2.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -2171,12 +2215,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Octave Doctors"
+      }
+    ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7366689",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/christmas-jam-session-eith-the-octave-doctors/7366689",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:47:59+01:00",
+    "lastUpdate": "2025-11-05T14:05:59+00:00",
     "created": "2025-09-13T14:47:48+00:00"
   },
   {
