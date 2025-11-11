@@ -1,45 +1,5 @@
 [
   {
-    "id": "pg8Ed1",
-    "headline": "Monday Jam Session in The Concert Room with The Sundogz",
-    "title": "Monday Jam Session in The Concert Room with The Sundogz",
-    "startDate": "2025-11-10",
-    "endDate": "2025-11-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club Concert Room, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/8d3eb647-e1f2-4941-9f63-37c97cdf705e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Sundogz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-in-the-concert-room-with-the-sundogz/7366678",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-04T14:24:59+00:00",
-    "created": "2025-09-13T14:05:07+00:00"
-  },
-  {
     "id": "2Kwrrv",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
