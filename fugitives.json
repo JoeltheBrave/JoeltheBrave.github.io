@@ -1,8 +1,549 @@
-{
-  "errors": [
-    {
-      "parameter": "id",
-      "message": "Invalid unique entity ID"
-    }
-  ]
-}
+[
+  {
+    "id": "akpGG8",
+    "headline": "The Fugitives Charity Bash",
+    "title": "The Fugitives Charity Bash",
+    "startDate": "2025-11-29",
+    "endDate": "2025-11-29",
+    "startTimeString": "8:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": true,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "venue": {
+      "id": "4Q9lv",
+      "type": "Place",
+      "name": "Fox & Hounds, Whitchurch",
+      "address": {
+        "streetAddress": [
+          "Old Church Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff,",
+        "postcode": "CF141AD",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.515569,
+        "lon": -3.218644
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/fox-and-hounds-whitchurch"
+    },
+    "description": "This event has been rescheduled to 28th February 2026.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/fox-and-hounds-whitchurch/the-fugitives-charity-bash/7359519",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-20T16:44:40+01:00",
+    "created": "2025-08-29T15:57:33+00:00"
+  },
+  {
+    "id": "g7DLo9",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": true,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "venue": {
+      "id": "RxYdD",
+      "type": "Place",
+      "name": " Y Maerun Pub, Marshfield",
+      "address": {
+        "streetAddress": [
+          "140 Marshfield Road"
+        ],
+        "town": "Marshfield",
+        "postcode": "CF32TU",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.53284,
+        "lon": -3.065563
+      },
+      "webLink": "https://www.ents24.com/marshfield-events/y-maerun-pub-marshfield"
+    },
+    "description": "This event has been rescheduled to 7th September 2025.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/marshfield-events/y-maerun-pub-marshfield/the-fugitives-cardiff/7359475",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-08-29T14:19:48+01:00",
+    "created": "2025-08-29T13:17:44+00:00"
+  },
+  {
+    "id": "ymnEG8",
+    "headline": "The Fugitives Live",
+    "title": "The Fugitives Live",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "bk2ed",
+      "type": "Place",
+      "name": "United Services Club, Machen",
+      "address": {
+        "streetAddress": [
+          "The British Legion (Machen)",
+          "Forge Road"
+        ],
+        "town": "Machen, Caerphilly",
+        "postcode": "CF83 8PH",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.595528,
+        "lon": -3.141012
+      },
+      "webLink": "https://www.ents24.com/machen-caerphilly-events/united-services-club-machen"
+    },
+    "description": "The Fugitives — Live at Machen United Service s Club\nCardiff’s Premier Rhythm & Blues Powerhouse\nGet...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/machen-caerphilly-events/united-services-club-machen/the-fugitives-live/7398558",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-11-12T14:17:13+00:00",
+    "created": "2025-11-12T14:17:02+00:00"
+  },
+  {
+    "id": "BvLP9L",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": true,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "venue": {
+      "id": "6Bo4q",
+      "type": "Place",
+      "name": "The Pontardawe Inn",
+      "address": {
+        "streetAddress": [
+          "123 Herbert Street"
+        ],
+        "town": "Pontardawe",
+        "postcode": "AE8 4AD",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 49.766821,
+        "lon": -7.557149
+      },
+      "webLink": "https://www.ents24.com/pontardawe-events/the-pontardawe-inn"
+    },
+    "description": "This show has been moved to  Y Maerun Pub, Marshfield.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/pontardawe-events/the-pontardawe-inn/the-fugitives-cardiff/7204512",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-08-29T14:17:55+01:00",
+    "created": "2024-10-04T11:43:33+00:00"
+  },
+  {
+    "id": "4QgeL6",
+    "headline": "Christmas Eve with The Fugitives",
+    "title": "Christmas Eve with The Fugitives",
+    "startDate": "2025-12-24",
+    "endDate": "2025-12-24",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "Christmas Eve with The Fugitives at The Butchers Arms, Rhiwbina\nCardiff’s Premier Rhythm & Blues Powerhouse\n\nIt’s...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/christmas-eve-with-the-fugitives/7398559",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-11-12T14:29:07+00:00",
+    "created": "2025-11-12T14:28:56+00:00"
+  },
+  {
+    "id": "94O2Nx",
+    "headline": "Boxing Dy with The Fugitives",
+    "title": "Boxing Dy with The Fugitives",
+    "startDate": "2025-12-26",
+    "endDate": "2025-12-26",
+    "startTimeString": "6:00pm",
+    "endTimeString": "9:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "Hey there! You won't want to miss The Fugitives, South Wales' top Rhythm & Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2025-12-26T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2024-11-13T14:45:46+00:00",
+        "onSaleUntil": "2025-12-26T23:59:59+00:00",
+        "url": null,
+        "email": "contact@earlhaigclub.com",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/boxing-dy-with-the-fugitives/7222957",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-07-22T17:27:50+01:00",
+    "created": "2024-11-11T21:42:09+00:00"
+  },
+  {
+    "id": "wayOGg",
+    "headline": "Live at The Mitre, Abertillery",
+    "title": "Live at The Mitre, Abertillery",
+    "startDate": "2026-02-28",
+    "endDate": "2026-02-28",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": true,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "venue": {
+      "id": "4Q9lv",
+      "type": "Place",
+      "name": "Fox & Hounds, Whitchurch",
+      "address": {
+        "streetAddress": [
+          "Old Church Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff,",
+        "postcode": "CF141AD",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.515569,
+        "lon": -3.218644
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/fox-and-hounds-whitchurch"
+    },
+    "description": "This show has been moved to The Mitre, Abertillery.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/fox-and-hounds-whitchurch/live-at-the-mitre-abertillery/7386273",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-20T16:48:00+01:00",
+    "created": "2025-10-20T15:44:27+00:00"
+  },
+  {
+    "id": "g7DlNw",
+    "headline": "Live at The Mitre, Abertillery",
+    "title": "Live at The Mitre, Abertillery",
+    "startDate": "2026-02-28",
+    "endDate": "2026-02-28",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "ymjry",
+      "type": "Place",
+      "name": "The Mitre, Abertillery",
+      "address": {
+        "streetAddress": [
+          "Mitre St, Abertillery NP13 1AE"
+        ],
+        "town": "Abertillery",
+        "postcode": "NP131AE",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.729952,
+        "lon": -3.133064
+      },
+      "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery"
+    },
+    "description": "The Fugitives at The Mitre, Abertillery\nClear your schedule and get ready for a night of...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery/live-at-the-mitre-abertillery/7386275",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-10-20T16:48:00+01:00",
+    "created": "2025-10-20T15:47:48+00:00"
+  }
+]
