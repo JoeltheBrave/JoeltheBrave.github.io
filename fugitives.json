@@ -1,0 +1,8 @@
+{
+  "errors": [
+    {
+      "parameter": "id",
+      "message": "Invalid unique entity ID"
+    }
+  ]
+}
