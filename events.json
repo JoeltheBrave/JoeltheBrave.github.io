@@ -1,53 +1,5 @@
 [
   {
-    "id": "QxXYO4",
-    "headline": "Monday Jam Session with San Jerome",
-    "title": "Monday Jam Session with San Jerome",
-    "startDate": "2025-11-17",
-    "endDate": "2025-11-17",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b2eba154-e783-448e-9a98-5c02c844f8e4.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "erml9",
-        "name": "San Jerome"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "folk",
-      "country",
-      "americana",
-      "blues",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-san-jerome/7366679",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-04T14:26:59+00:00",
-    "created": "2025-09-13T14:06:03+00:00"
-  },
-  {
     "id": "jYeE5w",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
