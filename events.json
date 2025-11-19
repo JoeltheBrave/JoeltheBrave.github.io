@@ -1,45 +1,5 @@
 [
   {
-    "id": "jYeE5w",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2025-11-18",
-    "endDate": "2025-11-18",
-    "startTimeString": "7:45pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic at The Earl Haig Club Bar\nJoin us for another fantastic evening of live...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/03a7c483-a459-443c-8c3b-951bfc2c0b31.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7366681",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-10-27T16:19:50+00:00",
-    "created": "2025-09-13T14:17:45+00:00"
-  },
-  {
     "id": "oB97Zk",
     "headline": "Global Promotions Present Curved Air",
     "title": "Global Promotions Present Curved Air",
