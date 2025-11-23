@@ -1,45 +1,5 @@
 [
   {
-    "id": "kDGOmR",
-    "headline": "Saturday Night Live with The Blues Sisters",
-    "title": "Saturday Night Live with The Blues Sisters",
-    "startDate": "2025-11-22",
-    "endDate": "2025-11-22",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Blues Sisters",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/20a6590d-b431-4c85-a928-9b6d605f4504.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Blue Sisters"
-      }
-    ],
-    "genre": [
-      "music",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-blues-sisters/7366682",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:22:28+01:00",
-    "created": "2025-09-13T14:22:17+00:00"
-  },
-  {
     "id": "Odn0Or",
     "headline": "Sunday Session with The Vanderbilts",
     "title": "Sunday Session with The Vanderbilts",
