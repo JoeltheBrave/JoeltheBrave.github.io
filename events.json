@@ -1,64 +1,5 @@
 [
   {
-    "id": "Odn0Or",
-    "headline": "Sunday Session with The Vanderbilts",
-    "title": "Sunday Session with The Vanderbilts",
-    "startDate": "2025-11-23",
-    "endDate": "2025-11-23",
-    "startTimeString": "6:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Vanderbilts – Live at The Earl Haig Club Concert Room\nFriday, 23rd November 2025\nDoors: 5:30...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/569b32d1-d046-4687-9ec7-6978be7b01ed.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Vanderbilts"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-11-23T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-13T15:27:19+01:00",
-        "onSaleUntil": "2025-11-23T23:59:59+00:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-session-with-the-vanderbilts/7366683",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-04T14:26:17+00:00",
-    "created": "2025-09-13T14:27:18+00:00"
-  },
-  {
     "id": "WgRAv2",
     "headline": "Monday Jam Session with James Oliver",
     "title": "Monday Jam Session with James Oliver",
@@ -244,6 +185,51 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-11-04T14:21:33+00:00",
     "created": "2025-09-13T14:40:14+00:00"
+  },
+  {
+    "id": "94WOxl",
+    "headline": "Dave's Party at The Earl Haig Club",
+    "title": "Dave's Party at The Earl Haig Club",
+    "startDate": "2025-11-30",
+    "endDate": "2025-11-30",
+    "startTimeString": "4:45pm",
+    "endTimeString": "10:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Party at The Earl Haig Club\n Sunday, November 30th, 2025\nGet ready for a special celebration...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "d5Xy2",
+        "name": "James Oliver Band"
+      },
+      {
+        "name": "The Flares"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "2010s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/daves-party-at-the-earl-haig-club/7403513",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-11-23T16:48:31+00:00",
+    "created": "2025-11-23T16:48:21+00:00"
   },
   {
     "id": "74pQxY",
@@ -581,6 +567,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Hindenburgs"
+      }
+    ],
     "genre": [
       "music",
       "rock",
@@ -590,7 +581,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-hindenburgs/7366693",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T16:04:22+01:00",
+    "lastUpdate": "2025-11-23T16:53:27+00:00",
     "created": "2025-09-13T15:04:11+00:00"
   },
   {
@@ -1279,8 +1270,8 @@
   },
   {
     "id": "nK52oZ",
-    "headline": "Sunday Sessions woth Nelly's Heroes",
-    "title": "Sunday Sessions woth Nelly's Heroes",
+    "headline": "Sunday Sessions with Nelly's Heroes",
+    "title": "Sunday Sessions with Nelly's Heroes",
     "startDate": "2025-12-21",
     "endDate": "2025-12-21",
     "startTimeString": "6:00pm",
@@ -1333,9 +1324,9 @@
       "1980s",
       "1990s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-woth-nellys-heroes/7394216",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-nellys-heroes/7394216",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-04T15:14:25+00:00",
+    "lastUpdate": "2025-11-23T16:44:58+00:00",
     "created": "2025-11-04T15:14:13+00:00"
   },
   {
