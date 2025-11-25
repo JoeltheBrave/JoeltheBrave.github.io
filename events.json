@@ -1,47 +1,5 @@
 [
   {
-    "id": "WgRAv2",
-    "headline": "Monday Jam Session with James Oliver",
-    "title": "Monday Jam Session with James Oliver",
-    "startDate": "2025-11-24",
-    "endDate": "2025-11-24",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a44e17f2-8168-4e66-bf79-c685cb20c536.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7366680",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-27T18:29:12+00:00",
-    "created": "2025-09-13T14:07:21+00:00"
-  },
-  {
     "id": "59YK6R",
     "headline": "Global Promotions Present  ZZ TOPPD",
     "title": "Global Promotions Present  ZZ TOPPD",
@@ -273,6 +231,47 @@
     "created": "2025-09-13T14:44:30+00:00"
   },
   {
+    "id": "6BEWAn",
+    "headline": "Just Friends Jazz Club",
+    "title": "Just Friends Jazz Club",
+    "startDate": "2025-12-02",
+    "endDate": "2025-12-02",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Just Friends Jazz Club – Live at The Earl Haig Club Bar\nTuesday 2nd December 2025...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/1d7401b3-7af7-4b96-9cd5-51f4407b0826.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7404323",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-11-24T13:35:05+00:00",
+    "created": "2025-11-24T13:34:54+00:00"
+  },
+  {
     "id": "q5RwQN",
     "headline": "Global Promotions Present Ozric Tentacles",
     "title": "Global Promotions Present Ozric Tentacles",
@@ -404,57 +403,6 @@
     "created": "2025-09-11T06:43:28+00:00"
   },
   {
-    "id": "mD26NX",
-    "headline": "Global Promotions Present Ed Force One",
-    "title": "Global Promotions Present Ed Force One",
-    "startDate": "2025-12-05",
-    "endDate": "2025-12-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This show has been rescheduled to 20th March 2026.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/474/736/4dedd967259d107b89b6220c48d2368065d6f1f5.jpg?auto=format&fp-x=0.497&fp-y=0.28&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "6wRpj",
-        "name": "Ed Force One"
-      },
-      {
-        "id": "e6m2o",
-        "name": "Priest Unleashed"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal",
-      "tribute",
-      "1970s",
-      "1980s",
-      "1990s",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-ed-force-one/7260244",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2025-09-10T08:44:47+01:00",
-    "created": "2025-01-30T15:21:19+00:00"
-  },
-  {
     "id": "0GZyw1",
     "headline": "Friday Night Live with Parcel Of Rogues",
     "title": "Friday Night Live with Parcel Of Rogues",
@@ -495,51 +443,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-09-13T15:52:07+01:00",
     "created": "2025-09-13T14:51:56+00:00"
-  },
-  {
-    "id": "q5Ra5w",
-    "headline": "Night At The Opera (Queen Tribute Band)",
-    "title": "Night At The Opera (Queen Tribute Band)",
-    "startDate": "2025-12-06",
-    "endDate": "2025-12-06",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "THIS EVENT HAS SOLD OUT - EMAIL US INFO@THEBIGNITEOUT.CO.UK TO JOIN A WAITING LIST FOR...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/1c0a0e82-753e-4b97-b857-d664bcc3573d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OdZR",
-        "name": "Night At The Opera"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "tribute",
-      "1970s",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/night-at-the-opera-queen-tribute-band/7296853",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2025-08-31T15:51:50+01:00",
-    "created": "2025-04-11T11:27:35+00:00"
   },
   {
     "id": "YYo9be",
@@ -823,48 +726,6 @@
     "created": "2025-09-13T15:38:44+00:00"
   },
   {
-    "id": "Lz9mdX",
-    "headline": "Friday Night with The Palm Tree Antics",
-    "title": "Friday Night with The Palm Tree Antics",
-    "startDate": "2025-12-12",
-    "endDate": "2025-12-12",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 11th December 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bf63bd6c-9e7a-4ef8-8b08-68542e5f825a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5jBj",
-        "name": "Palm Tree Antics"
-      }
-    ],
-    "genre": [
-      "music",
-      "ska",
-      "reggae"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-with-the-palm-tree-antics/7366696",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2025-10-29T14:22:24+00:00",
-    "created": "2025-09-13T15:25:51+00:00"
-  },
-  {
     "id": "NL4Gx4",
     "headline": "Saturday Night Live with Blues Central",
     "title": "Saturday Night Live with Blues Central",
@@ -1004,7 +865,7 @@
     "title": "Strictly Acoustic with Andy Johnson",
     "startDate": "2025-12-16",
     "endDate": "2025-12-16",
-    "startTimeString": "7:46pm",
+    "startTimeString": "7:00pm",
     "endTimeString": "10:45pm",
     "hasMoved": false,
     "isCancelled": false,
@@ -1036,7 +897,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7366700",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-12T18:30:14+00:00",
+    "lastUpdate": "2025-11-24T14:17:38+00:00",
     "created": "2025-09-13T15:56:02+00:00"
   },
   {
@@ -1077,48 +938,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-11-05T14:03:04+00:00",
     "created": "2025-11-05T14:02:54+00:00"
-  },
-  {
-    "id": "NLz9Ll",
-    "headline": "The Big Motown'N'Christmas Disco",
-    "title": "The Big Motown'N'Christmas Disco",
-    "startDate": "2025-12-19",
-    "endDate": "2025-12-19",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": true,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "** THIS EVENT IS SOLD OUT - PLEASE EMAIL INFO@THEBIGNITEOUT.CO.UK TO JOIN A WAITING LIST...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/58e86e96-922a-44fe-9cbf-8834e8e9382c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "46QXb",
-        "name": "Central Line Disco"
-      }
-    ],
-    "genre": [
-      "music",
-      "disco",
-      "xmas"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnchristmas-disco/7296854",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2025-08-31T16:00:50+01:00",
-    "created": "2025-04-11T11:28:33+00:00"
   },
   {
     "id": "emkELm",
@@ -1166,8 +985,8 @@
   },
   {
     "id": "GoLQwe",
-    "headline": "Snatch It Back",
-    "title": "Snatch It Back Christmas Special",
+    "headline": "Saturday Night Live with Snatch It Back",
+    "title": "Saturday Night Live with Snatch It Back",
     "startDate": "2025-12-20",
     "endDate": "2025-12-20",
     "startTimeString": "8:30pm",
@@ -1200,9 +1019,9 @@
       "blues",
       "xmas"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/snatch-it-back/7366702",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-snatch-it-back/7366702",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-09T19:08:59+01:00",
+    "lastUpdate": "2025-11-24T14:30:04+00:00",
     "created": "2025-09-13T16:09:38+00:00"
   },
   {
@@ -1331,8 +1150,8 @@
   },
   {
     "id": "emkEgK",
-    "headline": "The Octave Doctors",
-    "title": "Christmas Jam Session eith The Octave Doctors",
+    "headline": "JAM SESSION WITH The Octave Doctors",
+    "title": "JAM SESSION WITH The Octave Doctors",
     "startDate": "2025-12-22",
     "endDate": "2025-12-22",
     "startTimeString": "8:00pm",
@@ -1364,15 +1183,15 @@
       "music",
       "xmas"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-octave-doctors/7366689",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jam-session-with-the-octave-doctors/7366689",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-14T18:40:15+00:00",
+    "lastUpdate": "2025-11-24T14:26:07+00:00",
     "created": "2025-09-13T14:47:48+00:00"
   },
   {
     "id": "YYo9nn",
-    "headline": "The Jedis",
-    "title": "Christmas with The Jedis",
+    "headline": "Xmas Eve with The Jedis",
+    "title": "Xmas Eve with The Jedis",
     "startDate": "2025-12-24",
     "endDate": "2025-12-24",
     "startTimeString": "8:00pm",
@@ -1405,15 +1224,15 @@
       "rock",
       "xmas"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-jedis/7366705",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/xmas-eve-with-the-jedis/7366705",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-09T19:09:04+01:00",
+    "lastUpdate": "2025-11-24T14:31:02+00:00",
     "created": "2025-09-13T16:41:27+00:00"
   },
   {
     "id": "0GZyX8",
-    "headline": "James Oliver Band",
-    "title": "Christmas Eve wit The James Oliver Band",
+    "headline": "Xmas Eve with James Oliver Band",
+    "title": "Xmas Eve with James Oliver Band",
     "startDate": "2025-12-24",
     "endDate": "2025-12-24",
     "startTimeString": "5:00pm",
@@ -1448,9 +1267,9 @@
       "2010s",
       "xmas"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/james-oliver-band/7366703",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/xmas-eve-with-james-oliver-band/7366703",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-14T18:40:17+00:00",
+    "lastUpdate": "2025-11-24T14:30:34+00:00",
     "created": "2025-09-13T16:21:27+00:00"
   },
   {
