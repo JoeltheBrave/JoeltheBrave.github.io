@@ -1,45 +1,5 @@
 [
   {
-    "id": "xy4Gao",
-    "headline": "Saturday Night Live with Riff Raff",
-    "title": "Saturday Night Live with Riff Raff",
-    "startDate": "2025-11-29",
-    "endDate": "2025-11-29",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Saturday Night Live with Riff Raff",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f528e655-5c1e-4b26-9189-6ad4eb8f6959.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Riff Raff"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-riff-raff/7366685",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-04T14:21:33+00:00",
-    "created": "2025-09-13T14:40:14+00:00"
-  },
-  {
     "id": "94WOxl",
     "headline": "Dave's Party at The Earl Haig Club",
     "title": "Dave's Party at The Earl Haig Club",
