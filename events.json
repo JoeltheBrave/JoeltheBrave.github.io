@@ -1,46 +1,5 @@
 [
   {
-    "id": "6BEWAn",
-    "headline": "Just Friends Jazz Club",
-    "title": "Just Friends Jazz Club",
-    "startDate": "2025-12-02",
-    "endDate": "2025-12-02",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club – Live at The Earl Haig Club Bar\nTuesday 2nd December 2025...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/1d7401b3-7af7-4b96-9cd5-51f4407b0826.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7404323",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-24T13:35:05+00:00",
-    "created": "2025-11-24T13:34:54+00:00"
-  },
-  {
     "id": "q5RwQN",
     "headline": "Global Promotions Present Ozric Tentacles",
     "title": "Global Promotions Present Ozric Tentacles",
