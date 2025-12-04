@@ -1,72 +1,5 @@
 [
   {
-    "id": "q5RwQN",
-    "headline": "Global Promotions Present Ozric Tentacles",
-    "title": "Global Promotions Present Ozric Tentacles",
-    "startDate": "2025-12-03",
-    "endDate": "2025-12-03",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3e119ccb-a7c0-40d1-b3f2-f56800bae67c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "oDqd",
-        "name": "Ozric Tentacles"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-12-03T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£25.75",
-        "totalPrice": "£25.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-03-28T12:40:00+00:00",
-        "onSaleUntil": "2025-12-04T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3pyaWMtdGVudGFjbGVzLWRqLWxpYW0tY3VydGluL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMzg4NzM5P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzM4ODczOQ/ticketid/7660934/checksum/f669673e721957b9d2e43bf52dd708f2/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "alternative",
-      "experimental",
-      "electronic",
-      "jazz",
-      "1980s",
-      "1990s",
-      "2000s",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-ozric-tentacles/7290453",
-    "fansOnEnts24": 4,
-    "lastUpdate": "2025-08-19T15:46:00+01:00",
-    "created": "2025-03-28T14:24:17+00:00"
-  },
-  {
     "id": "jYeLvP",
     "headline": "Capital City Jazz Orchestra Christmas Special",
     "title": "Capital City Jazz Orchestra Christmas Special",
@@ -124,48 +57,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-11-25T12:57:44+00:00",
     "created": "2025-11-25T12:57:33+00:00"
-  },
-  {
-    "id": "0GZyw1",
-    "headline": "Friday Night Live with Parcel Of Rogues",
-    "title": "Friday Night Live with Parcel Of Rogues",
-    "startDate": "2025-12-05",
-    "endDate": "2025-12-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Parcel Of Rogues",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "OqoZz",
-        "name": "Parcel Of Rogues"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:52:07+01:00",
-    "created": "2025-09-13T14:51:56+00:00"
   },
   {
     "id": "Lz9KmX",
@@ -230,6 +121,48 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-09-15T10:06:59+01:00",
     "created": "2025-09-11T06:43:28+00:00"
+  },
+  {
+    "id": "0GZyw1",
+    "headline": "Friday Night Live with Parcel Of Rogues",
+    "title": "Friday Night Live with Parcel Of Rogues",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Parcel Of Rogues",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/731985e5-ac76-4597-9662-129bf5f12707.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OqoZz",
+        "name": "Parcel Of Rogues"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-parcel-of-rogues/7366691",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-09-13T15:52:07+01:00",
+    "created": "2025-09-13T14:51:56+00:00"
   },
   {
     "id": "emk0BE",
@@ -738,7 +671,7 @@
     "title": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
     "startDate": "2025-12-18",
     "endDate": "2025-12-18",
-    "startTimeString": "8:30pm",
+    "startTimeString": "7:30pm",
     "endTimeString": "10:45pm",
     "hasMoved": false,
     "isCancelled": false,
@@ -767,8 +700,8 @@
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt-pete-davey-memorial-gig-at-the-earl-haig-club-bar/7394857",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-05T14:03:04+00:00",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2025-12-03T13:02:05+00:00",
     "created": "2025-11-05T14:02:54+00:00"
   },
   {
