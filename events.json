@@ -1,44 +1,5 @@
 [
   {
-    "id": "59bapj",
-    "headline": "Monday Jam Session with The Dismantlerz",
-    "title": "Monday Jam Session with The Dismantlerz",
-    "startDate": "2025-12-08",
-    "endDate": "2025-12-08",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f9561411-885e-449d-94ae-907c968e2728.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-dismantlerz/7366687",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-05T13:56:29+00:00",
-    "created": "2025-09-13T14:45:42+00:00"
-  },
-  {
     "id": "8WQ7Nl",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -1417,24 +1378,6 @@
         "name": "Ed Force One"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-03-20T20:30:00+00:00",
-        "supplier": "Ents24",
-        "price": "£19.00",
-        "totalPrice": "£19.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-01-30T14:15:00+00:00",
-        "onSaleUntil": "2026-03-21T00:00:00+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZWQtZm9yY2Utb25lL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zMjk3NzY3P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzI5Nzc2Nw/ticketid/7586968/checksum/b76a2ef15b4cae21bd15d75e449402fe/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -1446,8 +1389,8 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-ed-force-one/7364832",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-09-10T08:44:47+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-12-08T07:43:03+00:00",
     "created": "2025-01-30T15:21:19+00:00"
   },
   {
