@@ -1,47 +1,5 @@
 [
   {
-    "id": "YYorDR",
-    "headline": "Thursday Night Special with The Palm Tree Antics",
-    "title": "Thursday Night Special with The Palm Tree Antics",
-    "startDate": "2025-12-11",
-    "endDate": "2025-12-11",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Palm Tree Antics – Christmas Special Live at The Earl Haig Club (Front Bar)\nThursday 11th...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bf63bd6c-9e7a-4ef8-8b08-68542e5f825a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5jBj",
-        "name": "Palm Tree Antics"
-      }
-    ],
-    "genre": [
-      "music",
-      "ska",
-      "reggae"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/thursday-night-special-with-the-palm-tree-antics/7391149",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-29T14:23:06+00:00",
-    "created": "2025-10-29T14:22:12+00:00"
-  },
-  {
     "id": "q5LEdR",
     "headline": "Rhiannon - A Tribute To Fleetwood Mac",
     "title": "Rhiannon – The Ultimate Fleetwood Mac Tribute - Christmas Special",
