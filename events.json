@@ -1,39 +1,5 @@
 [
   {
-    "id": "mDKEGO",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2025-12-15",
-    "endDate": "2025-12-15",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Venue: The Earl Haig Club, Whitchurch, Cardiff\nTime: Sign-up from 8:00 PM | Live music from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3648dd04-6f45-4d17-9cd5-79e1b1f3380a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7366688",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-13T15:46:53+01:00",
-    "created": "2025-09-13T14:46:42+00:00"
-  },
-  {
     "id": "mDKENL",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
