@@ -1,46 +1,5 @@
 [
   {
-    "id": "mDKENL",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2025-12-16",
-    "endDate": "2025-12-16",
-    "startTimeString": "7:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic – Christmas Special at The Earl Haig Club Bar\n\nJoin us for a very...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/0b0cac08-3762-4f31-bee8-51699e00c5c0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "xmas"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7366700",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-24T14:17:38+00:00",
-    "created": "2025-09-13T15:56:02+00:00"
-  },
-  {
     "id": "94WGrq",
     "headline": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
     "title": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
@@ -605,7 +564,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/global-promotions-present-2-rude/7260245",
     "fansOnEnts24": 5,
-    "lastUpdate": "2025-08-19T15:43:14+01:00",
+    "lastUpdate": "2025-12-16T12:30:17+00:00",
     "created": "2025-01-30T15:21:19+00:00"
   },
   {
@@ -884,12 +843,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "San Jerome"
+      }
+    ],
     "genre": [
       "music"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7414526",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:02:02+00:00",
+    "lastUpdate": "2025-12-16T13:35:47+00:00",
     "created": "2025-12-12T15:01:51+00:00"
   },
   {
@@ -1031,6 +995,45 @@
     "created": "2025-12-12T15:15:15+00:00"
   },
   {
+    "id": "mD05kA",
+    "headline": "Rockers Reunion – Live Music Night",
+    "title": "Rockers Reunion – Live Music Night",
+    "startDate": "2026-01-13",
+    "endDate": "2026-01-13",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rockers Reunion – Live Music Night\n\nThe Earl Haig Club, Whitchurch, Cardiff\n\nEvery second Tuesday of the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bf485ee7-3c67-47f4-ab19-da39f7c0a7e8.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rockin' Paul & The Wild Cards"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-live-music-night/7415888",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T13:54:15+00:00",
+    "created": "2025-12-16T13:19:39+00:00"
+  },
+  {
     "id": "pgqg79",
     "headline": "Friday Night Live with Snatch It Back",
     "title": "Friday Night Live with Snatch It Back",
@@ -1096,14 +1099,77 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Leighton Jones Band"
+      }
+    ],
     "genre": [
       "music",
       "pop"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-leighton-jones-band/7414537",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:20:24+00:00",
+    "lastUpdate": "2025-12-16T13:00:55+00:00",
     "created": "2025-12-12T15:20:13+00:00"
+  },
+  {
+    "id": "0GNdkN",
+    "headline": "Sunday Session with Outback",
+    "title": "Sunday Session with Outback",
+    "startDate": "2026-01-18",
+    "endDate": "2026-01-18",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "OUTBACK – LIVE AT THE EARL HAIG CLUB\nConcert Room | Sunday 18 January 2026\n\nCrank it...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/6d7411e1-0c0c-4d5f-9e5e-d7a2a2ff61bb.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Outback"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-01-18T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-12-16T13:46:35+00:00",
+        "onSaleUntil": "2026-01-18T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-session-with-outback/7415891",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T13:49:56+00:00",
+    "created": "2025-12-16T13:46:35+00:00"
   },
   {
     "id": "kD7D5L",
@@ -1181,7 +1247,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-open-mic-session-with-andy-johnson/7414545",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:49:35+00:00",
+    "lastUpdate": "2025-12-16T13:04:38+00:00",
     "created": "2025-12-12T15:49:23+00:00"
   },
   {
@@ -1473,6 +1539,304 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-12-12T15:35:06+00:00",
     "created": "2025-12-12T15:34:54+00:00"
+  },
+  {
+    "id": "YYdaxY",
+    "headline": "Sunday Sessions with Stonehouse",
+    "title": "Sunday Sessions with Stonehouse",
+    "startDate": "2026-02-01",
+    "endDate": "2026-02-01",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "STONEHOUSE – LIVE AT THE EARL HAIG CLUB\n\nConcert Room | Sunday 1 February 2026\n\nStonehouse aren’t...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a5b63935-f915-4e14-bb2c-a5bd34c50080.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-02-01T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-12-16T13:58:34+00:00",
+        "onSaleUntil": "2026-02-01T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-stonehouse/7415893",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T13:58:45+00:00",
+    "created": "2025-12-16T13:58:32+00:00"
+  },
+  {
+    "id": "8Wom1X",
+    "headline": "Saturday Night Live with Palm Tree Antics",
+    "title": "Saturday Night Live with Palm Tree Antics",
+    "startDate": "2026-02-07",
+    "endDate": "2026-02-07",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday 7 February 2026 | Live from 8:30pm\n\nHide your pints, guard your crisps, and lace...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/55c7ce1f-199c-454e-b99d-925b13d3cf73.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Palm Tree Antics"
+      }
+    ],
+    "genre": [
+      "music",
+      "ska",
+      "reggae"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-palm-tree-antics/7415895",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T14:12:26+00:00",
+    "created": "2025-12-16T14:01:31+00:00"
+  },
+  {
+    "id": "Lz67Nd",
+    "headline": "Sunday Sessions with Panic Station Rhythm & Blues Band",
+    "title": "Sunday Sessions with Panic Station Rhythm & Blues Band",
+    "startDate": "2026-02-08",
+    "endDate": "2026-02-08",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "PANIC STATION Live at The Earl Haig Club Concert Room.\nPanic Station Rhythm & Blues Band...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/2081a613-9987-41b0-a4cd-9152e08d8665.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Panic Station Rhythm & Blues Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-02-08T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-12-16T14:03:43+00:00",
+        "onSaleUntil": "2026-02-08T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-panic-station-rhythm-and-blues-band/7415896",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T14:12:56+00:00",
+    "created": "2025-12-16T14:03:42+00:00"
+  },
+  {
+    "id": "mD05xd",
+    "headline": "Saturday Night Live with Rattlesnake",
+    "title": "Saturday Night Live with Rattlesnake",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-14",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "RATTLESNAKE – LIVE AT THE EARL HAIG CLUB BAR\n\nValentine’s Day Rock Special\nSaturday 14 February 2026\n\nForget...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/44da5c68-4a59-4160-afaa-2c627fe68556.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Rattlesnake"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-rattlesnake/7415900",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T14:13:22+00:00",
+    "created": "2025-12-16T14:07:21+00:00"
+  },
+  {
+    "id": "Go9eY4",
+    "headline": "Sunday Sessions with Bendricks Rock",
+    "title": "Sunday Sessions with Bendricks Rock",
+    "startDate": "2026-02-15",
+    "endDate": "2026-02-15",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "BENDRICKS ROCK – LIVE AT THE EARL HAIG CLUB\n\nConcert Room | Sunday 15 February 2026\n\nIt’s...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/988659e6-b577-4428-afc1-d5947f8e8098.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Bendricks Rock"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-02-15T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-12-16T14:11:00+00:00",
+        "onSaleUntil": "2026-02-15T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-bendricks-rock/7415902",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T14:14:32+00:00",
+    "created": "2025-12-16T14:10:59+00:00"
+  },
+  {
+    "id": "0GNdRb",
+    "headline": "Saturday Night Live with Elk Redemption",
+    "title": "Saturday Night Live with Elk Redemption",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "ELK REDEMPTION – LIVE AT THE EARL HAIG CLUB BAR\n\nSaturday 21 February 2026 | Free...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/8397eb44-cf26-417a-a9ca-de454b33b649.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "nKaYX",
+        "name": "Elk Redemption"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-elk-redemption/7415903",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2025-12-16T14:18:06+00:00",
+    "created": "2025-12-16T14:17:53+00:00"
   },
   {
     "id": "bkQekd",
