@@ -1,44 +1,5 @@
 [
   {
-    "id": "94WGrq",
-    "headline": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
-    "title": "Roosevelt Pete Davey Memorial Gig at The Earl Haig Club Bar",
-    "startDate": "2025-12-18",
-    "endDate": "2025-12-18",
-    "startTimeString": "7:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "\nRoosevelt,  Pete Davey Memorial Gig at The Earl Haig Club Bar\nFree entry",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a9a1bab9-9f31-448c-bfc6-c0a2fcdc22a7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Roosevelt"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/roosevelt-pete-davey-memorial-gig-at-the-earl-haig-club-bar/7394857",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2025-12-03T13:02:05+00:00",
-    "created": "2025-11-05T14:02:54+00:00"
-  },
-  {
     "id": "emkELm",
     "headline": "The Sandboys",
     "title": "The Sandboys Christmas Special",
