@@ -1,65 +1,5 @@
 [
   {
-    "id": "BvXevd",
-    "headline": "New Years Eve Party!",
-    "title": "New Years Eve Party!",
-    "startDate": "2025-12-31",
-    "endDate": "2025-12-31",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "www.TheBigNiteOut.co.uk for tickets",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/66f227b5-8f2a-4e4e-bdd9-fbc7b91704ed.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "46QXb",
-        "name": "Central Line Disco"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2025-12-31T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£12.00",
-        "totalPrice": "£12.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-04-11T12:30:58+01:00",
-        "onSaleUntil": "2025-12-31T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy5UaGVCaWdOaXRlT3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjQwNzcx/ticketid/7677362/checksum/c2bd2fad10642c415fafe6dc9627011a/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "disco",
-      "nye"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/new-years-eve-party/7296856",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2025-08-31T15:59:22+01:00",
-    "created": "2025-04-11T11:30:58+00:00"
-  },
-  {
     "id": "6BPBpa",
     "headline": "Saturday Night Live with Cold Shot",
     "title": "Saturday Night Live with Cold Shot",
@@ -1001,68 +941,6 @@
     "created": "2025-12-12T15:32:36+00:00"
   },
   {
-    "id": "WgRXEp",
-    "headline": "Big Mac's Wholly Soul Band",
-    "title": "Big Mac's Wholly Soul Band",
-    "startDate": "2026-01-31",
-    "endDate": "2026-01-31",
-    "startTimeString": null,
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Tickets available from www.TheBigNiteOut.co.uk",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": "Nick Fowler Photography",
-        "caption": "Nick Fowler"
-      }
-    },
-    "artists": [
-      {
-        "id": "AwEN",
-        "name": "Big Mac's Wholly Soul Band"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-01-31T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£20.00",
-        "totalPrice": "£20.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-11-07T13:22:40+00:00",
-        "onSaleUntil": "2026-01-31T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjQ5NTI0/ticketid/7867894/checksum/592b8572743b6095d3d3cfc680138fee/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "covers",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7396236",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-07T13:22:50+00:00",
-    "created": "2025-11-07T13:22:39+00:00"
-  },
-  {
     "id": "59295L",
     "headline": "Saturday Night Live with The Sandboys",
     "title": "Saturday Night Live with The Sandboys",
@@ -1104,6 +982,50 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-12-12T15:35:06+00:00",
     "created": "2025-12-12T15:34:54+00:00"
+  },
+  {
+    "id": "WgRXEp",
+    "headline": "Big Mac's Wholly Soul Band",
+    "title": "Big Mac's Wholly Soul Band",
+    "startDate": "2026-01-31",
+    "endDate": "2026-01-31",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": true,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "Join the waiting list here https://forms.gle/TKDrW8r3xbxJxMBU6\n\nTickets available from www.TheBigNiteOut.co.uk",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Nick Fowler Photography",
+        "caption": "Nick Fowler"
+      }
+    },
+    "artists": [
+      {
+        "id": "AwEN",
+        "name": "Big Mac's Wholly Soul Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "covers",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7396236",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2025-12-31T16:02:37+00:00",
+    "created": "2025-11-07T13:22:39+00:00"
   },
   {
     "id": "YYdaxY",
