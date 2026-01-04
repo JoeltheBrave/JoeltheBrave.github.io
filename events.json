@@ -1,46 +1,5 @@
 [
   {
-    "id": "6BPBpa",
-    "headline": "Saturday Night Live with Cold Shot",
-    "title": "Saturday Night Live with Cold Shot",
-    "startDate": "2026-01-03",
-    "endDate": "2026-01-03",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "COLD SHOT - Live at The Earl Haig Club Bar",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b80c1980-1e88-49a9-a25f-0ab44bb2b4ae.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Cold Shot"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-cold-shot/7414523",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T14:56:54+00:00",
-    "created": "2025-12-12T14:51:17+00:00"
-  },
-  {
     "id": "RxQxZR",
     "headline": "Sunday Sessions with Expecting Company",
     "title": "Sunday Sessions with Expecting Company",
