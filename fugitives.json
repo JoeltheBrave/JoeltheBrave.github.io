@@ -1,5 +1,200 @@
 [
   {
+    "id": "NLZOaE",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-01-11",
+    "endDate": "2026-01-11",
+    "startTimeString": "3:15pm",
+    "endTimeString": "5:30pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "EN4X",
+      "type": "Place",
+      "name": "Richmond Place Club",
+      "address": {
+        "streetAddress": [
+          "69-71 Edgar Street"
+        ],
+        "town": "Hereford",
+        "county": "Herefordshire",
+        "postcode": "HR4 9JP",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 52.05854,
+        "lon": -2.72029
+      },
+      "webLink": "https://www.ents24.com/hereford-events/richmond-place-club"
+    },
+    "description": "The Fugitives – Live at Richmond Place Blues Club, Hereford\n\nThe Fugitives are absolutely thrilled to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/hereford-events/richmond-place-club/the-fugitives-cardiff/7420698",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-01-04T13:43:26+00:00",
+    "created": "2026-01-04T13:43:14+00:00"
+  },
+  {
+    "id": "Awe2Za",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-01-17",
+    "endDate": "2026-01-17",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "0G6m0",
+      "type": "Place",
+      "name": "Pentre Legion",
+      "address": {
+        "streetAddress": [
+          "55 Albert Street"
+        ],
+        "town": "Pentre",
+        "postcode": "CF41 7JZ",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.655193,
+        "lon": -3.496376
+      },
+      "webLink": "https://www.ents24.com/pentre-events/pentre-legion"
+    },
+    "description": "The Fugitives at The Pentre Legion, Rhondda.\n\nYou won’t want to miss The Fugitives, South Wales’...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/pentre-events/pentre-legion/the-fugitives-cardiff/7420699",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-01-04T13:53:39+00:00",
+    "created": "2026-01-04T13:47:29+00:00"
+  },
+  {
+    "id": "mD0NLq",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-01-23",
+    "endDate": "2026-01-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "The Fugitives at The Butchers Arms, Rhiwbina.\n\nYou won’t want to miss The Fugitives, South Wales’...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/the-fugitives-cardiff/7420700",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-01-04T13:51:14+00:00",
+    "created": "2026-01-04T13:51:04+00:00"
+  },
+  {
     "id": "g7DlNw",
     "headline": "Live at The Mitre, Abertillery",
     "title": "Live at The Mitre, Abertillery",
