@@ -1,44 +1,5 @@
 [
   {
-    "id": "oB8Bld",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2026-01-05",
-    "endDate": "2026-01-05",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 6th January 2026.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/73c19231-32ae-4df6-b150-eed05e3cf257.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "San Jerome"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7414526",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-22T16:39:55+00:00",
-    "created": "2025-12-12T15:01:51+00:00"
-  },
-  {
     "id": "NLZvy4",
     "headline": "Just Friends Jazz Club",
     "title": "Just Friends Jazz Club",
