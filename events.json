@@ -1,46 +1,5 @@
 [
   {
-    "id": "NLZvy4",
-    "headline": "Just Friends Jazz Club",
-    "title": "Just Friends Jazz Club",
-    "startDate": "2026-01-06",
-    "endDate": "2026-01-06",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar\nTuesday, January 6th 2026\n Front Bar,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/73c19231-32ae-4df6-b150-eed05e3cf257.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "San Jerome"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7418310",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-22T16:41:01+00:00",
-    "created": "2025-12-22T16:39:44+00:00"
-  },
-  {
     "id": "ZvLvmL",
     "headline": "Saturday Night Live with Helter Skelter",
     "title": "Saturday Night Live with Helter Skelter",
@@ -56,7 +15,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "HELTER SKELTER live at The Earl Haig Club Bar",
+    "description": "HELTER SKELTER live at The Earl Haig Club Bar.\n\nHELTER SKELTER – Live at The Earl...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/ac6d1cf9-dae2-4180-9cd0-b7f181726596.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -78,7 +37,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7414527",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:55:13+00:00",
+    "lastUpdate": "2026-01-06T16:40:20+00:00",
     "created": "2025-12-12T15:03:48+00:00"
   },
   {
@@ -316,7 +275,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "LEIGHTON JONES BAND Live at The Earl Haig Club Bar",
+    "description": "Leighton Jones Band – Live at The Earl Haig Club\nSaturday 17 January 2026\n\nJoin us at...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/f0f4bd16-3a26-4ea2-9c99-0b474deb4d30.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -336,8 +295,8 @@
       "pop"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-leighton-jones-band/7414537",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-16T13:00:55+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-01-06T16:50:49+00:00",
     "created": "2025-12-12T15:20:13+00:00"
   },
   {
@@ -1370,6 +1329,46 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2025-10-28T07:10:20+00:00",
     "created": "2025-10-27T17:39:56+00:00"
+  },
+  {
+    "id": "Lz6O88",
+    "headline": "Friday Night Live with Dean & The Blues Bros",
+    "title": "Friday Night Live with Dean & The Blues Bros",
+    "startDate": "2026-02-27",
+    "endDate": "2026-02-27",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Dean Newman Guitar / Vocals, Markus Buscher Kontrabass, Dieter Mobers Guitar/Sax, Werner (Snoop) Volkner Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/73cdc3e0-3ef1-49cf-ae54-a8e6ca926dba.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Dean & The Blues Bros"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-dean-and-the-blues-bros/7422308",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-01-06T16:34:17+00:00",
+    "created": "2026-01-06T16:34:07+00:00"
   },
   {
     "id": "0GZZbl",
