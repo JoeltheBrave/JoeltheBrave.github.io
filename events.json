@@ -1,46 +1,5 @@
 [
   {
-    "id": "ZvLvmL",
-    "headline": "Saturday Night Live with Helter Skelter",
-    "title": "Saturday Night Live with Helter Skelter",
-    "startDate": "2026-01-10",
-    "endDate": "2026-01-10",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "HELTER SKELTER live at The Earl Haig Club Bar.\n\nHELTER SKELTER – Live at The Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ac6d1cf9-dae2-4180-9cd0-b7f181726596.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Helter Skelter"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7414527",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-01-06T16:40:20+00:00",
-    "created": "2025-12-12T15:03:48+00:00"
-  },
-  {
     "id": "wa6a7a",
     "headline": "Sunday Sessions with The Mother Truckers",
     "title": "Sunday Sessions with The Mother Truckers",
