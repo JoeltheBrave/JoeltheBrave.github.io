@@ -1,44 +1,5 @@
 [
   {
-    "id": "g7p751",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
-    "startDate": "2026-01-12",
-    "endDate": "2026-01-12",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:44pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "MONDAY NIGHT OPEN MIC & JAM SESSION with the Raiders\nMonday 12th January 2026 — The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b4a9b24c-1190-4fdb-bd82-3ed20a31ed80.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Raiders"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7414531",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:15:25+00:00",
-    "created": "2025-12-12T15:15:15+00:00"
-  },
-  {
     "id": "mD05kA",
     "headline": "Rockers Reunion – Live Music Night",
     "title": "Rockers Reunion – Live Music Night",
