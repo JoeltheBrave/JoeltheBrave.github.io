@@ -1,45 +1,5 @@
 [
   {
-    "id": "jYDY7a",
-    "headline": "SATURDAY NIGHT LIVE WITH THE LEIGHTON JONES BAND",
-    "title": "SATURDAY NIGHT LIVE WITH THE LEIGHTON JONES BAND",
-    "startDate": "2026-01-17",
-    "endDate": "2026-01-17",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Leighton Jones Band – Live at The Earl Haig Club\nSaturday 17 January 2026\n\nJoin us at...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f0f4bd16-3a26-4ea2-9c99-0b474deb4d30.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Leighton Jones Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-leighton-jones-band/7414537",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2026-01-06T16:50:49+00:00",
-    "created": "2025-12-12T15:20:13+00:00"
-  },
-  {
     "id": "0GNdkN",
     "headline": "Sunday Session with Outback",
     "title": "Sunday Session with Outback",
