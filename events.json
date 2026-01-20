@@ -1,45 +1,5 @@
 [
   {
-    "id": "kD7D5L",
-    "headline": "Monday Jam Session with The Jedis",
-    "title": "Monday Jam Session with The Jedis",
-    "startDate": "2026-01-19",
-    "endDate": "2026-01-19",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "OPEN MIC & JAM SESSION with The Jedis at The Earl Haig Club Bar\nMonday 19th...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/1c0e3562-ef30-448d-ac8e-3a3ed7bab29c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-jedis/7414538",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:23:04+00:00",
-    "created": "2025-12-12T15:22:53+00:00"
-  },
-  {
     "id": "emzmbd",
     "headline": "Strictly Acoustic Open Mic Session with Andy Johnson",
     "title": "Strictly Acoustic Open Mic Session with Andy Johnson",
@@ -342,48 +302,6 @@
     "fansOnEnts24": 4,
     "lastUpdate": "2026-01-09T20:44:55+00:00",
     "created": "2025-11-07T13:20:57+00:00"
-  },
-  {
-    "id": "74R4PG",
-    "headline": "Friday Night Live with The Red Hot Pokers",
-    "title": "Friday Night Live with The Red Hot Pokers",
-    "startDate": "2026-01-30",
-    "endDate": "2026-01-30",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 9th February 2026.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/1345c460-9c89-4e9d-a019-3c7dcf8235ac.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Red Hot Pokers"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-red-hot-pokers/7414542",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-29T12:25:22+00:00",
-    "created": "2025-12-12T15:32:36+00:00"
   },
   {
     "id": "59295L",
