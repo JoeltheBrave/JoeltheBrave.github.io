@@ -1,44 +1,5 @@
 [
   {
-    "id": "emzmbd",
-    "headline": "Strictly Acoustic Open Mic Session with Andy Johnson",
-    "title": "Strictly Acoustic Open Mic Session with Andy Johnson",
-    "startDate": "2026-01-20",
-    "endDate": "2026-01-20",
-    "startTimeString": "7:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join us for another edition of our ever-popular Strictly Acoustic Open Mic Session, hosted by...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/fb5f2935-0874-4fe8-b74f-fcc2b62b4898.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-open-mic-session-with-andy-johnson/7414545",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-16T13:04:38+00:00",
-    "created": "2025-12-12T15:49:23+00:00"
-  },
-  {
     "id": "OdwdNo",
     "headline": "Saturday Night Live with Rockin' 58",
     "title": "Saturday Night Live with Rockin' 58",
