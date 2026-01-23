@@ -360,14 +360,14 @@
     "startTimeString": "6:00pm",
     "endTimeString": "8:15pm",
     "hasMoved": false,
-    "isCancelled": false,
+    "isCancelled": true,
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "STONEHOUSE – LIVE AT THE EARL HAIG CLUB\n\nConcert Room | Sunday 1 February 2026\n\nStonehouse aren’t...",
+    "description": "CANCELLED – STONEHOUSE LIVE AT THE EARL HAIG CLUB\n\nUnfortunately, this show has had to be...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/a5b63935-f915-4e14-bb2c-a5bd34c50080.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -382,31 +382,13 @@
         "name": "Stonehouse"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-02-01T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-12-16T13:58:34+00:00",
-        "onSaleUntil": "2026-02-01T23:59:59+00:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
     "genre": [
       "music",
       "rock"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-stonehouse/7415893",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-16T13:58:45+00:00",
+    "lastUpdate": "2026-01-22T21:09:26+00:00",
     "created": "2025-12-16T13:58:32+00:00"
   },
   {
