@@ -1,45 +1,5 @@
 [
   {
-    "id": "OdwdNo",
-    "headline": "Saturday Night Live with Rockin' 58",
-    "title": "Saturday Night Live with Rockin' 58",
-    "startDate": "2026-01-24",
-    "endDate": "2026-01-24",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "ROCKIN' 58 Live at The Earl Haig Club Bar",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f6bb21cb-cb48-4591-9f4a-7e65edb34a03.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rockin' 58"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-rockin-58/7414539",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:24:52+00:00",
-    "created": "2025-12-12T15:24:41+00:00"
-  },
-  {
     "id": "xyrpR6",
     "headline": "The Troubadours",
     "title": "The Troubadours",
