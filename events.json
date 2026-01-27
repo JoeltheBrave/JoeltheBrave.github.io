@@ -1,46 +1,5 @@
 [
   {
-    "id": "Dw8wQO",
-    "headline": "Monday Jam Session with James Oliver",
-    "title": "Monday Jam Session with James Oliver",
-    "startDate": "2026-01-26",
-    "endDate": "2026-01-26",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "OPEN MIC & JAM SESSION with James Oliver at The Earl Haig Club Bar\nMonday 26th...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b982722e-460d-47f6-b0ce-380e36864c1b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "James Oliver"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7414540",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-12T15:27:32+00:00",
-    "created": "2025-12-12T15:27:21+00:00"
-  },
-  {
     "id": "74R7nX",
     "headline": "Dave & Tonys Acoustic Blues Night",
     "title": "Dave & Tonys Acoustic Blues Night",
