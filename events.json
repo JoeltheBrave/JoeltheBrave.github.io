@@ -1,46 +1,5 @@
 [
   {
-    "id": "74R7nX",
-    "headline": "Dave & Tonys Acoustic Blues Night",
-    "title": "Dave & Tonys Acoustic Blues Night",
-    "startDate": "2026-01-27",
-    "endDate": "2026-01-27",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Dave & Tonys Acoustic Blues Night",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/7b046aff-a9c5-44e0-a56c-e4a51174ee6b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tonys Acoustic Blues Night"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-night/7417686",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-20T14:45:36+00:00",
-    "created": "2025-12-20T14:45:26+00:00"
-  },
-  {
     "id": "4QXd1b",
     "headline": "Friday Night Live with Snatch It Back",
     "title": "Friday Night Live with Snatch It Back",
