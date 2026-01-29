@@ -551,46 +551,6 @@
     "created": "2025-12-16T14:10:59+00:00"
   },
   {
-    "id": "AwerEW",
-    "headline": "Friday Night Live with Snatch It Back",
-    "title": "Friday Night Live with Snatch It Back",
-    "startDate": "2026-02-16",
-    "endDate": "2026-02-16",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 2nd February 2026.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/cf7750cc-cd81-46a9-8f73-f51312b20716.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Snatch It Back"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-snatch-it-back/7419299",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-29T12:21:28+00:00",
-    "created": "2025-12-29T12:20:20+00:00"
-  },
-  {
     "id": "0GNdRb",
     "headline": "Saturday Night Live with Elk Redemption",
     "title": "Saturday Night Live with Elk Redemption",
