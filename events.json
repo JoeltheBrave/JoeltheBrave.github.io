@@ -1,45 +1,5 @@
 [
   {
-    "id": "mD0Gqv",
-    "headline": "Monday Jam Session with Mark Pontin",
-    "title": "Monday Jam Session with Mark Pontin",
-    "startDate": "2026-02-02",
-    "endDate": "2026-02-02",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Entry: Free | Sign-up from 8:00 PM | Live music from 8:15 PM\nStart 2026 the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d42fb072-0601-44c6-98ee-b741bed8e733.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-mark-pontin/7419300",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-29T12:24:52+00:00",
-    "created": "2025-12-29T12:21:16+00:00"
-  },
-  {
     "id": "8Wom1X",
     "headline": "Saturday Night Live with Palm Tree Antics",
     "title": "Saturday Night Live with Palm Tree Antics",
@@ -2257,6 +2217,68 @@
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
+    "id": "Awegon",
+    "headline": "Nine Below Zero",
+    "title": null,
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-09",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/090/386/783772cfa5b3685cab48b2400e0feec7670761e8.jpg?auto=format&fp-x=0.503&fp-y=0.313&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": "Nine Below Zero"
+      }
+    },
+    "artists": [
+      {
+        "id": "QxAg",
+        "name": "Nine Below Zero"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-09T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£26.75",
+        "totalPrice": "£26.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-02T00:00:00+00:00",
+        "onSaleUntil": "2026-10-10T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvOS1iZWxvdy16ZXJvL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zNjAwNDAwP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzYwMDQwMA/ticketid/7953936/checksum/a7fa4fa88a26edb6a734938a2e682d0f/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/nine-below-zero/7436455",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-02T09:38:38+00:00",
+    "created": "2026-02-02T07:06:18+00:00"
+  },
+  {
     "id": "WgGoXX",
     "headline": "Electrik Live Orchestra",
     "title": null,
@@ -2319,6 +2341,128 @@
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
+    "id": "ymZlyv",
+    "headline": "The Rezillos",
+    "title": null,
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/228/860/a9b49799e324bbf1f84e7ab6600e37817d8dc0c0.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "w0y2",
+        "name": "The Rezillos"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-15T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£31.50",
+        "totalPrice": "£31.50",
+        "inclBookingFee": false,
+        "isOnSale": false,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-02T12:00:00+00:00",
+        "onSaleUntil": "2026-10-16T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvdGhlLXJlemlsbG9zL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zNjAwNDAzP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzYwMDQwMw/ticketid/7953939/checksum/b2d81ce68ddd513b91d9e4899e04e953/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "punk",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-rezillos/7436458",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-02T09:38:38+00:00",
+    "created": "2026-02-02T07:06:18+00:00"
+  },
+  {
+    "id": "4QXB79",
+    "headline": "Yes Please (Yes Tribute)",
+    "title": null,
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/346/057/6f4a0713b65a8ec8505906feb1041336987a978d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "jmKvP",
+        "name": "Yes Please (Yes Tribute)"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-24T20:30:00+01:00",
+        "supplier": "Ents24",
+        "price": "£20.25",
+        "totalPrice": "£20.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-02T00:00:00+00:00",
+        "onSaleUntil": "2026-10-25T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQveWVzLXBsZWFzZS90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzYwMDQwNT9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzYwMDQwNQ/ticketid/7953940/checksum/ececce9380987fd9e3ba8849b31a2544/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/yes-please-yes-tribute/7436459",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-02T09:38:40+00:00",
+    "created": "2026-02-02T07:06:18+00:00"
+  },
+  {
     "id": "kD765P",
     "headline": "ZZ TOPPD",
     "title": null,
@@ -2379,5 +2523,65 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-01-14T08:20:40+00:00",
     "created": "2026-01-14T07:05:19+00:00"
+  },
+  {
+    "id": "Bv0Rl1",
+    "headline": "Dr Feelgood",
+    "title": null,
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-27",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/082/314/843436d06a986d2cb119b8530e6d4d61c645d7ec.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "6ex",
+        "name": "Dr Feelgood"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-11-27T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£27.25",
+        "totalPrice": "£27.25",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-02T00:00:00+00:00",
+        "onSaleUntil": "2026-11-28T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZHItZmVlbGdvb2QvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM2MDA0MDE_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzYwMDQwMQ/ticketid/7953937/checksum/dcad4fbbc096d5edfbc624e4fa55ebe2/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dr-feelgood/7436456",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-02T09:38:40+00:00",
+    "created": "2026-02-02T07:06:18+00:00"
   }
 ]
