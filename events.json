@@ -1,46 +1,5 @@
 [
   {
-    "id": "emzgeE",
-    "headline": "Monday Jam with Ken Woods",
-    "title": "Monday Jam with Ken Woods",
-    "startDate": "2026-02-09",
-    "endDate": "2026-02-09",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday 26th January 2026 — The Earl Haig Club, Whitchurch, Cardiff\nEntry: Free | Sign-up from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d339e40d-b6cb-4297-b37b-b5c801588cd0.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Ken Woods"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-with-ken-woods/7419301",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-29T12:26:38+00:00",
-    "created": "2025-12-29T12:25:11+00:00"
-  },
-  {
     "id": "mD05xd",
     "headline": "Saturday Night Live with Rattlesnake",
     "title": "Saturday Night Live with Rattlesnake",
