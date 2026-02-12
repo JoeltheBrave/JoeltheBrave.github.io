@@ -52,10 +52,10 @@
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
-    "isFree": false,
+    "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "BENDRICKS ROCK – LIVE AT THE EARL HAIG CLUB\n\nConcert Room | Sunday 15 February 2026\n\nIt’s...",
+    "description": "Six Nations Championship – Wales v France\nLive at The Earl Haig Club – This Sunday...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/988659e6-b577-4428-afc1-d5947f8e8098.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -74,8 +74,8 @@
       {
         "dateTime": "2026-02-15T18:00:00+00:00",
         "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
+        "price": null,
+        "totalPrice": null,
         "inclBookingFee": false,
         "isOnSale": true,
         "isAvailable": true,
@@ -94,7 +94,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-bendricks-rock/7415902",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-16T14:14:32+00:00",
+    "lastUpdate": "2026-02-11T16:49:51+00:00",
     "created": "2025-12-16T14:10:59+00:00"
   },
   {
