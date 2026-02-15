@@ -30,11 +30,11 @@
         if (ev.isFree) {
           link = "<a href='" + ev.webLink + "' target='_blank' class='s-btn'>Visit Event</a>";
         } else if (ev.tickets && ev.tickets.length > 0 && ev.tickets[0].url) {
-          link = "<a href='" + ev.tickets[0].url + "' target='_blank' class='s-btn s-btn-accent'>Tickets</a>";
+          link = "<a href='" + ev.tickets[0].url + "' target='_blank' class='s-btn'>Tickets</a>";
         } else if (ev.webLink) {
           link = "<a href='" + ev.webLink + "' target='_blank' class='s-btn'>Visit Event</a>";
         } else {
-          link = "<span class='s-cell' style='color:#888'>No link</span>";
+          link = "<span class='s-cell' style='opacity:0.6'>No link</span>";
         }
         html += "<tr><td class='s-cell s-date'>" + dt + "</td><td class='s-cell s-name'>" + name + "</td><td class='s-cell'>" + link + "</td></tr>";
       }
