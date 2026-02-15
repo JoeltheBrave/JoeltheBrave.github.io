@@ -1,45 +1,5 @@
 [
   {
-    "id": "mD05xd",
-    "headline": "Saturday Night Live with Rattlesnake",
-    "title": "Saturday Night Live with Rattlesnake",
-    "startDate": "2026-02-14",
-    "endDate": "2026-02-14",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "RATTLESNAKE – LIVE AT THE EARL HAIG CLUB BAR\n\nValentine’s Day Rock Special\nSaturday 14 February 2026\n\nForget...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/44da5c68-4a59-4160-afaa-2c627fe68556.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rattlesnake"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-rattlesnake/7415900",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-12-16T14:13:22+00:00",
-    "created": "2025-12-16T14:07:21+00:00"
-  },
-  {
     "id": "Go9eY4",
     "headline": "Sunday Sessions with Bendricks Rock",
     "title": "Sunday Sessions with Bendricks Rock",
