@@ -17,7 +17,7 @@
         if (ev.isFree) {
           link = "<td class='ehc-action'><a href='" + ev.webLink + "' target='_blank' class='ehc-button'>View Event</a></td>";
         } else if (ev.tickets && ev.tickets.length > 0 && ev.tickets[0].url) {
-          link = "<td class='ehc-action'><a href='" + ev.tickets[0].url + "' target='_blank' class='ehc-button tickets'>Tickets</a></td>";
+          link = "<td class='ehc-action'><a href='" + ev.tickets[0].url + "' target='_blank' class='ehc-button'>Tickets</a></td>";
         } else if (ev.webLink) {
           link = "<td class='ehc-action'><a href='" + ev.webLink + "' target='_blank' class='ehc-button'>View Event</a></td>";
         } else {
