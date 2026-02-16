@@ -1,12 +1,12 @@
 [
   {
-    "id": "g7DlNw",
-    "headline": "Live at The Mitre, Abertillery",
-    "title": "Live at The Mitre, Abertillery",
-    "startDate": "2026-02-28",
-    "endDate": "2026-02-28",
-    "startTimeString": "9:00pm",
-    "endTimeString": "11:00pm",
+    "id": "akPGl8",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-03",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
@@ -16,24 +16,26 @@
     "ticketsAvailable": true,
     "price": null,
     "venue": {
-      "id": "ymjry",
+      "id": "mgdg",
       "type": "Place",
-      "name": "The Mitre, Abertillery",
+      "name": "Black Horse",
       "address": {
         "streetAddress": [
-          "Mitre St, Abertillery NP13 1AE"
+          "372 Two Mile Hill",
+          "Kingswood"
         ],
-        "town": "Abertillery",
-        "postcode": "NP131AE",
+        "town": "Bristol",
+        "county": "Bristol",
+        "postcode": "BS15 1AH",
         "country": "UK"
       },
       "location": {
-        "lat": 51.729952,
-        "lon": -3.133064
+        "lat": 51.463009,
+        "lon": -2.51306
       },
-      "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery"
+      "webLink": "https://www.ents24.com/bristol-events/black-horse"
     },
-    "description": "The Fugitives at The Mitre, Abertillery\nClear your schedule and get ready for a night of...",
+    "description": "The Fugitives.\nTuesday 1st March 2026 - 8:00pm\nCardiff’s premier Rhythm & Blues agitators, The Fugitives, are...",
     "image": {
       "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -51,7 +53,6 @@
     ],
     "genre": [
       "music",
-      "rock",
       "rocknroll",
       "blues",
       "covers",
@@ -59,9 +60,203 @@
       "1960s",
       "1970s"
     ],
-    "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery/live-at-the-mitre-abertillery/7386275",
+    "webLink": "https://www.ents24.com/bristol-events/black-horse/the-fugitives-cardiff/7444263",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-12T16:39:17+00:00",
-    "created": "2025-10-20T15:47:48+00:00"
+    "lastUpdate": "2026-02-15T16:35:50+00:00",
+    "created": "2026-02-15T16:35:39+00:00"
+  },
+  {
+    "id": "E9qLN2",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-03-13",
+    "endDate": "2026-03-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitves at The Earl Haig Club Bar.\nClear your schedule and prepare for a full-throttle...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7444233",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-15T12:16:43+00:00",
+    "created": "2026-02-15T12:16:33+00:00"
+  },
+  {
+    "id": "XXKNov",
+    "headline": "The Fugitives Live",
+    "title": "The Fugitives Live",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "78pz",
+      "type": "Place",
+      "name": "Cefn Mably Hotel",
+      "address": {
+        "streetAddress": [
+          "1 Lavernock Road"
+        ],
+        "town": "Penarth",
+        "postcode": "CF64 3NW",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.43198,
+        "lon": -3.186971
+      },
+      "webLink": "https://www.ents24.com/penarth-events/cefn-mably-hotel"
+    },
+    "description": "THE FUGITIVES\nLive at the Cefn Mably Pub, Penarth\nFriday 3rd April 2026\n\nClear your schedule and get...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/penarth-events/cefn-mably-hotel/the-fugitives-live/7444262",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-15T16:28:10+00:00",
+    "created": "2026-02-15T16:27:59+00:00"
+  },
+  {
+    "id": "2Kyrxv",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-25",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "QoN4",
+      "type": "Place",
+      "name": "Jenner Park",
+      "address": {
+        "streetAddress": [
+          "Barry Town Association Football Club",
+          "Barry Road"
+        ],
+        "town": "Barry",
+        "postcode": "CF62 9BG",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.411423,
+        "lon": -3.267795
+      },
+      "webLink": "https://www.ents24.com/barry-events/jenner-park"
+    },
+    "description": "The Fugitives at Barry Town Football Club, Jenner Park\nClear your schedule and get ready for...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/barry-events/jenner-park/the-fugitives-cardiff/7444264",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-15T16:38:56+00:00",
+    "created": "2026-02-15T16:38:45+00:00"
   }
 ]
