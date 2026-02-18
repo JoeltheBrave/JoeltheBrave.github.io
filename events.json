@@ -1,45 +1,5 @@
 [
   {
-    "id": "8Wo5x1",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2026-02-17",
-    "endDate": "2026-02-17",
-    "startTimeString": "7:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic with Andy Johnson at The Earl Haig Club Bar\nJoin us for another edition...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/046c42ce-6e75-441a-b954-17317dbc94fd.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7444251",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:40:40+00:00",
-    "created": "2026-02-15T13:40:28+00:00"
-  },
-  {
     "id": "0GNdRb",
     "headline": "Saturday Night Live with Elk Redemption",
     "title": "Saturday Night Live with Elk Redemption",
