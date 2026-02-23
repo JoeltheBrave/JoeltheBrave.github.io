@@ -1,67 +1,5 @@
 [
   {
-    "id": "Lz64Eq",
-    "headline": "Sunday Sessions with Moonstorm",
-    "title": "Sunday Sessions with Moonstorm",
-    "startDate": "2026-02-22",
-    "endDate": "2026-02-22",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": ".Moonstorm – Live at The Earl Haig Club Concert Room.\nSunday 22nd February 2026\nDoors 5pm •...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/5e0f70b2-23e6-42a4-911f-d8e879e707c2.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Moonstorm"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-02-22T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-02-15T13:43:33+00:00",
-        "onSaleUntil": "2026-02-22T23:59:59+00:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1970s",
-      "1980s",
-      "1990s",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-moonstorm/7444252",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:43:42+00:00",
-    "created": "2026-02-15T13:43:31+00:00"
-  },
-  {
     "id": "q5A29w",
     "headline": "Monday Night Open Mic & Jam Session with James Oliver",
     "title": "Monday Night Open Mic & Jam Session with James Oliver",
@@ -408,7 +346,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Monday Night Open Mic & Jam Session with Silverline\nEvery Monday | Free Entry\nThe Earl Haig...",
+    "description": "Monday Night Open Mic &amp; Jam Session with The S'punkles\nEvery Monday | Free Entry\nThe Earl...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/67151c11-7419-45e8-ae46-ad1e8ed5654b.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -420,7 +358,7 @@
     },
     "artists": [
       {
-        "name": "Silverline"
+        "name": "tHE S'PUNKLES"
       }
     ],
     "genre": [
@@ -428,7 +366,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-hosts-silverline/7444228",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:02:28+00:00",
+    "lastUpdate": "2026-02-22T13:53:53+00:00",
     "created": "2026-02-15T12:02:17+00:00"
   },
   {
@@ -1108,6 +1046,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-02-15T13:02:40+00:00",
     "created": "2026-02-15T13:02:29+00:00"
+  },
+  {
+    "id": "rB9XNr",
+    "headline": "Sunday Sessions with The Monday Club",
+    "title": "Sunday Sessions with The Monday Club",
+    "startDate": "2026-03-22",
+    "endDate": "2026-03-22",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Galloni - New group featuring members of Sassafras, Minnies Chuff &amp; Hand of Dimes.\nRock",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c92b8410-4a11-4420-85d8-75a1572a2162.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "THE MONDAY CLUB"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-03-22T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-22T15:23:52+00:00",
+        "onSaleUntil": "2026-03-22T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-monday-club/7448625",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-22T15:35:10+00:00",
+    "created": "2026-02-22T15:23:51+00:00"
   },
   {
     "id": "emzdpd",
