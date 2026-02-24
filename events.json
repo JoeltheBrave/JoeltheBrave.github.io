@@ -1,47 +1,5 @@
 [
   {
-    "id": "q5A29w",
-    "headline": "Monday Night Open Mic & Jam Session with James Oliver",
-    "title": "Monday Night Open Mic & Jam Session with James Oliver",
-    "startDate": "2026-02-23",
-    "endDate": "2026-02-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic & Jam Session\nEvery Monday | Free Entry\nThe Earl Haig Club, Whitchurch,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d829e474-dbf9-43df-9638-ae0674f6bc2a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "James Oliver"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-james-oliver/7444253",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:46:08+00:00",
-    "created": "2026-02-15T13:45:57+00:00"
-  },
-  {
     "id": "NLZmwl",
     "headline": "Dave & Tony",
     "title": "Dave & Tony",
