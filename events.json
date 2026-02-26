@@ -1,46 +1,5 @@
 [
   {
-    "id": "NLZmwl",
-    "headline": "Dave & Tony",
-    "title": "Dave & Tony",
-    "startDate": "2026-02-24",
-    "endDate": "2026-02-24",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Dave & Tony’s Night of Acoustic Blues\nFront Bar, The Earl Haig Club\n\nJoin us for another...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/37c778ed-e981-43ac-bbec-897778647a3e.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tony/7444254",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:53:27+00:00",
-    "created": "2026-02-15T13:53:16+00:00"
-  },
-  {
     "id": "bkQekd",
     "headline": "Hayseed Dixie",
     "title": null,
@@ -965,6 +924,67 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2026-01-15T10:50:30+00:00",
     "created": "2025-01-30T15:21:19+00:00"
+  },
+  {
+    "id": "Go9aNy",
+    "headline": "Whitchurch hospital Bowls Club presents acab",
+    "title": "Whitchurch hospital Bowls Club presents acab",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-21",
+    "startTimeString": "8:15pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "FUNDRAISING LIVE MUSIC NIGHT \nWhitchurch Hospital Bowls Club is hosting a special fundraising evening at...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/35915083-84c9-43e9-a80c-244fdaa70013.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "acab"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-03-21T20:15:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-02-24T21:59:39+00:00",
+        "onSaleUntil": "2026-03-21T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "07895 007059"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/whitchurch-hospital-bowls-club-presents-acab/7450502",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-24T22:02:24+00:00",
+    "created": "2026-02-24T21:59:39+00:00"
   },
   {
     "id": "mD0yPg",
