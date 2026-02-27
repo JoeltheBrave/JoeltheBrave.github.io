@@ -1,50 +1,5 @@
 [
   {
-    "id": "bkQekd",
-    "headline": "Hayseed Dixie",
-    "title": null,
-    "startDate": "2026-02-26",
-    "endDate": "2026-02-26",
-    "startTimeString": "8:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/506/734/75f8278f3e861bcf075b22d6450424da1f558138.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "ml7j",
-        "name": "Hayseed Dixie"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "metal",
-      "folk",
-      "country",
-      "tribute"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/hayseed-dixie/7389776",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2026-02-13T13:44:35+00:00",
-    "created": "2025-10-27T17:39:56+00:00"
-  },
-  {
     "id": "Lz6O88",
     "headline": "Friday Night Live with Dean & The Blues Bros",
     "title": "Friday Night Live with Dean & The Blues Bros",
@@ -1428,6 +1383,45 @@
     "created": "2026-01-13T12:09:43+00:00"
   },
   {
+    "id": "akPEax",
+    "headline": "Friday Night Live with The Bluesters",
+    "title": "Friday Night Live with The Bluesters",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Friday Night Live with The Bluesters",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Bluesters"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-bluesters/7451819",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T13:53:18+00:00",
+    "created": "2026-02-26T13:53:08+00:00"
+  },
+  {
     "id": "vblBxb",
     "headline": "The World's Premier Bon Jovi Tribute: Bon Giovi",
     "title": null,
@@ -1491,6 +1485,86 @@
     "created": "2025-12-22T08:04:11+00:00"
   },
   {
+    "id": "RxQdbP",
+    "headline": "Saturday Night LIve with The Albino Frogs",
+    "title": "Saturday Night LIve with The Albino Frogs",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-04",
+    "startTimeString": "8:45pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday Night LIve with The Albino Frogs",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pgDz0",
+        "name": "Albino Frogs"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-albino-frogs/7451824",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T13:58:39+00:00",
+    "created": "2026-02-26T13:58:28+00:00"
+  },
+  {
+    "id": "mD0EGG",
+    "headline": "A special Thursday night with Al Steele & Friends",
+    "title": "A special Thursday night with Al Steele & Friends",
+    "startDate": "2026-04-09",
+    "endDate": "2026-04-09",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Al Steele &amp; Friends most recent concept album is an irreverent tale of God's and...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/db25e1d5-0ed8-4ff3-828e-f106bee6c24b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Al Steele & Friends"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-special-thursday-night-with-al-steele-and-friends/7451844",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T15:57:37+00:00",
+    "created": "2026-02-26T15:57:27+00:00"
+  },
+  {
     "id": "ymnONx",
     "headline": "Oliver Wakeman",
     "title": "An Evening of YES and Original Work",
@@ -1549,6 +1623,49 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2025-10-20T17:12:43+01:00",
     "created": "2025-10-20T14:34:38+00:00"
+  },
+  {
+    "id": "lGeEDw",
+    "headline": "Friday Night Live with The Little Giants",
+    "title": "Friday Night Live with The Little Giants",
+    "startDate": "2026-04-10",
+    "endDate": "2026-04-10",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Friday Night Live with The Little Giants",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "0GvKQ",
+        "name": "Tony Morley And The Little Giants"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-little-giants/7451821",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T13:55:30+00:00",
+    "created": "2026-02-26T13:55:19+00:00"
   },
   {
     "id": "mDKzRG",
@@ -1671,6 +1788,87 @@
     "created": "2025-09-29T11:19:43+00:00"
   },
   {
+    "id": "rB9Ea2",
+    "headline": "Saturday Night Live with The Parcel Of Rouges",
+    "title": "Saturday Night Live with The Parcel Of Rouges",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-11",
+    "startTimeString": "8:45pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday Night Live with The Parcel Of Rouges",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Parcel Of Rouges"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-parcel-of-rouges/7451825",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T14:02:01+00:00",
+    "created": "2026-02-26T14:01:50+00:00"
+  },
+  {
+    "id": "6BP2nm",
+    "headline": "Friday Night Live with The Mark Davies Band",
+    "title": "Friday Night Live with The Mark Davies Band",
+    "startDate": "2026-04-17",
+    "endDate": "2026-04-17",
+    "startTimeString": "8:31pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Friday Night Live with The Mark Davies Band",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Mark Davies Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-mark-davies-band/7451823",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T13:57:18+00:00",
+    "created": "2026-02-26T13:57:08+00:00"
+  },
+  {
     "id": "2KyxXX",
     "headline": "Flash: A Tribute To Queen",
     "title": null,
@@ -1715,6 +1913,49 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-02-18T13:09:07+00:00",
     "created": "2026-01-13T12:09:43+00:00"
+  },
+  {
+    "id": "oB8EKe",
+    "headline": "Saturday Night Live with Dansette",
+    "title": "Saturday Night Live with Dansette",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-18",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday Night Live with Dansette",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/043/365/93cd7bee574c73bedf4cea4fd0e720da80473417.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Dansette",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "Godnr",
+        "name": "Dansette"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "1960s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-dansette/7451826",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T14:03:11+00:00",
+    "created": "2026-02-26T14:03:00+00:00"
   },
   {
     "id": "dDjjP2",
@@ -1850,6 +2091,46 @@
     "created": "2025-11-30T20:33:53+00:00"
   },
   {
+    "id": "ZvLyE5",
+    "headline": "Saturday Night Live with the Raiders",
+    "title": "Saturday Night Live with the Raiders",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-25",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday Night Live with the Raiders",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Raiders"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-raiders/7451827",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T14:05:15+00:00",
+    "created": "2026-02-26T14:05:05+00:00"
+  },
+  {
     "id": "walyxz",
     "headline": "Focus",
     "title": null,
@@ -1908,6 +2189,46 @@
     "fansOnEnts24": 11,
     "lastUpdate": "2025-05-13T07:28:18+01:00",
     "created": "2024-11-18T07:23:39+00:00"
+  },
+  {
+    "id": "wa6enP",
+    "headline": "Saturday Night Live with The Sundogs",
+    "title": "Saturday Night Live with The Sundogs",
+    "startDate": "2026-05-02",
+    "endDate": "2026-05-02",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday Night Live with The Sundogs",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Sundogs"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-sundogs/7451829",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-02-26T14:06:32+00:00",
+    "created": "2026-02-26T14:06:21+00:00"
   },
   {
     "id": "DwYKEO",
