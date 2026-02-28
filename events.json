@@ -1,45 +1,5 @@
 [
   {
-    "id": "Lz6O88",
-    "headline": "Friday Night Live with Dean & The Blues Bros",
-    "title": "Friday Night Live with Dean & The Blues Bros",
-    "startDate": "2026-02-27",
-    "endDate": "2026-02-27",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Dean Newman Guitar / Vocals, Markus Buscher Kontrabass, Dieter Mobers Guitar/Sax, Werner (Snoop) Volkner Blues...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/73cdc3e0-3ef1-49cf-ae54-a8e6ca926dba.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dean & The Blues Bros"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-dean-and-the-blues-bros/7422308",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-01-06T16:34:17+00:00",
-    "created": "2026-01-06T16:34:07+00:00"
-  },
-  {
     "id": "0GZZbl",
     "headline": "The Big Motown'N'Soul Disco",
     "title": "The Big Motown'N'Soul Disco",
