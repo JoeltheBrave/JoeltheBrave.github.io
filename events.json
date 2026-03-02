@@ -1,63 +1,5 @@
 [
   {
-    "id": "ZvLBgL",
-    "headline": "Sunday Sessions with The Hindenburgs",
-    "title": "Sunday Sessions with The Hindenburgs",
-    "startDate": "2026-03-01",
-    "endDate": "2026-03-01",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "£3 on the door – everyone welcome.\nDoors open at 5pm\nBand on at 6pm\nhttps://www.earlhaigclub.com\nVenue:\nThe Earl Haig...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/56d6318f-62f7-4f11-b6dc-5e9405b2ab72.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Hindenburgs"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-03-01T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-02-15T12:00:22+00:00",
-        "onSaleUntil": "2026-03-01T23:59:59+00:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-hindenburgs/7444227",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:00:32+00:00",
-    "created": "2026-02-15T12:00:21+00:00"
-  },
-  {
     "id": "1WBrxb",
     "headline": "Monday Jam Session with hosts Silverline",
     "title": "Monday Jam Session with hosts Silverline",
@@ -994,9 +936,9 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "2025 NTA Best Artist of the year winner Jeff Phillips brings his Neil Diamond Experience...",
     "image": {
@@ -1018,24 +960,6 @@
         "name": "Jeff Phillips"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-03-27T00:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£15.00",
-        "totalPrice": "£15.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-11-30T20:25:08+00:00",
-        "onSaleUntil": "2026-03-27T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjUwMjc4/ticketid/7890722/checksum/4552853b89c14c134bf19adda85b1011/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "showsandevents",
@@ -1047,8 +971,8 @@
       "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/neil-diamond-and-tom-jones-tribute-show/7407649",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:25:18+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-03-01T20:14:15+00:00",
     "created": "2025-11-30T20:25:07+00:00"
   },
   {
