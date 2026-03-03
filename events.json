@@ -1,44 +1,5 @@
 [
   {
-    "id": "1WBrxb",
-    "headline": "Monday Jam Session with hosts Silverline",
-    "title": "Monday Jam Session with hosts Silverline",
-    "startDate": "2026-03-02",
-    "endDate": "2026-03-02",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic &amp; Jam Session with The S'punkles\nEvery Monday | Free Entry\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/67151c11-7419-45e8-ae46-ad1e8ed5654b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "tHE S'PUNKLES"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-hosts-silverline/7444228",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-22T13:53:53+00:00",
-    "created": "2026-02-15T12:02:17+00:00"
-  },
-  {
     "id": "YYdA79",
     "headline": "Just Friends Jazz Club",
     "title": "Just Friends Jazz Club",
