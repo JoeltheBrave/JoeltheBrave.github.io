@@ -1,46 +1,5 @@
 [
   {
-    "id": "YYdA79",
-    "headline": "Just Friends Jazz Club",
-    "title": "Just Friends Jazz Club",
-    "startDate": "2026-03-03",
-    "endDate": "2026-03-03",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar\nTuesday, March 3rd 2026.\nFront Bar, The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3a5425cb-5997-415b-9e94-5720195b578b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7444249",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:16:11+00:00",
-    "created": "2026-02-15T13:16:01+00:00"
-  },
-  {
     "id": "dD1YlR",
     "headline": "Big Band with  Capital City Jazz Orchestra",
     "title": "Big Band with  Capital City Jazz Orchestra",
@@ -1322,7 +1281,7 @@
     "price": null,
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/935d0a30-d23f-4e4d-9436-def589003537.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1360,8 +1319,8 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oliver-wakeman/7386214",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-10-20T17:12:43+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-03-03T06:28:15+00:00",
     "created": "2025-10-20T14:34:38+00:00"
   },
   {
