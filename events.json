@@ -1,65 +1,5 @@
 [
   {
-    "id": "dD1YlR",
-    "headline": "Big Band with  Capital City Jazz Orchestra",
-    "title": "Big Band with  Capital City Jazz Orchestra",
-    "startDate": "2026-03-05",
-    "endDate": "2026-03-05",
-    "startTimeString": "8:20pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join the Capital City Jazz Orchestra for our monthly exploration of all things Jazz and...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/0d97b522-c433-42da-bcb8-2ed03c6b9b5f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-03-05T20:20:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-02-15T13:22:23+00:00",
-        "onSaleUntil": "2026-03-05T23:59:59+00:00",
-        "url": null,
-        "email": "Capital City Jazz Orchestra: info@ccjo.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz",
-      "bigband"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-band-with-capital-city-jazz-orchestra/7444250",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:22:34+00:00",
-    "created": "2026-02-15T13:22:21+00:00"
-  },
-  {
     "id": "K9BBP4",
     "headline": "The Adele Experience",
     "title": "The Adele Experience",
@@ -1225,6 +1165,67 @@
     "created": "2026-02-26T13:58:28+00:00"
   },
   {
+    "id": "OdwZY9",
+    "headline": "Sunday Sessions with The Red Hot Pokers",
+    "title": "Sunday Sessions with The Red Hot Pokers",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-05",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Sunday Sessions with The Red Hot Pokers",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/264/929/0ad5c0ad15e09a3d4267d5c452520e4b91ca12b8.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "vayx",
+        "name": "The Red Hot Pokers"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-05T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-05T16:45:29+00:00",
+        "onSaleUntil": "2026-04-05T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-red-hot-pokers/7455339",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-05T16:45:38+00:00",
+    "created": "2026-03-05T16:45:28+00:00"
+  },
+  {
     "id": "mD0EGG",
     "headline": "A special Thursday night with Al Steele & Friends",
     "title": "A special Thursday night with Al Steele & Friends",
@@ -1339,9 +1340,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Friday Night Live with The Little Giants",
+    "description": "Tony Morley &amp; The Little Giants – Live at The Earl Haig Club Bar\nFriday, April...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/cbc16aec-190b-41ba-bedc-c4620177f0eb.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1363,7 +1364,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-little-giants/7451821",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-26T13:55:30+00:00",
+    "lastUpdate": "2026-03-05T17:30:14+00:00",
     "created": "2026-02-26T13:55:19+00:00"
   },
   {
@@ -1502,9 +1503,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Saturday Night Live with The Parcel Of Rouges",
+    "description": "The Parcel of Rogues – Live at The Earl Haig Club Bar\nSaturday, April 11th, 2026\nGet...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/807a0d83-aca5-4828-8f85-ba214751927f.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1524,8 +1525,66 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-parcel-of-rouges/7451825",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-26T14:02:01+00:00",
+    "lastUpdate": "2026-03-05T17:37:42+00:00",
     "created": "2026-02-26T14:01:50+00:00"
+  },
+  {
+    "id": "xyrx8e",
+    "headline": "Sunday Sessions with Outback",
+    "title": "Sunday Sessions with Outback",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-12",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:19pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Outback – Live at The Earl Haig Club Concert Room\nSunday 12 April 2026\nGet ready for...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/6f6f976a-3bb2-4bf3-9356-fc8795d9fa60.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Outback"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-12T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-05T16:47:06+00:00",
+        "onSaleUntil": "2026-04-12T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-outback/7455341",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-05T17:08:45+00:00",
+    "created": "2026-03-05T16:47:06+00:00"
   },
   {
     "id": "6BP2nm",
@@ -1543,9 +1602,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Friday Night Live with The Mark Davies Band",
+    "description": "Friday Night Live with The Marc Davies Band.\nThe Marc Davies Band – Live at The...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/cc0c1d5c-bc71-4213-a53c-7ee2a842976b.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1555,7 +1614,7 @@
     },
     "artists": [
       {
-        "name": "The Mark Davies Band"
+        "name": "The Marc Davies Band"
       }
     ],
     "genre": [
@@ -1564,7 +1623,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-mark-davies-band/7451823",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-26T13:57:18+00:00",
+    "lastUpdate": "2026-03-05T18:13:52+00:00",
     "created": "2026-02-26T13:57:08+00:00"
   },
   {
@@ -1629,13 +1688,13 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Saturday Night Live with Dansette",
+    "description": "Saturday Night Live with Dansette.\nDansette – Live at The Earl Haig Club Bar\nSaturday 18th April...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/043/365/93cd7bee574c73bedf4cea4fd0e720da80473417.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/f05bb7e9-4380-4500-9e87-3e0c71bff15b.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
-        "copyright": "Dansette",
+        "copyright": null,
         "caption": null
       }
     },
@@ -1653,8 +1712,67 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-dansette/7451826",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-26T14:03:11+00:00",
+    "lastUpdate": "2026-03-05T18:27:36+00:00",
     "created": "2026-02-26T14:03:00+00:00"
+  },
+  {
+    "id": "mD0kQj",
+    "headline": "Royal Scam",
+    "title": "Royal Scam",
+    "startDate": "2026-04-19",
+    "endDate": "2026-04-19",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Live at The Earl Haig Club – Sunday 19 April 2026\nThe Royal Scam are South...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/d111cbef-ee23-4917-ba1c-c8680f608128.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Royal Scam"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-19T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-05T16:49:36+00:00",
+        "onSaleUntil": "2026-04-19T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/royal-scam/7455344",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-05T16:52:25+00:00",
+    "created": "2026-03-05T16:49:35+00:00"
   },
   {
     "id": "dDjjP2",
@@ -1828,6 +1946,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-02-26T14:05:15+00:00",
     "created": "2026-02-26T14:05:05+00:00"
+  },
+  {
+    "id": "K9lzeD",
+    "headline": "Sunday Sessions with The Troubadours",
+    "title": "Sunday Sessions with The Troubadours",
+    "startDate": "2026-04-26",
+    "endDate": "2026-04-26",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Troubadours – Live at The Earl Haig Club\nStep back into the golden age of...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3406c26f-17c2-4763-b609-8652bab49572.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Troubadours"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-26T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-05T16:58:54+00:00",
+        "onSaleUntil": "2026-04-26T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-troubadours/7455348",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-05T16:59:04+00:00",
+    "created": "2026-03-05T16:58:53+00:00"
   },
   {
     "id": "walyxz",
