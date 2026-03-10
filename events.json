@@ -1,45 +1,5 @@
 [
   {
-    "id": "bkR0lz",
-    "headline": "Monday Night Open Mic & Jam Session with Mark Pontin",
-    "title": "Monday Night Open Mic & Jam Session with Mark Pontin",
-    "startDate": "2026-03-09",
-    "endDate": "2026-03-09",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic & Jam Session with Mark Pontin\nEvery Monday | Free Entry\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/46a0ce8d-3d6e-444a-8fcc-c1da2d076436.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-mark-pontin/7444232",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:15:13+00:00",
-    "created": "2026-02-15T12:15:02+00:00"
-  },
-  {
     "id": "Odwezo",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
@@ -761,6 +721,66 @@
     "created": "2026-02-15T13:11:24+00:00"
   },
   {
+    "id": "1WBRPL",
+    "headline": "The Pepper Seeds",
+    "title": "The Pepper Seeds",
+    "startDate": "2026-03-29",
+    "endDate": "2026-03-29",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:14pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Pepper Seeds at The Earl Haig Club Concert Room.\nFunk and Soul, with some Latin...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/99047f65-045d-49d4-af06-cd23841d7dc2.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Pepper Seeds"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-03-29T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-09T13:51:11+00:00",
+        "onSaleUntil": "2026-03-30T00:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "latin",
+      "jazz",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-pepper-seeds/7456728",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-09T13:51:21+00:00",
+    "created": "2026-03-09T13:51:09+00:00"
+  },
+  {
     "id": "K9lyw0",
     "headline": "Monday Night Open Mic & Jam Session with James Oliver",
     "title": "Monday Night Open Mic & Jam Session with James Oliver",
@@ -1065,6 +1085,85 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-03-05T16:45:38+00:00",
     "created": "2026-03-05T16:45:28+00:00"
+  },
+  {
+    "id": "wa68AL",
+    "headline": "Monday Jm Session",
+    "title": "Monday Jm Session",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-06",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/86d6e4ca-a542-4d2e-ab87-d66ce16f08ba.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music",
+      "rock",
+      "indie",
+      "punk",
+      "rocknroll"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jm-session/7456729",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-09T13:54:25+00:00",
+    "created": "2026-03-09T13:54:14+00:00"
+  },
+  {
+    "id": "zawNyA",
+    "headline": "Just Friends Jazz Club",
+    "title": "Just Friends Jazz Club",
+    "startDate": "2026-04-07",
+    "endDate": "2026-04-07",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Just Friends Jazz Club at The Earl Haig Club Bar\nTuesday, April 7th, 2026.\nFront Bar, The...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b5b7e6e0-4428-451c-ac0a-385714d0a57b.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7456730",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-09T13:56:13+00:00",
+    "created": "2026-03-09T13:56:02+00:00"
   },
   {
     "id": "mD0EGG",
@@ -1426,6 +1525,82 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-03-05T17:08:45+00:00",
     "created": "2026-03-05T16:47:06+00:00"
+  },
+  {
+    "id": "g7pxPg",
+    "headline": "Monday Jam Session with The Dismantlerz",
+    "title": "Monday Jam Session with The Dismantlerz",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-13",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Monday Jam Session with The Dismantlez at The Earl Haig Club Bar\nEvery Monday | Free...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/d5b1e247-a7d3-42c2-8504-75f095038292.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Dismantlerz"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "alternative",
+      "punk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-dismantlerz/7456731",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-09T14:06:04+00:00",
+    "created": "2026-03-09T13:58:46+00:00"
+  },
+  {
+    "id": "bkRxvy",
+    "headline": "Eddie’s Rockers Reunion",
+    "title": "Eddie’s Rockers Reunion",
+    "startDate": "2026-04-14",
+    "endDate": "2026-04-14",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Eddie’s Rockers Reunion – Live at The Earl Haig Club\nTuesday 14th April 2026\nThe Earl Haig...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b18a840a-a2b9-4011-9d04-058119111ba8.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/eddies-rockers-reunion/7456732",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-09T14:17:17+00:00",
+    "created": "2026-03-09T14:17:06+00:00"
   },
   {
     "id": "6BP2nm",
