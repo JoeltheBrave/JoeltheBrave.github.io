@@ -1,39 +1,5 @@
 [
   {
-    "id": "Odwezo",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
-    "startDate": "2026-03-10",
-    "endDate": "2026-03-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Eddies Rockers Reunion at The Earl Haig Club with Live music\nEarl Haig Club, Whitchurch, Cardiff\nFree...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/8e71ade1-a59b-4c8d-8b53-bb1ad322a08e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7444239",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:38:52+00:00",
-    "created": "2026-02-15T12:38:41+00:00"
-  },
-  {
     "id": "E9qLN2",
     "headline": "The Fugitives - Cardiff",
     "title": "The Fugitives - Cardiff",
