@@ -1,40 +1,5 @@
 [
   {
-    "id": "jYDA1a",
-    "headline": "Monday Night Open Mic & Jam Session with hosts Familiar Beerz",
-    "title": "Monday Night Open Mic & Jam Session with hosts Familiar Beerz",
-    "startDate": "2026-03-16",
-    "endDate": "2026-03-16",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic & Jam Session with Familiar Beerz\nEvery Monday | Free Entry\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/52828719-3615-4936-a5d4-ae3559de91bb.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-hosts-familiar-beerz/7444237",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:32:40+00:00",
-    "created": "2026-02-15T12:32:28+00:00"
-  },
-  {
     "id": "Dw85dO",
     "headline": "Strictly Acoustic Open Mic",
     "title": "Strictly Acoustic Open Mic",
@@ -1534,8 +1499,8 @@
   },
   {
     "id": "mD0kQj",
-    "headline": "Royal Scam",
-    "title": "Royal Scam",
+    "headline": "Live Music",
+    "title": "Live Music",
     "startDate": "2026-04-19",
     "endDate": "2026-04-19",
     "startTimeString": "6:00pm",
@@ -1548,9 +1513,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Live at The Earl Haig Club – Sunday 19 April 2026\nThe Royal Scam are South...",
+    "description": ".\nDoors: 5pm\nBand: 6pm\nEntry: £5 on the door",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/d111cbef-ee23-4917-ba1c-c8680f608128.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/8cff60d7-af55-44f1-a283-7400b1b63a7e.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1558,11 +1523,6 @@
         "caption": null
       }
     },
-    "artists": [
-      {
-        "name": "Royal Scam"
-      }
-    ],
     "tickets": [
       {
         "dateTime": "2026-04-19T18:00:00+01:00",
@@ -1583,12 +1543,11 @@
     ],
     "genre": [
       "music",
-      "rock",
-      "tribute"
+      "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/royal-scam/7455344",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-05T16:52:25+00:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/live-music/7455344",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-03-16T14:20:30+00:00",
     "created": "2026-03-05T16:49:35+00:00"
   },
   {
@@ -3245,6 +3204,68 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-02-02T09:38:40+00:00",
     "created": "2026-02-02T07:06:18+00:00"
+  },
+  {
+    "id": "941yP9",
+    "headline": "Oye Santana",
+    "title": null,
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/372/918/5280ba31c3aa6a1474f3090b0436ca528488e806.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "a9KZl",
+        "name": "Oye Santana"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-11-06T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-16T00:00:00+00:00",
+        "onSaleUntil": "2026-11-07T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvb3llLXNhbnRhbmEvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM2MTgyMDI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzYxODIwMg/ticketid/8006297/checksum/de1afd6673843abe7d4eed9f399d845a/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "latin",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/oye-santana/7459213",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-16T18:17:41+00:00",
+    "created": "2026-03-16T08:35:38+00:00"
   },
   {
     "id": "kD765P",
