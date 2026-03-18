@@ -1,45 +1,5 @@
 [
   {
-    "id": "Dw85dO",
-    "headline": "Strictly Acoustic Open Mic",
-    "title": "Strictly Acoustic Open Mic",
-    "startDate": "2026-03-17",
-    "endDate": "2026-03-17",
-    "startTimeString": "7:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic at The Earl Haig Club Bar with Andy Johnson.\nThe Earl Haig Club, Whitchurch,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/86b09f0c-9c45-4cbb-a6cd-642e7ca94179.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-open-mic/7444240",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T12:41:20+00:00",
-    "created": "2026-02-15T12:41:10+00:00"
-  },
-  {
     "id": "bkQdY8",
     "headline": "Global Promotions Present Ed Force One",
     "title": "Global Promotions Present Ed Force One",
@@ -1499,8 +1459,8 @@
   },
   {
     "id": "mD0kQj",
-    "headline": "Live Music",
-    "title": "Live Music",
+    "headline": "Sunday Sessions with Bus Pass",
+    "title": "Sunday Sessions with Bus Pass",
     "startDate": "2026-04-19",
     "endDate": "2026-04-19",
     "startTimeString": "6:00pm",
@@ -1513,9 +1473,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": ".\nDoors: 5pm\nBand: 6pm\nEntry: £5 on the door",
+    "description": "Bus Pass at The Earl Haig Club Concert Room.\nDoors: 5 pm\nBand: 6 pm\nEntry: £3 on...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/8cff60d7-af55-44f1-a283-7400b1b63a7e.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/9abd68cf-be21-4fa7-ac42-9c2fa0b19dec.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1523,12 +1483,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Bus Pass"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2026-04-19T18:00:00+01:00",
         "supplier": "Miscellaneous",
-        "price": "£5.00",
-        "totalPrice": "£5.00",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
         "inclBookingFee": false,
         "isOnSale": true,
         "isAvailable": true,
@@ -1545,9 +1510,9 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/live-music/7455344",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-bus-pass/7455344",
     "fansOnEnts24": 2,
-    "lastUpdate": "2026-03-16T14:20:30+00:00",
+    "lastUpdate": "2026-03-17T17:22:36+00:00",
     "created": "2026-03-05T16:49:35+00:00"
   },
   {
