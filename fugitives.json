@@ -64,6 +64,71 @@
     "created": "2026-02-15T16:27:59+00:00"
   },
   {
+    "id": "RxQdbP",
+    "headline": "Saturday Night LIve with The Fugitives",
+    "title": "Saturday Night LIve with The Fugitives",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-04",
+    "startTimeString": "8:45pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "Saturday Night Live with The Fugitives.\nThis is live music the way it’s meant to be...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-fugitives/7451824",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-20T16:30:09+00:00",
+    "created": "2026-02-26T13:58:28+00:00"
+  },
+  {
     "id": "2Kyrxv",
     "headline": "The Fugitives - Cardiff",
     "title": "The Fugitives - Cardiff",
