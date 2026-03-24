@@ -1,53 +1,5 @@
 [
   {
-    "id": "emzdpd",
-    "headline": "Monday Night Open Mic & Jam Session with San Jerome",
-    "title": "Monday Night Open Mic & Jam Session with San Jerome",
-    "startDate": "2026-03-23",
-    "endDate": "2026-03-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic & Jam Session with San Jerome\nEvery Monday | Free Entry\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/914ea70f-adc2-4b69-8334-53ee01832f07.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "erml9",
-        "name": "San Jerome"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "folk",
-      "country",
-      "americana",
-      "blues",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-san-jerome/7444245",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:05:36+00:00",
-    "created": "2026-02-15T13:05:25+00:00"
-  },
-  {
     "id": "74RrbG",
     "headline": "Dave & Tony’s Night of Acoustic Blues",
     "title": "Dave & Tony’s Night of Acoustic Blues",
