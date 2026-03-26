@@ -192,5 +192,70 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-02-15T16:38:56+00:00",
     "created": "2026-02-15T16:38:45+00:00"
+  },
+  {
+    "id": "9410Zd",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives at The Earl Haig Club Bar.\nClear your schedule and get ready for a...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7463713",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T12:42:59+00:00",
+    "created": "2026-03-25T12:42:49+00:00"
   }
 ]
