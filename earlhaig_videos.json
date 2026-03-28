@@ -1070,11 +1070,6 @@
     "publishedAt": "2022-03-28T21:55:38Z"
   },
   {
-    "title": "Albino Frogs: Simply Love Somebody",
-    "url": "https://www.youtube.com/watch?v=kthLQuFeQww",
-    "publishedAt": "2022-03-13T12:40:44Z"
-  },
-  {
     "title": "Freshly Cut Grass: Let Me Roll It",
     "url": "https://www.youtube.com/watch?v=KijHSFQQ-qE",
     "publishedAt": "2022-02-27T10:22:23Z"
@@ -1290,11 +1285,6 @@
     "publishedAt": "2021-10-11T10:18:39Z"
   },
   {
-    "title": "The Blues Sisters: Tequila",
-    "url": "https://www.youtube.com/watch?v=ZO8dvtyzTFs",
-    "publishedAt": "2021-10-11T10:18:11Z"
-  },
-  {
     "title": "The Red Hot Pokers: Ain't That a Bitch",
     "url": "https://www.youtube.com/watch?v=aooSO_BAVhw",
     "publishedAt": "2021-10-10T10:43:13Z"
@@ -1488,6 +1478,16 @@
     "title": "TWS - Gong",
     "url": "https://www.youtube.com/watch?v=X7K43rS9FnA",
     "publishedAt": "2016-11-25T10:07:37Z"
+  },
+  {
+    "title": "Stratus-Fear - Stratus",
+    "url": "https://www.youtube.com/watch?v=4MARJAtVakw",
+    "publishedAt": "2016-11-06T21:55:43Z"
+  },
+  {
+    "title": "Stratus-Fear - In A Broken Dream",
+    "url": "https://www.youtube.com/watch?v=DbOK8Ykjch8",
+    "publishedAt": "2016-10-24T19:39:07Z"
   },
   {
     "title": "Micky Gee and The Sneakers Brecon 2004",
@@ -1735,6 +1735,11 @@
     "publishedAt": "2014-07-20T22:33:31Z"
   },
   {
+    "title": "I Broke The Law And The Law Won - The Kenny Driscoll Band",
+    "url": "https://www.youtube.com/watch?v=dGaCIEezDRw",
+    "publishedAt": "2014-07-20T22:33:31Z"
+  },
+  {
     "title": "Hey Jude - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=MrFttb1jt8k",
     "publishedAt": "2014-07-20T16:01:09Z"
@@ -1813,11 +1818,6 @@
     "title": "The Thrill Is Gone - Tiger Bay",
     "url": "https://www.youtube.com/watch?v=7woZD0-G3U0",
     "publishedAt": "2014-07-16T08:27:54Z"
-  },
-  {
-    "title": "Bad To The Bone - Tiger Bay",
-    "url": "https://www.youtube.com/watch?v=BPeHXjpcsvM",
-    "publishedAt": "2014-07-15T16:52:20Z"
   },
   {
     "title": "Master of Disaster - Tiger Bay",
