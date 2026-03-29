@@ -1,49 +1,5 @@
 [
   {
-    "id": "0GNrxq",
-    "headline": "Saturday Night Live with The Semantics",
-    "title": "Saturday Night Live with The Semantics",
-    "startDate": "2026-03-28",
-    "endDate": "2026-03-28",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Semantics at The Earl Haig Club Bar\nFree entry\nVenue:\nThe Earl Haig Club\n22–23 Penlline Road\nWhitchurch, Cardiff",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d6c7373a-2574-4e60-97e9-565b0ba9b703.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "pglO0",
-        "name": "The Semantics"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "rocknroll",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-semantics/7444247",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:11:35+00:00",
-    "created": "2026-02-15T13:11:24+00:00"
-  },
-  {
     "id": "1WBRPL",
     "headline": "The Pepper Seeds",
     "title": "The Pepper Seeds",
