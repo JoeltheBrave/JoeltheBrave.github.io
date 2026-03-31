@@ -1,47 +1,5 @@
 [
   {
-    "id": "K9lyw0",
-    "headline": "Monday Night Open Mic & Jam Session with James Oliver",
-    "title": "Monday Night Open Mic & Jam Session with James Oliver",
-    "startDate": "2026-03-30",
-    "endDate": "2026-03-30",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic & Jam Session with James Oliver.\nEvery Monday | Free Entry\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/dc02793a-c8b6-4fe1-82ad-0e157b47c1bd.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "James Oliver"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-james-oliver/7444248",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-15T13:13:27+00:00",
-    "created": "2026-02-15T13:13:15+00:00"
-  },
-  {
     "id": "K9l5xk",
     "headline": "Capital City Jazz Orchestra",
     "title": "Capital City Jazz Orchestra",
