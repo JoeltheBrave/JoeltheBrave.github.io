@@ -571,7 +571,7 @@
     "price": null,
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/ea67667d-f81f-4e0b-921e-b8e93cab2fa5.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/71475c96-7dd8-46d0-a44b-bd6c693c576e.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -586,6 +586,22 @@
       }
     ],
     "tickets": [
+      {
+        "dateTime": "2026-04-11T21:00:00+01:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2025-09-29T12:00:00+01:00",
+        "onSaleUntil": "2026-04-12T00:00:00+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFydGluLXR1cm5lci1leC13aXNoYm9uZS1hc2gvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MDcyMjI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzUwNzIyMg/ticketid/8020304/checksum/a74ac68aa5ce8c65fff7f5053f8a3898/track/true",
+        "email": null,
+        "telephone": null
+      },
       {
         "dateTime": "2026-04-11T20:00:00+01:00",
         "supplier": "Ents24",
@@ -609,8 +625,8 @@
       "1970s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/martin-turner-ex-wishbone-ash/7375900",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-29T12:39:23+01:00",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2026-03-31T10:51:07+01:00",
     "created": "2025-09-29T11:39:12+00:00"
   },
   {
