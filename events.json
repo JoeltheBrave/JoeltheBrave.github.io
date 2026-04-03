@@ -1,64 +1,5 @@
 [
   {
-    "id": "K9l5xk",
-    "headline": "Capital City Jazz Orchestra",
-    "title": "Capital City Jazz Orchestra",
-    "startDate": "2026-04-02",
-    "endDate": "2026-04-02",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join the Capital City Jazz Orchestra for a thrilling evening of big band jazz at...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f8f6c7fc-aaf3-445e-ba93-7bf8a46b47fd.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-04-02T20:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-03-25T12:32:49+00:00",
-        "onSaleUntil": "2026-04-02T23:59:59+01:00",
-        "url": null,
-        "email": "info@ccjo.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/capital-city-jazz-orchestra/7463692",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T12:33:00+00:00",
-    "created": "2026-03-25T12:32:48+00:00"
-  },
-  {
     "id": "nKYbja",
     "headline": "Legend - The Music Of Bob Marley",
     "title": null,
@@ -1149,7 +1090,7 @@
     "title": "Spice Girls Tribute & 90's Night",
     "startDate": "2026-04-24",
     "endDate": "2026-04-24",
-    "startTimeString": null,
+    "startTimeString": "7:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -1203,7 +1144,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/spice-girls-tribute-and-90s-night/7407650",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:30:13+00:00",
+    "lastUpdate": "2026-04-01T17:45:42+01:00",
     "created": "2025-11-30T20:29:25+00:00"
   },
   {
@@ -1212,7 +1153,7 @@
     "title": "Forever Elton & Billy Joel Tribute Band",
     "startDate": "2026-04-25",
     "endDate": "2026-04-25",
-    "startTimeString": null,
+    "startTimeString": "7:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -1273,7 +1214,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/forever-elton-and-billy-joel-tribute-band/7407651",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:34:03+00:00",
+    "lastUpdate": "2026-04-01T17:46:20+01:00",
     "created": "2025-11-30T20:33:53+00:00"
   },
   {
@@ -2359,12 +2300,51 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
+  },
+  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "startDate": "2026-05-23",
     "endDate": "2026-05-23",
-    "startTimeString": null,
+    "startTimeString": "7:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -2418,48 +2398,9 @@
       "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-big-motownnsoul-nite-with-jacky-webbe-and-gary-d/7407652",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:38:44+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
-  },
-  {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
@@ -3079,12 +3020,52 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live with Stonehouse",
+    "title": "Saturday Night Live with Stonehouse",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-26T13:10:14+00:00",
+    "created": "2026-03-26T13:10:04+00:00"
+  },
+  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
     "startDate": "2026-06-13",
     "endDate": "2026-06-13",
-    "startTimeString": null,
+    "startTimeString": "7:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -3136,48 +3117,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/abba-tribute-band/7407653",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:41:28+00:00",
+    "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
-  },
-  {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live with Stonehouse",
-    "title": "Saturday Night Live with Stonehouse",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Stonehouse"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-26T13:10:14+00:00",
-    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
@@ -3386,6 +3327,69 @@
     "created": "2026-03-26T13:17:05+00:00"
   },
   {
+    "id": "0GNB69",
+    "headline": "P!nk Tribute",
+    "title": "P!nk Tribute",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Calli Malpas brings her incredible P!nk tribute show to Cardiff! Tickets available from www.TheBigNiteOut.co.uk",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/453e2a0e-fd7b-4495-b4ad-7807602a131d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "oBWg5",
+        "name": "Pink Ish"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-06-27T19:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£12.00",
+        "totalPrice": "£12.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:57:34+01:00",
+        "onSaleUntil": "2026-06-27T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA5/ticketid/8022271/checksum/34b3c51d8572c25a54314b8ac1855330/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1990s",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/pnk-tribute/7467191",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:57:35+01:00",
+    "created": "2026-04-01T16:06:27+00:00"
+  },
+  {
     "id": "g7pPL1",
     "headline": "The Flares",
     "title": "The Flares",
@@ -3530,7 +3534,7 @@
     "title": "Country Legends Show",
     "startDate": "2026-07-04",
     "endDate": "2026-07-04",
-    "startTimeString": null,
+    "startTimeString": "7:00pm",
     "endTimeString": null,
     "hasMoved": false,
     "isCancelled": false,
@@ -3588,7 +3592,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/country-legends-show/7407655",
     "fansOnEnts24": 0,
-    "lastUpdate": "2025-11-30T20:45:10+00:00",
+    "lastUpdate": "2026-04-01T17:47:45+01:00",
     "created": "2025-11-30T20:44:58+00:00"
   },
   {
@@ -3711,6 +3715,132 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-01-14T09:50:36+00:00",
     "created": "2026-01-14T07:05:19+00:00"
+  },
+  {
+    "id": "K9lNGv",
+    "headline": "UB40 Tribute Band",
+    "title": "UB40 Tribute Band",
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-28",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rats In The Kitchen bring their amazing tribute band back to Cardiff! For tickets go...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/065/871/87cb2935191c73deef328dad7af31fdd966ac1fd.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "Rats In The Kitchen",
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "mzQj",
+        "name": "Rats In The Kitchen"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-08-28T19:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£17.50",
+        "totalPrice": "£17.50",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:48:07+01:00",
+        "onSaleUntil": "2026-08-28T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzAy/ticketid/8022264/checksum/22cbca189d2061247b7456b207dc762e/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "reggae",
+      "tribute",
+      "1980s",
+      "1990s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/ub40-tribute-band/7467192",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:48:12+01:00",
+    "created": "2026-04-01T16:07:51+00:00"
+  },
+  {
+    "id": "8Wo2no",
+    "headline": "Hamilton Loomis Band",
+    "title": "Hamilton Loomis Band",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-17",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Hamilton Loomis returns to Cardiff! For tickets go to www.TheBigNiteOut.co.uk",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/104/742/716bbe8930b6fb7f2be2097e975834b2e8101f85.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "jYxqA",
+        "name": "Hamilton Loomis Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-17T19:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£18.00",
+        "totalPrice": "£18.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:48:41+01:00",
+        "onSaleUntil": "2026-09-17T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzAz/ticketid/8022265/checksum/f20c97f43cefe9854b7b16690e64af3e/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues",
+      "2010s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/hamilton-loomis-band/7467195",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:48:43+01:00",
+    "created": "2026-04-01T16:39:14+00:00"
   },
   {
     "id": "wa697r",
@@ -4274,6 +4404,60 @@
     "created": "2026-01-13T12:09:43+00:00"
   },
   {
+    "id": "YYdRQm",
+    "headline": "80's Disco",
+    "title": "80's Disco",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Central Line Disco are bringing an 80's themed disco to The Earl Haig! For tickets...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2026-10-17T19:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:50:23+01:00",
+        "onSaleUntil": "2026-10-17T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA0/ticketid/8022266/checksum/122856cce13609f6b28a376d3f171434/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "disco",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/80s-disco/7467193",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:50:25+01:00",
+    "created": "2026-04-01T16:09:20+00:00"
+  },
+  {
     "id": "4QXB79",
     "headline": "Yes Please (Yes Tribute)",
     "title": null,
@@ -4441,6 +4625,75 @@
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
+    "id": "mD04DG",
+    "headline": "Soul In Motion",
+    "title": "Soul In Motion",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Soul In Motion return after multiple years of sold out events, for tickets go to...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/2aa91097-a53e-4e8e-af41-60c65e183a62.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "XpXK0",
+        "name": "Soul In Motion"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-11-13T19:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£17.50",
+        "totalPrice": "£17.50",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:52:04+01:00",
+        "onSaleUntil": "2026-11-13T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA4/ticketid/8022270/checksum/b36948364ae8c08fa8d63256845b0e74/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "reggae",
+      "rocknroll",
+      "disco",
+      "world",
+      "swing",
+      "easy",
+      "choral",
+      "covers",
+      "tribute",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/soul-in-motion/7467200",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:52:10+01:00",
+    "created": "2026-04-01T16:44:47+00:00"
+  },
+  {
     "id": "Bv0Rl1",
     "headline": "Dr Feelgood",
     "title": null,
@@ -4499,5 +4752,196 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-02-02T09:38:40+00:00",
     "created": "2026-02-02T07:06:18+00:00"
+  },
+  {
+    "id": "Lz6Az0",
+    "headline": "Motown Christmas Disco",
+    "title": "Motown Christmas Disco",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-04",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "TheBigNiteOut presents The Big Motown'N'Christmas Disco! For tickets go to www.TheBigNiteOut.co.uk",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/06965708-aaba-4523-a258-46f7b88a04ea.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2026-12-04T19:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:51:34+01:00",
+        "onSaleUntil": "2026-12-04T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA3/ticketid/8022269/checksum/cc1f1d1f47fd28d0282b6d7a81a15592/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "reggae",
+      "disco",
+      "easy",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/motown-christmas-disco/7467196",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:51:40+01:00",
+    "created": "2026-04-01T16:40:42+00:00"
+  },
+  {
+    "id": "q5Aa55",
+    "headline": "Queen Tribute Band",
+    "title": "Queen Tribute Band",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Night At The Opera bring their amazing Wueen tribute band back to the Earl Haig...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/108/338/6fab57f01e2456a64dac11c6b5cd7706e57093be.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "OdZR",
+        "name": "Night At The Opera"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-05T19:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£17.50",
+        "totalPrice": "£17.50",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:51:11+01:00",
+        "onSaleUntil": "2026-12-05T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA2/ticketid/8022268/checksum/249b08dba885daf3129d6d6eb9ca820f/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "tribute",
+      "1970s",
+      "1980s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/queen-tribute-band/7467197",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:51:13+01:00",
+    "created": "2026-04-01T16:42:03+00:00"
+  },
+  {
+    "id": "NLZ9LY",
+    "headline": "New Years Eve with The Soul Miners",
+    "title": "New Years Eve with The Soul Miners",
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTimeString": "7:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "TheBigNiteOut Presents New Years Eve with The Soul Miners! For tickets go to www.TheBigNiteOut.co.uk",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/0add7b1c-5c93-4f9f-809a-95a101933936.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "vBblz",
+        "name": "The Soul Miners"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-31T19:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£17.50",
+        "totalPrice": "£17.50",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-01T17:50:51+01:00",
+        "onSaleUntil": "2026-12-31T23:59:59+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA1/ticketid/8022267/checksum/53be2b23f7fd1c7ebe9a0d6cb21776c2/track/true",
+        "email": "info@thebigniteout.co.uk",
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "reggae",
+      "rocknroll",
+      "disco",
+      "bigband",
+      "easy",
+      "covers",
+      "tribute",
+      "rnbandsoul"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/new-years-eve-with-the-soul-miners/7467198",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-01T17:50:58+01:00",
+    "created": "2026-04-01T16:42:59+00:00"
   }
 ]
