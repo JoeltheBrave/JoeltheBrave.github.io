@@ -1,48 +1,5 @@
 [
   {
-    "id": "wa68AL",
-    "headline": "Monday Jm Session with The Octave Doctors",
-    "title": "Monday Jm Session with The Octave Doctors",
-    "startDate": "2026-04-06",
-    "endDate": "2026-04-06",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/86d6e4ca-a542-4d2e-ab87-d66ce16f08ba.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Octave Doctors"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie",
-      "punk",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jm-session-with-the-octave-doctors/7456729",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-24T14:25:12+00:00",
-    "created": "2026-03-09T13:54:14+00:00"
-  },
-  {
     "id": "zawNyA",
     "headline": "Just Friends Jazz Club",
     "title": "Just Friends Jazz Club",
