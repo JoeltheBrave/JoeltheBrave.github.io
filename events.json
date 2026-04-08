@@ -1,46 +1,5 @@
 [
   {
-    "id": "zawNyA",
-    "headline": "Just Friends Jazz Club",
-    "title": "Just Friends Jazz Club",
-    "startDate": "2026-04-07",
-    "endDate": "2026-04-07",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar\nTuesday, April 7th, 2026.\nFront Bar, The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b5b7e6e0-4428-451c-ac0a-385714d0a57b.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club/7456730",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-09T13:56:13+00:00",
-    "created": "2026-03-09T13:56:02+00:00"
-  },
-  {
     "id": "mD0EGG",
     "headline": "A special Thursday night with Al Steele & Friends",
     "title": "A special Thursday night with Al Steele & Friends",
