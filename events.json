@@ -1,182 +1,5 @@
 [
   {
-    "id": "mDKzRG",
-    "headline": "Martin Turner (ex Wishbone Ash)",
-    "title": "Martin Turner (ex Wishbone Ash)",
-    "startDate": "2026-04-11",
-    "endDate": "2026-04-11",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:30pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/71475c96-7dd8-46d0-a44b-bd6c693c576e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "AebR",
-        "name": "Martin Turner (ex Wishbone Ash)"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-04-11T21:00:00+01:00",
-        "supplier": "Ents24",
-        "price": "£23.75",
-        "totalPrice": "£23.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-29T12:00:00+01:00",
-        "onSaleUntil": "2026-04-12T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFydGluLXR1cm5lci1leC13aXNoYm9uZS1hc2gvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MDcyMjI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzUwNzIyMg/ticketid/8020304/checksum/a74ac68aa5ce8c65fff7f5053f8a3898/track/true",
-        "email": null,
-        "telephone": null
-      },
-      {
-        "dateTime": "2026-04-11T20:00:00+01:00",
-        "supplier": "Ents24",
-        "price": "£21.00",
-        "totalPrice": "£21.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-29T12:39:13+01:00",
-        "onSaleUntil": "2026-04-11T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly93d3cuc2VldGlja2V0cy5jb20vZXZlbnQvbWFydGluLXR1cm5lci1leC13aXNoYm9uZS1hc2gvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MDcyMjI/supplier/SeeTickets/suppliedid/MjQ3OTkz/ticketid/7827523/checksum/8b875034261dcc83909df2bfca122372/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/martin-turner-ex-wishbone-ash/7375900",
-    "fansOnEnts24": 3,
-    "lastUpdate": "2026-03-31T10:51:07+01:00",
-    "created": "2025-09-29T11:39:12+00:00"
-  },
-  {
-    "id": "g7DO4x",
-    "headline": "Martin Turner (ex Wishbone Ash)",
-    "title": null,
-    "startDate": "2026-04-11",
-    "endDate": "2026-04-11",
-    "startTimeString": "9:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/71475c96-7dd8-46d0-a44b-bd6c693c576e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "AebR",
-        "name": "Martin Turner (ex Wishbone Ash)"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-04-11T21:00:00+01:00",
-        "supplier": "Ents24",
-        "price": "£23.75",
-        "totalPrice": "£23.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-09-29T12:00:00+01:00",
-        "onSaleUntil": "2026-04-12T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFydGluLXR1cm5lci1leC13aXNoYm9uZS1hc2gvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM1MDcyMjI_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzUwNzIyMg/ticketid/7827486/checksum/95e008d00d34c81849d7468c44228b75/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/martin-turner-ex-wishbone-ash/7375875",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2025-09-29T18:06:12+01:00",
-    "created": "2025-09-29T11:19:43+00:00"
-  },
-  {
-    "id": "rB9Ea2",
-    "headline": "Saturday Night Live with The Parcel Of Rouges",
-    "title": "Saturday Night Live with The Parcel Of Rouges",
-    "startDate": "2026-04-11",
-    "endDate": "2026-04-11",
-    "startTimeString": "8:45pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Parcel of Rogues – Live at The Earl Haig Club Bar\nSaturday, April 11th, 2026\nGet...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/807a0d83-aca5-4828-8f85-ba214751927f.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Parcel Of Rouges"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "folk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-parcel-of-rouges/7451825",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-05T17:37:42+00:00",
-    "created": "2026-02-26T14:01:50+00:00"
-  },
-  {
     "id": "xyrx8e",
     "headline": "Sunday Sessions with Outback",
     "title": "Sunday Sessions with Outback",
@@ -1805,45 +1628,6 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
-  },
-  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
@@ -1906,6 +1690,45 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
+  },
+  {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
@@ -2525,6 +2348,46 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live with Stonehouse",
+    "title": "Saturday Night Live with Stonehouse",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-26T13:10:14+00:00",
+    "created": "2026-03-26T13:10:04+00:00"
+  },
+  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
@@ -2584,46 +2447,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
-  },
-  {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live with Stonehouse",
-    "title": "Saturday Night Live with Stonehouse",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Stonehouse"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-26T13:10:14+00:00",
-    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
