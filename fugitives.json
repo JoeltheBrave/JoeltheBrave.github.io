@@ -1,5 +1,89 @@
 [
   {
+    "id": "mD0kQj",
+    "headline": "Sunday Sessions with The Fugitves",
+    "title": "Sunday Sessions with The Fugitves",
+    "startDate": "2026-04-19",
+    "endDate": "2026-04-19",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "Band change this Sunday, The Fugitives_Cardiff will stand in for Bus Pass, who have had...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9abd68cf-be21-4fa7-ac42-9c2fa0b19dec.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-04-19T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-03-05T16:49:36+00:00",
+        "onSaleUntil": "2026-04-19T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "07863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-fugitves/7455344",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-04-14T22:26:36+01:00",
+    "created": "2026-03-05T16:49:35+00:00"
+  },
+  {
     "id": "2Kyrxv",
     "headline": "The Fugitives - Cardiff",
     "title": "The Fugitives - Cardiff",
