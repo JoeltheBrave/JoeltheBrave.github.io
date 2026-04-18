@@ -1,45 +1,5 @@
 [
   {
-    "id": "6BP2nm",
-    "headline": "Friday Night Live with The Mark Davies Band",
-    "title": "Friday Night Live with The Mark Davies Band",
-    "startDate": "2026-04-17",
-    "endDate": "2026-04-17",
-    "startTimeString": "8:31pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Friday Night Live with The Marc Davies Band.\nThe Marc Davies Band – Live at The...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/cc0c1d5c-bc71-4213-a53c-7ee2a842976b.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Marc Davies Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-mark-davies-band/7451823",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-05T18:13:52+00:00",
-    "created": "2026-02-26T13:57:08+00:00"
-  },
-  {
     "id": "2KyxXX",
     "headline": "Flash: A Tribute To Queen",
     "title": null,
