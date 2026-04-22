@@ -1,45 +1,5 @@
 [
   {
-    "id": "8WoGxx",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2026-04-21",
-    "endDate": "2026-04-21",
-    "startTimeString": "7:30pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic with Andy Johnson at The Earl Haig Club Bar\nJoin us for another edition...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/aedf7ee3-6801-4205-8267-efe12e53acbe.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7463595",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T12:03:39+00:00",
-    "created": "2026-03-25T12:03:28+00:00"
-  },
-  {
     "id": "dDjjP2",
     "headline": "Spice Girls Tribute & 90's Night",
     "title": "Spice Girls Tribute & 90's Night",
@@ -214,8 +174,8 @@
   },
   {
     "id": "K9lzeD",
-    "headline": "Sunday Sessions with The Troubadours",
-    "title": "Sunday Sessions with The Troubadours",
+    "headline": "Sunday Sessions",
+    "title": "Sunday Sessions",
     "startDate": "2026-04-26",
     "endDate": "2026-04-26",
     "startTimeString": "6:00pm",
@@ -228,9 +188,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Troubadours – Live at The Earl Haig Club\nStep back into the golden age of...",
+    "description": "RATTLESNAKE – LIVE AT THE EARL HAIG CLUB.\nSouth Wales’ powerhouse four-piece Rattlesnake return to the...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/3406c26f-17c2-4763-b609-8652bab49572.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/22c814c0-8e67-47d2-b93b-760a39ffd0f7.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -240,7 +200,7 @@
     },
     "artists": [
       {
-        "name": "The Troubadours"
+        "name": "Rattlesnake"
       }
     ],
     "tickets": [
@@ -265,9 +225,9 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-troubadours/7455348",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7455348",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-05T16:59:04+00:00",
+    "lastUpdate": "2026-04-21T17:41:22+01:00",
     "created": "2026-03-05T16:58:53+00:00"
   },
   {
