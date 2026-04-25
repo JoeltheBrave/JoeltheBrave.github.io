@@ -1,68 +1,5 @@
 [
   {
-    "id": "dDjjP2",
-    "headline": "Spice Girls Tribute & 90's Night",
-    "title": "Spice Girls Tribute & 90's Night",
-    "startDate": "2026-04-24",
-    "endDate": "2026-04-24",
-    "startTimeString": "7:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "90s Spice bring their amazing Spice Girls & 90's tribute show to Cardiff!\n\nTickets available from...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/89c89e40-96bb-49b4-85aa-c258262b13f5.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "90s Spice"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-04-24T00:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£17.50",
-        "totalPrice": "£17.50",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2025-11-30T20:29:25+00:00",
-        "onSaleUntil": "2026-04-24T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjUwMjc5/ticketid/7890723/checksum/841e84030a174ab2c73b97ab81f48bf0/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "disco",
-      "covers",
-      "tribute",
-      "1990s",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/spice-girls-tribute-and-90s-night/7407650",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-01T17:45:42+01:00",
-    "created": "2025-11-30T20:29:25+00:00"
-  },
-  {
     "id": "8WQQPj",
     "headline": "Forever Elton & Billy Joel Tribute Band",
     "title": "Forever Elton & Billy Joel Tribute Band",
@@ -1179,45 +1116,6 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
-  },
-  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
@@ -1280,6 +1178,45 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
+  },
+  {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
