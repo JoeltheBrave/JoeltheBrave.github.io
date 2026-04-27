@@ -1,63 +1,5 @@
 [
   {
-    "id": "K9lzeD",
-    "headline": "Sunday Sessions",
-    "title": "Sunday Sessions",
-    "startDate": "2026-04-26",
-    "endDate": "2026-04-26",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "RATTLESNAKE – LIVE AT THE EARL HAIG CLUB.\nSouth Wales’ powerhouse four-piece Rattlesnake return to the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/22c814c0-8e67-47d2-b93b-760a39ffd0f7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rattlesnake"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-04-26T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-03-05T16:58:54+00:00",
-        "onSaleUntil": "2026-04-26T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7455348",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-21T17:41:22+01:00",
-    "created": "2026-03-05T16:58:53+00:00"
-  },
-  {
     "id": "walyxz",
     "headline": "Focus",
     "title": null,
@@ -815,6 +757,52 @@
     "created": "2026-03-25T13:31:51+00:00"
   },
   {
+    "id": "emzKQB",
+    "headline": "Private Party",
+    "title": "Private Party",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Fugitives play at The Earl Haig (PRIVATE PARTY)",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/private-party/7476345",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:15:15+01:00",
+    "created": "2026-04-26T14:15:03+00:00"
+  },
+  {
     "id": "oB80bX",
     "headline": "Sunday sessions with Revolverlites",
     "title": "Sunday sessions with Revolverlites",
@@ -1006,6 +994,45 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
+  },
+  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
@@ -1068,45 +1095,6 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
-  },
-  {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
@@ -1726,6 +1714,46 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live with Stonehouse",
+    "title": "Saturday Night Live with Stonehouse",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-26T13:10:14+00:00",
+    "created": "2026-03-26T13:10:04+00:00"
+  },
+  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
@@ -1785,46 +1813,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
-  },
-  {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live with Stonehouse",
-    "title": "Saturday Night Live with Stonehouse",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Stonehouse"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-26T13:10:14+00:00",
-    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
@@ -2547,6 +2535,52 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-03-26T13:23:59+00:00",
     "created": "2026-03-26T13:23:48+00:00"
+  },
+  {
+    "id": "YYdrrY",
+    "headline": "The Fugitives at The Earl Haig Club , Bar",
+    "title": "The Fugitives at The Earl Haig Club , Bar",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-24",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-at-the-earl-haig-club-bar/7476349",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:27:00+01:00",
+    "created": "2026-04-26T14:26:50+00:00"
   },
   {
     "id": "1WBxnv",
