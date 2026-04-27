@@ -1,5 +1,201 @@
 [
   {
+    "id": "mD0BOA",
+    "headline": "The Fugitives at The Bristol Blues Club",
+    "title": "The Fugitives at The Bristol Blues Club",
+    "startDate": "2026-04-28",
+    "endDate": "2026-04-28",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "mgdg",
+      "type": "Place",
+      "name": "Black Horse",
+      "address": {
+        "streetAddress": [
+          "372 Two Mile Hill",
+          "Kingswood"
+        ],
+        "town": "Bristol",
+        "county": "Bristol",
+        "postcode": "BS15 1AH",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.463009,
+        "lon": -2.51306
+      },
+      "webLink": "https://www.ents24.com/bristol-events/black-horse"
+    },
+    "description": "Cardiff’s premier Rhythm &amp; Blues agitators, The Fugitives, are rolling back into town — and...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/bristol-events/black-horse/the-fugitives-at-the-bristol-blues-club/7476344",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:12:23+01:00",
+    "created": "2026-04-26T14:12:11+00:00"
+  },
+  {
+    "id": "592PZX",
+    "headline": "The Fugitives at The Smiths Arms Blackwood",
+    "title": "The Fugitives at The Smiths Arms Blackwood",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-01",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "za6Pv",
+      "type": "Place",
+      "name": "The Smiths Arms",
+      "address": {
+        "streetAddress": [
+          "1 Commercial St",
+          "Pengam"
+        ],
+        "town": "Blackwood",
+        "postcode": "NP123ST",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.66893,
+        "lon": -3.223219
+      },
+      "webLink": "https://www.ents24.com/blackwood-events/the-smiths-arms"
+    },
+    "description": "Clear your schedule and get ready for a night of blistering rhythm and blues as...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/488e9761-063f-412f-9c18-08619d1e9c96.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/blackwood-events/the-smiths-arms/the-fugitives-at-the-smiths-arms-blackwood/7476343",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:13:09+01:00",
+    "created": "2026-04-26T14:08:45+00:00"
+  },
+  {
+    "id": "emzKQB",
+    "headline": "Private Party",
+    "title": "Private Party",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "startTimeString": "8:30pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives play at The Earl Haig (PRIVATE PARTY)",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/private-party/7476345",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:15:15+01:00",
+    "created": "2026-04-26T14:15:03+00:00"
+  },
+  {
     "id": "9410Zd",
     "headline": "The Fugitives - Cardiff",
     "title": "The Fugitives - Cardiff",
@@ -63,5 +259,264 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-03-25T12:42:59+00:00",
     "created": "2026-03-25T12:42:49+00:00"
+  },
+  {
+    "id": "Go98DL",
+    "headline": "The Fugitives Live at The Butchers Arms, Rhiwbina.",
+    "title": "The Fugitives Live at The Butchers Arms, Rhiwbina.",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-03",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "Clear your schedule and get ready for a night of blistering rhythm and blues as...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/3edad271-6e20-4314-a670-7e1ab342cb5b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/the-fugitives-live-at-the-butchers-arms-rhiwbina/7476346",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:18:29+01:00",
+    "created": "2026-04-26T14:18:18+00:00"
+  },
+  {
+    "id": "0GNvPN",
+    "headline": "The Fugitives Live at Penarth Ex Service Mens Club",
+    "title": "The Fugitives Live at Penarth Ex Service Mens Club",
+    "startDate": "2026-07-11",
+    "endDate": "2026-07-11",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "mDdZd",
+      "type": "Place",
+      "name": "Penarth Ex-Servicemen’s Club",
+      "address": {
+        "streetAddress": [
+          "69 Windsor Road"
+        ],
+        "town": "Penarth",
+        "postcode": "CF64 1JE",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.439486,
+        "lon": -3.175938
+      },
+      "webLink": "https://www.ents24.com/penarth-events/penarth-ex-servicemens-club"
+    },
+    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/penarth-events/penarth-ex-servicemens-club/the-fugitives-live-at-penarth-ex-service-mens-club/7476347",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:21:29+01:00",
+    "created": "2026-04-26T14:21:18+00:00"
+  },
+  {
+    "id": "K9lAAG",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "startTimeString": "5:15pm",
+    "endTimeString": "7:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "DwxBN",
+      "type": "Place",
+      "name": "Cubanas",
+      "address": {
+        "streetAddress": [
+          "7 Broad Street"
+        ],
+        "town": "Barry",
+        "postcode": "CF62 7AF",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.399316,
+        "lon": -3.282607
+      },
+      "webLink": "https://www.ents24.com/barry-events/cubanas"
+    },
+    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/cba73ba9-26bf-413d-8c37-6215c22683ed.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/barry-events/cubanas/the-fugitives-cardiff/7476348",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:25:32+01:00",
+    "created": "2026-04-26T14:25:21+00:00"
+  },
+  {
+    "id": "YYdrrY",
+    "headline": "The Fugitives at The Earl Haig Club , Bar",
+    "title": "The Fugitives at The Earl Haig Club , Bar",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-24",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-at-the-earl-haig-club-bar/7476349",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-26T15:27:00+01:00",
+    "created": "2026-04-26T14:26:50+00:00"
   }
 ]
