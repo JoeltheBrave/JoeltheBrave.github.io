@@ -944,6 +944,45 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
+  },
+  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
@@ -1006,45 +1045,6 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
-  },
-  {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
