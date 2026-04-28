@@ -1,47 +1,5 @@
 [
   {
-    "id": "walyxz",
-    "headline": "Focus",
-    "title": null,
-    "startDate": "2026-04-27",
-    "endDate": "2026-04-27",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "This show was rescheduled from 28th April 2025.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "rYGE",
-        "name": "Focus"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7237073",
-    "fansOnEnts24": 15,
-    "lastUpdate": "2026-04-15T07:22:40+01:00",
-    "created": "2024-11-18T07:23:39+00:00"
-  },
-  {
     "id": "nKYeWA",
     "headline": "Dave & Tony's Acoustic Blues Session",
     "title": "Dave & Tony's Acoustic Blues Session",
@@ -1714,46 +1672,6 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live with Stonehouse",
-    "title": "Saturday Night Live with Stonehouse",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Stonehouse"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-26T13:10:14+00:00",
-    "created": "2026-03-26T13:10:04+00:00"
-  },
-  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
@@ -1813,6 +1731,46 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
+  },
+  {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live with Stonehouse",
+    "title": "Saturday Night Live with Stonehouse",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Stonehouse"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-stonehouse/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-26T13:10:14+00:00",
+    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
@@ -3806,6 +3764,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:51:13+01:00",
     "created": "2026-04-01T16:42:03+00:00"
+  },
+  {
+    "id": "lGeA2a",
+    "headline": "Legend - The Music Of Bob Marley",
+    "title": null,
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/360/777/d8ef06ecd59a776a97e03788e8d59ee9f8744128.jpg?auto=format&fp-x=0.525&fp-y=0.4&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "dDDE6",
+        "name": "Legend - The Music Of Bob Marley"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-11T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£26.75",
+        "totalPrice": "£26.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-04-27T00:00:00+01:00",
+        "onSaleUntil": "2026-12-12T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbGVnZW5kLXRoZS1uby0xLXRyaWJ1dGUtdG8tYm9iLW1hcmxleS90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzYzNTcxNz9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzYzNTcxNw/ticketid/8038601/checksum/bf7bd17decbaaa6e214c67c842c976da/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "reggae",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/legend-the-music-of-bob-marley/7476565",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-27T10:48:16+01:00",
+    "created": "2026-04-27T06:08:16+00:00"
   },
   {
     "id": "NLZ9LY",
