@@ -40,6 +40,22 @@
     "url": "https://www.eventbrite.co.uk/e/the-geoff-eales-trio-live-tickets-1986905094624"
   },
   {
+    "id": "1988419131148",
+    "title": "Eleanor Claps – originals and jazz-infused pop, from Beyoncé to Prince",
+    "date": "2026-06-04T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183246388%2F2645541341981%2F1%2Foriginal.20260428-171218?auto=format%2Ccompress&q=75&sharp=10&s=623484ba160ee165fbbe3502045bd6ca",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/eleanor-claps-originals-and-jazz-infused-pop-from-beyonce-to-prince-tickets-1988419131148"
+  },
+  {
+    "id": "1988422059908",
+    "title": "Kirris Rivière and Delta du Bruit",
+    "date": "2026-06-11T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183250331%2F2645541341981%2F1%2Foriginal.20260428-174423?auto=format%2Ccompress&q=75&sharp=10&s=d0907cec935b2f098eb69f26fc82410e",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/kirris-riviere-and-delta-du-bruit-tickets-1988422059908"
+  },
+  {
     "id": "1986921977120",
     "title": "Charlie Wood Trio",
     "date": "2026-06-18T20:30:00",
@@ -94,5 +110,13 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178092651%2F2645541341981%2F1%2Foriginal.20260221-123006?auto=format%2Ccompress&q=75&sharp=10&s=255ff1efad02679c226f889c1d1f51cd",
     "cropY": 64,
     "url": "https://www.eventbrite.co.uk/e/hamish-stuart-soul-funk-legend-of-average-white-band-live-tickets-1983671825830"
+  },
+  {
+    "id": "1988421342763",
+    "title": "The Big Easy Live - A Hard Swinging Band from Leeds",
+    "date": "2026-07-30T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183249108%2F2645541341981%2F1%2Foriginal.20260428-173443?auto=format%2Ccompress&q=75&sharp=10&s=3249ba3fe07b2a6a2b5047cc518df48a",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/the-big-easy-live-a-hard-swinging-band-from-leeds-tickets-1988421342763"
   }
 ]
