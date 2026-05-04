@@ -1,45 +1,5 @@
 [
   {
-    "id": "PagoZx",
-    "headline": "Sunday Sessions with Expecting Company",
-    "title": "Sunday Sessions with Expecting Company",
-    "startDate": "2026-05-03",
-    "endDate": "2026-05-03",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:25pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Get ready for a night of pure classic rock brilliance as Expecting Company return to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9ecf44d4-e42c-4e88-b365-64ff89ade05f.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Expecting Company"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-expecting-company/7463722",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T14:19:22+00:00",
-    "created": "2026-03-25T14:19:10+00:00"
-  },
-  {
     "id": "NLZRwE",
     "headline": "Monday Night Open Mic & Jam Session",
     "title": "Monday Night Open Mic & Jam Session",
