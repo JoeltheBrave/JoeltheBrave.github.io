@@ -130,6 +130,70 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
+    "id": "RxQZRR",
+    "headline": "The Fugitives live at The Hanbury",
+    "title": "The Fugitives live at The Hanbury",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "startTimeString": "5:00pm",
+    "endTimeString": "8:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "nKXNj",
+      "type": "Place",
+      "name": "The Hanbury, Bargoed",
+      "address": {
+        "streetAddress": [
+          "Hanbury Road"
+        ],
+        "town": "Bargoed",
+        "postcode": "CF818QU",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.688648,
+        "lon": -3.229349
+      },
+      "webLink": "https://www.ents24.com/bargoed-events/the-hanbury-bargoed"
+    },
+    "description": "The Fugitives live at The Hanbury, Bargoed..\nClear your schedule and get ready for a night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/bargoed-events/the-hanbury-bargoed/the-fugitives-live-at-the-hanbury/7480568",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-05-05T17:24:43+01:00",
+    "created": "2026-05-05T16:24:16+00:00"
+  },
+  {
     "id": "Go98DL",
     "headline": "The Fugitives Live at The Butchers Arms, Rhiwbina.",
     "title": "The Fugitives Live at The Butchers Arms, Rhiwbina.",
@@ -196,6 +260,70 @@
     "created": "2026-04-26T14:18:18+00:00"
   },
   {
+    "id": "wa6wza",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-04",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "78pz",
+      "type": "Place",
+      "name": "Cefn Mably Hotel",
+      "address": {
+        "streetAddress": [
+          "1 Lavernock Road"
+        ],
+        "town": "Penarth",
+        "postcode": "CF64 3NW",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.43198,
+        "lon": -3.186971
+      },
+      "webLink": "https://www.ents24.com/penarth-events/cefn-mably-hotel"
+    },
+    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/cba73ba9-26bf-413d-8c37-6215c22683ed.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/penarth-events/cefn-mably-hotel/the-fugitives-cardiff/7480573",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-05-05T17:32:03+01:00",
+    "created": "2026-05-05T16:31:43+00:00"
+  },
+  {
     "id": "0GNvPN",
     "headline": "The Fugitives Live at Penarth Ex Service Mens Club",
     "title": "The Fugitives Live at Penarth Ex Service Mens Club",
@@ -258,70 +386,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-26T15:21:29+01:00",
     "created": "2026-04-26T14:21:18+00:00"
-  },
-  {
-    "id": "K9lAAG",
-    "headline": "The Fugitives - Cardiff",
-    "title": "The Fugitives - Cardiff",
-    "startDate": "2026-07-19",
-    "endDate": "2026-07-19",
-    "startTimeString": "5:15pm",
-    "endTimeString": "7:00pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "venue": {
-      "id": "DwxBN",
-      "type": "Place",
-      "name": "Cubanas",
-      "address": {
-        "streetAddress": [
-          "7 Broad Street"
-        ],
-        "town": "Barry",
-        "postcode": "CF62 7AF",
-        "country": "UK"
-      },
-      "location": {
-        "lat": 51.399316,
-        "lon": -3.282607
-      },
-      "webLink": "https://www.ents24.com/barry-events/cubanas"
-    },
-    "description": "Clear your schedule and get ready for a proper night of blistering Rhythm &amp; Blues...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/cba73ba9-26bf-413d-8c37-6215c22683ed.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "D92n",
-        "name": "The Fugitives - Cardiff"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll",
-      "blues",
-      "covers",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/barry-events/cubanas/the-fugitives-cardiff/7476348",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-26T15:25:32+01:00",
-    "created": "2026-04-26T14:25:21+00:00"
   },
   {
     "id": "YYdrrY",
