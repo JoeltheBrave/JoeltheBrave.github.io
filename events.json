@@ -1,44 +1,5 @@
 [
   {
-    "id": "YYdL7A",
-    "headline": "Monday Night Open Mic & Jam Session with The S'punkles",
-    "title": "Monday Night Open Mic & Jam Session with The S'punkles",
-    "startDate": "2026-05-11",
-    "endDate": "2026-05-11",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/0c6753ca-0305-442f-b655-ac77058c4c9f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The S'punkles"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-the-spunkles/7463605",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-28T14:22:53+01:00",
-    "created": "2026-03-25T12:11:39+00:00"
-  },
-  {
     "id": "RxQeB9",
     "headline": "Rockers Reunion at The Earl Haig Club with The BC 60's",
     "title": "Rockers Reunion at The Earl Haig Club with The BC 60's",
@@ -419,6 +380,45 @@
     "created": "2026-03-25T12:42:49+00:00"
   },
   {
+    "id": "akPngP",
+    "headline": "Second Chance",
+    "title": "Second Chance",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Second Chance"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-03-25T13:52:48+00:00",
+    "created": "2026-03-25T13:52:38+00:00"
+  },
+  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
@@ -481,45 +481,6 @@
     "fansOnEnts24": 1,
     "lastUpdate": "2026-04-01T17:46:53+01:00",
     "created": "2025-11-30T20:38:32+00:00"
-  },
-  {
-    "id": "akPngP",
-    "headline": "Second Chance",
-    "title": "Second Chance",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Second Chance will be providing the live entertainment tonight with your favourite mod classics plus...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/second-chance/7463719",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-25T13:52:48+00:00",
-    "created": "2026-03-25T13:52:38+00:00"
   },
   {
     "id": "ZvLqRO",
@@ -1165,8 +1126,8 @@
   },
   {
     "id": "QxEm0P",
-    "headline": "Cold Shot",
-    "title": "Cold Shot",
+    "headline": "Sunday Sessions with Cold Shot",
+    "title": "Sunday Sessions with Cold Shot",
     "startDate": "2026-06-07",
     "endDate": "2026-06-07",
     "startTimeString": "6:00pm",
@@ -1179,9 +1140,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "Cold Shot, a South Wales-based four-piece classic rock cover band established in 2021, is set...",
     "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1216,9 +1177,9 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7464035",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-cold-shot/7464035",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-03-26T13:18:31+00:00",
+    "lastUpdate": "2026-05-11T16:17:03+01:00",
     "created": "2026-03-26T13:18:20+00:00"
   },
   {
@@ -1406,41 +1367,6 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live",
-    "title": "Saturday Night Live",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-28T15:58:50+01:00",
-    "created": "2026-03-26T13:10:04+00:00"
-  },
-  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
@@ -1500,6 +1426,41 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
+  },
+  {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live",
+    "title": "Saturday Night Live",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9636a05a-4076-4c39-9019-d6350b18c06a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-04-28T15:58:50+01:00",
+    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
