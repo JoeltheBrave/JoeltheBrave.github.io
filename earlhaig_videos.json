@@ -495,31 +495,6 @@
     "publishedAt": "2023-02-24T14:26:49Z"
   },
   {
-    "title": "Who's Next: Join Together",
-    "url": "https://www.youtube.com/watch?v=vF5uRGbTUvA",
-    "publishedAt": "2023-02-24T08:48:35Z"
-  },
-  {
-    "title": "Oasis fundraising gig on 21st January 2023.",
-    "url": "https://www.youtube.com/watch?v=66TA9ohv2vI",
-    "publishedAt": "2023-02-21T13:01:49Z"
-  },
-  {
-    "title": "Heather, Siân & Sioned: Cwsg Osian",
-    "url": "https://www.youtube.com/watch?v=goFUup3n0Y0",
-    "publishedAt": "2023-02-20T13:11:26Z"
-  },
-  {
-    "title": "Robert Jon & The Wreck: Rescue Train",
-    "url": "https://www.youtube.com/watch?v=gI0LtlOkLqU",
-    "publishedAt": "2023-02-15T16:01:11Z"
-  },
-  {
-    "title": "Snatch It Back: Rock This House",
-    "url": "https://www.youtube.com/watch?v=1JC9uq-9Vvs",
-    "publishedAt": "2023-02-15T10:44:10Z"
-  },
-  {
     "title": "The Old Age Punk Band: Is Vic There?",
     "url": "https://www.youtube.com/watch?v=wrU6FKPTBjo",
     "publishedAt": "2023-02-09T01:20:45Z"
@@ -565,11 +540,6 @@
     "publishedAt": "2023-01-14T22:30:14Z"
   },
   {
-    "title": "James Oliver: The Chicken and the Duck",
-    "url": "https://www.youtube.com/watch?v=NReYd6DY3IU",
-    "publishedAt": "2023-01-14T11:58:43Z"
-  },
-  {
     "title": "Sassafras: Wheelin' n' Dealin'",
     "url": "https://www.youtube.com/watch?v=swAM8gozfko",
     "publishedAt": "2023-01-07T11:17:29Z"
@@ -593,11 +563,6 @@
     "title": "The Karrots: Hideaway",
     "url": "https://www.youtube.com/watch?v=hYbtPphBeBY",
     "publishedAt": "2022-12-09T09:21:35Z"
-  },
-  {
-    "title": "The S'punkles: New Rose",
-    "url": "https://www.youtube.com/watch?v=wKTXSSpvyCQ",
-    "publishedAt": "2022-12-08T13:22:16Z"
   },
   {
     "title": "Anonymous Iconoclasts: Long Way Down",
@@ -665,11 +630,6 @@
     "publishedAt": "2022-11-16T09:23:22Z"
   },
   {
-    "title": "The Bluesters: Riders on the Storm",
-    "url": "https://www.youtube.com/watch?v=kQoTO2mmE4w",
-    "publishedAt": "2022-11-15T18:27:32Z"
-  },
-  {
     "title": "The Rollin Stoned: Gimme Shelter",
     "url": "https://www.youtube.com/watch?v=c_-Qmk_twmk",
     "publishedAt": "2022-11-11T18:21:02Z"
@@ -698,11 +658,6 @@
     "title": "Sun Dogs: Sharp Dressed Man",
     "url": "https://www.youtube.com/watch?v=Xy_W1aUcxJQ",
     "publishedAt": "2022-11-05T00:38:23Z"
-  },
-  {
-    "title": "Tumbling Dice: Hot Legs",
-    "url": "https://www.youtube.com/watch?v=nWwYmLmpLy0",
-    "publishedAt": "2022-11-05T00:38:15Z"
   },
   {
     "title": "Tumbling Dice: Stairway To Heaven",
@@ -743,6 +698,51 @@
     "title": "The Chordettes: Got To Get You Into My Life",
     "url": "https://www.youtube.com/watch?v=capMN2f6p08",
     "publishedAt": "2022-10-17T10:27:38Z"
+  },
+  {
+    "title": "Roosevelt: Thanks for the Giving",
+    "url": "https://www.youtube.com/watch?v=IDUHVtqG5N8",
+    "publishedAt": "2022-10-15T18:39:40Z"
+  },
+  {
+    "title": "Roosevelt: Slow Down",
+    "url": "https://www.youtube.com/watch?v=XmIA1QBmsJQ",
+    "publishedAt": "2022-10-15T18:39:48Z"
+  },
+  {
+    "title": "Junior Hacksaw: Hoochie Coochie Man",
+    "url": "https://www.youtube.com/watch?v=YVO1GiIP4S0",
+    "publishedAt": "2022-10-15T18:33:49Z"
+  },
+  {
+    "title": "Oye Santana: Soul Sacrifice",
+    "url": "https://www.youtube.com/watch?v=e0rlt0u6qc0",
+    "publishedAt": "2022-10-11T20:44:50Z"
+  },
+  {
+    "title": "Capital City Jazz Orchestra: On The Count Of Three",
+    "url": "https://www.youtube.com/watch?v=NS_ftlBcb2M",
+    "publishedAt": "2022-10-09T14:10:27Z"
+  },
+  {
+    "title": "Thin Ice (Pink Floyd Tribute): Echoes",
+    "url": "https://www.youtube.com/watch?v=VeRFo7VXMAg",
+    "publishedAt": "2022-10-07T09:16:24Z"
+  },
+  {
+    "title": "Just Friends: A Night In Tunisia",
+    "url": "https://www.youtube.com/watch?v=L8oIL-Gqm8Q",
+    "publishedAt": "2022-10-07T09:06:35Z"
+  },
+  {
+    "title": "The S'punkles: Is Vic There?",
+    "url": "https://www.youtube.com/watch?v=nFQ88HsivSw",
+    "publishedAt": "2022-09-28T08:32:03Z"
+  },
+  {
+    "title": "Jimmy Mac's Band: One Way Out",
+    "url": "https://www.youtube.com/watch?v=wWdE8RjJCQw",
+    "publishedAt": "2022-09-19T18:00:20Z"
   },
   {
     "title": "Letz Zep: Since I Been Loving You",
