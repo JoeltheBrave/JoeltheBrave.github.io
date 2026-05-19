@@ -1,47 +1,5 @@
 [
   {
-    "id": "q5AY9l",
-    "headline": "Monday Night Open Mic & Jam Session with James Oliver",
-    "title": "Monday Night Open Mic & Jam Session with James Oliver",
-    "startDate": "2026-05-18",
-    "endDate": "2026-05-18",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with James Oliver.\nEvery Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9cf5e6ec-89de-486d-bb26-5996c5809566.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-james-oliver/7463597",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T14:50:57+01:00",
-    "created": "2026-03-25T12:09:25+00:00"
-  },
-  {
     "id": "mD0enq",
     "headline": "Strctly Acoustic with Andy Johnson",
     "title": "Strctly Acoustic with Andy Johnson",
