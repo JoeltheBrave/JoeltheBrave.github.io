@@ -4958,12 +4958,54 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
+    "isRescheduled": true,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": false,
+    "price": null,
+    "description": "This show has been rescheduled to 19th April 2027.",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "rYGE",
+        "name": "Focus"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7486792",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-05-20T09:02:02+01:00",
+    "created": "2026-05-19T06:17:41+00:00"
+  },
+  {
+    "id": "Dw8EWZ",
+    "headline": "Focus",
+    "title": null,
+    "startDate": "2027-04-19",
+    "endDate": "2027-04-19",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "This show was rescheduled from 9th April 2027.",
     "image": {
       "url": "https://ents24.imgix.net/image/000/319/131/4c8ed10b4db6f4e9290c8cfb5937d48c02d30e03.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -4981,7 +5023,7 @@
     ],
     "tickets": [
       {
-        "dateTime": "2027-04-09T20:00:00+01:00",
+        "dateTime": "2027-04-19T20:00:00+01:00",
         "supplier": "Ents24",
         "price": "£26.71",
         "totalPrice": "£26.71",
@@ -4991,7 +5033,7 @@
         "isPresaleTicket": false,
         "isResaleTicket": false,
         "onSaleFrom": "2026-05-19T00:00:00+01:00",
-        "onSaleUntil": "2027-04-10T00:00:00+01:00",
+        "onSaleUntil": "2027-04-20T00:00:00+01:00",
         "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZm9jdXMvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM2NDE3NTU_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzY0MTc1NQ/ticketid/8056755/checksum/5aebd287bc400557d31683ea873d5b32/track/true",
         "email": null,
         "telephone": null
@@ -5002,9 +5044,9 @@
       "rock",
       "1970s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7486792",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/focus/7487440",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-19T09:13:58+01:00",
+    "lastUpdate": "2026-05-20T09:02:04+01:00",
     "created": "2026-05-19T06:17:41+00:00"
   }
 ]
