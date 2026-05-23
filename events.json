@@ -1,51 +1,5 @@
 [
   {
-    "id": "9410Zd",
-    "headline": "Friday Night Live with The Fugitives",
-    "title": "Friday Night Live with The Fugitives",
-    "startDate": "2026-05-22",
-    "endDate": "2026-05-22",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Fugitives at The Earl Haig Club Bar.\nClear your schedule and get ready for a...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "D92n",
-        "name": "The Fugitives - Cardiff"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll",
-      "blues",
-      "covers",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-fugitives/7463713",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T14:28:52+01:00",
-    "created": "2026-03-25T12:42:49+00:00"
-  },
-  {
     "id": "Lz99ZD",
     "headline": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
     "title": "The Big Motown'N'Soul Nite with Jacky Webbe & Gary D",
