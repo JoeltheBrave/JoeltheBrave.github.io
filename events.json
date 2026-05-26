@@ -1,44 +1,5 @@
 [
   {
-    "id": "nKYGbj",
-    "headline": "Monday Night Open Mic & Jam Session with Familiar Beerz",
-    "title": "Monday Night Open Mic & Jam Session with Familiar Beerz",
-    "startDate": "2026-05-25",
-    "endDate": "2026-05-25",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ab8652c5-f18d-43c0-8c95-2d8a29e18dd3.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Familiar Beerz"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-familiar-beerz/7463616",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-28T14:25:27+01:00",
-    "created": "2026-03-25T12:12:34+00:00"
-  },
-  {
     "id": "QxENq4",
     "headline": "Dave & Tony’s Night of Acoustic Blues",
     "title": "Dave & Tony’s Night of Acoustic Blues",
