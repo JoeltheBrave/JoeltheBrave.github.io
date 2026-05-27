@@ -1,46 +1,5 @@
 [
   {
-    "id": "QxENq4",
-    "headline": "Dave & Tony’s Night of Acoustic Blues",
-    "title": "Dave & Tony’s Night of Acoustic Blues",
-    "startDate": "2026-05-26",
-    "endDate": "2026-05-26",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Front Bar — The Earl Haig Club\nStep into an intimate evening of raw, stripped-back acoustic...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/32fd43e8-7c73-45f0-b23a-fdc1a2c00e6c.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-night-of-acoustic-blues/7477735",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T14:52:40+01:00",
-    "created": "2026-04-28T13:21:54+00:00"
-  },
-  {
     "id": "Dw8PAe",
     "headline": "Treacherous Cretins play Zappa",
     "title": "60 Years Of Zappa",
