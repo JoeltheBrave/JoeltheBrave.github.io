@@ -257,5 +257,69 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-26T15:27:00+01:00",
     "created": "2026-04-26T14:26:50+00:00"
+  },
+  {
+    "id": "0GNZvQ",
+    "headline": "The Fugitives Live",
+    "title": "The Fugitives Live",
+    "startDate": "2026-07-31",
+    "endDate": "2026-07-31",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "RxYdD",
+      "type": "Place",
+      "name": " Y Maerun Pub, Marshfield",
+      "address": {
+        "streetAddress": [
+          "140 Marshfield Road"
+        ],
+        "town": "Marshfield",
+        "postcode": "CF32TU",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.53284,
+        "lon": -3.065563
+      },
+      "webLink": "https://www.ents24.com/marshfield-events/y-maerun-pub-marshfield"
+    },
+    "description": "Friday 31st July 2026\nThe Fugitives Live at Marshfield\nJoin us for a great night of live...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/25276f27-b4ab-4f26-9af1-79bf1c7b1a0a.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/marshfield-events/y-maerun-pub-marshfield/the-fugitives-live/7493803",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-06-03T14:43:00+01:00",
+    "created": "2026-06-03T13:34:16+00:00"
   }
 ]
