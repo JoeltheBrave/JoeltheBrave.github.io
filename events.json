@@ -1,63 +1,5 @@
 [
   {
-    "id": "QxEm0P",
-    "headline": "Sunday Sessions with Cold Shot",
-    "title": "Sunday Sessions with Cold Shot",
-    "startDate": "2026-06-07",
-    "endDate": "2026-06-07",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:25pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Cold Shot, a South Wales-based four-piece classic rock cover band established in 2021, is set...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/1c68246b-8abc-4009-8920-6e3c429dd16e.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Cold Shot"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-06-07T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-03-26T13:18:21+00:00",
-        "onSaleUntil": "2026-06-07T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "07863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-cold-shot/7464035",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T14:45:05+01:00",
-    "created": "2026-03-26T13:18:20+00:00"
-  },
-  {
     "id": "q5AWbR",
     "headline": "Monday Night Open Mic & Jam Session with The Dismantlerz",
     "title": "Monday Night Open Mic & Jam Session with The Dismantlerz",
@@ -243,6 +185,46 @@
     "created": "2026-03-26T13:15:13+00:00"
   },
   {
+    "id": "wa6A2a",
+    "headline": "Saturday Night Live with Dionne Bennett & The Pepperseeds",
+    "title": "Saturday Night Live with Dionne Bennett & The Pepperseeds",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-13",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Saturday June 13th • Free Entry • Band on 8:30pm\nGet ready for something special.\nFor the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f2f065fd-c5ad-4c25-9c47-0d53fb27b8aa.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Dionne Bennett & The Pepperseeds"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-dionne-bennett-and-the-pepperseeds/7464029",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-05-12T14:57:38+01:00",
+    "created": "2026-03-26T13:10:04+00:00"
+  },
+  {
     "id": "q5LLxn",
     "headline": "ABBA Tribute Band",
     "title": "ABBA Tribute Band",
@@ -302,46 +284,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:47:21+01:00",
     "created": "2025-11-30T20:41:16+00:00"
-  },
-  {
-    "id": "wa6A2a",
-    "headline": "Saturday Night Live with Dionne Bennett & The Pepperseeds",
-    "title": "Saturday Night Live with Dionne Bennett & The Pepperseeds",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-13",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Saturday June 13th • Free Entry • Band on 8:30pm\nGet ready for something special.\nFor the...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f2f065fd-c5ad-4c25-9c47-0d53fb27b8aa.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dionne Bennett & The Pepperseeds"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-dionne-bennett-and-the-pepperseeds/7464029",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T14:57:38+01:00",
-    "created": "2026-03-26T13:10:04+00:00"
   },
   {
     "id": "WgGdqm",
