@@ -1,48 +1,5 @@
 [
   {
-    "id": "q5AWbR",
-    "headline": "Monday Night Open Mic & Jam Session with The Dismantlerz",
-    "title": "Monday Night Open Mic & Jam Session with The Dismantlerz",
-    "startDate": "2026-06-08",
-    "endDate": "2026-06-08",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session.\nEvery Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/db6153a8-2855-4aea-8d6a-a9b98341c7c0.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "indie",
-      "punk",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-night-open-mic-and-jam-session-with-the-dismantlerz/7477753",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:49:04+01:00",
-    "created": "2026-04-28T15:03:22+00:00"
-  },
-  {
     "id": "nKYOE0",
     "headline": "Rockers Reunion",
     "title": "Rockers Reunion",
