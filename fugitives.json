@@ -321,5 +321,201 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-03T14:43:00+01:00",
     "created": "2026-06-03T13:34:16+00:00"
+  },
+  {
+    "id": "5BO95j",
+    "headline": "The Fugitives at The Smiths Arms",
+    "title": "The Fugitives at The Smiths Arms",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "za6Pv",
+      "type": "Place",
+      "name": "The Smiths Arms",
+      "address": {
+        "streetAddress": [
+          "1 Commercial St",
+          "Pengam"
+        ],
+        "town": "Blackwood",
+        "postcode": "NP123ST",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.66893,
+        "lon": -3.223219
+      },
+      "webLink": "https://www.ents24.com/blackwood-events/the-smiths-arms"
+    },
+    "description": "The Fugitives at The Smiths Arms, Blackwood.\nClear your schedule and get ready for a night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/blackwood-events/the-smiths-arms/the-fugitives-at-the-smiths-arms/7499743",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-06-17T17:07:33+01:00",
+    "created": "2026-06-17T16:07:23+00:00"
+  },
+  {
+    "id": "gZG758",
+    "headline": "The Fugitives live at Rockers Reunion at The Earl Haig Club.",
+    "title": "The Fugitives live at Rockers Reunion at The Earl Haig Club.",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-08",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives live at Rockers Reunion at The Earl Haig Club.\nClear your schedule and get...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-live-at-rockers-reunion-at-the-earl-haig-club/7499731",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-06-17T16:56:16+01:00",
+    "created": "2026-06-17T15:56:05+00:00"
+  },
+  {
+    "id": "10bWno",
+    "headline": "The Fugitives live at The Bristol Blues Club.",
+    "title": "The Fugitives live at The Bristol Blues Club.",
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-15",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "mgdg",
+      "type": "Place",
+      "name": "Black Horse",
+      "address": {
+        "streetAddress": [
+          "372 Two Mile Hill",
+          "Kingswood"
+        ],
+        "town": "Bristol",
+        "county": "Bristol",
+        "postcode": "BS15 1AH",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.463009,
+        "lon": -2.51306
+      },
+      "webLink": "https://www.ents24.com/bristol-events/black-horse"
+    },
+    "description": "The Fugitives live at The Bristol Blues Club.\nThe Fugitives – 25 Years of Rhythm &amp;...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/bristol-events/black-horse/the-fugitives-live-at-the-bristol-blues-club/7499728",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-06-17T18:49:25+01:00",
+    "created": "2026-06-17T15:53:54+00:00"
   }
 ]
