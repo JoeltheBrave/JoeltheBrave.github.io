@@ -1,46 +1,5 @@
 [
   {
-    "id": "6BPv2b",
-    "headline": "Dave & Tony’s Night of Acoustic Blues",
-    "title": "Dave & Tony’s Night of Acoustic Blues",
-    "startDate": "2026-06-23",
-    "endDate": "2026-06-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Front Bar — The Earl Haig Club\nStep into an intimate evening of raw, stripped-back acoustic...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-night-of-acoustic-blues/7477767",
-    "fansOnEnts24": 1,
-    "lastUpdate": "2026-05-13T14:30:06+01:00",
-    "created": "2026-04-28T15:20:11+00:00"
-  },
-  {
     "id": "WgG8W4",
     "headline": "The Dirt Road Band",
     "title": "The Dirt Road Band",
@@ -947,12 +906,21 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "Godnr",
+        "name": "Dansette"
+      }
+    ],
     "genre": [
-      "music"
+      "music",
+      "blues",
+      "1960s",
+      "rnbandsoul"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-at-the-earl-haig-club-with-live-music/7477761",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-28T16:15:36+01:00",
+    "lastUpdate": "2026-06-23T18:25:43+01:00",
     "created": "2026-04-28T15:15:24+00:00"
   },
   {
