@@ -64,6 +64,14 @@
     "url": "https://www.eventbrite.co.uk/e/the-big-easy-live-a-hard-swinging-band-from-leeds-tickets-1988421342763"
   },
   {
+    "id": "1992847658994",
+    "title": "The Charlie Herbert Trio Live",
+    "date": "2026-08-13T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187941025%2F2645541341981%2F1%2Foriginal.20260630-180530?auto=format%2Ccompress&q=75&sharp=10&s=61bd42e3b98fe6119a188b689913e9b2",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/the-charlie-herbert-trio-live-tickets-1992847658994"
+  },
+  {
     "id": "1992773515228",
     "title": "THE JOHN COLTRANE EXPERIENCE - LIVE",
     "date": "2026-09-03T20:30:00",
@@ -86,5 +94,21 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186966816%2F2645541341981%2F1%2Foriginal.20260615-195930?auto=format%2Ccompress&q=75&sharp=10&s=c676f7632bdc076b99cdabfee6d71501",
     "cropY": 50,
     "url": "https://www.eventbrite.co.uk/e/love-bossa-nova-live-tickets-1991940209789"
+  },
+  {
+    "id": "1992844400247",
+    "title": "Amanda Whiting - Jazz Harpist Live",
+    "date": "2026-12-10T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187937951%2F2645541341981%2F1%2Foriginal.20260630-172929?auto=format%2Ccompress&q=75&sharp=10&s=b168c89a0718f208374b0b752af46c24",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/amanda-whiting-jazz-harpist-live-tickets-1992844400247"
+  },
+  {
+    "id": "1992846280872",
+    "title": "The Remi Harris Hot Club Trio - Live Thursday 17 December",
+    "date": "2026-12-17T20:30:00",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187939161%2F2645541341981%2F1%2Foriginal.20260630-174400?auto=format%2Ccompress&q=75&sharp=10&s=ea466f3fbcd944e6d7ef0cf588eebfb9",
+    "cropY": 50,
+    "url": "https://www.eventbrite.co.uk/e/the-remi-harris-hot-club-trio-live-thursday-17-december-tickets-1992846280872"
   }
 ]
