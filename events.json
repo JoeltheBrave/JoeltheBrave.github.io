@@ -1,45 +1,5 @@
 [
   {
-    "id": "mD0RLq",
-    "headline": "Friday Night Live with Snatch It Back",
-    "title": "Friday Night Live with Snatch It Back",
-    "startDate": "2026-07-03",
-    "endDate": "2026-07-03",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Snatch It Back at The Earl Haig Club Bar.\nGet ready for a night of no-nonsense,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/5c2a14e4-60ed-4885-917b-9956f56c8d74.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Snatch It Back"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-snatch-it-back/7484588",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T13:36:26+01:00",
-    "created": "2026-05-13T12:28:50+00:00"
-  },
-  {
     "id": "bkRv0z",
     "headline": "Saturday Night Live with Blues Sisters",
     "title": "Saturday Night Live with Blues Sisters",
