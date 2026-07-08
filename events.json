@@ -1,45 +1,5 @@
 [
   {
-    "id": "4QX456",
-    "headline": "Just Friends Jazz Club at The Earl Haig Club Bar,",
-    "title": "Just Friends Jazz Club at The Earl Haig Club Bar,",
-    "startDate": "2026-07-07",
-    "endDate": "2026-07-07",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Just Friends Jazz Club at The Earl Haig Club Bar,\nFront Bar, The Earl Haig Club,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/52fa486d-490c-4713-98e1-d9aeeea5803d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-club-at-the-earl-haig-club-bar/7477759",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-28T16:12:37+01:00",
-    "created": "2026-04-28T15:12:27+00:00"
-  },
-  {
     "id": "Go9RXk",
     "headline": "Friday Night Live with The String Fellows",
     "title": "Friday Night Live with The String Fellows",
@@ -2717,8 +2677,8 @@
       "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/nine-below-zero/7436455",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-02T09:38:38+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-07-07T06:35:26+01:00",
     "created": "2026-02-02T07:06:18+00:00"
   },
   {
