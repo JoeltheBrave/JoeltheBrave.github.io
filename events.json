@@ -1,50 +1,5 @@
 [
   {
-    "id": "Go9RXk",
-    "headline": "Friday Night Live with The String Fellows",
-    "title": "Friday Night Live with The String Fellows",
-    "startDate": "2026-07-10",
-    "endDate": "2026-07-10",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The String Fellows are a renowned five-piece band specializing in smokin’ jazz and blues with...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3046e056-5b75-4ff4-bafb-6fc98fb47830.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "String Fellows"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "rocknroll",
-      "blues",
-      "jazz",
-      "swing",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-string-fellows/7484590",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T13:34:26+01:00",
-    "created": "2026-05-13T12:34:16+00:00"
-  },
-  {
     "id": "vblz5x",
     "headline": "Saturday Night Live with Bendricks Rock",
     "title": "Saturday Night Live with Bendricks Rock",
