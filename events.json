@@ -1,45 +1,5 @@
 [
   {
-    "id": "vblz5x",
-    "headline": "Saturday Night Live with Bendricks Rock",
-    "title": "Saturday Night Live with Bendricks Rock",
-    "startDate": "2026-07-11",
-    "endDate": "2026-07-11",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Bendricks Rock hit The Earl Haig Club Bar — Saturday July 11th, 2026\nGet ready for...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b3e42ab4-98cd-49d9-b9e5-7f313f5cb50a.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Bendricks Rock"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-bendricks-rock/7484117",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-12T15:27:11+01:00",
-    "created": "2026-05-12T14:26:59+00:00"
-  },
-  {
     "id": "YYdKQA",
     "headline": "Sunday Sesions with Palm Tree Antics",
     "title": "Sunday Sesions with Palm Tree Antics",
