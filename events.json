@@ -1,44 +1,5 @@
 [
   {
-    "id": "RxQgXD",
-    "headline": "Monday Jam Session with Familiar Beerz",
-    "title": "Monday Jam Session with Familiar Beerz",
-    "startDate": "2026-07-13",
-    "endDate": "2026-07-13",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Jam Session\nEvery Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/66529a41-691f-4851-837e-e0144225305e.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Familiar Beerz"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-familiar-beerz/7484124",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T13:19:07+01:00",
-    "created": "2026-05-12T14:40:18+00:00"
-  },
-  {
     "id": "vblWmK",
     "headline": "Rockers Reunion with Dansette",
     "title": "Rockers Reunion with Dansette",
