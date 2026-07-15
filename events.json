@@ -1,48 +1,5 @@
 [
   {
-    "id": "vblWmK",
-    "headline": "Rockers Reunion with Dansette",
-    "title": "Rockers Reunion with Dansette",
-    "startDate": "2026-07-14",
-    "endDate": "2026-07-14",
-    "startTimeString": "8:45pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Rockers Reunion – Live at The Earl Haig Club with Live Music from Dansette\nFree Entry\nThe...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bda605da-d5d7-4412-9a5e-7b13b627dce8.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "Godnr",
-        "name": "Dansette"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "1960s",
-      "rnbandsoul"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-dansette/7477761",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-27T16:03:43+01:00",
-    "created": "2026-04-28T15:15:24+00:00"
-  },
-  {
     "id": "BNpOvD",
     "headline": "The Big Motown'N'Soul Nite with Ruby Kay & The Radyrcals Soul Band",
     "title": "The Big Motown'N'Soul Nite with Ruby Kay & The Radyrcals Soul Band",
