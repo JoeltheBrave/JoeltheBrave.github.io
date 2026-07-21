@@ -1,44 +1,5 @@
 [
   {
-    "id": "rB9ovv",
-    "headline": "Monday Jam Session with Mark Pontin",
-    "title": "Monday Jam Session with Mark Pontin",
-    "startDate": "2026-07-20",
-    "endDate": "2026-07-20",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Jam Session\nEvery Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/c386137c-b2b7-419c-a824-1af57c503cd9.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-mark-pontin/7484125",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:48:14+01:00",
-    "created": "2026-05-12T14:43:02+00:00"
-  },
-  {
     "id": "lGeWEz",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
