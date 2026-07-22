@@ -1,45 +1,5 @@
 [
   {
-    "id": "lGeWEz",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2026-07-21",
-    "endDate": "2026-07-21",
-    "startTimeString": "7:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic with Andy Johnson at The Earl Haig Club Bar\nJoin us for another edition...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/7d1db78b-54ae-4322-a62b-0f505065138f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7477765",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-14T17:53:35+01:00",
-    "created": "2026-04-28T15:18:17+00:00"
-  },
-  {
     "id": "YYdrrY",
     "headline": "The Fugitives at The Earl Haig Club , Bar",
     "title": "The Fugitives at The Earl Haig Club , Bar",
@@ -557,8 +517,8 @@
   },
   {
     "id": "bkRQez",
-    "headline": "Saturday Night Live with Rattlesnake",
-    "title": "Saturday Night Live with Rattlesnake",
+    "headline": "Saturday Night Live with Locked N' Loaded",
+    "title": "Saturday Night Live with Locked N' Loaded",
     "startDate": "2026-08-08",
     "endDate": "2026-08-08",
     "startTimeString": "8:30pm",
@@ -571,9 +531,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "LOCKED N' LOADED \nHard Classic Rock.\nFree entry",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/70b5beed-08e2-4f89-ba44-d5935f2367fb.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/82e78c42-a00a-452f-aef3-14e9bfa8fbd9.png?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -583,16 +543,16 @@
     },
     "artists": [
       {
-        "name": "Rattlesnake"
+        "name": "LOCKED N' LOADED"
       }
     ],
     "genre": [
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-rattlesnake/7493776",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-locked-n-loaded/7493776",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T14:02:40+01:00",
+    "lastUpdate": "2026-07-21T17:41:40+01:00",
     "created": "2026-06-03T13:02:30+00:00"
   },
   {
