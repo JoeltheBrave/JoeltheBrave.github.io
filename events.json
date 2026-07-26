@@ -1,46 +1,5 @@
 [
   {
-    "id": "akPqmn",
-    "headline": "Saturday Night Live with The S'punkles",
-    "title": "Saturday Night Live with The S'punkles",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The S'punkles at The Earl Haig Club Bar.\nTHE S’PUNKLES — LIVE 2026\nWe can’t wait to...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e8f77ed7-6879-4f2e-835c-ebab0f77a90f.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The S'punkles"
-      }
-    ],
-    "genre": [
-      "music",
-      "punk",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-spunkles/7484119",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:58:36+01:00",
-    "created": "2026-05-12T14:35:41+00:00"
-  },
-  {
     "id": "8Woqnv",
     "headline": "Sunday Sessions with Moonstorm",
     "title": "Sunday Sessions with Moonstorm",
