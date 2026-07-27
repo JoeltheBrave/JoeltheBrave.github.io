@@ -1,64 +1,5 @@
 [
   {
-    "id": "8Woqnv",
-    "headline": "Sunday Sessions with Moonstorm",
-    "title": "Sunday Sessions with Moonstorm",
-    "startDate": "2026-07-26",
-    "endDate": "2026-07-26",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "MOONSTORM – LIVE AT THE EARL HAIG CLUB\nGet ready for a full-throttle Sunday Session as...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/55ac63a5-b460-46e0-8fcd-3de0cee04305.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Moonstorm"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-07-26T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-05-13T13:58:27+01:00",
-        "onSaleUntil": "2026-07-26T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-moonstorm/7484595",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T13:58:38+01:00",
-    "created": "2026-05-13T12:58:26+00:00"
-  },
-  {
     "id": "oB86yW",
     "headline": "Monday Jam Session with James Oliver",
     "title": "Monday Jam Session with James Oliver",
@@ -528,8 +469,8 @@
   },
   {
     "id": "Go9RXy",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with hosts The Dismantlerz",
+    "title": "Monday Jam Session with hosts The Dismantlerz",
     "startDate": "2026-08-10",
     "endDate": "2026-08-10",
     "startTimeString": "8:00pm",
@@ -552,18 +493,26 @@
         "caption": null
       }
     },
-    "genre": [
-      "music"
+    "artists": [
+      {
+        "name": "The Dismantlerz"
+      }
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7484602",
+    "genre": [
+      "music",
+      "rock",
+      "punk",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-hosts-the-dismantlerz/7484602",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:13:47+01:00",
+    "lastUpdate": "2026-07-26T11:55:35+01:00",
     "created": "2026-05-13T13:13:35+00:00"
   },
   {
     "id": "RxQaDR",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
+    "headline": "Rockers Reunion with live music from The Sunsets",
+    "title": "Rockers Reunion with live music from The Sunsets",
     "startDate": "2026-08-11",
     "endDate": "2026-08-11",
     "startTimeString": "8:00pm",
@@ -586,12 +535,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "The Sunsets"
+      }
+    ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7493768",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-live-music-from-the-sunsets/7493768",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:45:50+01:00",
+    "lastUpdate": "2026-07-26T11:56:15+01:00",
     "created": "2026-06-03T12:45:39+00:00"
   },
   {
@@ -853,8 +807,8 @@
   },
   {
     "id": "592bPL",
-    "headline": "Bus Pass",
-    "title": "Bus Pass",
+    "headline": "Sunday Sessions with Bus Pass",
+    "title": "Sunday Sessions with Bus Pass",
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
     "startTimeString": "6:00pm",
@@ -867,7 +821,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": null,
+    "description": "Blues Rock with Bus Pass at The Earl Haig Club Concert Room, Cardiff\n£3 on the...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/aa24b324-5ba1-43b3-95d7-2feecc4dfefb.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -905,9 +859,9 @@
       "rock",
       "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/bus-pass/7493787",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-bus-pass/7493787",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T14:07:23+01:00",
+    "lastUpdate": "2026-07-26T11:58:09+01:00",
     "created": "2026-06-03T13:07:13+00:00"
   },
   {
@@ -947,8 +901,8 @@
   },
   {
     "id": "AweXZN",
-    "headline": "Dave & Tony",
-    "title": "Dave & Tony",
+    "headline": "Dave & Tony's Acoustic Blues Session",
+    "title": "Dave & Tony's Acoustic Blues Session",
     "startDate": "2026-08-25",
     "endDate": "2026-08-25",
     "startTimeString": "8:30pm",
@@ -981,9 +935,9 @@
       "acoustic",
       "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tony/7484611",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-session/7484611",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T14:09:53+01:00",
+    "lastUpdate": "2026-07-26T11:58:55+01:00",
     "created": "2026-05-13T13:28:44+00:00"
   },
   {
@@ -1136,8 +1090,8 @@
   },
   {
     "id": "0d6G41",
-    "headline": "Sunday Sessions",
-    "title": "Sunday Sessions",
+    "headline": "Sunday Sessions with The Rhythm Method",
+    "title": "Sunday Sessions with The Rhythm Method",
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
     "startTimeString": "6:00pm",
@@ -1187,9 +1141,9 @@
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7499747",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-rhythm-method/7499747",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-17T17:22:43+01:00",
+    "lastUpdate": "2026-07-26T13:45:58+01:00",
     "created": "2026-06-17T16:22:31+00:00"
   },
   {
@@ -1336,11 +1290,11 @@
     "created": "2026-06-28T01:50:08+00:00"
   },
   {
-    "id": "BNpv4p",
-    "headline": "Saturday Night Live",
-    "title": "Saturday Night Live",
-    "startDate": "2026-09-05",
-    "endDate": "2026-09-05",
+    "id": "d58kpw",
+    "headline": "Friday Night Live with Snatch It Back",
+    "title": "Friday Night Live with Snatch It Back",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-04",
     "startTimeString": "8:30pm",
     "endTimeString": "10:45pm",
     "hasMoved": false,
@@ -1351,9 +1305,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "ELK REDEMPTION – Live at The Earl Haig Club Bar\nSaturday, 5th September, 2026 • Free...",
+    "description": "Snatch It Back at The Earl Haig Club Bar.\nGet ready for a night of no-nonsense,...",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/c40eac9f-7ddc-42b3-8f86-fde93c637769.png?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/5b1f5c41-0fd1-4144-a5b8-ca766bb3352e.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1363,23 +1317,17 @@
     },
     "artists": [
       {
-        "name": "Elk Redemption"
+        "name": "Snatch It Back"
       }
     ],
     "genre": [
       "music",
-      "rock",
-      "acoustic",
-      "rocknroll",
-      "folk",
-      "americana",
-      "blues",
-      "covers"
+      "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7499756",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-snatch-it-back/7514750",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-17T17:41:39+01:00",
-    "created": "2026-06-17T16:41:27+00:00"
+    "lastUpdate": "2026-07-26T13:45:00+01:00",
+    "created": "2026-07-26T12:44:49+00:00"
   },
   {
     "id": "y8a1mk",
@@ -1444,6 +1392,112 @@
     "created": "2026-06-28T01:50:30+00:00"
   },
   {
+    "id": "BNpv4p",
+    "headline": "Saturday Night Live with Elk Redemption",
+    "title": "Saturday Night Live with Elk Redemption",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "ELK REDEMPTION – Live at The Earl Haig Club Bar\nSaturday, 5th September, 2026 • Free...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c40eac9f-7ddc-42b3-8f86-fde93c637769.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Elk Redemption"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic",
+      "rocknroll",
+      "folk",
+      "americana",
+      "blues",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-elk-redemption/7499756",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:46:58+01:00",
+    "created": "2026-06-17T16:41:27+00:00"
+  },
+  {
+    "id": "8mnZBe",
+    "headline": "Sunday Sessions with The Semantics",
+    "title": "Sunday Sessions with The Semantics",
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:05pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Semantics at The Earl Haig Club Concert Room.\nDoors open at 5pm\nBand on at 6pm\n£3...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/d4488d60-8443-4173-bc4e-1f372ac85fe1.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "pglO0",
+        "name": "The Semantics"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-06T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-07-26T13:49:51+01:00",
+        "onSaleUntil": "2026-09-06T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-semantics/7514751",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:50:00+01:00",
+    "created": "2026-07-26T12:49:50+00:00"
+  },
+  {
     "id": "NLZ4yl",
     "headline": "Monday Jam Session with Tattysyrup",
     "title": "Monday Jam Session with Tattysyrup",
@@ -1484,6 +1538,40 @@
     "created": "2026-06-03T13:15:48+00:00"
   },
   {
+    "id": "GeX7Ol",
+    "headline": "Rockers Reunion",
+    "title": "Rockers Reunion",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Rockers Reunion at The Earl Haig Club, Cardiff, with live music.\nThe legendary Old Cardiff Rockers...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/18e3bd63-3a93-4bfa-b9cd-6ebdc39c9e02.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7514746",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T12:37:26+01:00",
+    "created": "2026-07-26T11:37:15+00:00"
+  },
+  {
     "id": "4ywQe6",
     "headline": "Saturday Night Live",
     "title": "Saturday Night Live",
@@ -1521,6 +1609,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-17T17:44:51+01:00",
     "created": "2026-06-17T16:44:41+00:00"
+  },
+  {
+    "id": "L702W8",
+    "headline": "Sunday Sessions with Parcel of Rogues",
+    "title": "Sunday Sessions with Parcel of Rogues",
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-13",
+    "startTimeString": "6:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Parcel of Rogues Live at The Earl Haig Club Concert Room\nGet ready for an evening...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a81c6a36-9332-4c4c-a96c-be8bbbfd5ab6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Parcel of Rogues"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-13T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-07-26T13:53:45+01:00",
+        "onSaleUntil": "2026-09-13T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "folk",
+      "country"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-parcel-of-rogues/7514752",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:53:55+01:00",
+    "created": "2026-07-26T12:53:44+00:00"
   },
   {
     "id": "8Wo2no",
@@ -1709,6 +1857,105 @@
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
+    "id": "A6Z7lz",
+    "headline": "Saturday Night Live with Lonely Hearts Band",
+    "title": "Saturday Night Live with Lonely Hearts Band",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Lonely Hearts Band at The Earl Haig Club Bar\nJoin us for a fantastic evening of...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ad3560e6-10a8-498b-bafb-1583e6f749e3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Lonely Hearts Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-lonely-hearts-band/7514755",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T14:12:58+01:00",
+    "created": "2026-07-26T13:08:29+00:00"
+  },
+  {
+    "id": "qBzlwr",
+    "headline": "Sunday Sessions with Outback",
+    "title": "Sunday Sessions with Outback",
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:20pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Outback – Live at The Earl Haig Club Concert Room\nGet ready for a rocking Sunday...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bdd29a26-081a-4976-ae8c-c3a32261201e.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Outback"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-20T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-07-26T13:59:01+01:00",
+        "onSaleUntil": "2026-09-20T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-outback/7514753",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:59:11+01:00",
+    "created": "2026-07-26T12:59:00+00:00"
+  },
+  {
     "id": "AweG5A",
     "headline": "Monday Jam Session with James Oliver",
     "title": "Monday Jam Session with James Oliver",
@@ -1749,6 +1996,47 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-03T14:17:52+01:00",
     "created": "2026-06-03T13:17:40+00:00"
+  },
+  {
+    "id": "YaQOWr",
+    "headline": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
+    "title": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-22",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Dave &amp; Tony's Acoustic Blues Session at The Earl Haig Club Bar, Cardiff\nDave &amp; Tony’s...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b6a8d0d4-024d-4829-91c3-9b25996be58d.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Dave & Tony"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-session-at-the-earl-haig-club-bar/7514749",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:37:58+01:00",
+    "created": "2026-07-26T12:37:45+00:00"
   },
   {
     "id": "K9lX9o",
@@ -1891,7 +2179,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Raiders at The Earl Haig Club Bar",
+    "description": "The Raiders at The Earl Haig Club Bar\nRock Classic returns to the Earl Haig Club...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/6985f665-1364-4f88-8518-b0963a9c16bf.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -1907,8 +2195,66 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7499771",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-17T17:59:58+01:00",
+    "lastUpdate": "2026-07-26T14:11:50+01:00",
     "created": "2026-06-17T16:59:48+00:00"
+  },
+  {
+    "id": "NYabWg",
+    "headline": "Sunday Sessions with The Monday Club",
+    "title": "Sunday Sessions with The Monday Club",
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:25pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Sunday Special at The Earl Haig Club Concert Room\nFeaturing The Monday Club\nSunday, September 27th, 2026\nJoin...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/0acf4817-35aa-4675-86a8-199ec4b56b58.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Monday Club"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-27T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-07-26T14:03:34+01:00",
+        "onSaleUntil": "2026-09-27T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-monday-club/7514754",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T14:03:44+01:00",
+    "created": "2026-07-26T13:03:33+00:00"
   },
   {
     "id": "mD0KBj",
