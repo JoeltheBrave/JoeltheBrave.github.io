@@ -1,46 +1,5 @@
 [
   {
-    "id": "q5A1zE",
-    "headline": "Dave & Tony's Acoustic Blues Session",
-    "title": "Dave & Tony's Acoustic Blues Session",
-    "startDate": "2026-07-28",
-    "endDate": "2026-07-28",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Dave &amp; Tony’s Night of Acoustic Blues.\nFront Bar — The Earl Haig Club\nStep into an...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e184127c-36f4-4011-8f35-f677076b5f20.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-session/7484597",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:29:31+01:00",
-    "created": "2026-05-13T13:02:40+00:00"
-  },
-  {
     "id": "1WBxnv",
     "headline": "Parallel Blondes",
     "title": null,
