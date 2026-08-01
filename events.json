@@ -1,112 +1,5 @@
 [
   {
-    "id": "1WBxnv",
-    "headline": "Parallel Blondes",
-    "title": null,
-    "startDate": "2026-07-31",
-    "endDate": "2026-07-31",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": true,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "088zl",
-        "name": "Parallel Blondes"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "punk",
-      "tribute",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/parallel-blondes/7426172",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-06T14:12:30+01:00",
-    "created": "2026-01-14T07:05:19+00:00"
-  },
-  {
-    "id": "QxEB1m",
-    "headline": "Dizzy Lizzy",
-    "title": null,
-    "startDate": "2026-07-31",
-    "endDate": "2026-07-31",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/058/804/1ac0cf65c81212987863aed4bcb0355339987ee7.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "pyL",
-        "name": "Dizzy Lizzy"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-07-31T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£19.00",
-        "totalPrice": "£19.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-05-07T00:00:00+01:00",
-        "onSaleUntil": "2026-08-01T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvZGl6enktbGl6enkvdGhlLWVhcmwtaGFpZy1tZW1vcmlhbC1jbHViLzM2MzgwMzg_YWZmPWVudHMyNA/supplier/Ents24/suppliedid/MzYzODAzOA/ticketid/8047820/checksum/a3d84bd7bf573710bd8fdb8b9eaeac7d/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "tribute",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dizzy-lizzy/7481435",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-07T11:30:29+01:00",
-    "created": "2026-05-07T06:25:24+00:00"
-  },
-  {
     "id": "Pagwnm",
     "headline": "Saturday Night Live with The Sundogs",
     "title": "Saturday Night Live with The Sundogs",
@@ -285,6 +178,47 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-14T18:01:19+01:00",
     "created": "2026-05-13T13:20:23+00:00"
+  },
+  {
+    "id": "A6Zdyj",
+    "headline": "Just Friends Jazz Session",
+    "title": "Just Friends Jazz Session",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-04",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Just Friends Jazz Club at The Earl Haig Club Bar,\nFront Bar, The Earl Haig Club,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5c749de7-06cb-423b-916b-8dc858c6bec8.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Just Friends Jazz"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/just-friends-jazz-session/7517211",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-31T12:53:58+01:00",
+    "created": "2026-07-31T11:53:46+00:00"
   },
   {
     "id": "bkRQez",
