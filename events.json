@@ -1,45 +1,5 @@
 [
   {
-    "id": "Pagwnm",
-    "headline": "Saturday Night Live with The Sundogs",
-    "title": "Saturday Night Live with The Sundogs",
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-01",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Sundogs at The Earl Haig Club\nRock Covers",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/e4252762-1e1c-4389-af0a-48a1682f1b79.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Sundogs"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-sundogs/7484122",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T15:06:15+01:00",
-    "created": "2026-05-12T14:37:39+00:00"
-  },
-  {
     "id": "AweXZR",
     "headline": "Sunday Sessions with The Marc Davies Band",
     "title": "Sunday Sessions with The Marc Davies Band",
