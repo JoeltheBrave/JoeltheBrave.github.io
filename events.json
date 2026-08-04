@@ -1,45 +1,5 @@
 [
   {
-    "id": "emznDw",
-    "headline": "Monday Jam Session with F Troup",
-    "title": "Monday Jam Session with F Troup",
-    "startDate": "2026-08-03",
-    "endDate": "2026-08-03",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/81cb05e5-af4e-41cb-94c5-0022cb4dc408.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "F Troup"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-f-troup/7484601",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:11:47+01:00",
-    "created": "2026-05-13T13:11:35+00:00"
-  },
-  {
     "id": "8Woqnj",
     "headline": "Jazz Friends Jazz Band Session",
     "title": "Jazz Friends Jazz Band Session",
@@ -1941,13 +1901,25 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "ramE4",
+        "name": "The Raiders"
+      }
+    ],
     "genre": [
       "music",
-      "rock"
+      "rock",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1970s",
+      "1980s",
+      "1990s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7499771",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T14:11:50+01:00",
+    "lastUpdate": "2026-08-03T21:00:59+01:00",
     "created": "2026-06-17T16:59:48+00:00"
   },
   {
