@@ -1,47 +1,5 @@
 [
   {
-    "id": "Go9RXy",
-    "headline": "Monday Jam Session with hosts The Dismantlerz",
-    "title": "Monday Jam Session with hosts The Dismantlerz",
-    "startDate": "2026-08-10",
-    "endDate": "2026-08-10",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/11b4222e-e2d8-4309-9090-92c3dcc4ae54.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-hosts-the-dismantlerz/7484602",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T11:55:35+01:00",
-    "created": "2026-05-13T13:13:35+00:00"
-  },
-  {
     "id": "RxQaDR",
     "headline": "Rockers Reunion with live music from The Sunsets",
     "title": "Rockers Reunion with live music from The Sunsets",
@@ -1327,6 +1285,47 @@
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
+    "id": "A6Z7lz",
+    "headline": "Saturday Night Live with Lonely Hearts Band",
+    "title": "Saturday Night Live with Lonely Hearts Band",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Lonely Hearts Band at The Earl Haig Club Bar\nJoin us for a fantastic evening of...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ad3560e6-10a8-498b-bafb-1583e6f749e3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Lonely Hearts Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-lonely-hearts-band/7514755",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T14:12:58+01:00",
+    "created": "2026-07-26T13:08:29+00:00"
+  },
+  {
     "id": "g7pg5l",
     "headline": "The Small Fakers",
     "title": null,
@@ -1385,49 +1384,8 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-small-fakers/7426175",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-01-14T08:20:36+00:00",
+    "lastUpdate": "2026-08-10T10:32:01+01:00",
     "created": "2026-01-14T07:05:19+00:00"
-  },
-  {
-    "id": "A6Z7lz",
-    "headline": "Saturday Night Live with Lonely Hearts Band",
-    "title": "Saturday Night Live with Lonely Hearts Band",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-19",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Lonely Hearts Band at The Earl Haig Club Bar\nJoin us for a fantastic evening of...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/ad3560e6-10a8-498b-bafb-1583e6f749e3.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Lonely Hearts Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "tribute"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-lonely-hearts-band/7514755",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T14:12:58+01:00",
-    "created": "2026-07-26T13:08:29+00:00"
   },
   {
     "id": "qBzlwr",
@@ -1691,8 +1649,8 @@
       "1970s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/desperado-the-uks-premier-live-eagles-tribute/7426176",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-01-14T08:20:36+00:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-08-10T10:32:01+01:00",
     "created": "2026-01-14T07:05:19+00:00"
   },
   {
@@ -2385,8 +2343,8 @@
       "2000s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/children-of-the-gravy/7481125",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-06T15:16:46+01:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-08-10T10:31:33+01:00",
     "created": "2026-05-06T12:36:58+00:00"
   },
   {
@@ -2620,8 +2578,8 @@
       "blues"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dr-feelgood/7436456",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-02T09:38:40+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-08-10T10:32:02+01:00",
     "created": "2026-02-02T07:06:18+00:00"
   },
   {
@@ -2851,8 +2809,8 @@
       "tribute"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/legend-the-music-of-bob-marley/7476565",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-27T10:48:16+01:00",
+    "fansOnEnts24": 3,
+    "lastUpdate": "2026-08-10T10:31:32+01:00",
     "created": "2026-04-27T06:08:16+00:00"
   },
   {
