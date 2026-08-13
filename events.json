@@ -1,44 +1,5 @@
 [
   {
-    "id": "RxQaDR",
-    "headline": "Rockers Reunion with live music from The Sunsets",
-    "title": "Rockers Reunion with live music from The Sunsets",
-    "startDate": "2026-08-11",
-    "endDate": "2026-08-11",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The legendary Old Cardiff Rockers Reunion returns to The Earl Haig Club — a monthly...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Sunsets"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-live-music-from-the-sunsets/7493768",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T11:56:15+01:00",
-    "created": "2026-06-03T12:45:39+00:00"
-  },
-  {
     "id": "PagvDE",
     "headline": "Friday Night Live with Rock N Roll Revival",
     "title": "Friday Night Live with Rock N Roll Revival",
