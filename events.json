@@ -781,6 +781,52 @@
     "created": "2026-07-26T12:44:49+00:00"
   },
   {
+    "id": "BNpv4p",
+    "headline": "Saturday Night Live with Elk Redemption",
+    "title": "Saturday Night Live with Elk Redemption",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "ELK REDEMPTION – Live at The Earl Haig Club Bar\nSaturday, 5th September, 2026 • Free...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c40eac9f-7ddc-42b3-8f86-fde93c637769.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Elk Redemption"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic",
+      "rocknroll",
+      "folk",
+      "americana",
+      "blues",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-elk-redemption/7499756",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-07-26T13:46:58+01:00",
+    "created": "2026-06-17T16:41:27+00:00"
+  },
+  {
     "id": "y8a1mk",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "Big Mac's Wholly Soul Band",
@@ -841,52 +887,6 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-28T02:56:23+01:00",
     "created": "2026-06-28T01:50:30+00:00"
-  },
-  {
-    "id": "BNpv4p",
-    "headline": "Saturday Night Live with Elk Redemption",
-    "title": "Saturday Night Live with Elk Redemption",
-    "startDate": "2026-09-05",
-    "endDate": "2026-09-05",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "ELK REDEMPTION – Live at The Earl Haig Club Bar\nSaturday, 5th September, 2026 • Free...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/c40eac9f-7ddc-42b3-8f86-fde93c637769.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Elk Redemption"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "acoustic",
-      "rocknroll",
-      "folk",
-      "americana",
-      "blues",
-      "covers"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-elk-redemption/7499756",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T13:46:58+01:00",
-    "created": "2026-06-17T16:41:27+00:00"
   },
   {
     "id": "8mnZBe",
@@ -1023,9 +1023,66 @@
     "created": "2026-07-26T11:37:15+00:00"
   },
   {
+    "id": "Dzp6d1",
+    "headline": "Friday Night Live with The Blues Sisters",
+    "title": "Friday Night Live with The Blues Sisters",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Blues Sisters at The Earl Haig Club Bar.\nBlues Sisters at The Earl Haig Club,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b998cfff-db69-4ccd-bad7-0c9aa6c6eef8.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Blues Sisters"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-09-11T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-08-13T17:27:36+01:00",
+        "onSaleUntil": "2026-09-11T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-blues-sisters/7521684",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-13T17:27:47+01:00",
+    "created": "2026-08-13T16:27:35+00:00"
+  },
+  {
     "id": "4ywQe6",
-    "headline": "Saturday Night Live",
-    "title": "Saturday Night Live",
+    "headline": "Saturday Night Live with Late Shift",
+    "title": "Saturday Night Live with Late Shift",
     "startDate": "2026-09-12",
     "endDate": "2026-09-12",
     "startTimeString": "8:30pm",
@@ -1056,9 +1113,9 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7499759",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-late-shift/7499759",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-17T17:44:51+01:00",
+    "lastUpdate": "2026-08-13T17:18:02+01:00",
     "created": "2026-06-17T16:44:41+00:00"
   },
   {
@@ -1616,8 +1673,8 @@
   },
   {
     "id": "Z2kvGD",
-    "headline": "Saturday Night Live",
-    "title": "Saturday Night Live",
+    "headline": "Saturday Night Live with The Raiders",
+    "title": "Saturday Night Live with The Raiders",
     "startDate": "2026-09-26",
     "endDate": "2026-09-26",
     "startTimeString": "8:29pm",
@@ -1656,9 +1713,9 @@
       "1980s",
       "1990s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live/7499771",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-raiders/7499771",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-03T21:00:59+01:00",
+    "lastUpdate": "2026-08-13T17:19:30+01:00",
     "created": "2026-06-17T16:59:48+00:00"
   },
   {
@@ -1881,6 +1938,103 @@
     "created": "2026-06-28T01:51:45+00:00"
   },
   {
+    "id": "ke1k6b",
+    "headline": "Saturday Night Live With Helter Skelter",
+    "title": "Saturday Night Live With Helter Skelter",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Helter Skelter at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "g7x78",
+        "name": "Helter Skelter"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "covers",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-helter-skelter/7521682",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-13T17:21:45+01:00",
+    "created": "2026-08-13T16:21:33+00:00"
+  },
+  {
+    "id": "OqxmzK",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Jam Session at The Earl Haig Club bar\nEvery Monday | Free Entry\nThe Earl Haig Club,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/e2680941-07e6-4d16-9c03-b3c577dc2fb3.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2026-10-05T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-08-13T17:25:03+01:00",
+        "onSaleUntil": "2026-10-05T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7521683",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-13T17:25:13+01:00",
+    "created": "2026-08-13T16:25:02+00:00"
+  },
+  {
     "id": "Awegon",
     "headline": "Nine Below Zero",
     "title": null,
@@ -1943,6 +2097,64 @@
     "created": "2026-02-02T07:06:18+00:00"
   },
   {
+    "id": "xd1l92",
+    "headline": "Saturday Night Live with The Coasters",
+    "title": "Saturday Night Live with The Coasters",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Coasters at The Earl Haig Club",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Coasters"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-10T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-08-13T17:29:51+01:00",
+        "onSaleUntil": "2026-10-10T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-coasters/7521685",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-13T17:30:02+01:00",
+    "created": "2026-08-13T16:29:32+00:00"
+  },
+  {
     "id": "WgGoXX",
     "headline": "Electrik Live Orchestra",
     "title": null,
@@ -2003,6 +2215,58 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-01-14T08:20:38+00:00",
     "created": "2026-01-14T07:05:19+00:00"
+  },
+  {
+    "id": "719ybz",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": true,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Jam Session at The Earl Haig Club bar\nEvery Monday | Free Entry\nThe Earl Haig Club,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/94c9691c-05e3-4e83-8960-2ee741fb1769.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "tickets": [
+      {
+        "dateTime": "2026-10-12T20:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-08-13T17:31:32+01:00",
+        "onSaleUntil": "2026-10-12T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7521686",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-13T17:31:42+01:00",
+    "created": "2026-08-13T16:31:31+00:00"
   },
   {
     "id": "ymZlyv",
