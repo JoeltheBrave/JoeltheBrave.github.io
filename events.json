@@ -1,45 +1,5 @@
 [
   {
-    "id": "PagvDE",
-    "headline": "Friday Night Live with Rock N Roll Revival",
-    "title": "Friday Night Live with Rock N Roll Revival",
-    "startDate": "2026-08-14",
-    "endDate": "2026-08-14",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Rock N Roll Revival"
-      }
-    ],
-    "genre": [
-      "music",
-      "rocknroll"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-rock-n-roll-revival/7493766",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:43:47+01:00",
-    "created": "2026-06-03T12:43:37+00:00"
-  },
-  {
     "id": "rB9qQr",
     "headline": "Friday Night Live with Panic Station",
     "title": "Friday Night Live with Panic Station",
@@ -144,8 +104,8 @@
   },
   {
     "id": "0GNe6l",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Sessionwith Deadedz",
+    "title": "Monday Jam Sessionwith Deadedz",
     "startDate": "2026-08-17",
     "endDate": "2026-08-17",
     "startTimeString": "8:00pm",
@@ -158,7 +118,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
+    "description": "Monday Jam Session with Deadedz\nKick-start your week with the Monday Night Open Mic Jam Session...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/05f263da-401d-4421-9b1c-6cc0d16956be.png?auto=format&w=150&h=112",
       "width": 150,
@@ -168,13 +128,30 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "id": "Rj9E2",
+        "name": "deadedz"
+      }
+    ],
     "genre": [
       "music",
-      "rock"
+      "rock",
+      "acoustic",
+      "experimental",
+      "rocknroll",
+      "folk",
+      "country",
+      "americana",
+      "blues",
+      "tribute",
+      "1950s",
+      "1960s",
+      "1970s"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7484603",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-sessionwith-deadedz/7484603",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:15:04+01:00",
+    "lastUpdate": "2026-08-14T12:05:42+01:00",
     "created": "2026-05-13T13:14:53+00:00"
   },
   {
@@ -2446,6 +2423,124 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-04-01T17:50:25+01:00",
     "created": "2026-04-01T16:09:20+00:00"
+  },
+  {
+    "id": "4ywB8v",
+    "headline": "The Steve Bryant Orchestra",
+    "title": "The Steve Bryant Orchestra",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Steve Bryant Orchestra live at The Earl Haig Club Bar for a night of...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/4b297601-e73e-4ccc-b9f0-ab0265b4e49c.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Steve Bryant Orchestra"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-steve-bryant-orchestra/7522059",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-14T16:59:06+01:00",
+    "created": "2026-08-14T15:58:55+00:00"
+  },
+  {
+    "id": "nzAvpB",
+    "headline": "Monday Jam Session",
+    "title": "Monday Jam Session",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Jam Session at The Earl Haig Club Bar\nEvery Monday | Free Entry\nThe Earl Haig Club,...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/803ca444-158b-4339-954c-ef84a3b39359.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7522060",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-14T17:00:40+01:00",
+    "created": "2026-08-14T16:00:29+00:00"
+  },
+  {
+    "id": "vjAkpw",
+    "headline": "Friday Night Live with The Lay-Lows",
+    "title": "Friday Night Live with The Lay-Lows",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Return of The Lay-Lows\nFriday 23rd October 2026\nFree Entry\nEarl Haig Club, Whitchurch, Cardiff\nOne of the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9bd9f36f-882d-4343-bb0d-fbebc29460f2.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "YYEzr",
+        "name": "The Lay-Lows"
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "rock",
+      "alternative",
+      "2000s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-lay-lows/7522061",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-14T17:02:26+01:00",
+    "created": "2026-08-14T16:02:15+00:00"
   },
   {
     "id": "4QXB79",
