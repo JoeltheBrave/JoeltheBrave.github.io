@@ -1,49 +1,5 @@
 [
   {
-    "id": "rB9qQr",
-    "headline": "Friday Night Live with Panic Station",
-    "title": "Friday Night Live with Panic Station",
-    "startDate": "2026-08-15",
-    "endDate": "2026-08-15",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/076/942/dcc5191ede6202172c2a8997c1094c4e950924a0.tmp?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "eXXE",
-        "name": "Panic Station"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "covers",
-      "2000s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-panic-station/7493769",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T13:47:30+01:00",
-    "created": "2026-06-03T12:47:20+00:00"
-  },
-  {
     "id": "1WBGWA",
     "headline": "Sunday Sessions with The Jedis",
     "title": "Sunday Sessions with The Jedis",
@@ -815,11 +771,11 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "To join waiting list to buy/sell spare tickets to this event please click here --&gt;...",
     "image": {
       "url": "https://ents24.imgix.net/image/000/301/112/cf5acf374a250b15a4ba16cdceb8d8d6c4060b1c.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -835,24 +791,6 @@
         "name": "Big Mac's Wholly Soul Band"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-09-05T19:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£20.00",
-        "totalPrice": "£20.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-06-28T02:56:18+01:00",
-        "onSaleUntil": "2026-09-05T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU5NDUw/ticketid/8092118/checksum/bf043deab45e2a745f989b637581db0a/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "blues",
@@ -862,7 +800,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-macs-wholly-soul-band/7504014",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-28T02:56:23+01:00",
+    "lastUpdate": "2026-08-15T13:15:30+01:00",
     "created": "2026-06-28T01:50:30+00:00"
   },
   {
