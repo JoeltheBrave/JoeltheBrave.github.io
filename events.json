@@ -1,57 +1,5 @@
 [
   {
-    "id": "0GNe6l",
-    "headline": "Monday Jam Sessionwith Deadedz",
-    "title": "Monday Jam Sessionwith Deadedz",
-    "startDate": "2026-08-17",
-    "endDate": "2026-08-17",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with Deadedz\nKick-start your week with the Monday Night Open Mic Jam Session...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/05f263da-401d-4421-9b1c-6cc0d16956be.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "Rj9E2",
-        "name": "deadedz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "acoustic",
-      "experimental",
-      "rocknroll",
-      "folk",
-      "country",
-      "americana",
-      "blues",
-      "tribute",
-      "1950s",
-      "1960s",
-      "1970s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-sessionwith-deadedz/7484603",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-14T12:05:42+01:00",
-    "created": "2026-05-13T13:14:53+00:00"
-  },
-  {
     "id": "Lz6w0D",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
