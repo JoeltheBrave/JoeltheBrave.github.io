@@ -3794,6 +3794,66 @@
     "created": "2026-05-12T12:11:02+00:00"
   },
   {
+    "id": "d58njj",
+    "headline": "Soft Machine",
+    "title": null,
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/515/590/ebc80c00d340d2981960e96ae977673f670004e6.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": "JOHN BENTLEY",
+        "caption": "JOHN BENTLEY"
+      }
+    },
+    "artists": [
+      {
+        "id": "rBAZo",
+        "name": "Soft Machine"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-03-03T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£23.75",
+        "totalPrice": "£23.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-08-19T00:00:00+01:00",
+        "onSaleUntil": "2027-03-04T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvc29mdC1tYWNoaW5lL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zNzA3NjQ4P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzcwNzY0OA/ticketid/8129626/checksum/e9c2c553198f9ac1357e65bda2ade28c/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/soft-machine/7523250",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-19T10:23:04+01:00",
+    "created": "2026-08-19T06:56:19+00:00"
+  },
+  {
     "id": "K9lenk",
     "headline": "Focus",
     "title": null,
