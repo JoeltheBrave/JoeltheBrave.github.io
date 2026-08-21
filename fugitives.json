@@ -1,5 +1,198 @@
 [
   {
+    "id": "719Gyz",
+    "headline": "The Fugitives at United Services Club, Machen",
+    "title": "The Fugitives at United Services Club, Machen",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "bk2ed",
+      "type": "Place",
+      "name": "United Services Club, Machen",
+      "address": {
+        "streetAddress": [
+          "The British Legion (Machen)",
+          "Forge Road"
+        ],
+        "town": "Machen, Caerphilly",
+        "postcode": "CF83 8PH",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.595528,
+        "lon": -3.141012
+      },
+      "webLink": "https://www.ents24.com/machen-caerphilly-events/united-services-club-machen"
+    },
+    "description": "Brace yourself for a night of electrifying rhythm and blues as The Fugitives take the...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/machen-caerphilly-events/united-services-club-machen/the-fugitives-at-united-services-club-machen/7523886",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-20T20:53:24+01:00",
+    "created": "2026-08-20T19:46:46+00:00"
+  },
+  {
+    "id": "5BOm1y",
+    "headline": "The Fugitives at The Mitre, Abertillery.",
+    "title": "The Fugitives at The Mitre, Abertillery.",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-29",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "ymjry",
+      "type": "Place",
+      "name": "The Mitre, Abertillery",
+      "address": {
+        "streetAddress": [
+          "Mitre St, Abertillery NP13 1AE"
+        ],
+        "town": "Abertillery",
+        "postcode": "NP131AE",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.729952,
+        "lon": -3.133064
+      },
+      "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery"
+    },
+    "description": "The Fugitives at The Mitre, Abertillery.\n Get Ready to Move – The Fugitives Are Coming!...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/abertillery-events/the-mitre-abertillery/the-fugitives-at-the-mitre-abertillery/7523887",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-20T20:52:46+01:00",
+    "created": "2026-08-20T19:49:17+00:00"
+  },
+  {
+    "id": "m5Lorv",
+    "headline": "The Fugitives  at The Hanbury, Bargoed",
+    "title": "The Fugitives  at The Hanbury, Bargoed",
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTimeString": "5:00pm",
+    "endTimeString": "8:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "nKXNj",
+      "type": "Place",
+      "name": "The Hanbury, Bargoed",
+      "address": {
+        "streetAddress": [
+          "Hanbury Road"
+        ],
+        "town": "Bargoed",
+        "postcode": "CF818QU",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.688648,
+        "lon": -3.229349
+      },
+      "webLink": "https://www.ents24.com/bargoed-events/the-hanbury-bargoed"
+    },
+    "description": "The Fugitives live at The Hanbury, Bargoed..\nClear your schedule and get ready for a night...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/351/826/2dc2700e032cf630c8051d72a9be528650a503ad.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/bargoed-events/the-hanbury-bargoed/the-fugitives-at-the-hanbury-bargoed/7523888",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-08-20T20:51:52+01:00",
+    "created": "2026-08-20T19:50:42+00:00"
+  },
+  {
     "id": "5BO95j",
     "headline": "The Fugitives at The Smiths Arms",
     "title": "The Fugitives at The Smiths Arms",
