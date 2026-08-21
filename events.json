@@ -99,8 +99,8 @@
   },
   {
     "id": "K9l1G4",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with FTroup",
+    "title": "Monday Jam Session with FTroup",
     "startDate": "2026-08-24",
     "endDate": "2026-08-24",
     "startTimeString": "8:00pm",
@@ -123,13 +123,18 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "F Troup"
+      }
+    ],
     "genre": [
       "music",
       "rock"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7484604",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-ftroup/7484604",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:16:02+01:00",
+    "lastUpdate": "2026-08-20T20:45:05+01:00",
     "created": "2026-05-13T13:15:50+00:00"
   },
   {
