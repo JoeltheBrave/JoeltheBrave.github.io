@@ -759,8 +759,8 @@
   },
   {
     "id": "GeX7Ol",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
+    "headline": "Rockers Reunion with Riff Raff",
+    "title": "Rockers Reunion with Riff Raff",
     "startDate": "2026-09-08",
     "endDate": "2026-09-08",
     "startTimeString": "8:00pm",
@@ -773,7 +773,7 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Rockers Reunion at The Earl Haig Club, Cardiff, with live music.\nThe legendary Old Cardiff Rockers...",
+    "description": "Rockers Reunion at The Earl Haig Club, Cardiff, with Rhythm &amp; Blues live music from...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/18e3bd63-3a93-4bfa-b9cd-6ebdc39c9e02.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -783,12 +783,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Riff Raff"
+      }
+    ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7514746",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-riff-raff/7514746",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T12:37:26+01:00",
+    "lastUpdate": "2026-08-21T17:07:40+01:00",
     "created": "2026-07-26T11:37:15+00:00"
   },
   {
