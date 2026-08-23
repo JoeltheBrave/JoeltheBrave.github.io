@@ -1,44 +1,5 @@
 [
   {
-    "id": "E9qdY2",
-    "headline": "Saturday Night Live with Second Chance",
-    "title": "Saturday Night Live with Second Chance",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "SECOND CHANCE – LIVE AT THE EARL HAIG CLUB BAR\nSaturday 22nd August 2026 | 8:30pm...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/3c313abb-eccf-467c-9953-e6980ea4e66b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Second Chance"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-second-chance/7493777",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-18T14:13:30+01:00",
-    "created": "2026-06-03T13:05:01+00:00"
-  },
-  {
     "id": "592bPL",
     "headline": "Sunday Sessions with Bus Pass",
     "title": "Sunday Sessions with Bus Pass",
