@@ -1,46 +1,5 @@
 [
   {
-    "id": "AweXZN",
-    "headline": "Dave & Tony's Acoustic Blues Session",
-    "title": "Dave & Tony's Acoustic Blues Session",
-    "startDate": "2026-08-25",
-    "endDate": "2026-08-25",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Front Bar — The Earl Haig Club\nDave &amp; Tony’s Night of Acoustic Blues.\nStep into an...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4f58ea3d-e7e4-4c15-912d-f4a6da577af6.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-session/7484611",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-07-26T11:58:55+01:00",
-    "created": "2026-05-13T13:28:44+00:00"
-  },
-  {
     "id": "K9lNGv",
     "headline": "UB40 Tribute Band",
     "title": "UB40 Tribute Band",
