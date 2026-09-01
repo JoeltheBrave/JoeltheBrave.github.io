@@ -1,45 +1,5 @@
 [
   {
-    "id": "dD1482",
-    "headline": "Monday Jam Session with Mark Pontin",
-    "title": "Monday Jam Session with Mark Pontin",
-    "startDate": "2026-08-31",
-    "endDate": "2026-08-31",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Every Monday | Free Entry\nThe Earl Haig Club, Whitchurch, Cardiff\nwww.earlhaigclub.com\nAddress:\nThe Earl Haig Club\n22–23 Penlline Road\nCardiff\nCF14...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/533bea14-e5d7-4a2c-81f2-b4046a75a080.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Mark Pontin"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-mark-pontin/7484606",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-05-13T14:17:40+01:00",
-    "created": "2026-05-13T13:16:54+00:00"
-  },
-  {
     "id": "A6ZZXN",
     "headline": "Jazz Friends Jazz Band Session",
     "title": "Jazz Friends Jazz Band Session",
