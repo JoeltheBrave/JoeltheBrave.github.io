@@ -1,46 +1,5 @@
 [
   {
-    "id": "A6ZZXN",
-    "headline": "Jazz Friends Jazz Band Session",
-    "title": "Jazz Friends Jazz Band Session",
-    "startDate": "2026-09-01",
-    "endDate": "2026-09-01",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Front Bar, The Earl Haig Club, Whitchurch, Cardiff\nJoin us for our monthly jazz night as...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/a362e0b7-54b0-4c2b-88e9-c416aaae6204.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Just Friends Jazz"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/jazz-friends-jazz-band-session/7497899",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-14T18:01:25+01:00",
-    "created": "2026-06-14T17:01:06+00:00"
-  },
-  {
     "id": "9ena4o",
     "headline": "Big Mac's Wholly Soul Band",
     "title": "Big Mac's Wholly Soul Band",
