@@ -1,45 +1,5 @@
 [
   {
-    "id": "NLZ4yl",
-    "headline": "Monday Jam Session with Tattysyrup",
-    "title": "Monday Jam Session with Tattysyrup",
-    "startDate": "2026-09-07",
-    "endDate": "2026-09-07",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic &amp; Jam Session Every Monday | Free Entry The Earl Haig...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b095699a-7849-4ae5-838e-f71c5b94699d.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "6wDRb",
-        "name": "Tattysyrup"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-tattysyrup/7493798",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-06-03T14:16:00+01:00",
-    "created": "2026-06-03T13:15:48+00:00"
-  },
-  {
     "id": "GeX7Ol",
     "headline": "Rockers Reunion with Riff Raff",
     "title": "Rockers Reunion with Riff Raff",
