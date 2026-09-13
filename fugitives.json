@@ -65,6 +65,201 @@
     "created": "2026-06-17T16:07:23+00:00"
   },
   {
+    "id": "ke1AyG",
+    "headline": "Live at The Butchers",
+    "title": "Live at The Butchers",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "The Fugitives at The Butcher's Arms, Rhiwbina\nTHE FUGITIVES – 25 YEARS OF RHYTHM &amp; BLUES\nClear...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9a13c336-1d8a-406e-b38b-97c0cae2e2c9.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/live-at-the-butchers/7533238",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-12T15:28:19+01:00",
+    "created": "2026-09-12T14:28:08+00:00"
+  },
+  {
+    "id": "OqxGpw",
+    "headline": "Tenby Blues Festival",
+    "title": "Tenby Blues Festival",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTimeString": "3:00pm",
+    "endTimeString": "4:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "1W7Rz",
+      "type": "Place",
+      "name": "Belgrave Hotel, Esplanade, Tenby, United Kingdom, SA70 7DU",
+      "address": {
+        "streetAddress": [
+          "Esplanade,",
+          "Tenby"
+        ],
+        "town": "Tenby",
+        "postcode": "SA707DU",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.668962,
+        "lon": -4.70144
+      },
+      "webLink": "https://www.ents24.com/tenby-events/belgrave-hotel-esplanade-tenby-united-kingdom-sa70-7du"
+    },
+    "description": "The Fugitives at The Belgrave Hotel, Tenby\nTHE FUGITIVES – 25 YEARS OF RHYTHM &amp; BLUES\nClear...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/6dbc6d06-9e2a-496e-821e-4708ae3508ba.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/tenby-events/belgrave-hotel-esplanade-tenby-united-kingdom-sa70-7du/tenby-blues-festival/7533239",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-12T15:33:34+01:00",
+    "created": "2026-09-12T14:33:23+00:00"
+  },
+  {
+    "id": "Dzpb4p",
+    "headline": "Live at The Hanbury",
+    "title": "Live at The Hanbury",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "0P91",
+      "type": "Place",
+      "name": "Hanbury Arms",
+      "address": {
+        "streetAddress": [
+          "Uskside"
+        ],
+        "town": "Caerleon",
+        "postcode": "NP18 1AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.607838,
+        "lon": -2.953785
+      },
+      "webLink": "https://www.ents24.com/caerleon-events/hanbury-arms"
+    },
+    "description": "The Fugitives at The Hanbury Arms, Caerleon\nTHE FUGITIVES – 25 YEARS OF RHYTHM &amp; BLUES\nClear...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/bd80ffe4-5561-4937-82bf-a86f2d88df7f.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/caerleon-events/hanbury-arms/live-at-the-hanbury/7533240",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-12T15:35:43+01:00",
+    "created": "2026-09-12T14:35:30+00:00"
+  },
+  {
     "id": "gZG758",
     "headline": "The Fugitives live at Rockers Reunion at The Earl Haig Club.",
     "title": "The Fugitives live at Rockers Reunion at The Earl Haig Club.",
@@ -194,5 +389,136 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-06-17T18:49:25+01:00",
     "created": "2026-06-17T15:53:54+00:00"
+  },
+  {
+    "id": "xd1Rqy",
+    "headline": "Live at The Butchers",
+    "title": "Live at The Butchers",
+    "startDate": "2026-12-24",
+    "endDate": "2026-12-24",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "THE FUGITIVES – 25 YEARS OF RHYTHM &amp; BLUES\nClear your schedule, grab your dancing shoes...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/263d9b04-700a-4589-a568-87e1e459527f.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/live-at-the-butchers/7533241",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-12T15:37:15+01:00",
+    "created": "2026-09-12T14:37:04+00:00"
+  },
+  {
+    "id": "719ng1",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-26",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives at The Earl Haig Club Bar\nTHE FUGITIVES – 25 YEARS OF RHYTHM &amp;...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/647d1231-9022-47ba-a082-6b821d082410.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7533242",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-12T15:38:39+01:00",
+    "created": "2026-09-12T14:38:27+00:00"
   }
 ]
