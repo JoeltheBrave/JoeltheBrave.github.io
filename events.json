@@ -1,45 +1,5 @@
 [
   {
-    "id": "BNpRa6",
-    "headline": "Monday Jam Session with Locked & Loaded",
-    "title": "Monday Jam Session with Locked & Loaded",
-    "startDate": "2026-09-14",
-    "endDate": "2026-09-14",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Jam Session with Locked &amp; Loaded at The Earl Haig Club Bar\nEvery Monday | Free...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/13dfe1b7-2f1f-4bae-9170-f938d7c80b08.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Locked & Loaded"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-locked-and-loaded/7523056",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T09:51:01+01:00",
-    "created": "2026-08-18T13:18:48+00:00"
-  },
-  {
     "id": "X2kq0L",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
