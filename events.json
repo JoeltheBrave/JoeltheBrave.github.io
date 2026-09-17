@@ -1470,6 +1470,42 @@
     "created": "2026-01-13T12:09:43+00:00"
   },
   {
+    "id": "5BOe4E",
+    "headline": "Friday Night Live",
+    "title": "Friday Night Live",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Dandylions Acoustic Duo featuring Andy Johnson at The Earl Haig Club Bar.\nThe Dandylions will...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/909e4ff7-96f6-42f4-9dc5-0d8f63b33ccb.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "genre": [
+      "music",
+      "acoustic",
+      "covers"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live/7535343",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-16T18:07:15+01:00",
+    "created": "2026-09-16T17:07:03+00:00"
+  },
+  {
     "id": "YYdRQm",
     "headline": "80's Disco",
     "title": "80's Disco",
