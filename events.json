@@ -1,47 +1,5 @@
 [
   {
-    "id": "AweG5A",
-    "headline": "Monday Jam Session with James Oliver",
-    "title": "Monday Jam Session with James Oliver",
-    "startDate": "2026-09-21",
-    "endDate": "2026-09-21",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Night Open Mic /  Jam Session Every Monday | Free Entry The Earl Haig...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/14e981bb-9a32-4a34-bdb8-03f5d71efaa6.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7493799",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T13:27:18+01:00",
-    "created": "2026-06-03T13:17:40+00:00"
-  },
-  {
     "id": "YaQOWr",
     "headline": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
     "title": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
@@ -2744,7 +2702,7 @@
     "price": null,
     "description": null,
     "image": {
-      "url": "https://ents24.imgix.net/image/000/082/314/843436d06a986d2cb119b8530e6d4d61c645d7ec.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/000/549/658/f45507af5d085acb0591d79bb6ba2f1ee3e4672b.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -2783,7 +2741,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dr-feelgood/7436456",
     "fansOnEnts24": 2,
-    "lastUpdate": "2026-08-10T10:32:02+01:00",
+    "lastUpdate": "2026-09-21T18:38:26+01:00",
     "created": "2026-02-02T07:06:18+00:00"
   },
   {
