@@ -1,46 +1,5 @@
 [
   {
-    "id": "YaQOWr",
-    "headline": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
-    "title": "Dave & Tony's Acoustic Blues Session at The Earl Haig Club Bar",
-    "startDate": "2026-09-22",
-    "endDate": "2026-09-22",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Step into an intimate evening of raw, stripped-back acoustic blues — soulful, honest, and exactly...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b6a8d0d4-024d-4829-91c3-9b25996be58d.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Dave & Tony"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/dave-and-tonys-acoustic-blues-session-at-the-earl-haig-club-bar/7514749",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T13:26:02+01:00",
-    "created": "2026-07-26T12:37:45+00:00"
-  },
-  {
     "id": "K9lX9o",
     "headline": "ZZ TOPPD",
     "title": null,
@@ -3306,6 +3265,65 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-09-12T15:38:39+01:00",
     "created": "2026-09-12T14:38:27+00:00"
+  },
+  {
+    "id": "BNpQQL",
+    "headline": "Marie Curie, held in memory of Alun Morris.",
+    "title": "Marie Curie, held in memory of Alun Morris.",
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-27",
+    "startTimeString": "6:00pm",
+    "endTimeString": "9:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "A special charity concert at The Earl Haig Club.\nThe Almost Legendary Jug Band are rolling...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f53a2aee-bdc7-4a4a-98ab-15f4ac9e7602.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "PnmR",
+        "name": "The Jug Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-27T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-09-22T16:42:06+01:00",
+        "onSaleUntil": "2026-12-27T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "folk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/marie-curie-held-in-memory-of-alun-morris/7537812",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-22T16:42:15+01:00",
+    "created": "2026-09-22T15:42:04+00:00"
   },
   {
     "id": "NLZ9LY",
