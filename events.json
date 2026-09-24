@@ -317,6 +317,65 @@
     "created": "2026-06-03T13:20:31+00:00"
   },
   {
+    "id": "DzpWgN",
+    "headline": "BIG BAND JAZZ NIGHT",
+    "title": "BIG BAND JAZZ NIGHT",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:46pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join the Capital City Jazz Orchestra for a thrilling evening of big band jazz at...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/f1e449fc-65ea-4e4f-ae89-d37e11062d8b.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "zabXv",
+        "name": "Capital City Jazz Orchestra"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-01T20:30:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£10.00",
+        "totalPrice": "£10.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-09-23T22:21:35+01:00",
+        "onSaleUntil": "2026-10-01T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-band-jazz-night/7538384",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-09-23T22:21:45+01:00",
+    "created": "2026-09-23T21:21:34+00:00"
+  },
+  {
     "id": "pgqr7W",
     "headline": "Metallica Reloaded",
     "title": null,
@@ -579,8 +638,8 @@
   },
   {
     "id": "OqxmzK",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with MIDNIGHT RIDERS",
+    "title": "Monday Jam Session with MIDNIGHT RIDERS",
     "startDate": "2026-10-05",
     "endDate": "2026-10-05",
     "startTimeString": "8:00pm",
@@ -593,7 +652,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Jam Session at The Earl Haig Club bar\nEvery Monday | Free Entry\nThe Earl Haig Club,...",
+    "description": "Jam Session at The Earl Haig Club bar with hosts Midnight Riders\nEvery Monday | Free...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/e2680941-07e6-4d16-9c03-b3c577dc2fb3.png?auto=format&w=150&h=112",
       "width": 150,
@@ -603,6 +662,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "MIDNIGHT RIDERS"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2026-10-05T20:00:00+01:00",
@@ -624,9 +688,9 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7521683",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-midnight-riders/7521683",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-13T17:25:13+01:00",
+    "lastUpdate": "2026-09-23T17:37:22+01:00",
     "created": "2026-08-13T16:25:02+00:00"
   },
   {
@@ -892,8 +956,8 @@
   },
   {
     "id": "719ybz",
-    "headline": "Monday Jam Session",
-    "title": "Monday Jam Session",
+    "headline": "Monday Jam Session with Silverline",
+    "title": "Monday Jam Session with Silverline",
     "startDate": "2026-10-12",
     "endDate": "2026-10-12",
     "startTimeString": "8:00pm",
@@ -906,7 +970,7 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "Jam Session at The Earl Haig Club bar\nEvery Monday | Free Entry\nThe Earl Haig Club,...",
+    "description": "Jam Session at The Earl Haig Club bar with hosts Silverline\nEvery Monday | Free Entry\nThe...",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/94c9691c-05e3-4e83-8960-2ee741fb1769.png?auto=format&w=150&h=112",
       "width": 150,
@@ -916,6 +980,11 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Silverline"
+      }
+    ],
     "tickets": [
       {
         "dateTime": "2026-10-12T20:00:00+01:00",
@@ -937,15 +1006,15 @@
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session/7521686",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-silverline/7521686",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-13T17:31:42+01:00",
+    "lastUpdate": "2026-09-23T17:38:41+01:00",
     "created": "2026-08-13T16:31:31+00:00"
   },
   {
     "id": "10b29z",
-    "headline": "Rockers Reunion",
-    "title": "Rockers Reunion",
+    "headline": "Rockers Reunion with Roosevelt",
+    "title": "Rockers Reunion with Roosevelt",
     "startDate": "2026-10-13",
     "endDate": "2026-10-13",
     "startTimeString": "8:00pm",
@@ -968,12 +1037,17 @@
         "caption": null
       }
     },
+    "artists": [
+      {
+        "name": "Roosevelt"
+      }
+    ],
     "genre": [
       "music"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion/7532328",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-roosevelt/7532328",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T09:57:37+01:00",
+    "lastUpdate": "2026-09-23T17:39:53+01:00",
     "created": "2026-09-10T08:57:25+00:00"
   },
   {
