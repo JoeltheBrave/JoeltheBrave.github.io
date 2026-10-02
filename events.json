@@ -1,64 +1,5 @@
 [
   {
-    "id": "DzpWgN",
-    "headline": "BIG BAND JAZZ NIGHT",
-    "title": "BIG BAND JAZZ NIGHT",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-01",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Join the Capital City Jazz Orchestra for a thrilling evening of big band jazz at...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/f1e449fc-65ea-4e4f-ae89-d37e11062d8b.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "zabXv",
-        "name": "Capital City Jazz Orchestra"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-10-01T20:30:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-09-23T22:21:35+01:00",
-        "onSaleUntil": "2026-10-01T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "jazz"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/big-band-jazz-night/7538384",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-23T22:21:45+01:00",
-    "created": "2026-09-23T21:21:34+00:00"
-  },
-  {
     "id": "pgqr7W",
     "headline": "Metallica Reloaded",
     "title": null,
@@ -123,21 +64,21 @@
   },
   {
     "id": "Dzp6lo",
-    "headline": "Friday Night Live with The Jimmy Mac Blues Band",
-    "title": "Friday Night Live with The Jimmy Mac Blues Band",
+    "headline": "Friday Night Live Cancelled",
+    "title": "Friday Night Live Cancelled",
     "startDate": "2026-10-02",
     "endDate": "2026-10-02",
     "startTimeString": "8:30pm",
     "endTimeString": "10:45pm",
     "hasMoved": false,
-    "isCancelled": false,
+    "isCancelled": true,
     "isPostponed": false,
     "isRescheduled": false,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "The Jimmy Mac Blues Band – Live at The Earl Haig Club\nGet ready for a...",
+    "description": "The Jimmy Mac Blues Band – Live at The Earl Haig Club - CANCELLED",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/256ea04c-4363-4690-9fab-fd7ee59d480c.png?auto=format&w=150&h=112",
       "width": 150,
@@ -157,9 +98,9 @@
       "music",
       "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-jimmy-mac-blues-band/7523040",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-18T14:07:23+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-cancelled/7523040",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-10-01T12:44:12+01:00",
     "created": "2026-08-18T12:23:49+00:00"
   },
   {
