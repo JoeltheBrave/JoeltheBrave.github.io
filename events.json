@@ -1,65 +1,5 @@
 [
   {
-    "id": "m5LrRq",
-    "headline": "Sunday Sessions with The James Oliver Band",
-    "title": "Sunday Sessions with The James Oliver Band",
-    "startDate": "2026-10-04",
-    "endDate": "2026-10-04",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:15pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The James Oliver Band – Live at The Earl Haig Club (Concert Room)\nSunday, October 4th...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/437/638/e1ee00fb44082f78f6f33592780b6368372ec18e.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-10-04T18:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£2.00",
-        "totalPrice": "£2.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-08-18T13:41:34+01:00",
-        "onSaleUntil": "2026-10-04T23:59:59+01:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-the-james-oliver-band/7523044",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-18T13:41:44+01:00",
-    "created": "2026-08-18T12:41:33+00:00"
-  },
-  {
     "id": "OqxmzK",
     "headline": "Monday Jam Session with MIDNIGHT RIDERS",
     "title": "Monday Jam Session with MIDNIGHT RIDERS",
@@ -368,13 +308,31 @@
         "name": "Royal Scam"
       }
     ],
+    "tickets": [
+      {
+        "dateTime": "2026-10-11T18:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-10-04T14:16:01+01:00",
+        "onSaleUntil": "2026-10-11T23:59:59+01:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
     "genre": [
       "music",
       "tribute"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/a-sunday-special-with-royal-scam-a-tribute-to-steely-dan/7523045",
     "fansOnEnts24": 2,
-    "lastUpdate": "2026-09-12T14:03:00+01:00",
+    "lastUpdate": "2026-10-04T14:16:01+01:00",
     "created": "2026-08-18T12:46:26+00:00"
   },
   {
