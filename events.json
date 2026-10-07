@@ -102,8 +102,8 @@
   },
   {
     "id": "xd1l92",
-    "headline": "Saturday Night Live with The Coasters",
-    "title": "Saturday Night Live with The Coasters",
+    "headline": "Saturday Night Live with The Co-Stars",
+    "title": "Saturday Night Live with The Co-Stars",
     "startDate": "2026-10-10",
     "endDate": "2026-10-10",
     "startTimeString": "8:30pm",
@@ -116,9 +116,9 @@
     "isFree": true,
     "ticketsAvailable": true,
     "price": null,
-    "description": "The Coasters at The Earl Haig Club",
+    "description": "The Co-Stars at The Earl Haig Club.\n7 Piece Soul Band\nCardiff",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/a8b4aa9b-cb3c-4b6f-8863-b245390efc2e.jpg?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/9be19996-a4e6-49f5-aafb-78da1faae159.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -128,7 +128,7 @@
     },
     "artists": [
       {
-        "name": "The Coasters"
+        "name": "The Co-Stars"
       }
     ],
     "tickets": [
@@ -151,11 +151,11 @@
     ],
     "genre": [
       "music",
-      "blues"
+      "rnbandsoul"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-coasters/7521685",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-co-stars/7521685",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-13T17:30:02+01:00",
+    "lastUpdate": "2026-10-06T13:23:25+01:00",
     "created": "2026-08-13T16:29:32+00:00"
   },
   {
@@ -1414,8 +1414,8 @@
   },
   {
     "id": "ke10rW",
-    "headline": "Friday Night Live with Blues Central",
-    "title": "Friday Night Live with Blues Central",
+    "headline": "Friday Night Live",
+    "title": "Friday Night Live",
     "startDate": "2026-11-06",
     "endDate": "2026-11-06",
     "startTimeString": "8:30pm",
@@ -1428,9 +1428,9 @@
     "isFree": false,
     "ticketsAvailable": true,
     "price": null,
-    "description": "BLUES CENTRAL – LIVE AT THE EARL HAIG CLUB BAR\nFriday 6th November 2026\nThe Earl Haig...",
+    "description": "Live Music",
     "image": {
-      "url": "https://ents24.imgix.net/image/upload/c9dfe887-cdbe-4966-927b-06a92f278020.png?auto=format&w=150&h=112",
+      "url": "https://ents24.imgix.net/image/upload/6b2f7dc9-545c-4018-bb1f-042c3d7c8913.jpg?auto=format&w=150&h=112",
       "width": 150,
       "height": 112,
       "metadata": {
@@ -1438,20 +1438,14 @@
         "caption": null
       }
     },
-    "artists": [
-      {
-        "id": "mmmv",
-        "name": "Blues Central"
-      }
-    ],
     "genre": [
       "music",
       "rock",
       "blues"
     ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-blues-central/7532438",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T11:53:00+01:00",
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live/7532438",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-10-06T13:25:50+01:00",
     "created": "2026-09-10T10:52:47+00:00"
   },
   {
