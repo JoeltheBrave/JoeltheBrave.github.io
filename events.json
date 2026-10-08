@@ -1958,6 +1958,47 @@
     "created": "2026-09-27T09:06:36+00:00"
   },
   {
+    "id": "0d6Kj8",
+    "headline": "Friday Night Live",
+    "title": "Friday Night Live",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "THE MARC DAVIES BAND\nFRIDAY NIGHT BLUES AT THE EARL HAIG\nFriday 20th November 2026\nThe Front Bar...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/ca650bf5-6f2a-4c12-91e6-e382be234bbf.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Marc Davies Band"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live/7544947",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-10-07T17:28:41+01:00",
+    "created": "2026-10-07T16:28:16+00:00"
+  },
+  {
     "id": "m5LkYq",
     "headline": "Saturday Night Live",
     "title": "Saturday Night Live",
@@ -2150,12 +2191,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": "THE MARC DAVIES BAND\nFRIDAY NIGHT BLUES AT THE EARL HAIG\nFriday 27th November 2026\nThe Front Bar...",
+    "description": "This event has been rescheduled to 20th November 2026.",
     "image": {
       "url": "https://ents24.imgix.net/image/upload/ca650bf5-6f2a-4c12-91e6-e382be234bbf.png?auto=format&w=150&h=112",
       "width": 150,
@@ -2177,7 +2218,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live/7532668",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T15:24:26+01:00",
+    "lastUpdate": "2026-10-07T17:28:29+01:00",
     "created": "2026-09-10T14:24:15+00:00"
   },
   {
