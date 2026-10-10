@@ -1,106 +1,5 @@
 [
   {
-    "id": "Awegon",
-    "headline": "Nine Below Zero",
-    "title": null,
-    "startDate": "2026-10-09",
-    "endDate": "2026-10-09",
-    "startTimeString": "8:30pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": null,
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/090/386/783772cfa5b3685cab48b2400e0feec7670761e8.jpg?auto=format&fp-x=0.503&fp-y=0.313&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": "Nine Below Zero"
-      }
-    },
-    "artists": [
-      {
-        "id": "QxAg",
-        "name": "Nine Below Zero"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-10-09T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£26.75",
-        "totalPrice": "£26.75",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-02-02T00:00:00+00:00",
-        "onSaleUntil": "2026-10-10T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvOS1iZWxvdy16ZXJvL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zNjAwNDAwP2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzYwMDQwMA/ticketid/7953936/checksum/a7fa4fa88a26edb6a734938a2e682d0f/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "1980s",
-      "1990s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/nine-below-zero/7436455",
-    "fansOnEnts24": 2,
-    "lastUpdate": "2026-07-24T10:14:03+01:00",
-    "created": "2026-02-02T07:06:18+00:00"
-  },
-  {
-    "id": "ke1kPg",
-    "headline": "Friday Night Live with The Blues Sisters",
-    "title": "Friday Night Live with The Blues Sisters",
-    "startDate": "2026-10-09",
-    "endDate": "2026-10-09",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Blues Sisters at The Earl Haig Club Bar.\nBlues Sisters at The Earl Haig Club,...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/b998cfff-db69-4ccd-bad7-0c9aa6c6eef8.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Blues Sisters"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-blues-sisters/7523038",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-12T00:00:19+01:00",
-    "created": "2026-08-18T12:20:14+00:00"
-  },
-  {
     "id": "xd1l92",
     "headline": "Saturday Night Live with The Co-Stars",
     "title": "Saturday Night Live with The Co-Stars",
@@ -3097,6 +2996,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-05-12T14:32:21+01:00",
     "created": "2026-05-12T12:11:02+00:00"
+  },
+  {
+    "id": "ke1wGG",
+    "headline": "Man (Wales)",
+    "title": null,
+    "startDate": "2027-02-19",
+    "endDate": "2027-02-19",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/330/855/3a2823066e74f5b29280adf1739d4f70fb5e68de.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "0LQ",
+        "name": "Man (Wales)"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-02-19T20:30:00+00:00",
+        "supplier": "Ents24",
+        "price": "£22.75",
+        "totalPrice": "£22.75",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-10-09T00:00:00+01:00",
+        "onSaleUntil": "2027-02-20T00:00:00+00:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQvbWFuL3RoZS1lYXJsLWhhaWctbWVtb3JpYWwtY2x1Yi8zNzM1NTA2P2FmZj1lbnRzMjQ/supplier/Ents24/suppliedid/MzczNTUwNg/ticketid/8171155/checksum/ec0fec81830a458b1bd1a4d8d273e7ce/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/man-wales/7546482",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-10-09T10:42:35+01:00",
+    "created": "2026-10-09T05:58:23+00:00"
   },
   {
     "id": "d58njj",
