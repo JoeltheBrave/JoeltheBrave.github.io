@@ -1,44 +1,5 @@
 [
   {
-    "id": "10b29z",
-    "headline": "Rockers Reunion with Roosevelt",
-    "title": "Rockers Reunion with Roosevelt",
-    "startDate": "2026-10-13",
-    "endDate": "2026-10-13",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Rockers Reunion at The Earl Haig Club, Cardiff — live music, great company and a...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/9b4b180c-f1fe-4d47-915d-7c2108ebf7a5.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Roosevelt"
-      }
-    ],
-    "genre": [
-      "music"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rockers-reunion-with-roosevelt/7532328",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-23T17:39:53+01:00",
-    "created": "2026-09-10T08:57:25+00:00"
-  },
-  {
     "id": "ymZlyv",
     "headline": "The Rezillos",
     "title": null,
