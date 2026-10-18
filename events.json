@@ -1,99 +1,5 @@
 [
   {
-    "id": "YYdRQm",
-    "headline": "80's Disco",
-    "title": "80's Disco",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTimeString": "7:00pm",
-    "endTimeString": null,
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Central Line Disco are bringing an 80's themed disco to The Earl Haig! For tickets...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/000/491/930/e3b02792867621fa7be793b7b69b6079014e496c.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "tickets": [
-      {
-        "dateTime": "2026-10-17T19:00:00+01:00",
-        "supplier": "Miscellaneous",
-        "price": "£10.00",
-        "totalPrice": "£10.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-04-01T17:50:23+01:00",
-        "onSaleUntil": "2026-10-17T23:59:59+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA0/ticketid/8022266/checksum/122856cce13609f6b28a376d3f171434/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
-    "genre": [
-      "music",
-      "disco",
-      "1980s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/80s-disco/7467193",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-01T17:50:25+01:00",
-    "created": "2026-04-01T16:09:20+00:00"
-  },
-  {
-    "id": "4ywB8v",
-    "headline": "The Steve Bryant Orchestra",
-    "title": "The Steve Bryant Orchestra",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTimeString": "8:30pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "The Steve Bryant Orchestra live at The Earl Haig Club Bar for a night of...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/4b297601-e73e-4ccc-b9f0-ab0265b4e49c.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Steve Bryant Orchestra"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-steve-bryant-orchestra/7522059",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-14T16:59:06+01:00",
-    "created": "2026-08-14T15:58:55+00:00"
-  },
-  {
     "id": "GeXxRk",
     "headline": "Sunday Special with The S'punkles & Sandboys",
     "title": "Sunday Special with The S'punkles & Sandboys",
@@ -1983,9 +1889,9 @@
     "isCancelled": false,
     "isPostponed": false,
     "isRescheduled": false,
-    "isSoldOut": false,
+    "isSoldOut": true,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
     "description": "Night At The Opera bring their amazing Wueen tribute band back to the Earl Haig...",
     "image": {
@@ -2003,24 +1909,6 @@
         "name": "Night At The Opera"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-12-05T19:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£17.50",
-        "totalPrice": "£17.50",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-04-01T17:51:11+01:00",
-        "onSaleUntil": "2026-12-05T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cDovL3d3dy50aGViaWduaXRlb3V0LmNvLnVr/supplier/Miscellaneous/suppliedid/MjU1NzA2/ticketid/8022268/checksum/249b08dba885daf3129d6d6eb9ca820f/track/true",
-        "email": "info@thebigniteout.co.uk",
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "pop",
@@ -2031,7 +1919,7 @@
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/queen-tribute-band/7467197",
     "fansOnEnts24": 0,
-    "lastUpdate": "2026-04-01T17:51:13+01:00",
+    "lastUpdate": "2026-10-17T05:39:15+01:00",
     "created": "2026-04-01T16:42:03+00:00"
   },
   {
