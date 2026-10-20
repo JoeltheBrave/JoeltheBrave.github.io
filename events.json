@@ -1,47 +1,5 @@
 [
   {
-    "id": "nzAvpB",
-    "headline": "Monday Jam Session with The Dismantlerz",
-    "title": "Monday Jam Session with The Dismantlerz",
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Jam Session at The Earl Haig Club Bar with The Dismantlerz\nEvery Monday | Free Entry\nThe...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/803ca444-158b-4339-954c-ef84a3b39359.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Dismantlerz"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "punk",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-dismantlerz/7522060",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-10T10:12:19+01:00",
-    "created": "2026-08-14T16:00:29+00:00"
-  },
-  {
     "id": "22lN0R",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
@@ -136,12 +94,12 @@
     "hasMoved": false,
     "isCancelled": false,
     "isPostponed": false,
-    "isRescheduled": false,
+    "isRescheduled": true,
     "isSoldOut": false,
     "isFree": false,
-    "ticketsAvailable": true,
+    "ticketsAvailable": false,
     "price": null,
-    "description": null,
+    "description": "This event has been rescheduled to 22nd January 2027.",
     "image": {
       "url": "https://ents24.imgix.net/image/000/346/057/6f4a0713b65a8ec8505906feb1041336987a978d.jpg?auto=format&w=150&h=112",
       "width": 150,
@@ -157,24 +115,6 @@
         "name": "Yes Please (Yes Tribute)"
       }
     ],
-    "tickets": [
-      {
-        "dateTime": "2026-10-24T20:30:00+01:00",
-        "supplier": "Ents24",
-        "price": "£20.25",
-        "totalPrice": "£20.25",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-02-02T00:00:00+00:00",
-        "onSaleUntil": "2026-10-25T00:00:00+01:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aWNrZXRzLmVudHMyNC5jb20vZXZlbnQveWVzLXBsZWFzZS90aGUtZWFybC1oYWlnLW1lbW9yaWFsLWNsdWIvMzYwMDQwNT9hZmY9ZW50czI0/supplier/Ents24/suppliedid/MzYwMDQwNQ/ticketid/7953940/checksum/ececce9380987fd9e3ba8849b31a2544/track/true",
-        "email": null,
-        "telephone": null
-      }
-    ],
     "genre": [
       "music",
       "rock",
@@ -182,8 +122,8 @@
       "1970s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/yes-please-yes-tribute/7436459",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-02-02T09:38:40+00:00",
+    "fansOnEnts24": 2,
+    "lastUpdate": "2026-10-19T20:13:02+01:00",
     "created": "2026-02-02T07:06:18+00:00"
   },
   {
@@ -2383,6 +2323,49 @@
     "created": "2026-05-12T12:11:02+00:00"
   },
   {
+    "id": "wB10LG",
+    "headline": "Yes Please (Yes Tribute)",
+    "title": null,
+    "startDate": "2027-01-22",
+    "endDate": "2027-01-22",
+    "startTimeString": "8:30pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": null,
+    "image": {
+      "url": "https://ents24.imgix.net/image/000/346/057/6f4a0713b65a8ec8505906feb1041336987a978d.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "jmKvP",
+        "name": "Yes Please (Yes Tribute)"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/yes-please-yes-tribute/7550629",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-10-19T20:13:02+01:00",
+    "created": "2026-10-19T19:12:47+00:00"
+  },
+  {
     "id": "ke1wGG",
     "headline": "Man (Wales)",
     "title": null,
@@ -2666,5 +2649,66 @@
     "fansOnEnts24": 2,
     "lastUpdate": "2026-06-22T15:55:25+01:00",
     "created": "2026-04-15T06:25:02+00:00"
+  },
+  {
+    "id": "KYG4Yk",
+    "headline": "Kiss The Teacher ABBA Tribute Band",
+    "title": "Kiss The Teacher ABBA Tribute Band",
+    "startDate": "2027-09-11",
+    "endDate": "2027-09-11",
+    "startTimeString": null,
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Experience the ultimate ABBA tribute night with the award-winning Kiss The Teacher, renowned for their...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/9e08cc2d-57df-4978-8756-6961ccd6acc3.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "nz1oZ",
+        "name": "Kiss The Teacher ABBA Tribute Band"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-09-11T00:00:00+01:00",
+        "supplier": "Miscellaneous",
+        "price": null,
+        "totalPrice": null,
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-10-19T14:14:28+01:00",
+        "onSaleUntil": "2027-09-11T23:59:59+01:00",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly90aGViaWduaXRlb3V0LmJpZ2NhcnRlbC5jb20v/supplier/Miscellaneous/suppliedid/MjY0MDM0/ticketid/8177916/checksum/5438abd7d72e7685c8b81c47ec7162ca/track/true",
+        "email": null,
+        "telephone": null
+      }
+    ],
+    "genre": [
+      "music",
+      "pop",
+      "tribute",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/kiss-the-teacher-abba-tribute-band/7550504",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-10-19T14:14:38+01:00",
+    "created": "2026-10-19T13:14:27+00:00"
   }
 ]
