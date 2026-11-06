@@ -455,5 +455,526 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-09-12T15:38:39+01:00",
     "created": "2026-09-12T14:38:27+00:00"
+  },
+  {
+    "id": "Oqxj9G",
+    "headline": "Friday Night Live with The Fugitives",
+    "title": "Friday Night Live with The Fugitives",
+    "startDate": "2027-02-12",
+    "endDate": "2027-02-12",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives – Live at The Earl Haig Club Bar\nFriday 12th February 2027 | 8:30pm\nGet...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/e2276c6c-898f-41a2-9cdc-a235a8c22630.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-fugitives/7557239",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-03T16:18:18+00:00",
+    "created": "2026-11-03T16:18:06+00:00"
+  },
+  {
+    "id": "a9X4ob",
+    "headline": "Friday Night with The Fugitives",
+    "title": "Friday Night with The Fugitives",
+    "startDate": "2027-04-23",
+    "endDate": "2027-04-23",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "The Fugitives at The Butchers Arms, Rhiwbina\nFriday, April 23rd, 2027.\nGet your dancing shoes ready for...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/friday-night-with-the-fugitives/7557719",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-04T12:44:29+00:00",
+    "created": "2026-11-04T12:44:18+00:00"
+  },
+  {
+    "id": "9enj7d",
+    "headline": "Friday Night Live with The Fugitives",
+    "title": "Friday Night Live with The Fugitives",
+    "startDate": "2027-05-07",
+    "endDate": "2027-05-07",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives – Live at The Earl Haig Club Bar\nFriday, 7th May, 2027 | 8:30pm\nGet...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-fugitives/7557257",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-03T16:42:08+00:00",
+    "created": "2026-11-03T16:41:58+00:00"
+  },
+  {
+    "id": "ozYw2X",
+    "headline": "Sunday at Cubanas with The Fugitives",
+    "title": "Sunday at Cubanas with The Fugitives",
+    "startDate": "2027-05-09",
+    "endDate": "2027-05-09",
+    "startTimeString": "5:00pm",
+    "endTimeString": "7:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "DwxBN",
+      "type": "Place",
+      "name": "Cubanas",
+      "address": {
+        "streetAddress": [
+          "7 Broad Street"
+        ],
+        "town": "Barry",
+        "postcode": "CF62 7AF",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.399316,
+        "lon": -3.282607
+      },
+      "webLink": "https://www.ents24.com/barry-events/cubanas"
+    },
+    "description": "The Fugitives – Live at Cubanas, Barry\nSunday, May 9th, 2027 | Doors 4pm\nGet your dancing...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/barry-events/cubanas/sunday-at-cubanas-with-the-fugitives/7557270",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-03T16:53:53+00:00",
+    "created": "2026-11-03T16:53:43+00:00"
+  },
+  {
+    "id": "10bjdA",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2027-06-11",
+    "endDate": "2027-06-11",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "The Fugitives – Live at The Butcher's Arms, Rhiwbina\nFriday, June 11th 2027 | 9:00pm\nGet your...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/the-fugitives-cardiff/7557272",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-03T16:57:14+00:00",
+    "created": "2026-11-03T16:57:03+00:00"
+  },
+  {
+    "id": "wB1OKG",
+    "headline": "The Fugitives - Cardiff",
+    "title": "The Fugitives - Cardiff",
+    "startDate": "2027-09-03",
+    "endDate": "2027-09-03",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "6Xmp",
+      "type": "Place",
+      "name": "The Earl Haig Club",
+      "address": {
+        "streetAddress": [
+          "23-25 Penlline Road",
+          "Whitchurch"
+        ],
+        "town": "Cardiff",
+        "postcode": "CF14 2AA",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.513935,
+        "lon": -3.221108
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club"
+    },
+    "description": "The Fugitives – Live at The Earl Haig Club Bar\nFriday 3rd September 2027 | 8:30pm\nGet...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/the-fugitives-cardiff/7557273",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-03T17:01:40+00:00",
+    "created": "2026-11-03T17:01:30+00:00"
+  },
+  {
+    "id": "Z2k5ax",
+    "headline": "Friday Night with The Fugitives",
+    "title": "Friday Night with The Fugitives",
+    "startDate": "2027-09-17",
+    "endDate": "2027-09-17",
+    "startTimeString": "9:00pm",
+    "endTimeString": "11:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "kpab",
+      "type": "Place",
+      "name": "Ye Olde Butchers Arms",
+      "address": {
+        "streetAddress": [
+          "22 Heol y Felin",
+          "Rhiwbina"
+        ],
+        "town": "Cardiff",
+        "county": "South Glamorgan",
+        "postcode": "CF14 6NB",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.524193,
+        "lon": -3.209217
+      },
+      "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms"
+    },
+    "description": "The Fugitives at The Butchers Arms, Rhiwbina\nFriday, September 17th, 2027.\nGet your dancing shoes ready for...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/ye-olde-butchers-arms/friday-night-with-the-fugitives/7557727",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-04T12:48:12+00:00",
+    "created": "2026-11-04T12:48:01+00:00"
+  },
+  {
+    "id": "zXeOW9",
+    "headline": "Sunday with The Fugitives",
+    "title": "Sunday with The Fugitives",
+    "startDate": "2027-10-03",
+    "endDate": "2027-10-03",
+    "startTimeString": "5:00pm",
+    "endTimeString": "7:00pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "venue": {
+      "id": "DwxBN",
+      "type": "Place",
+      "name": "Cubanas",
+      "address": {
+        "streetAddress": [
+          "7 Broad Street"
+        ],
+        "town": "Barry",
+        "postcode": "CF62 7AF",
+        "country": "UK"
+      },
+      "location": {
+        "lat": 51.399316,
+        "lon": -3.282607
+      },
+      "webLink": "https://www.ents24.com/barry-events/cubanas"
+    },
+    "description": "The Fugitives at Cubanas, Barry\nSunday, October 3rd, 2027.\nDoors open at 4 pm\nGet your dancing shoes...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/5e205c8a-2e87-419d-9149-3044663d2e73.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "D92n",
+        "name": "The Fugitives - Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rocknroll",
+      "blues",
+      "covers",
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "webLink": "https://www.ents24.com/barry-events/cubanas/sunday-with-the-fugitives/7557730",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-04T12:52:02+00:00",
+    "created": "2026-11-04T12:51:52+00:00"
   }
 ]
