@@ -1,51 +1,5 @@
 [
   {
-    "id": "xd1n72",
-    "headline": "Monday Jam Session with The Jedis",
-    "title": "Monday Jam Session with The Jedis",
-    "startDate": "2026-11-09",
-    "endDate": "2026-11-09",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session at The Earl Haig Club Bar with The Jedis\nEvery Monday | Free...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/6089ea49-4871-494d-8bdd-6aa8bf25feba.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Jedis"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "indie",
-      "metal",
-      "punk",
-      "ska",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-jedis/7532641",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-10-21T13:50:16+01:00",
-    "created": "2026-09-10T13:48:24+00:00"
-  },
-  {
     "id": "kD765P",
     "headline": "ZZ TOPPD",
     "title": null,
