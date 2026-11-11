@@ -344,7 +344,7 @@
     "tickets": [
       {
         "dateTime": "2026-11-20T21:00:00+00:00",
-        "supplier": "Miscellaneous",
+        "supplier": "TicketSource",
         "price": "£20.00",
         "totalPrice": "£20.00",
         "inclBookingFee": false,
@@ -354,7 +354,7 @@
         "isResaleTicket": false,
         "onSaleFrom": "2026-09-27T10:06:37+01:00",
         "onSaleUntil": "2026-11-20T23:59:59+00:00",
-        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly9sMW5xLmNvbS9hOG1HR2hS/supplier/Miscellaneous/suppliedid/MjYzMDY3/ticketid/8159469/checksum/d179b9af308accf398815f46bebb7008/track/true",
+        "url": "https://www.ents24.com/ticket/buy/url/aHR0cHM6Ly93d3cudGlja2V0c291cmNlLmNvbS9yaGlhbm5vbi1mbGVldHdvb2QtbWFjLXRyaWJ1dGU/supplier/TicketSource/suppliedid/MjYzMDY3/ticketid/8159469/checksum/3a53824a0a1472f6e6d18335b78ae808/track/true",
         "email": null,
         "telephone": null
       }
@@ -369,8 +369,8 @@
       "1980s"
     ],
     "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rhiannon-a-tribute-to-fleetwood-mac/7539587",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-27T10:06:47+01:00",
+    "fansOnEnts24": 1,
+    "lastUpdate": "2026-11-10T20:30:22+00:00",
     "created": "2026-09-27T09:06:36+00:00"
   },
   {
