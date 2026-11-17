@@ -1,54 +1,5 @@
 [
   {
-    "id": "719zPz",
-    "headline": "Monday Jam Session with Tattsyrup",
-    "title": "Monday Jam Session with Tattsyrup",
-    "startDate": "2026-11-16",
-    "endDate": "2026-11-16",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with Tattsyrup at The Earl Haig Club Bar\nEvery Monday | Free Entry\nThe...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/bf7224ba-8912-4c14-b8c5-a83203ba9a49.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "bkGmz",
-        "name": "Tattsyrup"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "indie",
-      "metal",
-      "punk",
-      "ska",
-      "reggae",
-      "rocknroll",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-tattsyrup/7532642",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-10-21T13:52:12+01:00",
-    "created": "2026-09-10T13:49:39+00:00"
-  },
-  {
     "id": "llk46A",
     "headline": "Strictly Acoustic with Andy Johnson",
     "title": "Strictly Acoustic with Andy Johnson",
