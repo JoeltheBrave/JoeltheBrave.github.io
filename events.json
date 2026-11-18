@@ -1,45 +1,5 @@
 [
   {
-    "id": "llk46A",
-    "headline": "Strictly Acoustic with Andy Johnson",
-    "title": "Strictly Acoustic with Andy Johnson",
-    "startDate": "2026-11-17",
-    "endDate": "2026-11-17",
-    "startTimeString": "7:14pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Strictly Acoustic with Andy Johnson at The Earl Haig Club Bar\nJoin us for another edition...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/7e0b7e5a-2f34-4746-bf66-9829a890f1fd.jpg?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Andy Johnson"
-      }
-    ],
-    "genre": [
-      "music",
-      "acoustic"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7523065",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-08-18T14:45:25+01:00",
-    "created": "2026-08-18T13:45:14+00:00"
-  },
-  {
     "id": "5BOkz7",
     "headline": "Rhiannon – A Tribute to Fleetwood Mac",
     "title": "Rhiannon – A Tribute to Fleetwood Mac",
@@ -913,6 +873,46 @@
     "created": "2026-09-10T11:27:11+00:00"
   },
   {
+    "id": "A6ZNoz",
+    "headline": "Saturday Night Live with The S'punkles",
+    "title": "Saturday Night Live with The S'punkles",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The S'punkles live at The Earl Haig Club Bar.\nLooking forward to this one. We’ll be...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/7cba3138-ca51-432a-855c-9039c1b61500.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The S'punkles"
+      }
+    ],
+    "genre": [
+      "music",
+      "punk"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-spunkles/7564255",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T13:26:25+00:00",
+    "created": "2026-11-17T13:26:13+00:00"
+  },
+  {
     "id": "Px82jx",
     "headline": "Monday Jam Session with James Oliver Band",
     "title": "Monday Jam Session with James Oliver Band",
@@ -1359,6 +1359,45 @@
     "created": "2026-04-01T16:42:59+00:00"
   },
   {
+    "id": "vjA14b",
+    "headline": "Monday Jam Session with Ken Woods",
+    "title": "Monday Jam Session with Ken Woods",
+    "startDate": "2027-01-04",
+    "endDate": "2027-01-04",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Kick-start your week with the Monday Night Open Mic &amp; Jam Session — Whitchurch’s longest-running...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/39a33c6f-9398-41c1-9e17-e62edc9b0054.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Ken Woods"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-ken-woods/7564261",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T14:21:17+00:00",
+    "created": "2026-11-17T14:21:06+00:00"
+  },
+  {
     "id": "Odw1DR",
     "headline": "Band of Friends",
     "title": null,
@@ -1463,6 +1502,88 @@
     "created": "2026-10-22T17:05:50+00:00"
   },
   {
+    "id": "X2kEo2",
+    "headline": "Monday Jam Session with Tattsyrup",
+    "title": "Monday Jam Session with Tattsyrup",
+    "startDate": "2027-01-18",
+    "endDate": "2027-01-18",
+    "startTimeString": "8:00pm",
+    "endTimeString": null,
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Kick-start your week with the Monday Night Open Mic &amp; Jam Session — Whitchurch’s longest-running...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/56700e56-099e-4dc2-8323-2b8e4888f54c.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "bkGmz",
+        "name": "Tattsyrup"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "ska"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-tattsyrup/7564262",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T14:22:54+00:00",
+    "created": "2026-11-17T14:22:42+00:00"
+  },
+  {
+    "id": "22lzxL",
+    "headline": "Strictly Acoustic with Andy Johnson",
+    "title": "Strictly Acoustic with Andy Johnson",
+    "startDate": "2027-01-19",
+    "endDate": "2027-01-19",
+    "startTimeString": "7:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for another edition of our ever-popular Strictly Acoustic Open Mic Session, hosted by...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/8889fdc1-3a0d-4244-b8d7-8276cd81a941.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7564264",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T14:28:20+00:00",
+    "created": "2026-11-17T14:28:09+00:00"
+  },
+  {
     "id": "wB10LG",
     "headline": "Yes Please (Yes Tribute)",
     "title": null,
@@ -1504,6 +1625,45 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-10-25T00:01:04+01:00",
     "created": "2026-10-19T19:12:47+00:00"
+  },
+  {
+    "id": "a9X8la",
+    "headline": "Monday Jam Session with The Dismantlerz",
+    "title": "Monday Jam Session with The Dismantlerz",
+    "startDate": "2027-01-25",
+    "endDate": "2027-01-25",
+    "startTimeString": "8:00pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Kick-start your week with the Monday Night Open Mic &amp; Jam Session — Whitchurch’s longest-running...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/c78ef7ca-388a-41d9-ae43-e6db50cc1bdd.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Dismantlerz"
+      }
+    ],
+    "genre": [
+      "music"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-dismantlerz/7564263",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T14:25:08+00:00",
+    "created": "2026-11-17T14:24:56+00:00"
   },
   {
     "id": "Z2kQyE",
@@ -1597,6 +1757,46 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-11-03T16:18:18+00:00",
     "created": "2026-11-03T16:18:06+00:00"
+  },
+  {
+    "id": "llkXb8",
+    "headline": "Strictly Acoustic with Andy Johnson",
+    "title": "Strictly Acoustic with Andy Johnson",
+    "startDate": "2027-02-16",
+    "endDate": "2027-02-16",
+    "startTimeString": "7:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Join us for another edition of our ever-popular Strictly Acoustic Open Mic Session, hosted by...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/b28f868b-1673-4f32-a0a9-35ec3de709be.jpg?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Andy Johnson"
+      }
+    ],
+    "genre": [
+      "music",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/strictly-acoustic-with-andy-johnson/7564265",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-17T14:32:10+00:00",
+    "created": "2026-11-17T14:31:59+00:00"
   },
   {
     "id": "ke1wGG",
