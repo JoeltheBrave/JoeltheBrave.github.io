@@ -1,48 +1,5 @@
 [
   {
-    "id": "m5LkYq",
-    "headline": "Monday Jam Session with James Oliver",
-    "title": "Monday Jam Session with James Oliver",
-    "startDate": "2026-11-21",
-    "endDate": "2026-11-21",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:46pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": true,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": false,
-    "price": null,
-    "description": "This event has been rescheduled to 11th January 2027.",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/250d6dfb-6cf4-4be1-ade4-167b8b163e51.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "id": "d5Xy2",
-        "name": "James Oliver Band"
-      }
-    ],
-    "genre": [
-      "music",
-      "rock",
-      "blues",
-      "2010s"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-james-oliver/7539588",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-10-22T18:06:04+01:00",
-    "created": "2026-09-27T09:15:23+00:00"
-  },
-  {
     "id": "0d6q5x",
     "headline": "Sunday Sessions",
     "title": "Sunday Sessions",
