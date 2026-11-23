@@ -1,65 +1,5 @@
 [
   {
-    "id": "0d6q5x",
-    "headline": "Sunday Sessions",
-    "title": "Sunday Sessions",
-    "startDate": "2026-11-22",
-    "endDate": "2026-11-22",
-    "startTimeString": "6:00pm",
-    "endTimeString": "8:20pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "THE WILDFLOWERS – LIVE AT THE EARL HAIG CLUB\nSUNDAY, NOVEMBER 22ND 2026\nLIVE IN THE CONCERT...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/8fb28266-9b6e-4c8d-a74e-3ae9d5fe10d0.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "Wildflowers"
-      }
-    ],
-    "tickets": [
-      {
-        "dateTime": "2026-11-22T18:00:00+00:00",
-        "supplier": "Miscellaneous",
-        "price": "£3.00",
-        "totalPrice": "£3.00",
-        "inclBookingFee": false,
-        "isOnSale": true,
-        "isAvailable": true,
-        "isPresaleTicket": false,
-        "isResaleTicket": false,
-        "onSaleFrom": "2026-09-12T17:52:10+01:00",
-        "onSaleUntil": "2026-11-22T23:59:59+00:00",
-        "url": null,
-        "email": null,
-        "telephone": "+44 7863 186507"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "punk"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions/7533247",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-09-12T17:52:20+01:00",
-    "created": "2026-09-12T16:52:09+00:00"
-  },
-  {
     "id": "m5LY7v",
     "headline": "Monday Jam Session with The Sundogs",
     "title": "Monday Jam Session with The Sundogs",
@@ -994,6 +934,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-09-27T10:46:40+01:00",
     "created": "2026-09-27T09:46:28+00:00"
+  },
+  {
+    "id": "qBz7kr",
+    "headline": "Christmas with Snatch It Back & Special Guests",
+    "title": "Christmas with Snatch It Back & Special Guests",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "startTimeString": "5:00pm",
+    "endTimeString": "8:31pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Snatch It Back &amp; Friends – Christmas Special\nSunday 20 December 2026\nThe Earl Haig Club, Concert...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/151ce6a4-f1a7-4153-b610-65f9b646f004.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Snatch It Back"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-20T17:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£5.00",
+        "totalPrice": "£5.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-11-22T18:19:35+00:00",
+        "onSaleUntil": "2026-12-20T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/christmas-with-snatch-it-back-and-special-guests/7566453",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-22T18:19:44+00:00",
+    "created": "2026-11-22T18:19:33+00:00"
   },
   {
     "id": "d58722",
