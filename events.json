@@ -1,51 +1,5 @@
 [
   {
-    "id": "m5LY7v",
-    "headline": "Monday Jam Session with The Sundogs",
-    "title": "Monday Jam Session with The Sundogs",
-    "startDate": "2026-11-23",
-    "endDate": "2026-11-23",
-    "startTimeString": "8:00pm",
-    "endTimeString": "10:45pm",
-    "hasMoved": false,
-    "isCancelled": false,
-    "isPostponed": false,
-    "isRescheduled": false,
-    "isSoldOut": false,
-    "isFree": false,
-    "ticketsAvailable": true,
-    "price": null,
-    "description": "Monday Jam Session with The Sundogs at The Earl Haig Club Bar\nEvery Monday | Free...",
-    "image": {
-      "url": "https://ents24.imgix.net/image/upload/d7617749-2d08-4195-b87c-15d5ab94dd97.png?auto=format&w=150&h=112",
-      "width": 150,
-      "height": 112,
-      "metadata": {
-        "copyright": null,
-        "caption": null
-      }
-    },
-    "artists": [
-      {
-        "name": "The Sundogs"
-      }
-    ],
-    "genre": [
-      "music",
-      "pop",
-      "rock",
-      "metal",
-      "punk",
-      "ska",
-      "reggae",
-      "blues"
-    ],
-    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/monday-jam-session-with-the-sundogs/7532644",
-    "fansOnEnts24": 0,
-    "lastUpdate": "2026-10-21T13:54:07+01:00",
-    "created": "2026-09-10T13:52:35+00:00"
-  },
-  {
     "id": "e6DR47",
     "headline": "Dave & Tony's Acoustic Blues Session",
     "title": "Dave & Tony's Acoustic Blues Session",
@@ -457,6 +411,66 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-10-17T05:39:15+01:00",
     "created": "2026-04-01T16:42:03+00:00"
+  },
+  {
+    "id": "e6Db89",
+    "headline": "Roosevelt_Cardiff",
+    "title": "Roosevelt_Cardiff",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Roosevelt return to The Earl Haig Club Concert Room for what promises to be another...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/2d22cc02-391a-434f-a4cc-875a85f49274.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Roosevelt_Cardiff"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2026-12-06T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-11-23T17:10:41+00:00",
+        "onSaleUntil": "2026-12-06T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/rooseveltcardiff/7567201",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T17:10:51+00:00",
+    "created": "2026-11-23T17:10:38+00:00"
   },
   {
     "id": "7196Yk",
@@ -1248,6 +1262,48 @@
     "created": "2026-11-17T14:21:06+00:00"
   },
   {
+    "id": "qBz7an",
+    "headline": "Friday Night Live with The Bella C Collins Band",
+    "title": "Friday Night Live with The Bella C Collins Band",
+    "startDate": "2027-01-08",
+    "endDate": "2027-01-08",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Bella Collins Band at The Earl Haig Club Bar",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/fdc829b4-6a4a-4949-ae63-f0d706c7cd96.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "id": "8mwy1",
+        "name": "Bella Collins"
+      }
+    ],
+    "genre": [
+      "music",
+      "blues",
+      "jazz"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-the-bella-c-collins-band/7567197",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T16:56:03+00:00",
+    "created": "2026-11-23T16:55:51+00:00"
+  },
+  {
     "id": "Odw1DR",
     "headline": "Band of Friends",
     "title": null,
@@ -1350,6 +1406,106 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-10-22T18:06:10+01:00",
     "created": "2026-10-22T17:05:50+00:00"
+  },
+  {
+    "id": "nzA7jB",
+    "headline": "Saturday Night Live with The Dogtown Three",
+    "title": "Saturday Night Live with The Dogtown Three",
+    "startDate": "2027-01-16",
+    "endDate": "2027-01-16",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "The Dogtown Three – Live at the Earl Haig Club\nSaturday 16 January 2027 · 8:30...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/7ae70947-503d-4b76-8908-0fd0b3808134.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "The Dogtown Three"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/saturday-night-live-with-the-dogtown-three/7567160",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T15:44:28+00:00",
+    "created": "2026-11-23T15:44:16+00:00"
+  },
+  {
+    "id": "YaQ2Rm",
+    "headline": "Sunday Sessions with Expecting Company",
+    "title": "Sunday Sessions with Expecting Company",
+    "startDate": "2027-01-17",
+    "endDate": "2027-01-17",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Expecting Company at The Earl Haig Club Concert Room.\nSunday Sessions at the Earl Haig Club\nRound...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/a8bd3b5a-fced-4739-a9c7-7592968efd4d.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Expecting Company"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-01-17T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-11-23T17:23:06+00:00",
+        "onSaleUntil": "2027-01-17T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "acoustic"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-expecting-company/7567205",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T17:23:14+00:00",
+    "created": "2026-11-23T17:23:03+00:00"
   },
   {
     "id": "X2kEo2",
@@ -1477,6 +1633,65 @@
     "created": "2026-10-19T19:12:47+00:00"
   },
   {
+    "id": "KYGdNv",
+    "headline": "Cold Shot",
+    "title": "Cold Shot",
+    "startDate": "2027-01-24",
+    "endDate": "2027-01-24",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Cold Shot at The Earl Haig Club Concert Room.\nSunday Sessions at the Earl Haig Club\nRound...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/8c919265-3921-473f-8189-23aba58f588e.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Cold Shot"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-01-24T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-11-23T17:17:38+00:00",
+        "onSaleUntil": "2027-01-24T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "metal"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/cold-shot/7567204",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T17:20:54+00:00",
+    "created": "2026-11-23T17:17:36+00:00"
+  },
+  {
     "id": "a9X8la",
     "headline": "Monday Jam Session with The Dismantlerz",
     "title": "Monday Jam Session with The Dismantlerz",
@@ -1514,6 +1729,48 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-11-17T14:25:08+00:00",
     "created": "2026-11-17T14:24:56+00:00"
+  },
+  {
+    "id": "KYGdN4",
+    "headline": "Friday Night Live with Roosevelt",
+    "title": "Friday Night Live with Roosevelt",
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-29",
+    "startTimeString": "8:30pm",
+    "endTimeString": "10:45pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Roosevelt at The Earl Haig Club Bar\nRoosevelt return to The Earl Haig Club Bar for...",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/10a51089-ba3a-4eea-a908-9c169e4c3e58.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Roosevelt_Cardiff"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock",
+      "americana",
+      "blues"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/friday-night-live-with-roosevelt/7567192",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T17:04:58+00:00",
+    "created": "2026-11-23T16:53:49+00:00"
   },
   {
     "id": "Z2kQyE",
@@ -1561,6 +1818,64 @@
     "fansOnEnts24": 0,
     "lastUpdate": "2026-11-07T20:42:47+00:00",
     "created": "2026-11-07T20:42:37+00:00"
+  },
+  {
+    "id": "0d64B9",
+    "headline": "Sunday Sessions with Tumblin Dice",
+    "title": "Sunday Sessions with Tumblin Dice",
+    "startDate": "2027-01-31",
+    "endDate": "2027-01-31",
+    "startTimeString": "6:00pm",
+    "endTimeString": "8:15pm",
+    "hasMoved": false,
+    "isCancelled": false,
+    "isPostponed": false,
+    "isRescheduled": false,
+    "isSoldOut": false,
+    "isFree": false,
+    "ticketsAvailable": true,
+    "price": null,
+    "description": "Tumblin Dice at The Earl Haig Club Concert Room",
+    "image": {
+      "url": "https://ents24.imgix.net/image/upload/64a147d3-5cb3-4149-b4ff-9125627eebbc.png?auto=format&w=150&h=112",
+      "width": 150,
+      "height": 112,
+      "metadata": {
+        "copyright": null,
+        "caption": null
+      }
+    },
+    "artists": [
+      {
+        "name": "Tumblin Dice"
+      }
+    ],
+    "tickets": [
+      {
+        "dateTime": "2027-01-31T18:00:00+00:00",
+        "supplier": "Miscellaneous",
+        "price": "£3.00",
+        "totalPrice": "£3.00",
+        "inclBookingFee": false,
+        "isOnSale": true,
+        "isAvailable": true,
+        "isPresaleTicket": false,
+        "isResaleTicket": false,
+        "onSaleFrom": "2026-11-23T17:13:39+00:00",
+        "onSaleUntil": "2027-01-31T23:59:59+00:00",
+        "url": null,
+        "email": null,
+        "telephone": "+44 7863 186507"
+      }
+    ],
+    "genre": [
+      "music",
+      "rock"
+    ],
+    "webLink": "https://www.ents24.com/cardiff-events/the-earl-haig-club/sunday-sessions-with-tumblin-dice/7567203",
+    "fansOnEnts24": 0,
+    "lastUpdate": "2026-11-23T17:13:47+00:00",
+    "created": "2026-11-23T17:13:36+00:00"
   },
   {
     "id": "Oqxj9G",
