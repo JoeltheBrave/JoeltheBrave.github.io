@@ -745,16 +745,6 @@
     "publishedAt": "2022-12-02T09:57:03Z"
   },
   {
-    "title": "The S'punkles: The Harper & Walk On The Wild Side",
-    "url": "https://www.youtube.com/watch?v=OMY6oZoqs9w",
-    "publishedAt": "2022-11-25T09:25:40Z"
-  },
-  {
-    "title": "The S'punkles: Babylon's Burning",
-    "url": "https://www.youtube.com/watch?v=w97U9JVSIt8",
-    "publishedAt": "2022-11-25T09:25:35Z"
-  },
-  {
     "title": "Outback: Go Your Own Way",
     "url": "https://www.youtube.com/watch?v=226wS1VnQQI",
     "publishedAt": "2022-11-24T09:46:18Z"
@@ -960,16 +950,6 @@
     "publishedAt": "2022-09-14T14:43:18Z"
   },
   {
-    "title": "Outback: Running Down A Dream",
-    "url": "https://www.youtube.com/watch?v=t1yHbejkLrQ",
-    "publishedAt": "2022-09-12T17:54:07Z"
-  },
-  {
-    "title": "Capital City Jazz Orchestra: Never-ending Journey",
-    "url": "https://www.youtube.com/watch?v=8e0FaC03dq0",
-    "publishedAt": "2022-09-05T18:26:21Z"
-  },
-  {
     "title": "Parcel of Rogues: All Around My Hat",
     "url": "https://www.youtube.com/watch?v=XSKsxmHY4mI",
     "publishedAt": "2022-09-04T13:37:15Z"
@@ -1003,6 +983,16 @@
     "title": "Neil Lockwood: Let The Good Times Roll",
     "url": "https://www.youtube.com/watch?v=6d30CKarohw",
     "publishedAt": "2022-08-11T09:45:27Z"
+  },
+  {
+    "title": "The S’punkles: Stepping Stone",
+    "url": "https://www.youtube.com/watch?v=wMftxqYwSQU",
+    "publishedAt": "2022-08-11T09:45:16Z"
+  },
+  {
+    "title": "Deadedz: Sugar Magnolia / Scarlet Begonias / Fire On The Mountain medley",
+    "url": "https://www.youtube.com/watch?v=GyUwYAD023E",
+    "publishedAt": "2022-08-09T22:13:50Z"
   },
   {
     "title": "The S’punkles: Stepping Stone",
@@ -1243,6 +1233,16 @@
     "title": "Stonehouse: We're An American Band",
     "url": "https://www.youtube.com/watch?v=jbX4i2n2ZNU",
     "publishedAt": "2022-03-29T16:54:58Z"
+  },
+  {
+    "title": "Stonehouse: Highway To Hell",
+    "url": "https://www.youtube.com/watch?v=K-oSbCvqVxg",
+    "publishedAt": "2022-03-29T16:55:21Z"
+  },
+  {
+    "title": "Stonehouse: Fool For Your Loving",
+    "url": "https://www.youtube.com/watch?v=ckra9vIe_2A",
+    "publishedAt": "2022-03-29T16:55:03Z"
   },
   {
     "title": "Stonehouse: Highway To Hell",
@@ -1985,11 +1985,6 @@
     "publishedAt": "2014-07-20T22:33:30Z"
   },
   {
-    "title": "Doctor Doctor I've Got A Bad Case Of Loving You - The Kenny Driscoll Band",
-    "url": "https://www.youtube.com/watch?v=CVwUrli16sI",
-    "publishedAt": "2014-07-20T22:33:30Z"
-  },
-  {
     "title": "The Only Thing That Looks Good On Me Is You - The Kenny Driscoll Band",
     "url": "https://www.youtube.com/watch?v=KjZU3Vxp0Lg",
     "publishedAt": "2014-07-20T22:33:31Z"
@@ -2128,6 +2123,11 @@
     "title": "All Along The Watchtower - Glyn Knight's band \"Stone Free\"",
     "url": "https://www.youtube.com/watch?v=9Pt3cF6ylSo",
     "publishedAt": "2014-07-14T19:26:21Z"
+  },
+  {
+    "title": "Kenny Driscoll Band Live at the JimJam open mic at the Claude, Cardiff",
+    "url": "https://www.youtube.com/watch?v=RuvBiZ3Hn0E",
+    "publishedAt": "2014-07-12T14:40:51Z"
   },
   {
     "title": "Kenny Driscoll Band Live at the Claude, Cardiff",
